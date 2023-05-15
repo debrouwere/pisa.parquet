@@ -1,0 +1,1591 @@
+column,key,value
+CNT,ALB,Albania
+CNT,ARG,Argentina
+CNT,AUS,Australia
+CNT,AUT,Austria
+CNT,AZE,Azerbaijan
+CNT,BEL,Belgium
+CNT,BRA,Brazil
+CNT,BGR,Bulgaria
+CNT,CAN,Canada
+CNT,CHL,Chile
+CNT,TAP,Chinese Taipei
+CNT,COL,Colombia
+CNT,HRV,Croatia
+CNT,CZE,Czech Republic
+CNT,DNK,Denmark
+CNT,QAR,Dubai (UAE)
+CNT,EST,Estonia
+CNT,FIN,Finland
+CNT,FRA,France
+CNT,DEU,Germany
+CNT,GRC,Greece
+CNT,HKG,Hong Kong-China
+CNT,HUN,Hungary
+CNT,ISL,Iceland
+CNT,IDN,Indonesia
+CNT,IRL,Ireland
+CNT,ISR,Israel
+CNT,ITA,Italy
+CNT,JPN,Japan
+CNT,JOR,Jordan
+CNT,KAZ,Kazakhstan
+CNT,KOR,Korea
+CNT,KGZ,Kyrgyzstan
+CNT,LVA,Latvia
+CNT,LIE,Liechtenstein
+CNT,LTU,Lithuania
+CNT,LUX,Luxembourg
+CNT,MAC,Macao-China
+CNT,MEX,Mexico
+CNT,MNE,Montenegro
+CNT,NLD,Netherlands
+CNT,NZL,New Zealand
+CNT,NOR,Norway
+CNT,PAN,Panama
+CNT,PER,Peru
+CNT,POL,Poland
+CNT,PRT,Portugal
+CNT,QAT,Qatar
+CNT,ROU,Romania
+CNT,RUS,Russian Federation
+CNT,SRB,Serbia
+CNT,QCN,Shanghai-China
+CNT,SGP,Singapore
+CNT,SVK,Slovak Republic
+CNT,SVN,Slovenia
+CNT,ESP,Spain
+CNT,SWE,Sweden
+CNT,CHE,Switzerland
+CNT,THA,Thailand
+CNT,TTO,Trinidad and Tobago
+CNT,TUN,Tunisia
+CNT,TUR,Turkey
+CNT,GBR,United Kingdom
+CNT,USA,United States
+CNT,URY,Uruguay
+CNT,008,Albania
+CNT,032,Argentina
+CNT,036,Australia
+CNT,040,Austria
+CNT,031,Azerbaijan
+CNT,056,Belgium
+CNT,076,Brazil
+CNT,100,Bulgaria
+CNT,124,Canada
+CNT,152,Chile
+CNT,158,Chinese Taipei
+CNT,170,Colombia
+CNT,191,Croatia
+CNT,203,Czech Republic
+CNT,208,Denmark
+CNT,784,Dubai (UAE)
+CNT,233,Estonia
+CNT,246,Finland
+CNT,250,France
+CNT,276,Germany
+CNT,300,Greece
+CNT,344,Hong Kong-China
+CNT,348,Hungary
+CNT,352,Iceland
+CNT,360,Indonesia
+CNT,372,Ireland
+CNT,376,Israel
+CNT,380,Italy
+CNT,392,Japan
+CNT,400,Jordan
+CNT,398,Kazakhstan
+CNT,410,Korea
+CNT,417,Kyrgyzstan
+CNT,428,Latvia
+CNT,438,Liechtenstein
+CNT,440,Lithuania
+CNT,442,Luxembourg
+CNT,446,Macao-China
+CNT,484,Mexico
+CNT,499,Montenegro
+CNT,528,Netherlands
+CNT,554,New Zealand
+CNT,578,Norway
+CNT,591,Panama
+CNT,604,Peru
+CNT,616,Poland
+CNT,620,Portugal
+CNT,634,Qatar
+CNT,642,Romania
+CNT,643,Russian Federation
+CNT,688,Serbia
+CNT,156,Shanghai-China
+CNT,702,Singapore
+CNT,703,Slovak Republic
+CNT,705,Slovenia
+CNT,724,Spain
+CNT,752,Sweden
+CNT,756,Switzerland
+CNT,764,Thailand
+CNT,780,Trinidad and Tobago
+CNT,788,Tunisia
+CNT,792,Turkey
+CNT,826,United Kingdom
+CNT,840,United States
+CNT,858,Uruguay 
+SUBNATIO,00800,Albania
+SUBNATIO,03100,Azerbaijan
+SUBNATIO,03200,Argentina
+SUBNATIO,03600,Australia
+SUBNATIO,04000,Austria
+SUBNATIO,05601,Belgium (Flemish Community) 
+SUBNATIO,05600,Belgium (French & German regions) (not adjudicated)
+SUBNATIO,07600,Brazil
+SUBNATIO,10000,Bulgaria 
+SUBNATIO,12400,Canada
+SUBNATIO,15200,Chile
+SUBNATIO,15600,Shanghai-China
+SUBNATIO,15800,Chinese Taipei
+SUBNATIO,17000,Colombia 
+SUBNATIO,19100,Croatia
+SUBNATIO,20300,Czech Republic
+SUBNATIO,20800,Denmark
+SUBNATIO,23300,Estonia
+SUBNATIO,24600,Finland
+SUBNATIO,25000,France
+SUBNATIO,27600,Germany
+SUBNATIO,30000,Greece
+SUBNATIO,34400,Hong Kong-China 
+SUBNATIO,34800,Hungary
+SUBNATIO,35200,Iceland
+SUBNATIO,36000,Indonesia
+SUBNATIO,37200,Ireland
+SUBNATIO,37600,Israel
+SUBNATIO,38000,Italy
+SUBNATIO,39200,Japan
+SUBNATIO,39800,Kazakhstan
+SUBNATIO,40000,Jordan
+SUBNATIO,41000,Korea
+SUBNATIO,41700,Kyrgyzstan
+SUBNATIO,42800,Latvia
+SUBNATIO,43800,Liechtenstein
+SUBNATIO,44000,Lithuania
+SUBNATIO,44200,Luxembourg
+SUBNATIO,44600,Macao-China
+SUBNATIO,48400,Mexico
+SUBNATIO,49900,Montenegro
+SUBNATIO,52800,Netherlands
+SUBNATIO,55400,New Zealand
+SUBNATIO,57800,Norway
+SUBNATIO,59100,Panama
+SUBNATIO,60400,Peru 
+SUBNATIO,61600,Poland
+SUBNATIO,62000,Portugal 
+SUBNATIO,63400,Qatar
+SUBNATIO,64200,Romania
+SUBNATIO,64300,Russian Federation
+SUBNATIO,68800,Serbia
+SUBNATIO,70200,Singapore
+SUBNATIO,70300,Slovak Republic 
+SUBNATIO,70500,Slovenia 
+SUBNATIO,72401,Spain (Andalusia)
+SUBNATIO,72402,Spain (Aragon)
+SUBNATIO,72403,Spain (Asturias)
+SUBNATIO,72404,Spain (Balearic Islands)
+SUBNATIO,72405,Spain (Canary Islands)
+SUBNATIO,72406,Spain (Cantabria)
+SUBNATIO,72407,Spain (Castile and Leon)
+SUBNATIO,72409,Spain (Catalonia)
+SUBNATIO,72411,Spain (Galicia) 
+SUBNATIO,72412,Spain (La Rioja)
+SUBNATIO,72413,Spain (Madrid)
+SUBNATIO,72414,Spain (Murcia)
+SUBNATIO,72415,Spain (Navarre) 
+SUBNATIO,72416,Spain (Basque Country)
+SUBNATIO,72418,Spain (Ceuta and Melilla)
+SUBNATIO,72499,Rest of Spain (not adjudicated) 
+SUBNATIO,75200,Sweden
+SUBNATIO,75600,Switzerland
+SUBNATIO,76400,Thailand 
+SUBNATIO,78000,Trinidad and Tobago 
+SUBNATIO,78400,Dubai (UAE)
+SUBNATIO,78800,Tunisia
+SUBNATIO,79200,Turkey
+SUBNATIO,82600,"United Kingdom (England, Wales & Northern Ireland) "
+SUBNATIO,82620,United Kingdom (Scotland)
+SUBNATIO,84000,United States
+SUBNATIO,85800,Uruguay
+00801,00802,ALB: North/Urban/Vocational
+00801,00803,ALB: North/Rural/General
+00801,00804,ALB: Center/Urban/General
+00801,00805,ALB: Center/Urban/Vocational
+00801,00806,ALB: Center/Rural/General
+00801,00807,ALB: South/Urban/General
+00801,00808,ALB: South/Urban/Vocational
+00801,00809,ALB: South/Rural/General
+00801,00810,ALB: Rural/Vocational
+00801,00811,ALB: Stratum 11
+00801,03201,ARG: 01: Centro
+00801,03202,ARG: 02: NEA
+00801,03203,ARG: 03: NOA
+00801,03204,ARG: 04: Cuyo
+00801,03205,ARG: 05: Patagonia
+00801,03601,AUS: ACT_Catholic
+00801,03602,AUS: ACT_Government
+00801,03603,AUS: ACT_Independent
+00801,03604,AUS: NSW_Catholic
+00801,03605,AUS: NSW_Government
+00801,03606,AUS: NSW_Independent
+00801,03607,AUS: VIC_Catholic
+00801,03608,AUS: VIC_Government
+00801,03609,AUS: VIC_Independent
+00801,03610,AUS: QLD_Catholic
+00801,03611,AUS: QLD_Government
+00801,03612,AUS: QLD_Independent
+00801,03613,AUS: SA_Catholic
+00801,03614,AUS: SA_Government
+00801,03615,AUS: SA_Independent
+00801,03616,AUS: WA_Catholic
+00801,03617,AUS: WA_Government
+00801,03618,AUS: WA_Independent
+00801,03619,AUS: TAS_Catholic
+00801,03620,AUS: TAS_Government
+00801,03621,AUS: TAS_Independent
+00801,03622,AUS: NT_Catholic
+00801,03623,AUS: NT_Government
+00801,03624,AUS: NT_Independent
+00801,03625,AUS: Stratum 25
+00801,04097,AUT: Stratum 97
+00801,03197,AZE: Stratum 97
+00801,05601,BEL: Flanders/Gen Ed only/private subsidized
+00801,05602,BEL: Flanders/Gen Ed only/network comm. schls
+00801,05603,BEL: Flanders/Gen Ed and other type/private subsidized
+00801,05604,BEL: Flanders/Gen Ed and other type/network comm. schls
+00801,05605,BEL: Flanders/Tech/Voc/noGen Ed/ private subsidized
+00801,05606,BEL: Flanders/Tech/Voc/no Gen Ed/network comm. schls
+00801,05607,BEL: Flanders/Spec Ed/ private subsidized
+00801,05608,BEL: Flanders/Spec Ed/network comm. schls
+00801,05609,BEL: Flanders/Part-time Voc/ private subsidized
+00801,05611,BEL: French com/Regular/private sectarian
+00801,05612,BEL: French com/Regular/public at state/community level
+00801,05613,BEL: French com/Regular/public at local level
+00801,05614,BEL: French com/Regular/private non-sectarian
+00801,05615,BEL: French com/Spec Ed/private sectarian
+00801,05616,BEL: French com/Spec Ed/public at state/community level
+00801,05617,BEL: French com/Spec Ed/public at local level
+00801,05618,BEL: French com/Spec Ed/private non-sectarian
+00801,05619,BEL: French com/Part-time Voc/private sectarian
+00801,05620,BEL: French com/Part-time Voc/public at state/community level
+00801,05621,BEL: French com/Part-time Voc /public at local level
+00801,05622,BEL: German com/Regular
+00801,05623,BEL: German com/Special Ed
+00801,10001,"BGR: 1. General profiled ISCED3,1"
+00801,10002,"BGR: 1. General profiled ISCED3,2"
+00801,10003,"BGR: 1. General profiled ISCED3,3"
+00801,10004,"BGR: 1. General profiled ISCED3,4"
+00801,10005,"BGR: 1. General profiled ISCED3,5"
+00801,10006,"BGR: 1. General profiled ISCED3,6"
+00801,10007,"BGR: 1. General profiled ISCED3,7"
+00801,10008,"BGR: 1. General profiled ISCED3,8"
+00801,10009,"BGR: 1. General profiled ISCED3,9"
+00801,10010,"BGR: 1. General profiled ISCED3,10"
+00801,10011,"BGR: 1. General profiled ISCED3,11"
+00801,10012,"BGR: 2. General non-profiled ISCED3,1"
+00801,10014,"BGR: 2. General non-profiled ISCED3,3"
+00801,10015,"BGR: 2. General non-profiled ISCED3,4"
+00801,10016,"BGR: 2. General non-profiled ISCED3,5"
+00801,10017,"BGR: 2. General non-profiled ISCED3,6"
+00801,10018,"BGR: 2. General non-profiled ISCED3,7"
+00801,10019,"BGR: 2. General non-profiled ISCED3,8"
+00801,10020,"BGR: 2. General non-profiled ISCED3,9"
+00801,10021,"BGR: 2. General non-profiled ISCED3,10"
+00801,10022,"BGR: 2. General non-profiled ISCED3,11"
+00801,10023,"BGR: 3. Other,1"
+00801,10024,"BGR: 3. Other,2"
+00801,10025,"BGR: 3. Other,3"
+00801,10026,"BGR: 3. Other,4"
+00801,10027,"BGR: 3. Other,5"
+00801,10028,"BGR: 3. Other,6"
+00801,10029,"BGR: 3. Other,7"
+00801,10030,"BGR: 3. Other,8"
+00801,10031,"BGR: 3. Other,9"
+00801,10032,"BGR: 3. Other,10"
+00801,10033,"BGR: 3. Other,11"
+00801,07601,BRA: ACRE - no grade 9
+00801,07602,"BRA: ACRE - grade 9, SMOP,1"
+00801,07603,"BRA: ACRE - grade 9, SMOP,53"
+00801,07604,BRA: ALAGOAS - no grade 9
+00801,07605,"BRA: ALAGOAS - grade 9, SMOP,1"
+00801,07606,"BRA: ALAGOAS - grade 9, SMOP,53"
+00801,07607,BRA: AMAPÁ - no grade 9
+00801,07608,"BRA: AMAPÁ - grade 9, SMOP,1"
+00801,07609,"BRA: AMAPÁ - grade 9, SMOP,53"
+00801,07610,BRA: AMAZONAS - no grade 9
+00801,07611,"BRA: AMAZONAS - grade 9, SMOP,1"
+00801,07612,"BRA: AMAZONAS - grade 9, SMOP,53"
+00801,07613,BRA: BAHIA - no grade 9
+00801,07614,"BRA: BAHIA - grade 9, SMOP,1"
+00801,07615,"BRA: BAHIA - grade 9, SMOP,53"
+00801,07616,BRA: CEARÁ - no grade 9
+00801,07617,"BRA: CEARÁ - grade 9, SMOP,1"
+00801,07618,"BRA: CEARÁ - grade 9, SMOP,53"
+00801,07619,BRA: DISTRITO FEDERAL - no grade 9
+00801,07620,"BRA: DISTRITO FEDERAL - grade 9, SMOP,1"
+00801,07621,"BRA: DISTRITO FEDERAL - grade 9, SMOP,53"
+00801,07622,BRA: ESPÍRITO SANTO - no grade 9
+00801,07623,"BRA: ESPÍRITO SANTO - grade 9, SMOP,1"
+00801,07624,"BRA: ESPÍRITO SANTO - grade 9, SMOP,53"
+00801,07625,BRA: GOIÁS - no grade 9
+00801,07626,"BRA: GOIÁS - grade 9, SMOP,1"
+00801,07627,"BRA: GOIÁS - grade 9, SMOP,53"
+00801,07628,BRA: MARANHÃO - no grade 9
+00801,07629,"BRA: MARANHÃO - grade 9, SMOP,1"
+00801,07630,"BRA: MARANHÃO - grade 9, SMOP,53"
+00801,07631,BRA: MATO GROSSO - no grade 9
+00801,07632,"BRA: MATO GROSSO - grade 9, SMOP,1"
+00801,07633,"BRA: MATO GROSSO - grade 9, SMOP,53"
+00801,07634,BRA: MATO GROSSO DO SUL - no grade 9
+00801,07635,"BRA: MATO GROSSO DO SUL - grade 9, SMOP,1"
+00801,07636,"BRA: MATO GROSSO DO SUL - grade 9, SMOP,53"
+00801,07637,BRA: MINAS GERAIS - no grade 9
+00801,07638,"BRA: MINAS GERAIS - grade 9, SMOP,1"
+00801,07639,"BRA: MINAS GERAIS - grade 9, SMOP,53"
+00801,07640,BRA: PARÁ - no grade 9
+00801,07641,"BRA: PARÁ - grade 9, SMOP,1"
+00801,07642,"BRA: PARÁ - grade 9, SMOP,53"
+00801,07643,BRA: PARAÍBA - no grade 9
+00801,07644,"BRA: PARAÍBA - grade 9, SMOP,1"
+00801,07645,"BRA: PARAÍBA - grade 9, SMOP,53"
+00801,07646,BRA: PARANÁ - no grade 9
+00801,07647,"BRA: PARANÁ - grade 9, SMOP,1"
+00801,07648,"BRA: PARANÁ - grade 9, SMOP,53"
+00801,07649,BRA: PERNAMBUCO - no grade 9
+00801,07650,"BRA: PERNAMBUCO - grade 9, SMOP,1"
+00801,07651,"BRA: PERNAMBUCO - grade 9, SMOP,53"
+00801,07652,BRA: PIAUÍ - no grade 9
+00801,07653,"BRA: PIAUÍ - grade 9, SMOP,1"
+00801,07654,"BRA: PIAUÍ - grade 9, SMOP,53"
+00801,07655,BRA: RIO DE JANEIRO - no grade 9
+00801,07656,"BRA: RIO DE JANEIRO - grade 9, SMOP,1"
+00801,07657,"BRA: RIO DE JANEIRO - grade 9, SMOP,53"
+00801,07658,BRA: RIO GRANDE DO NORTE - no grade 9
+00801,07659,"BRA: RIO GRANDE DO NORTE - grade 9, SMOP,1"
+00801,07660,"BRA: RIO GRANDE DO NORTE - grade 9, SMOP,53"
+00801,07661,BRA: RIO GRANDE DO SUL - no grade 9
+00801,07662,"BRA: RIO GRANDE DO SUL - grade 9, SMOP,1"
+00801,07663,"BRA: RIO GRANDE DO SUL - grade 9, SMOP,53"
+00801,07664,BRA: RONDÔNIA - no grade 9
+00801,07665,"BRA: RONDÔNIA - grade 9, SMOP,1"
+00801,07666,"BRA: RONDÔNIA - grade 9, SMOP,53"
+00801,07667,BRA: RORAIMA - no grade 9
+00801,07668,"BRA: RORAIMA - grade 9, SMOP,1"
+00801,07669,"BRA: RORAIMA - grade 9, SMOP,53"
+00801,07670,BRA: SANTA CATARINA - no grade 9
+00801,07671,"BRA: SANTA CATARINA - grade 9, SMOP,1"
+00801,07672,"BRA: SANTA CATARINA - grade 9, SMOP,53"
+00801,07673,BRA: SÃO PAULO - no grade 9
+00801,07674,"BRA: SÃO PAULO - grade 9, SMOP,1"
+00801,07675,"BRA: SÃO PAULO - grade 9, SMOP,53"
+00801,07676,BRA: SERGIPE - no grade 9
+00801,07677,"BRA: SERGIPE - grade 9, SMOP,1"
+00801,07678,"BRA: SERGIPE - grade 9, SMOP,53"
+00801,07679,BRA: TOCANTINS - no grade 9
+00801,07680,"BRA: TOCANTINS - grade 9, SMOP,1"
+00801,07681,"BRA: TOCANTINS - grade 9, SMOP,53"
+00801,07682,BRA: Stratum 82
+00801,12401,CAN: 00 - prov 10 Fr.& Eng. 1 to 17
+00801,12402,CAN: 01 - prov 10 Fr.& Eng. 18 to 34
+00801,12403,CAN: 02 - prov 10 Fr.& Eng. 35 to ...
+00801,12404,CAN: 10 - prov 11 Fr.& Eng. 1 to ...
+00801,12405,CAN: 20 - prov 12 Eng. 1 to 17
+00801,12406,CAN: 21 - prov 12 Eng. 18 to 34
+00801,12407,CAN: 22 - prov 12 Eng. 35 to ...
+00801,12408,CAN: 25 - prov 12 Fr. 1 to 17
+00801,12409,CAN: 26 - prov 12 Fr. 18 to ...
+00801,12410,CAN: 30 - prov 13 Eng. 1 to 34
+00801,12411,CAN: 31 - prov 13 Eng. 35 to ...
+00801,12412,CAN: 35 - prov 13 Fr. 1 to 34
+00801,12413,CAN: 36 - prov 13 Fr. 35 to 139
+00801,12414,CAN: 37 - prov 13 Fr. 140 to ...
+00801,12415,CAN: 40 - prov 24 Eng. 1 to 17
+00801,12416,CAN: 41 - prov 24 Eng. 18 to 34
+00801,12417,CAN: 42 - prov 24 Eng. 35 to ...
+00801,12418,CAN: 45 - prov 24 Fr.  1 to 34
+00801,12419,CAN: 46 - prov 24 Fr.  35 to ...
+00801,12420,CAN: 50 - prov 35 Eng.  1 to 34
+00801,12421,CAN: 51 - prov 35 Eng.  35 to ...
+00801,12422,CAN: 55 - prov 35 Fr.  1 to 17
+00801,12423,CAN: 56 - prov 35 Fr.  18 to 34
+00801,12424,CAN: 57 - prov 35 Fr.  35 to ...
+00801,12425,CAN: 60 - prov 46 Eng.  1 to 17
+00801,12426,CAN: 61 - prov 46 Eng.  18 to 34
+00801,12427,CAN: 62 - prov 46 Eng.  35 to ...
+00801,12428,CAN: 65 - prov 46 Fr.  1 to 17
+00801,12429,CAN: 66 - prov 46 Fr.  18 to ...
+00801,12430,CAN: 70 - prov 47 Eng.  1 to 17
+00801,12431,CAN: 71 - prov 47 Eng. 18 to 34
+00801,12432,CAN: 72 - prov 47 Eng. 35 to ...
+00801,12433,CAN: 75 - prov 47 Fr.  1 to 8
+00801,12434,CAN: 76 - prov 47 Fr.  9 to ...
+00801,12435,CAN: 80 - prov 48 Eng.  1 to 17
+00801,12436,CAN: 81 - prov 48 Eng.  18 to 34
+00801,12437,CAN: 82 - prov 48 Eng.  35 to ...
+00801,12438,CAN: 85 - prov 48 Fr.  1 to 8
+00801,12439,CAN: 86 - prov 48 Fr.  9 to ...
+00801,12440,CAN: 90 - prov 59 Eng.  1 to 17
+00801,12441,CAN: 91 - prov 59 Eng.  18 to 34
+00801,12442,CAN: 92 - prov 59 Eng.  35 to ...
+00801,12443,CAN: 95 - prov 59 Fr.  1 to 8
+00801,12444,CAN: 96 - prov 59 Fr.  9 to ...
+00801,12445,CAN: Stratum 45
+00801,75601,CHE: AG.gr9.pub.
+00801,75602,CHE: AR.gr9.pub.
+00801,75603,CHE: BE(d).gr9.pub.
+00801,75604,CHE: SG.gr9.pub.
+00801,75605,CHE: SH.gr9.pub.
+00801,75607,CHE: VS(d).gr9.pub.
+00801,75608,CHE: D-Rest.gr9.pub.
+00801,75609,CHE: D-CH.other.v1.
+00801,75610,CHE: D-CH.other.v2.
+00801,75611,CHE: D-CH.other.v3.
+00801,75612,CHE: D-CH.other.b.
+00801,75613,CHE: D-CH.gr9.priv.
+00801,75614,CHE: BE(f).gr9.pub.
+00801,75615,CHE: FR(f).gr9.pub.
+00801,75616,CHE: GE.gr9.pub.
+00801,75617,CHE: JU.gr9.pub.
+00801,75618,CHE: NE.gr9.pub.
+00801,75619,CHE: VD.gr9.pub.
+00801,75620,CHE: VS(f).gr9.pub.
+00801,75621,CHE: F-CH.other.v1.
+00801,75622,CHE: F-CH.other.v2.
+00801,75623,CHE: F-CH.other.v3.
+00801,75624,CHE: F-CH.other.b.
+00801,75625,CHE: F-CH.gr9.priv.
+00801,75626,CHE: I-CH.gr9.pub.
+00801,75627,CHE: I-CH.other.v.
+00801,75628,CHE: I-CH.other.b.
+00801,75629,CHE: I-CH.gr9.priv.
+00801,75661,"CHE: ZH.gr9.pub.(30.1,30.15,31)"
+00801,75662,"CHE: ZH.gr9.pub.(12,12.1)"
+00801,75663,"CHE: ZH.gr9.pub.(13,13.2,14,14.1,16)"
+00801,75664,CHE: Stratum 64
+00801,15297,CHL: Stratum 97
+00801,17001,COL: 01: BARRANQUILLA
+00801,17002,COL: 02: BOGOTÁ
+00801,17003,COL: 03: CÚCUTA
+00801,17004,COL: 04: rest of MANIZALES
+00801,17005,COL: 05: Manizales-Escuela Activa
+00801,17006,COL: 06: MEDELLÍN
+00801,17007,COL: 07: PASTO
+00801,17008,COL: 08: PEREIRA
+00801,17009,COL: 09: REST OF THE COUNTRY
+00801,17011,COL: 11: VILLAVICENCIO
+00801,17012,COL: 12: Stratum 12
+00801,20301,CZE: Basic/Region1/L
+00801,20302,CZE: Basic/Region1/M
+00801,20303,CZE: Basic/Region1/V
+00801,20304,CZE: Basic/Region2/L
+00801,20305,CZE: Basic/Region2/M
+00801,20306,CZE: Basic/Region2/V
+00801,20307,CZE: Basic/Region3/L
+00801,20308,CZE: Basic/Region3/M
+00801,20309,CZE: Basic/Region3/V
+00801,20310,CZE: Basic/Region4/L
+00801,20311,CZE: Basic/Region4/M
+00801,20312,CZE: Basic/Region4/V
+00801,20313,CZE: Basic/Region5/L
+00801,20314,CZE: Basic/Region5/M
+00801,20315,CZE: Basic/Region5/V
+00801,20316,CZE: Basic/Region6/L
+00801,20317,CZE: Basic/Region6/M
+00801,20318,CZE: Basic/Region6/V
+00801,20319,CZE: Basic/Region7/L
+00801,20320,CZE: Basic/Region7/M
+00801,20321,CZE: Basic/Region7/V
+00801,20322,CZE: Basic/Region8/L
+00801,20323,CZE: Basic/Region8/M
+00801,20324,CZE: Basic/Region8/V
+00801,20325,CZE: Basic/Region9/L
+00801,20326,CZE: Basic/Region9/M
+00801,20327,CZE: Basic/Region9/V
+00801,20328,CZE: Basic/Region10/L
+00801,20329,CZE: Basic/Region10/M
+00801,20330,CZE: Basic/Region10/V
+00801,20331,CZE: Basic/Region11/L
+00801,20332,CZE: Basic/Region11/M
+00801,20333,CZE: Basic/Region11/V
+00801,20334,CZE: Basic/Region12/L
+00801,20335,CZE: Basic/Region12/M
+00801,20336,CZE: Basic/Region12/V
+00801,20337,CZE: Basic/Region13/L
+00801,20338,CZE: Basic/Region13/M
+00801,20339,CZE: Basic/Region13/V
+00801,20340,CZE: Basic/Region14/L
+00801,20341,CZE: Basic/Region14/M
+00801,20342,CZE: Basic/Region14/V
+00801,20343,CZE: 6-8yrGym/Region1/L
+00801,20344,CZE: 6-8yrGym/Region1/M&V
+00801,20345,CZE: 6-8yrGym/Region2/L
+00801,20346,CZE: 6-8yrGym/Region2/M&V
+00801,20347,CZE: 6-8yrGym/Region3/L
+00801,20348,CZE: 6-8yrGym/Region3/M&V
+00801,20349,CZE: 6-8yrGym/Region4/L
+00801,20350,CZE: 6-8yrGym/Region4/M&V
+00801,20351,CZE: 6-8yrGym/Region5/L
+00801,20352,CZE: 6-8yrGym/Region5/M&V
+00801,20353,CZE: 6-8yrGym/Region6/L
+00801,20354,CZE: 6-8yrGym/Region6/M&V
+00801,20355,CZE: 6-8yrGym/Region7/L
+00801,20356,CZE: 6-8yrGym/Region7/M&V
+00801,20357,CZE: 6-8yrGym/Region8/L
+00801,20358,CZE: 6-8yrGym/Region8/M&V
+00801,20359,CZE: 6-8yrGym/Region9/L
+00801,20360,CZE: 6-8yrGym/Region9/M&V
+00801,20361,CZE: 6-8yrGym/Region10/L
+00801,20362,CZE: 6-8yrGym/Region10/M&V
+00801,20363,CZE: 6-8yrGym/Region11/L
+00801,20364,CZE: 6-8yrGym/Region11/M&V
+00801,20365,CZE: 6-8yrGym/Region12/L
+00801,20366,CZE: 6-8yrGym/Region12/M&V
+00801,20367,CZE: 6-8yrGym/Region13/L
+00801,20368,CZE: 6-8yrGym/Region13/M&V
+00801,20369,CZE: 6-8yrGym/Region14/L
+00801,20370,CZE: 6-8yrGym/Region14/M&V
+00801,20371,CZE: 4yr Gym/Large
+00801,20372,CZE: Voc-conservatory/Large
+00801,20373,CZE: Voc-without maturate/Large
+00801,20374,CZE: Special/practical/Large
+00801,20375,CZE: 4yrGym/Voc-C/Voc-other/MSS
+00801,20376,CZE: 4yrGym/Voc-C/Voc-other/VSS
+00801,20377,CZE: Special/practical/MSS
+00801,20378,CZE: Special/practical/VSS
+00801,27697,DEU: stratum 97
+00801,20801,"DNK: 1,high minority"
+00801,20802,"DNK: 2,mid minority"
+00801,20803,"DNK: 3,low minority"
+00801,20804,"DNK: 4,all other"
+00801,20872,DNK: Stratum 72
+00801,72401,"ESP: Andalusia, public, E"
+00801,72402,"ESP: Andalusia, private, E"
+00801,72403,"ESP: Aragon, public, E"
+00801,72404,"ESP: Aragon, private, E"
+00801,72405,"ESP: Asturias, public, E"
+00801,72406,"ESP: Asturias, private, E"
+00801,72407,"ESP: BalearicIslands, public, E"
+00801,72408,"ESP: BalearicIslands, private, E"
+00801,72409,"ESP: CanaryIslands, public, E"
+00801,72410,"ESP: CanaryIslands, private, E"
+00801,72411,"ESP: Cantabria, public, E"
+00801,72412,"ESP: Cantabria, private, E"
+00801,72413,"ESP: CastileandLeon, public, E"
+00801,72414,"ESP: CastileandLeon, private, E"
+00801,72415,"ESP: Castile-LaMancha, public, E"
+00801,72416,"ESP: Castile-LaMancha, private, E"
+00801,72417,"ESP: Catalonia, public, E"
+00801,72418,"ESP: Catalonia, private, E"
+00801,72419,"ESP: Extremadura, public, E"
+00801,72420,"ESP: Extremadura, private, E"
+00801,72421,"ESP: Galicia, public, E"
+00801,72422,"ESP: Galicia, private, E"
+00801,72423,"ESP: LaRioja, public, E"
+00801,72424,"ESP: LaRioja, private, E"
+00801,72425,"ESP: Madrid, public, E"
+00801,72426,"ESP: Madrid, private, E"
+00801,72427,"ESP: Murcia, public, E"
+00801,72428,"ESP: Murcia, private, E"
+00801,72429,"ESP: Navarra, public, E"
+00801,72430,"ESP: Navarra, private, E"
+00801,72431,"ESP: BasqueCountry, public, A"
+00801,72432,"ESP: BasqueCountry, public, B"
+00801,72433,"ESP: BasqueCountry, public, C"
+00801,72434,"ESP: BasqueCountry, private, A"
+00801,72435,"ESP: BasqueCountry, private, B"
+00801,72436,"ESP: BasqueCountry, private, C"
+00801,72437,"ESP: Valencia, public, E"
+00801,72438,"ESP: Valencia, private, E"
+00801,72439,"ESP: CeutaandMelilla, public, E"
+00801,72440,"ESP: CeutaandMelilla, private, E"
+00801,72441,ESP: Stratum 41
+00801,23301,EST: Estonian
+00801,23302,EST: Mix
+00801,23303,EST: Russian
+00801,23304,EST: Stratum 4
+00801,24601,"FIN: Southern Finland, urban, MR_ST,1"
+00801,24602,"FIN: Southern Finland, rural, MR_ST,1"
+00801,24603,"FIN: Western Finland, urban, MR_ST,1"
+00801,24604,"FIN: Western Finland, rural, MR_ST,1"
+00801,24605,"FIN: Eastern Finland, urban, MR_ST,1"
+00801,24606,"FIN: Eastern Finland, rural, MR_ST,1"
+00801,24607,"FIN: Northern Finland, urban, MR_ST,1"
+00801,24608,"FIN: Northern Finland, rural, MR_ST,1"
+00801,24609,"FIN: Swedish speaking, urban, school types 1 and 2, MR_ST,2"
+00801,24610,"FIN: Swedish speaking, urban, school types 3, 4, and 5, MR_ST,3"
+00801,24611,"FIN: Swedish speaking, rural, school types 1 and 2, MR_ST,2"
+00801,24612,"FIN: Swedish speaking, rural, school types 3, 4, and 5, MR_ST,3"
+00801,25001,"FRA: lycée général et technologique, ENR>,32"
+00801,25002,"FRA: collège, ENR>,32"
+00801,25003,"FRA: lycée professionnel, ENR>,32"
+00801,25004,"FRA: lycée agricole, ENR>,32"
+00801,25005,"FRA: moderately small school, 16<,ENR<32"
+00801,25006,"FRA: very small school, ENR<16"
+00801,82681,GBR: Scotland/Sch. Attain. Lev. 1
+00801,82682,GBR: Scotland/Sch. Attain. Lev. 2
+00801,82683,GBR: Scotland/Sch. Attain. Lev. 3
+00801,82684,GBR: Scotland/Sch. Attain. Lev. 4
+00801,82685,GBR: Scotland/Sch. Attain. Lev. 5
+00801,82686,GBR: Scotland/Sch. Attain. Lev. 6
+00801,82601,GBR: England/Maintained selective/ North
+00801,82602,GBR: England/Maintained selective/ Midlands
+00801,82603,GBR: England/Maintained selective/ South
+00801,82604,GBR: England/Maintained selective/ London
+00801,82605,GBR: England/Maintained non-selective/ North
+00801,82606,GBR: England/Maintained non-selective/ Midlands
+00801,82607,GBR: England/Maintained non-selective/ South
+00801,82608,GBR: England/Maintained non-selective/ London
+00801,82609,GBR: England/Independent/ North
+00801,82610,GBR: England/Independent/ Midlands
+00801,82611,GBR: England/Independent/ South
+00801,82612,GBR: England/Independent/ London
+00801,82613,GBR: NI/ Maintained selective/Belfast
+00801,82614,GBR: NI/ Maintained selective/Western
+00801,82615,GBR: NI/ Maintained selective/North Eastern
+00801,82616,GBR: NI/ Maintained selective/South Eastern
+00801,82617,GBR: NI/ Maintained selective/Southern
+00801,82618,GBR: NI/ Maintained non-selective/Belfast
+00801,82619,GBR: NI/ Maintained non-selective/Western
+00801,82620,GBR: NI/ Maintained non-selective/North Eastern
+00801,82621,GBR: NI/ Maintained non-selective/South Eastern
+00801,82622,GBR: NI/ Maintained non-selective/Southern
+00801,82623,GBR: NI/ Independent
+00801,82624,GBR: Wales/Maintained/North
+00801,82625,GBR: Wales/Maintained/ Powys and South West
+00801,82626,GBR: Wales/Maintained/South East
+00801,82627,GBR: Wales/Independent/North
+00801,82628,GBR: Wales/Independent/ Powys and South West
+00801,82629,GBR: Wales/Independent/South East
+00801,82630,GBR: Stratum 30
+00801,30001,GRC: ORIGSTRT 01:  11 - Attica Public
+00801,30002,GRC: ORIGSTRT 02:  12 - Central Greece public
+00801,30003,GRC: ORIGSTRT 03:  13 - Central Macedonia public
+00801,30004,GRC: ORIGSTRT 04:  14 - Crete public
+00801,30005,GRC: ORIGSTRT 05:  15 - East Macedonia public
+00801,30006,GRC: ORIGSTRT 06:  16 - Thrace public
+00801,30007,GRC: ORIGSTRT 07:  17 - Epirus public
+00801,30008,GRC: ORIGSTRT 08:  18 - Ionian Islands public
+00801,30009,GRC: ORIGSTRT 09:  19 - North Aegean public
+00801,30010,GRC: ORIGSTRT 10:  20 - Peloponnese public
+00801,30011,GRC: ORIGSTRT 11:  21 - South Aegean public
+00801,30012,GRC: ORIGSTRT 12:  22 - Thessaly public
+00801,30013,GRC: ORIGSTRT 13:  23 - West Greece public
+00801,30014,GRC: ORIGSTRT 14:  24 - West Macedonia public
+00801,30015,GRC: ORIGSTRT 15:  25 - Attica private
+00801,30016,GRC: ORIGSTRT 16:  26 - Rest of Greece private
+00801,30017,GRC: ORIGSTRT 17:  27 - All of Greece evening schools
+00801,34401,HKG: Government
+00801,34402,HKG: Aided or Caput
+00801,34403,HKG: Private
+00801,34404,HKG: Direct Subsidy Scheme
+00801,19101,HRV: 1 - Four year vocational prog.
+00801,19102,HRV: 2 - Vocational - industrial - crafts prog.
+00801,19103,HRV: 3 - Mixed type
+00801,19104,HRV: 4 - Art - vocational prog.
+00801,19105,HRV: 5 - Gymnasium
+00801,19106,HRV: 6 - Primary schools (lower secondary education)
+00801,19107,HRV: Stratum 7
+00801,34801,HUN: primary school
+00801,34802,HUN: grammar school
+00801,34803,HUN: vocational secondary school
+00801,34804,HUN: vocational school
+00801,36001,IDN: Indonesia
+00801,37201,"IRL: Size <,40 / comm../comprehen."
+00801,37202,IRL: Size 41-80 / comm../comprehen.
+00801,37203,IRL: Size > 80 / comm../comprehen.
+00801,37204,"IRL: Size <,40 / secondary"
+00801,37205,IRL: Size 41-80 / secondary
+00801,37206,IRL: Size > 80 / secondary
+00801,37207,"IRL: Size <,40 / vocational"
+00801,37208,IRL: Size 41-80 / vocational
+00801,37209,IRL: Size > 80 / vocational
+00801,35201,ISL: 01: Reykjavik
+00801,35202,ISL: 02: Nágrenni Reykjavíkur
+00801,35203,ISL: 03: Suðurnes
+00801,35204,"ISL: 04: Vesturland,"
+00801,35205,"ISL: 05: Vestfirðir,"
+00801,35206,ISL: 06: Norðurland-vestra
+00801,35207,ISL: 07: Norðurland-eystra
+00801,35208,ISL: 08: Austurland
+00801,35209,ISL: 09: Suðurland
+00801,37601,ISR: Stratum 01
+00801,37602,ISR: Stratum 02
+00801,37603,ISR: Stratum 03
+00801,37604,ISR: Stratum 04
+00801,37605,ISR: Stratum 05
+00801,37606,ISR: Stratum 06
+00801,37607,ISR: Stratum 07
+00801,37608,ISR: Stratum 08
+00801,37609,ISR: Stratum 09
+00801,37610,ISR: Stratum 10
+00801,37611,ISR: Stratum 11
+00801,38001,ITA: [Sub 08] PIEMONTE LICEI
+00801,38002,ITA: [Sub 08] PIEMONTE TECNICI
+00801,38003,ITA: [Sub 08] PIEMONTE PROFESSIONALI
+00801,38004,ITA: [Sub 08] PIEMONTE MEDIE
+00801,38005,ITA: [Sub 08] Piemonte FORMAZIONE PROFESSIONALE
+00801,38006,ITA: [Sub 07] LOMBARDIA LICEI
+00801,38007,ITA: [Sub 07] LOMBARDIA TECNICI
+00801,38008,ITA: [Sub 07] LOMBARDIA PROFESSIONALI
+00801,38009,ITA: [Sub 07] LOMBARDIA MEDIE
+00801,38010,ITA: [Sub 07] Lombardia FORMAZIONE PROFESSIONALE
+00801,38011,ITA: [Sub 06] LIGURIA LICEI
+00801,38012,ITA: [Sub 06] LIGURIA TECNICI
+00801,38013,ITA: [Sub 06] LIGURIA PROFESSIONALI
+00801,38014,ITA: [Sub 06] LIGURIA MEDIE
+00801,38015,ITA: [Sub 06] Liguria FORMAZIONE PROFESSIONALE
+00801,38016,ITA: [Sub 21] VALLE D'AOSTA LICEI
+00801,38017,ITA: [Sub 21] VALLE D'AOSTA TECNICI
+00801,38018,ITA: [Sub 21] VALLE D'AOSTA PROFESSIONALI
+00801,38019,ITA: [Sub 21] VALLE D'AOSTA MEDIE
+00801,38020,ITA: [Sub 21] Valle D'Aosta FORMAZIONE PROFESSIONALE
+00801,38021,ITA: [Sub 13] VENETO LICEI
+00801,38022,ITA: [Sub 13] VENETO TECNICI
+00801,38023,ITA: [Sub 13] VENETO PROFESSIONALI
+00801,38024,ITA: [Sub 13] VENETO MEDIE
+00801,38025,ITA: [Sub 13] VENETO FORMAZIONE PROFESSIONALE
+00801,38026,ITA: [Sub 12] TRENTO LICEI
+00801,38027,ITA: [Sub 12] TRENTO TECNICI
+00801,38028,ITA: [Sub 12] TRENTO PROFESSIONALI
+00801,38029,ITA: [Sub 12] TRENTO MEDIE
+00801,38030,ITA: [Sub 12] Trento FORMAZIONE PROFESSIONALE
+00801,38031,ITA: [Sub 01] BOLZANO LICEI
+00801,38032,ITA: [Sub 01] BOLZANO TECNICI
+00801,38033,ITA: [Sub 01] BOLZANO PROFESSIONALI
+00801,38034,ITA: [Sub 01] BOLZANO MEDIE
+00801,38035,ITA: [Sub 01] Bolzano FORMAZIONE PROFESSIONALE
+00801,38036,ITA: [Sub 05] FRIULI VENEZIA GIULIA LICEI
+00801,38037,ITA: [Sub 05] FRIULI VENEZIA GIULIA TECNICI
+00801,38038,ITA: [Sub 05] FRIULI VENEZIA GIULIA PROFESSIONALI
+00801,38039,ITA: [Sub 05] FRIULI VENEZIA GIULIA MEDIE
+00801,38040,ITA: [Sub 05] Friuli Venezia Giulia FORMAZIONE PROFESSIONALE
+00801,38041,ITA: [Sub 04] EMILIA ROMAGNA LICEI
+00801,38042,ITA: [Sub 04] EMILIA ROMAGNA TECNICI
+00801,38043,ITA: [Sub 04] EMILIA ROMAGNA PROFESSIONALI
+00801,38045,ITA: [Sub 04] Emilia Romagna FORMAZIONE PROFESSIONALE
+00801,38046,ITA: [Sub 17] MARCHE LICEI
+00801,38047,ITA: [Sub 17] MARCHE TECNICI
+00801,38048,ITA: [Sub 17] MARCHE PROFESSIONALI
+00801,38049,ITA: [Sub 17] MARCHE MEDIE
+00801,38050,ITA: [Sub 19] TOSCANA LICEI
+00801,38051,ITA: [Sub 19] TOSCANA TECNICI
+00801,38052,ITA: [Sub 19] TOSCANA PROFESSIONALI
+00801,38053,ITA: [Sub 19] TOSCANA MEDIE
+00801,38054,ITA: [Sub 20] UMBRIA LICEI
+00801,38055,ITA: [Sub 20] UMBRIA TECNICI
+00801,38056,ITA: [Sub 20] UMBRIA PROFESSIONALI
+00801,38057,ITA: [Sub 20] UMBRIA MEDIE
+00801,38058,ITA: [Sub 20] Umbria FORMAZIONE PROFESSIONALE
+00801,38059,ITA: [Sub 16] LAZIO LICEI
+00801,38060,ITA: [Sub 16] LAZIO TECNICI
+00801,38061,ITA: [Sub 16] LAZIO PROFESSIONALI
+00801,38062,ITA: [Sub 16] LAZIO MEDIE
+00801,38063,ITA: [Sub 16] Lazio FORMAZIONE PROFESSIONALE
+00801,38064,ITA: [Sub 14] ABRUZZO LICEI
+00801,38065,ITA: [Sub 14] ABRUZZO TECNICI
+00801,38066,ITA: [Sub 14] ABRUZZO PROFESSIONALI
+00801,38067,ITA: [Sub 14] ABRUZZO MEDIE
+00801,38068,ITA: [Sub 14] ABRUZZO FORMAZIONE PROFESSIONALE
+00801,38069,ITA: [Sub 18] MOLISE LICEI
+00801,38070,ITA: [Sub 18] MOLISE TECNICI
+00801,38071,ITA: [Sub 18] MOLISE PROFESSIONALI
+00801,38072,ITA: [Sub 18] MOLISE MEDIE
+00801,38073,ITA: [Sub 18] Molise FORMAZIONE PROFESSIONALE
+00801,38074,ITA: [Sub 03] CAMPANIA LICEI
+00801,38075,ITA: [Sub 03] CAMPANIA TECNICI
+00801,38076,ITA: [Sub 03] CAMPANIA PROFESSIONALI
+00801,38077,ITA: [Sub 03] CAMPANIA MEDIE
+00801,38078,ITA: [Sub 09] PUGLIA LICEI
+00801,38079,ITA: [Sub 09] PUGLIA TECNICI
+00801,38080,ITA: [Sub 09] PUGLIA PROFESSIONALI
+00801,38082,ITA: [Sub 02] BASILICATA LICEI
+00801,38083,ITA: [Sub 02] BASILICATA TECNICI
+00801,38084,ITA: [Sub 02] BASILICATA PROFESSIONALI
+00801,38085,ITA: [Sub 02] BASILICATA MEDIE
+00801,38086,ITA: [Sub 15] CALABRIA LICEI
+00801,38087,ITA: [Sub 15] CALABRIA TECNICI
+00801,38088,ITA: [Sub 15] CALABRIA PROFESSIONALI
+00801,38089,ITA: [Sub 15] CALABRIA MEDIE
+00801,38090,ITA: [Sub 10] SARDEGNA LICEI
+00801,38091,ITA: [Sub 10] SARDEGNA TECNICI
+00801,38092,ITA: [Sub 10] SARDEGNA PROFESSIONALI
+00801,38093,ITA: [Sub 10] SARDEGNA MEDIE
+00801,38094,ITA: [Sub 11] SICILIA LICEI
+00801,38095,ITA: [Sub 11] SICILIA TECNICI
+00801,38096,ITA: [Sub 11] SICILIA PROFESSIONALI
+00801,38097,ITA: [Sub 11] SICILIA MEDIE
+00801,38098,ITA: [Sub 11] Sicilia FORMAZIONE PROFESSIONALE
+00801,38099,ITA: Stratum 99
+00801,40001,JOR: Discovery
+00801,40002,JOR: Public
+00801,40003,JOR: UNRWA
+00801,40004,JOR: Private
+00801,39201,JPN: 1- Public & Academic
+00801,39202,JPN: 2 – Public & Practical
+00801,39203,JPN: 3 – Private & Academic
+00801,39204,JPN: 4 – Private & Practical
+00801,39801,KAZ: Akmola/ Kazakh only
+00801,39802,KAZ: Akmola/ Russian only
+00801,39803,KAZ: Akmola/ multiple
+00801,39804,KAZ: Aktobe/ Kazakh only
+00801,39805,KAZ: Aktobe/ Russian only
+00801,39806,KAZ: Aktobe/ multiple
+00801,39807,KAZ: Almaty/ Kazakh only
+00801,39808,KAZ: Almaty/ Russian only
+00801,39809,KAZ: Almaty/  multiple
+00801,39810,KAZ: Almaty City/ Kazakh only
+00801,39811,KAZ: Almaty City/ Russian only
+00801,39812,KAZ: Almaty City/ multiple
+00801,39813,KAZ: Astana City/ Kazakh only
+00801,39814,KAZ: Astana City/ Russian only
+00801,39815,KAZ: Astana City/ multiple
+00801,39816,KAZ: Atyrau/ Kazakh only
+00801,39817,KAZ: Atyrau/ Russian only
+00801,39818,KAZ: Atyrau/ multiple
+00801,39819,KAZ: East Kaz./ Kazakh only
+00801,39820,KAZ: East Kaz./ Russian only
+00801,39821,KAZ: East Kaz./ multiple
+00801,39822,KAZ: Zhambyl/ Kazakh only
+00801,39823,KAZ: Zhambyl/ Russian only
+00801,39824,KAZ: Zhambyl/ multiple
+00801,39825,KAZ: West Kaz./ Kazakh only
+00801,39826,KAZ: West Kaz./ Russian only
+00801,39827,KAZ: West Kaz./ multiple
+00801,39828,KAZ: Karagandy/ Kazakh only
+00801,39829,KAZ: Karagandy/ Russian only
+00801,39830,KAZ: Karagandy/  multiple
+00801,39831,KAZ: Kostanay/ Kazakh only
+00801,39832,KAZ: Kostanay/ Russian only
+00801,39833,KAZ: Kostanay/ multiple
+00801,39834,KAZ: Kyzylorda/ Kazakh only
+00801,39835,KAZ: Kyzylorda/ Russian only
+00801,39836,KAZ: Kyzylorda/ multiple
+00801,39837,KAZ: Mangystau/ Kazakh only
+00801,39838,KAZ: Mangystau/ Russian only
+00801,39839,KAZ: Mangystau/  multiple
+00801,39840,KAZ: Pavlodar/ Kazakh only
+00801,39841,KAZ: Pavlodar/ Russian only
+00801,39842,KAZ: Pavlodar/  multiple
+00801,39843,KAZ: North Kaz./ Kazakh only
+00801,39844,KAZ: North Kaz./ Russian only
+00801,39845,KAZ: North Kaz./ multiple
+00801,39846,KAZ: South Kaz./ Kazakh only
+00801,39847,KAZ: South Kaz./ Russian only
+00801,39848,KAZ: South Kaz./ multiple
+00801,41701,KGZ: Bishkek / Bishkek
+00801,41702,KGZ: Batken / Rural
+00801,41703,KGZ: Batken / Small Town
+00801,41704,KGZ: Chui / Rural
+00801,41705,KGZ: Chui / Small Town
+00801,41706,KGZ: Issyk-Kul / Rural
+00801,41707,KGZ: Issyk-Kul / Small Town
+00801,41708,KGZ: Jalalabat / Rural
+00801,41709,KGZ: Jalalabat / Small Town
+00801,41710,KGZ: Naryn / Rural
+00801,41711,KGZ: Naryn / Small Town
+00801,41712,KGZ: Osh / Rural
+00801,41713,KGZ: Osh / Small Town
+00801,41714,KGZ: Osh city / Rural
+00801,41715,KGZ: Osh city / Small Town
+00801,41716,KGZ: Talas / Rural
+00801,41717,KGZ: Talas / Small Town
+00801,41097,KOR: Stratum 97
+00801,43865,LIE: Stratum 65
+00801,44001,"LTU: Capital, Basic"
+00801,44002,"LTU: Capital, Secondary"
+00801,44003,"LTU: Capital, Gymnasium"
+00801,44004,"LTU: Capital, Other"
+00801,44005,"LTU: City, Basic"
+00801,44006,"LTU: City, Secondary"
+00801,44007,"LTU: City, Gymnasium"
+00801,44008,"LTU: City, Other"
+00801,44009,"LTU: Town, Basic"
+00801,44010,"LTU: Town, Secondary"
+00801,44011,"LTU: Town, Gymnasium"
+00801,44012,"LTU: Town, Other"
+00801,44013,"LTU: Village, Basic"
+00801,44014,"LTU: Village, Secondary"
+00801,44015,"LTU: Village, Gymnasium"
+00801,44016,"LTU: Village, Other"
+00801,44201,LUX: ES gov public
+00801,44202,LUX: EST gov public
+00801,44203,LUX: ES+EST gov public
+00801,44204,LUX: EST gov private
+00801,44205,LUX: ES+EST gov private
+00801,44206,LUX: gov independent
+00801,42801,LVA: Cities
+00801,42802,LVA: Riga
+00801,42803,LVA: Rural
+00801,42804,LVA: Towns
+00801,42805,LVA: Stratum 5
+00801,44601,"MAC: Public, Grammer-International, Chinese and Portuguese"
+00801,44602,"MAC: Public, Technical-vocational, Chinese"
+00801,44603,"MAC: Private-in-net, Grammer-International, Chinese"
+00801,44604,"MAC: Private-in-net, Grammer-International, English"
+00801,44605,"MAC: Private-in-net, Grammer-International, Chinese and English"
+00801,44606,"MAC: Private-in-net, Technical-vocational, Chinese"
+00801,44607,"MAC: Private-not- in-net, Grammer-International, Chinese"
+00801,44608,"MAC: Private-not-in-net, Grammer-International, English"
+00801,44609,"MAC: Private-not-in-net, Grammer-International, Portuguese"
+00801,44610,"MAC: Private-not- in-net, Grammer-International, Chinese and English"
+00801,48401,"MEX: AGUASCALIENTES, large schools"
+00801,48402,"MEX: AGUASCALIENTES, moderately small schools"
+00801,48403,"MEX: AGUASCALIENTES, very small schools"
+00801,48404,"MEX: BAJA CALIFORNIA, large schools"
+00801,48405,"MEX: BAJA CALIFORNIA, moderately small schools"
+00801,48406,"MEX: BAJA CALIFORNIA, very small schools"
+00801,48407,"MEX: BAJA CALIFORNIA SUR, large schools"
+00801,48408,"MEX: BAJA CALIFORNIA SUR, moderately small schools"
+00801,48409,"MEX: BAJA CALIFORNIA SUR, very small schools"
+00801,48410,"MEX: CAMPECHE, large schools"
+00801,48411,"MEX: CAMPECHE, moderately small schools"
+00801,48412,"MEX: CAMPECHE, very small schools"
+00801,48413,"MEX: COAHUILA DE ZARAGOZA, large schools"
+00801,48414,"MEX: COAHUILA DE ZARAGOZA, moderately small schools"
+00801,48415,"MEX: COAHUILA DE ZARAGOZA, very small schools"
+00801,48416,"MEX: COLIMA, large schools"
+00801,48417,"MEX: COLIMA, moderately small schools"
+00801,48418,"MEX: COLIMA, very small schools"
+00801,48419,"MEX: CHIAPAS, large schools"
+00801,48420,"MEX: CHIAPAS, moderately small schools"
+00801,48421,"MEX: CHIAPAS, very small schools"
+00801,48422,"MEX: CHIHUAHUA, large schools"
+00801,48423,"MEX: CHIHUAHUA, moderately small schools"
+00801,48424,"MEX: CHIHUAHUA, very small schools"
+00801,48425,"MEX: DISTRITO FEDERAL, large schools"
+00801,48426,"MEX: DISTRITO FEDERAL, moderately small schools"
+00801,48427,"MEX: DISTRITO FEDERAL, very small schools"
+00801,48428,"MEX: DURANGO, large schools"
+00801,48429,"MEX: DURANGO, moderately small schools"
+00801,48430,"MEX: DURANGO, very small schools"
+00801,48431,"MEX: GUANAJUATO, large schools"
+00801,48432,"MEX: GUANAJUATO, moderately small schools"
+00801,48433,"MEX: GUANAJUATO, very small schools"
+00801,48434,"MEX: GUERRERO, large schools"
+00801,48435,"MEX: GUERRERO, moderately small schools"
+00801,48436,"MEX: GUERRERO, very small schools"
+00801,48437,"MEX: HIDALGO, large schools"
+00801,48438,"MEX: HIDALGO, moderately small schools"
+00801,48439,"MEX: HIDALGO, very small schools"
+00801,48440,"MEX: JALISCO, large schools"
+00801,48441,"MEX: JALISCO, moderately small schools"
+00801,48442,"MEX: JALISCO, very small schools"
+00801,48443,"MEX: MEXICO, large schools"
+00801,48444,"MEX: MEXICO, moderately small schools"
+00801,48445,"MEX: MEXICO, very small schools"
+00801,48446,"MEX: MICHOACAN DE OCAMPO, large schools"
+00801,48447,"MEX: MICHOACAN DE OCAMPO, moderately small schools"
+00801,48448,"MEX: MICHOACAN DE OCAMPO, very small schools"
+00801,48449,"MEX: MORELOS, large schools"
+00801,48450,"MEX: MORELOS, moderately small schools"
+00801,48451,"MEX: MORELOS, very small schools"
+00801,48452,"MEX: NAYARIT, large schools"
+00801,48453,"MEX: NAYARIT, moderately small schools"
+00801,48454,"MEX: NAYARIT, very small schools"
+00801,48455,"MEX: NUEVO LEON, large schools"
+00801,48456,"MEX: NUEVO LEON, moderately small schools"
+00801,48457,"MEX: NUEVO LEON, very small schools"
+00801,48458,"MEX: OAXACA, large schools"
+00801,48459,"MEX: OAXACA, moderately small schools"
+00801,48460,"MEX: OAXACA, very small schools"
+00801,48461,"MEX: PUEBLA, large schools"
+00801,48462,"MEX: PUEBLA, moderately small schools"
+00801,48463,"MEX: PUEBLA, very small schools"
+00801,48464,"MEX: QUERETARO DE ARTEAGA, large schools"
+00801,48465,"MEX: QUERETARO DE ARTEAGA, moderately small schools"
+00801,48466,"MEX: QUERETARO DE ARTEAGA, very small schools"
+00801,48467,"MEX: QUINTANA ROO, large schools"
+00801,48468,"MEX: QUINTANA ROO, moderately small schools"
+00801,48469,"MEX: QUINTANA ROO, very small schools"
+00801,48470,"MEX: SAN LUIS POTOSI, large schools"
+00801,48471,"MEX: SAN LUIS POTOSI, moderately small schools"
+00801,48472,"MEX: SAN LUIS POTOSI, very small schools"
+00801,48473,"MEX: SINALOA, large schools"
+00801,48474,"MEX: SINALOA, moderately small schools"
+00801,48475,"MEX: SINALOA, very small schools"
+00801,48476,"MEX: SONORA, large schools"
+00801,48477,"MEX: SONORA, moderately small schools"
+00801,48478,"MEX: SONORA, very small schools"
+00801,48479,"MEX: TABASCO, large schools"
+00801,48480,"MEX: TABASCO, moderately small schools"
+00801,48481,"MEX: TABASCO, very small schools"
+00801,48482,"MEX: TAMAULIPAS, large schools"
+00801,48483,"MEX: TAMAULIPAS, moderately small schools"
+00801,48484,"MEX: TAMAULIPAS, very small schools"
+00801,48485,"MEX: TLAXCALA, large schools"
+00801,48486,"MEX: TLAXCALA, moderately small schools"
+00801,48487,"MEX: TLAXCALA, very small schools"
+00801,48488,"MEX: VERACRUZ IGNACIO DE LA LLAVE, large schools"
+00801,48489,"MEX: VERACRUZ IGNACIO DE LA LLAVE, moderately small schools"
+00801,48490,"MEX: VERACRUZ IGNACIO DE LA LLAVE, very small schools"
+00801,48491,"MEX: YUCATAN, large schools"
+00801,48492,"MEX: YUCATAN, moderately small schools"
+00801,48493,"MEX: YUCATAN, very small schools"
+00801,48494,"MEX: ZACATECAS, large schools"
+00801,48495,"MEX: ZACATECAS, moderately small schools"
+00801,48496,"MEX: ZACATECAS, very small schools"
+00801,48497,MEX: Stratum 97
+00801,49901,"MNE: 1. academic,1. central"
+00801,49902,"MNE: 1. academic,2. north"
+00801,49903,"MNE: 1. academic,3. south"
+00801,49904,"MNE: 2. vocational,1. central"
+00801,49905,"MNE: 2. vocational,2. north"
+00801,49906,"MNE: 2. vocational,3. south"
+00801,49908,"MNE: 3. mixed,2. north"
+00801,49909,"MNE: 3. mixed,3. south"
+00801,49910,"MNE: 4. general,1. central"
+00801,49911,"MNE: 4. general,2. north"
+00801,49912,"MNE: 4. general,3. south12"
+00801,52801,NLD: 01: PRO/VMBO in rest of NLD
+00801,52802,NLD: 02: HAVO/VWO in rest of NLD
+00801,52803,NLD: 03: PRO/VMBO in Limburg
+00801,52804,NLD: 04: HAVO/VWO in Limburg
+00801,57801,NOR: Upper Secondary
+00801,57802,NOR: Lower secondary
+00801,55401,NZL: All Schools
+00801,55402,NZL: Stratum 2
+00801,59101,PAN: Urban/Public
+00801,59102,PAN: Urban/Private
+00801,59103,PAN: Rural/Public
+00801,59104,PAN: Stratum 4
+00801,60401,PER: Public/Urban
+00801,60402,PER: Public/Rural
+00801,60403,PER: Private/Urban
+00801,60404,PER: Private/Rural
+00801,61601,POL: Public Gymnasia
+00801,61602,POL: Private Gymnasia
+00801,61603,POL: Lyceum
+00801,61604,POL: Vocational
+00801,62001,PRT: 01: Alentejo - Alentejo Central
+00801,62002,PRT: 02: Alentejo - Alentejo Litoral
+00801,62003,PRT: 03: Alentejo - Alto Alentejo
+00801,62004,PRT: 04: Alentejo - Baixo Alentejo
+00801,62005,PRT: 05: Alentejo - Lezíria do Tejo
+00801,62006,PRT: 06: Algarve - Algarve
+00801,62007,PRT: 07: Centro - Baixo Mondego
+00801,62008,PRT: 08: Centro - Baixo Vouga
+00801,62009,PRT: 09: Centro - Beira Interior Norte
+00801,62010,PRT: 10: Centro - Beira Interior Sul
+00801,62011,PRT: 11: Centro - Cova da Beira
+00801,62012,PRT: 12: Centro - Dão Lafões
+00801,62013,PRT: 13: Centro - Médio Tejo
+00801,62014,PRT: 14: Centro - Oeste
+00801,62015,PRT: 15: Centro - Pinhal Interior Norte
+00801,62016,PRT: 16: Centro - Pinhal Interior Sul
+00801,62017,PRT: 17: Centro - Pinhal Litoral
+00801,62018,PRT: 18: Centro - Serra da Estrela
+00801,62019,PRT: 19: Lisboa - Grande Lisboa
+00801,62020,PRT: 20: Lisboa - Península de Setúbal
+00801,62021,PRT: 21: Norte - Alto Trás-os-Montes
+00801,62022,PRT: 22: Norte - Ave
+00801,62023,PRT: 23: Norte - Cávado
+00801,62024,PRT: 24: Norte - Douro
+00801,62025,PRT: 25: Norte - Entre Douro e Vouga
+00801,62026,PRT: 26: Norte - Grande Porto
+00801,62027,PRT: 27: Norte - Minho Lima
+00801,62028,PRT: 28: Norte - Tâmega
+00801,62029,PRT: 29: Região Autónoma da Madeira  
+00801,62030,PRT: 30: Região Autónoma dos Açores  
+00801,62031,PRT: Stratum 31
+00801,78401,QAR: National – Public - Arabic
+00801,78402,QAR: UK - Public- English
+00801,78403,QAR: National – Private - Arabic
+00801,78404,QAR: US - English
+00801,78405,QAR: UK - English
+00801,78406,QAR: Indian - English
+00801,78407,QAR: Pakistani - English
+00801,78408,QAR: IB - English
+00801,78409,QAR: Other - English
+00801,63401,QAT: 1. Public
+00801,63402,QAT: 2. Public/complex
+00801,63403,QAT: 3. Independent
+00801,63404,QAT: 4. Independent/complex
+00801,63405,QAT: 5. Community
+00801,63406,QAT: 6. International
+00801,63407,QAT: 7. Private
+00801,63408,QAT: 8. Private/complex
+00801,15601,QCN: Lower secondary
+00801,15602,QCN: Mixed ISCED2 and ISCED3 secondary
+00801,15603,QCN: Upper secondary/ General/ Experimental Model schools
+00801,15604,QCN: Upper secondary/ General/ Ordinary schools
+00801,15605,QCN: Upper secondary/ Vocational/ Key schools
+00801,15606,QCN: Upper secondary/ Vocational/ Non-Key schools
+00801,15607,QCN: Stratum 07
+00801,64201,ROU: 01: GIM
+00801,64202,ROU: 02: SAM
+00801,64203,ROU: 03: LIC
+00801,64301,RUS: Republic of Adygeya
+00801,64303,RUS: Republic of Bashkortostan
+00801,64305,RUS: Republic of Dagestan
+00801,64310,RUS: Republic of Karelia
+00801,64311,RUS: Republic of Komi
+00801,64312,RUS: Republic of Marij El
+00801,64314,RUS: Republic of Sakha (Yakutia)
+00801,64316,RUS: Republic of Tatarstan
+00801,64318,RUS: Udmurtian Republic
+00801,64321,RUS: Chuvashi  Republic
+00801,64322,RUS: Altai territory
+00801,64323,RUS: Krasnodar territory
+00801,64324,RUS: Krasnoyarsk territory
+00801,64325,RUS: Primorie territory
+00801,64326,RUS: Stavropol territory
+00801,64330,RUS: Astrakhan region
+00801,64333,RUS: Vladimir region
+00801,64334,RUS: Volgograd region
+00801,64335,RUS: Vologda region
+00801,64336,RUS: Voronezh region
+00801,64340,RUS: Kaluga region
+00801,64342,RUS: Kemerovo region
+00801,64346,RUS: Kursk region
+00801,64350,RUS: Moscow region
+00801,64352,RUS: Nizhnij Novgorod region
+00801,64354,RUS: Novosibirsk region
+00801,64355,RUS: Omsk region
+00801,64356,RUS: Orenburg region
+00801,64359,RUS: Perm territory
+00801,64361,RUS: Rostov region
+00801,64362,RUS: Ryazan region
+00801,64363,RUS: Samara region
+00801,64364,RUS: Saratov region
+00801,64365,RUS: Sakhalin region
+00801,64366,RUS: Sverdlovsk region
+00801,64368,RUS: Tambov region
+00801,64370,RUS: Tomsk region
+00801,64371,RUS: Tula region
+00801,64372,RUS: Tyumen region
+00801,64373,RUS: Ulyanovsk region
+00801,64374,RUS: Chelyabinsk region
+00801,64375,RUS: Chita region
+00801,64377,RUS: The City of Moscow
+00801,64378,RUS: The City of Saint-Petersburg
+00801,64386,RUS: Khanty-Mansijsk autonomous district - Yugra
+00801,70201,SGP: 1 - Public Secondary
+00801,70203,SGP: 3 – Private Secondary
+00801,68812,"SRB: North Vojvodina,Gymnasium"
+00801,68813,"SRB: North Vojvodina,Technical"
+00801,68814,"SRB: North Vojvodina,Medical"
+00801,68815,"SRB: North Vojvodina,Economic"
+00801,68816,"SRB: North Vojvodina,Agricultural"
+00801,68817,"SRB: North Vojvodina,Art"
+00801,68818,"SRB: North Vojvodina,Mixed"
+00801,68822,"SRB: South Vojvodina,Gymnasium"
+00801,68823,"SRB: South Vojvodina,Technical"
+00801,68824,"SRB: South Vojvodina,Medical"
+00801,68825,"SRB: South Vojvodina,Economic"
+00801,68826,"SRB: South Vojvodina,Agricultural"
+00801,68827,"SRB: South Vojvodina,Art"
+00801,68828,"SRB: South Vojvodina,Mixed"
+00801,68832,"SRB: Belgrade,Gymnasium"
+00801,68833,"SRB: Belgrade,Technical"
+00801,68834,"SRB: Belgrade,Medical"
+00801,68835,"SRB: Belgrade,Economic"
+00801,68836,"SRB: Belgrade,Agricultural"
+00801,68837,"SRB: Belgrade,Art"
+00801,68838,"SRB: Belgrade,Mixed"
+00801,68842,"SRB: Stig,Gymnasium"
+00801,68843,"SRB: Stig,Technical"
+00801,68844,"SRB: Stig,Medical"
+00801,68845,"SRB: Stig,Economic"
+00801,68846,"SRB: Stig,Agricultural"
+00801,68847,"SRB: Stig,Art"
+00801,68848,"SRB: Stig,Mixed"
+00801,68852,"SRB: Western Serbia,Gymnasium"
+00801,68853,"SRB: Western Serbia,Technical"
+00801,68854,"SRB: Western Serbia,Medical"
+00801,68855,"SRB: Western Serbia,Economic"
+00801,68856,"SRB: Western Serbia,Agricultural"
+00801,68857,"SRB: Western Serbia,Art"
+00801,68858,"SRB: Western Serbia,Mixed"
+00801,68862,"SRB: Central Serbia,Gymnasium"
+00801,68863,"SRB: Central Serbia,Technical"
+00801,68864,"SRB: Central Serbia,Medical"
+00801,68865,"SRB: Central Serbia,Economic"
+00801,68866,"SRB: Central Serbia,Agricultural"
+00801,68867,"SRB: Central Serbia,Art"
+00801,68868,"SRB: Central Serbia,Mixed"
+00801,68872,"SRB: East Serbia,Gymnasium"
+00801,68873,"SRB: East Serbia,Technical"
+00801,68874,"SRB: East Serbia,Medical"
+00801,68875,"SRB: East Serbia,Economic"
+00801,68876,"SRB: East Serbia,Agricultural"
+00801,68877,"SRB: East Serbia,Arts"
+00801,68878,"SRB: East Serbia,Mixed"
+00801,68882,"SRB: Southern Serbia,Gymnasium"
+00801,68883,"SRB: Southern Serbia,Technical"
+00801,68884,"SRB: Southern Serbia,Medical"
+00801,68885,"SRB: Southern Serbia,Economic"
+00801,68886,"SRB: Southern Serbia,Agricultural"
+00801,68887,"SRB: Southern Serbia,Arts"
+00801,68888,"SRB: Southern Serbia,Mixed"
+00801,68890,SRB: Primary schools
+00801,68891,SRB: Stratum 91
+00801,70301,SVK: Region 1 / 1_ZS
+00801,70302,SVK: Region 1 / 2_GYM
+00801,70303,SVK: Region 1 / 3_others
+00801,70304,SVK: Region 2 / 1_ZS
+00801,70305,SVK: Region 2 / 2_GYM
+00801,70306,SVK: Region 2 / 3_others
+00801,70307,SVK: Region 3 / 1_ZS
+00801,70308,SVK: Region 3 / 2_GYM
+00801,70309,SVK: Region 3 / 3_others
+00801,70310,SVK: Region 4 / 1_ZS
+00801,70311,SVK: Region 4 / 2_GYM
+00801,70312,SVK: Region 4 / 3_others
+00801,70313,SVK: Region 5 / 1_ZS
+00801,70314,SVK: Region 5 / 2_GYM
+00801,70315,SVK: Region 5 / 3_others
+00801,70316,SVK: Region 6 / 1_ZS
+00801,70317,SVK: Region 6 / 2_GYM
+00801,70318,SVK: Region 6 / 3_others
+00801,70319,SVK: Region 7 / 1_ZS
+00801,70320,SVK: Region 7 / 2_GYM
+00801,70321,SVK: Region 7 / 3_others
+00801,70322,SVK: Region 8 / 1_ZS
+00801,70323,SVK: Region 8 / 2_GYM
+00801,70324,SVK: Region 8 / 3_others
+00801,70501,SVN: GIMg - gymnasia general
+00801,70502,SVN: GIMs - gymnasia specialist
+00801,70503,SVN: STSI - technical educational programmes
+00801,70504,SVN: SPI - vocational of medium duration
+00801,70505,SVN: NPI - vocational of short duration
+00801,70506,SVN: OS - elementary school
+00801,70508,SVN: Adult Education Institutes
+00801,75201,SWE: PUB/ LOWER SEC/ METRO
+00801,75202,SWE: PUB/ LOWER SEC/ OTHER LARGE
+00801,75203,SWE: PUB/ LOWER SEC/ AT LEAST 12500
+00801,75204,SWE: PUB/ LOWER SEC/ MANUFACURING
+00801,75205,SWE: PUB/ LOWER SEC/ SPARSE POP
+00801,75206,SWE: PUB/ UPPER SEC
+00801,75207,SWE: INDEP/ LOWER SEC/ METRO
+00801,75208,SWE: INDEP/ LOWER SEC/ OTHER LARGE
+00801,75209,SWE: INDEP/ LOWER SEC/ AT LEAST 12500
+00801,75210,SWE: INDEP/ LOWER SEC/ MANUFACURING
+00801,75211,SWE: INDEP/ LOWER SEC/ SPARSE POP
+00801,75212,SWE: INDEP/ UPPER SEC
+00801,15801,TAP: general junior high school/public/urban
+00801,15802,TAP: general junior high school/public/rural
+00801,15803,TAP: general junior high school/private/urban
+00801,15804,TAP: general junior high school/private/rural
+00801,15805,TAP: general senior high school/public/urban
+00801,15806,TAP: general senior high school/public/rural
+00801,15807,TAP: general senior high school/private/urban
+00801,15808,TAP: general senior high school/private/rural
+00801,15809,TAP: vocational senior high school/public/urban
+00801,15810,TAP: vocational senior high school/public/rural
+00801,15811,TAP: vocational senior high school/private/urban
+00801,15812,TAP: vocational senior high school/private/rural
+00801,15813,TAP: mixed general and vocational senior high school/public/urban
+00801,15814,TAP: mixed general and vocational senior high school/public/rural
+00801,15815,TAP: mixed general and vocational senior high school/private/urban
+00801,15816,TAP: mixed general and vocational senior high school/private/rural
+00801,15817,TAP: comprehensive high school/public/urban
+00801,15818,TAP: comprehensive high school/public/rural
+00801,15819,TAP: comprehensive high school/private/urban
+00801,15820,TAP: comprehensive high school/private/rural
+00801,15821,TAP: complex high school/public/urban
+00801,15822,TAP: complex high school/public/rural
+00801,15823,TAP: complex high school/private/urban
+00801,15824,TAP: complex high school/private/rural
+00801,15825,TAP: five-year college/public/urban
+00801,15826,TAP: five-year college/public/rural
+00801,15827,TAP: five-year college/private/urban
+00801,15828,TAP: five-year college/private/rural
+00801,15829,TAP: Stratum 29
+00801,76401,THA: Office of the Basic Education Commission/Lower secondary
+00801,76402,THA: Office of the Basic Education Commission/Upper secondary
+00801,76403,THA: Office of the Basic Education Commission/Mixed
+00801,76404,THA: Office of the Private Education Commission/Lower Secondary
+00801,76405,THA: Office of the Private Education Commission/ Upper Secondary
+00801,76406,THA: Office of the Private Education Commission/ Mixed
+00801,76407,THA: Department of Education of Bangkok Metropolitan Administration/Lower secondary
+00801,76408,THA: Department of Education of Bangkok Metropolitan Administration/Mixed
+00801,76409,THA: Bureau of Local Educational Development and Co-ordination/ Lower Secondary
+00801,76410,THA: Bureau of Local Educational Development and Co-ordination/Upper Secondary
+00801,76411,THA: Bureau of Local Educational Development and Co-ordination/Mixed
+00801,76412,THA: Commission of Higher Education/Lower secondary
+00801,76413,THA: Commission of Higher Education/Mixed
+00801,76414,THA: Vocational Education Commission/ Upper Secondary
+00801,76415,THA: Stratum 15
+00801,78001,TTO: Caroni/Religious
+00801,78002,TTO: Caroni/Secular
+00801,78003,TTO: Caroni/Private
+00801,78004,TTO: North Eastern/Religious
+00801,78005,TTO: North Eastern/Secular
+00801,78006,TTO: North Eastern/Private
+00801,78007,TTO: Port of Spain/Religious
+00801,78008,TTO: Port of Spain/Secular
+00801,78009,TTO: Port of Spain/Private
+00801,78010,TTO: St. George East/Religious
+00801,78011,TTO: St. George East/Secular
+00801,78012,TTO: St. George East/Private
+00801,78013,TTO: St. Patrick/Religious
+00801,78014,TTO: St. Patrick/Secular
+00801,78015,TTO: South Eastern/Religious
+00801,78016,TTO: South Eastern/Secular
+00801,78017,TTO: South Eastern/Private
+00801,78018,TTO: Victoria/Religious
+00801,78019,TTO: Victoria/Secular
+00801,78020,TTO: Victoria/Private
+00801,78021,TTO: Tobago/Religious
+00801,78022,TTO: Tobago/Secular
+00801,78023,TTO: Tobago/Religious
+00801,78801,TUN: East - ISCED 2 only - Private
+00801,78802,TUN: East - ISCED 3 & Mixed - Private
+00801,78803,TUN: North/West - ISCED 3 & Mixed - Private
+00801,78804,TUN: South/West - ISCED 3 & Mixed - Private
+00801,78805,TUN: North/East - ISCED 2 only - Public
+00801,78806,TUN: North/East - ISCED 3 only - Public
+00801,78807,TUN: North/East - Mixed - Public
+00801,78808,TUN: North/West - ISCED 2 only - Public
+00801,78809,TUN: North/West - ISCED 3 only - Public
+00801,78810,TUN: North/West - Mixed - Public
+00801,78811,TUN: South/East - ISCED 2 only - Public
+00801,78812,TUN: South/East - ISCED 3 only - Public
+00801,78813,TUN: South/East - Mixed - Public
+00801,78814,TUN: South/West - ISCED 2 only - Public
+00801,78815,TUN: South/West - ISCED 3 only - Public
+00801,78816,TUN: South/West - Mixed - Public
+00801,79201,TUR: TR1 PRIMARY
+00801,79202,TUR: TR1 GENERAL SECONDARY
+00801,79203,TUR: TR1 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79204,TUR: TR2 PRIMARY
+00801,79205,TUR: TR2 GENERAL SECONDARY
+00801,79206,TUR: TR2 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79207,TUR: TR3 PRIMARY
+00801,79208,TUR: TR3 GENERAL SECONDARY
+00801,79209,TUR: TR3 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79210,TUR: TR4 PRIMARY
+00801,79211,TUR: TR4 GENERAL SECONDARY
+00801,79212,TUR: TR4 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79213,TUR: TR5 PRIMARY
+00801,79214,TUR: TR5 GENERAL SECONDARY
+00801,79215,TUR: TR5 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79216,TUR: TR6 PRIMARY
+00801,79217,TUR: TR6 GENERAL SECONDARY
+00801,79218,TUR: TR6 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79219,TUR: TR7 PRIMARY
+00801,79220,TUR: TR7 GENERAL SECONDARY
+00801,79221,TUR: TR7 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79222,TUR: TR8 PRIMARY
+00801,79223,TUR: TR8 GENERAL SECONDARY
+00801,79224,TUR: TR8 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79225,TUR: TR9 PRIMARY
+00801,79226,TUR: TR9 GENERAL SECONDARY
+00801,79227,TUR: TR9 VOCATIONAL AND TECHNICAL SECONDARY
+00801,79228,TUR: TRA PRIMARY
+00801,79229,TUR: TRA GENERAL SECONDARY
+00801,79230,TUR: TRA VOCATIONAL AND TECHNICAL SECONDARY
+00801,79231,TUR: TRB PRIMARY
+00801,79232,TUR: TRB GENERAL SECONDARY
+00801,79233,TUR: TRB VOCATIONAL AND TECHNICAL SECONDARY
+00801,79234,TUR: TRC PRIMARY
+00801,79235,TUR: TRC GENERAL SECONDARY
+00801,79236,TUR: TRC VOCATIONAL AND TECHNICAL SECONDARY
+00801,85801,URY: Private General Secondary Education - Metropolitan Area of Montevideo - not border with Brazil
+00801,85802,URY: Private General Secondary Education - Province Capitals - border with Brazil
+00801,85803,URY: Private General Secondary Education - Province Capitals - not border with Brazil
+00801,85804,URY: Private General Secondary Education - Rural areas  - not border with Brazil
+00801,85805,URY: Private General Secondary Education - Small cities  - not border with Brazil
+00801,85806,URY: Public General Secondary Education - Metropolitan Area of Montevideo - not border with Brazil
+00801,85807,URY: Public General Secondary Education - Province Capitals - border with Brazil
+00801,85808,URY: Public General Secondary Education - Province Capitals - not border with Brazil
+00801,85809,URY: Public General Secondary Education - Rural areas  - border with Brazil
+00801,85810,URY: Public General Secondary Education - Rural areas  - not border with Brazil
+00801,85811,URY: Public General Secondary Education - Small cities  - border with Brazil
+00801,85812,URY: Public General Secondary Education - Small cities  - not border with Brazil
+00801,85813,URY: Public Technical Education - Metropolitan Area of Montevideo - not border with Brazil
+00801,85814,URY: Public Technical Education - Province Capitals - border with Brazil
+00801,85815,URY: Public Technical Education - Province Capitals - not border with Brazil
+00801,85816,URY: Public Technical Education - Rural areas  - border with Brazil
+00801,85817,URY: Public Technical Education - Rural areas  - not border with Brazil
+00801,85818,URY: Public Technical Education - Small cities  - border with Brazil
+00801,85819,URY: Public Technical Education - Small cities  - not border with Brazil
+00801,85820,URY: Rural Schools with Lower Secondary Degree - Rural areas  - border with Brazil
+00801,85821,URY: Rural Schools with Lower Secondary Degree - Rural areas  - not border with Brazil
+00801,85822,URY: Stratum 22
+00801,84001,USA: Public Northeast
+00801,84002,USA: Public Midwest
+00801,84003,USA: Public South
+00801,84004,USA: Public West
+00801,84005,USA: Private Northeast
+00801,84006,USA: Private Midwest
+00801,84007,USA: Private South
+00801,84008,USA: Private West
+00801,1521,"Less than Chilean pesos 180,000"
+00801,1522,"Chilean pesos 180,000 or more - less than Chilean pesos 270,000"
+00801,1523,"Chilean pesos 270,000 or more - less than Chilean pesos 350,000"
+00801,1524,"Chilean pesos 350,000 or more - less than Chiliean pesos 440,000 "
+00801,1525,"Chilean pesos 440,000 or more - less than Chilean pesos 570,000"
+00801,1526,"Chilean pesos 570,000 or more"
+00801,1911,"Less than kn 3.000,00"
+00801,1912,"kn 3.000,00 or more - less than kn 6.000,00"
+00801,1913,"kn 6.000,00 or more - less than kn 9.000,00"
+00801,1914,"kn 9.000,00 or more - less than kn 12.000,00"
+00801,1915,"kn 12.000,00 or more - less than kn 15.000,00"
+00801,1916,"kn 15.000,00 or more"
+00801,2081,"Less than DKK 200,000"
+00801,2082,"DKK 200,000 or more - less than DKK 300,000"
+00801,2083,"DKK 300,000 or more - less than DKK 400,000"
+00801,2084,"DKK 400,000 or more - less than DKK 500,000"
+00801,2085,"DKK 500,000 or more - less than DKK 600,000"
+00801,2086,"DKK 600,000 or more"
+00801,2761,Less than 20000€
+00801,2762,20000€ or more - less than 30000€
+00801,2763,30000€ or more - less than 40000€
+00801,2764,40000€ or more - less than 50000€
+00801,2765,50000€ or more - less than 60000€
+00801,2766,60000€ or more 
+00801,3441,"less than 10,000 a month"
+00801,3442,"10,000 or more - less than 15,000 a month"
+00801,3443,"15,000 or more - less than 20,000 a month"
+00801,3444,"20,000 or more - less than 25,000 a month"
+00801,3445,"25,000 or more - less than 35,000 a month"
+00801,3446,"35,000 or more a month"
+00801,3481,Less than 120000 Ft
+00801,3482,120000 Ft or more - less than 180000 Ft
+00801,3483,180000 Ft or more - less than 240000 Ft
+00801,3484,240000 Ft or more - less than 300000 Ft
+00801,3485,300000 Ft or more - less than 360000 Ft
+00801,3486,360000 Ft or more
+00801,4101,"Less than 20,000,000 won"
+00801,4102,"20,000,000 won or more - less than 30,000,000 won"
+00801,4103,"30,000,000 won or more - less than 40,000,000 won"
+00801,4104,"40,000,000 won or more - less than 50,000,000 won"
+00801,4105,"50,000,000 won or more - less than 60,000,000 won"
+00801,4106,"60,000,000 won or more"
+00801,4401,Less than 8000 Lt
+00801,4402,8000 Lt or more - less than 16000 Lt
+00801,4403,16000 Lt or more - less than 24000 Lt
+00801,4404,24000 Lt or more - less than 50000 Lt
+00801,4405,50000 Lt or more - less than 90000 Lt
+00801,4406,90000 Lt or more
+00801,4461,"Less than  MOP72,000 "
+00801,4462,"MOP72,000  or more - less than MOP144,000"
+00801,4463,"MOP144,000 or more - less than MOP216,000"
+00801,4464,"MOP216,000 or more - less than MOP288,000"
+00801,4465,"MOP288,000 or more - less than MOP360,000"
+00801,4466,"MOP360,000  or more"
+00801,5541,"Less than 40,000"
+00801,5542,"40,000 or more - less than 55,000"
+00801,5543,"55,000 or more - less than 70,000"
+00801,5544,"70,000 or more - less than 85,000"
+00801,5545,"85,000 or more - less than 100,000"
+00801,5546,"100,000 or more"
+00801,5911,Less than 200 balboa			
+00801,5912,200 balboa or more - less than 400 balboa			
+00801,5913,400 balboa or more - less than 600 balboa			
+00801,5914,600 balboa or more - less than 800 balboa			
+00801,5915,800 balboa or more - less than 1000 balboa			
+00801,5916,1000 balboa or more
+00801,6161,"Less than 3,468 (1 decile)          "
+00801,6162,"3,468 - 6,243 (2-3 deciles)        "
+00801,6163,"6,243 - 8,671 (4-5 deciles)        "
+00801,6164,"8,671 - 12,139 (6-7 deciles)       "
+00801,6165,"12,139 - 20,809 (8-9 deciles)      "
+00801,6166,"20,809 or more (10 decile)          "
+00801,6201,Less than 7 500 euros
+00801,6202,7 500 euros or more - less than 11 250euros
+00801,6203,11 250 euros or more - less than 15 000  euros
+00801,6204,15 000 euros or more - less than 18 750euros
+00801,6205,18 750 euros or more - less than 22 500 euros
+00801,6206,22 500 euros or more
+00801,6341,Less than QR 50000
+00801,6342,QR 50000 or more - less than QR 750000
+00801,6343,QR 75000 or more - less than QR 100000
+00801,6344,QR 100000 or more - less than  QR 125000
+00801,6345,QR 125000 or more - less than QR 150000
+00801,6346,QR 150000 or more
+00801,9997,N/A    
+00801,9998,Invalid
+00801,9999,Missing 
+EDUCOST,1521,Nothing
+EDUCOST,1522,"More than Chilean pesos 0 - less than Chilean pesos 3,500"
+EDUCOST,1523,"Chilean pesos 3,500 or more - less than Chilean pesos  35,500"
+EDUCOST,1524,"Chilean pesos 35.500 or more - less than Chilean pesos 67,500"
+EDUCOST,1525,"Chilean pesos 67,500 or more - less than Chilean pesos 100,000"
+EDUCOST,1526,"Chilean pesos 100,000 or more"
+EDUCOST,1911,Nothing
+EDUCOST,1912,"More than kn 0,00  - less than kn 150,00"
+EDUCOST,1913,"kn 150,00 or more - less than kn 400,00 "
+EDUCOST,1914,"kn 400,00or more - less than kn 650,00 "
+EDUCOST,1915,"kn 650,00or more - less than kn 900,00"
+EDUCOST,1916,"kn 900,00 or more"
+EDUCOST,2081,Nothing
+EDUCOST,2082,DKK 1 or more - less than DKK 500 
+EDUCOST,2083,DKK 501 or more - less than DKK 1.000
+EDUCOST,2084,DKK 1.001 or more - less than DKK 5000
+EDUCOST,2085,DKK 5.001 or more - less than DKK 20.000
+EDUCOST,2086,DKK 20.001 or more
+EDUCOST,2761,Nothing
+EDUCOST,2762,1 € or more - less than 500 €
+EDUCOST,2763,500 € or more - less than 1200 €
+EDUCOST,2764,1200 € or more - less than 2400 €
+EDUCOST,2765,2400 € or more - less than 3600 €
+EDUCOST,2766,3600 € or more
+EDUCOST,3441,Nothing
+EDUCOST,3442,"More than 0 - less than 5,000"
+EDUCOST,3443,"5,000 or more - less than 10,000"
+EDUCOST,3444,"10,000 or more - less than 50,000"
+EDUCOST,3445,"50,000 or more - less than 100,000"
+EDUCOST,3446,"100,000 or more"
+EDUCOST,3481,Nothing
+EDUCOST,3482,More than 0 Ft - less than 10000 Ft
+EDUCOST,3483,10000 Ft or more - less than 20000 Ft
+EDUCOST,3484,20000 Ft or more - less than 50000 Ft
+EDUCOST,3485,50000 Ft or more - less than 150000 Ft
+EDUCOST,3486,150000 Ft or more
+EDUCOST,3801,Nothing
+EDUCOST,3802,Something but less than €100
+EDUCOST,3803,€100 or more - less than €200 
+EDUCOST,3804,€200 or more - less than €300
+EDUCOST,3805,€300 or more - less than €400
+EDUCOST,3806,€400 or more
+EDUCOST,4101,Nothing
+EDUCOST,4102,"Less than 2,000,000 won"
+EDUCOST,4103,"2,000,000 won or more - less than 4,000,000 won"
+EDUCOST,4104,"4,000,000 won or more - less than 6,000,000 won"
+EDUCOST,4105,"6,000,000 won or more - less than 8,000,000 won"
+EDUCOST,4106,"8,000,000 won or more"
+EDUCOST,4401,Nothing
+EDUCOST,4402,1-600 Lt
+EDUCOST,4403,601-1000 Lt
+EDUCOST,4404,1001-2000 Lt
+EDUCOST,4405,2001-5000 Lt
+EDUCOST,4406,>5000 Lt
+EDUCOST,4461,Nothing
+EDUCOST,4462,"More than 0 - less than MOP10,000"
+EDUCOST,4463,"MOP10,000 or more - less than MOP20,000"
+EDUCOST,4464,"MOP20,000 or more - less than MOP30,000"
+EDUCOST,4465,"MOP30,000 or more - less than MOP40,000"
+EDUCOST,4466,"MOP40,000  or more"
+EDUCOST,5541,Nothing
+EDUCOST,5542,More than 0 - less than 200
+EDUCOST,5543,500 or more - less than 1000
+EDUCOST,5544,1000 or more - less than 5000
+EDUCOST,5545,5000 or more - less than 10000
+EDUCOST,5546,10000 or more
+EDUCOST,5911,Nothing                                          
+EDUCOST,5912,More than 0 balboa - less than 30 balboa         
+EDUCOST,5913,30 balboa or more - less than 50 balboa          
+EDUCOST,5914,50 balboa or more - less than 100 balboa         
+EDUCOST,5915,100 balboa or more - less than 500 balboa        
+EDUCOST,5916,500 balboa or more 
+EDUCOST,6201,Nothing
+EDUCOST,6202,from 0 euros to 75 euros
+EDUCOST,6203,from 75 euros to 3 999 euros
+EDUCOST,6204,from 4 000 euros to 7 999 euros
+EDUCOST,6205,from 8 000 euros to 11 999 euros
+EDUCOST,6206,12 000 euros
+EDUCOST,6341,Nothing 
+EDUCOST,6342,QR 500 or more - less than QR1000
+EDUCOST,6343,QR1000 or more - less than QR6000
+EDUCOST,6344,QR6000 or more - less than QR11000
+EDUCOST,6345,QR11000or more - less than QR16000
+EDUCOST,6346,QR 16000 or more
+EDUCOST,9997,N/A         
+EDUCOST,9998,Invalid     
+EDUCOST,9999,Missing

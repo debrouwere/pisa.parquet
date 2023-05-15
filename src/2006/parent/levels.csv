@@ -1,0 +1,914 @@
+column,key,value
+OECD,0,Non-OECD 
+OECD,1,OECD
+CNT,ARG,Argentina                         
+CNT,AUS,Australia                        
+CNT,AUT,Austria                          
+CNT,AZE,Azerbaijan                       
+CNT,BEL,Belgium                          
+CNT,BGR,Bulgaria                         
+CNT,BRA,Brazil                           
+CNT,CAN,Canada                           
+CNT,CHE,Switzerland                      
+CNT,CHL,Chile                            
+CNT,COL,Colombia                         
+CNT,CZE,Czech Republic                   
+CNT,DEU,Germany                          
+CNT,DNK,Denmark                          
+CNT,ESP,Spain                            
+CNT,EST,Estonia                          
+CNT,FIN,Finland                          
+CNT,FRA,France                           
+CNT,GBR,United Kingdom                   
+CNT,GRC,Greece                           
+CNT,HKG,Hong Kong-China                  
+CNT,HRV,Croatia                          
+CNT,HUN,Hungary                          
+CNT,IDN,Indonesia                        
+CNT,IRL,Ireland                          
+CNT,ISL,Iceland                          
+CNT,ISR,Israel                           
+CNT,ITA,Italy                            
+CNT,JOR,Jordan                           
+CNT,JPN,Japan                            
+CNT,KGZ,Kyrgyzstan                       
+CNT,KOR,Korea                            
+CNT,LIE,Liechtenstein                    
+CNT,LTU,Lithuania                        
+CNT,LUX,Luxembourg                       
+CNT,LVA,Latvia                           
+CNT,MAC,Macao-China                      
+CNT,MEX,Mexico                           
+CNT,MNE,Montenegro                       
+CNT,NLD,Netherlands                      
+CNT,NOR,Norway                           
+CNT,NZL,New Zealand                      
+CNT,POL,Poland                           
+CNT,PRT,Portugal                         
+CNT,QAT,Qatar                            
+CNT,ROU,Romania                          
+CNT,RUS,Russian Federation               
+CNT,SRB,Serbia                           
+CNT,SVK,Slovak Republic                  
+CNT,SVN,Slovenia                         
+CNT,SWE,Sweden                           
+CNT,TAP,Chinese Taipei                   
+CNT,THA,Thailand                         
+CNT,TUN,Tunisia                          
+CNT,TUR,Turkey                           
+CNT,URY,Uruguay                          
+CNT,USA,United States                   
+	country,031,Azerbaijan                      
+	country,032,Argentina                       
+	country,036,Australia                       
+	country,040,Austria                         
+	country,056,Belgium                         
+	country,076,Brazil                          
+	country,100,Bulgaria                        
+	country,124,Canada                          
+	country,152,Chile                           
+	country,158,Chinese Taipei                  
+	country,170,Colombia                        
+	country,191,Croatia                         
+	country,203,Czech Republic                  
+	country,208,Denmark                         
+	country,233,Estonia                         
+	country,246,Finland                         
+	country,250,France                          
+	country,276,Germany                         
+	country,300,Greece                          
+	country,344,Hong Kong-China                 
+	country,348,Hungary                         
+	country,352,Iceland                         
+	country,360,Indonesia                       
+	country,372,Ireland                         
+	country,376,Israel                          
+	country,380,Italy                           
+	country,392,Japan                           
+	country,400,Jordan                          
+	country,410,Korea                           
+	country,417,Kyrgyzstan                      
+	country,428,Latvia                          
+	country,438,Liechtenstein                   
+	country,440,Lithuania                       
+	country,442,Luxembourg                      
+	country,446,Macao-China                     
+	country,484,Mexico                          
+	country,499,Montenegro                      
+	country,528,Netherlands                     
+	country,554,New Zealand                     
+	country,578,Norway                          
+	country,616,Poland                          
+	country,620,Portugal                        
+	country,634,Qatar                           
+	country,642,Romania                         
+	country,643,Russian Federation              
+	country,688,Serbia                          
+	country,703,Slovak Republic                 
+	country,705,Slovenia                        
+	country,724,Spain                           
+	country,752,Sweden                          
+	country,756,Switzerland                     
+	country,764,Thailand                        
+	country,788,Tunisia                         
+	country,792,Turkey                          
+	country,826,United Kingdom                  
+	country,840,United States                   
+	country,858,Uruguay                         
+SUBNATIO,03100,Azerbaijan                                                             
+SUBNATIO,03200,Argentina                                                              
+SUBNATIO,03600,Australia                                                              
+SUBNATIO,04000,Austria                                                                
+SUBNATIO,05601,Belgium: Flemish region                                                
+SUBNATIO,05699,Belgium: French & German regions (not adjudicated)                     
+SUBNATIO,07600,Brazil                                                                 
+SUBNATIO,10000,Bulgaria                                                               
+SUBNATIO,12400,Canada                                                                 
+SUBNATIO,15200,Chile                                                                  
+SUBNATIO,15800,Chinese Taipei                                                         
+SUBNATIO,17000,Colombia                                                               
+SUBNATIO,19100,Croatia                                                                
+SUBNATIO,20300,Czech Republic                                                         
+SUBNATIO,20800,Denmark                                                                
+SUBNATIO,23300,Estonia                                                                
+SUBNATIO,24600,Finland                                                                
+SUBNATIO,25000,France                                                                 
+SUBNATIO,27600,Germany                                                                
+SUBNATIO,30000,Greece                                                                 
+SUBNATIO,34400,Hong Kong-China                                                        
+SUBNATIO,34800,Hungary                                                                
+SUBNATIO,35200,Iceland                                                                
+SUBNATIO,36000,Indonesia                                                              
+SUBNATIO,37200,Ireland                                                                
+SUBNATIO,37600,Israel                                                                 
+SUBNATIO,38001,Italy: Region 1                                                         
+SUBNATIO,38002,Italy: Region 2                                                         
+SUBNATIO,38003,Italy: Region 3                                                         
+SUBNATIO,38004,Italy: Region 4                                                         
+SUBNATIO,38005,Italy: Region 5                                                         
+SUBNATIO,38006,Italy: Region 6                                                         
+SUBNATIO,38007,Italy: Region 7                                                         
+SUBNATIO,38008,Italy: Region 8                                                         
+SUBNATIO,38009,Italy: Region 9                                                         
+SUBNATIO,38010,Italy: Region 10                                                        
+SUBNATIO,38011,Italy: Region 11                                                        
+SUBNATIO,38012,Italy: Region 12                                                        
+SUBNATIO,38013,Italy: Region 13                                                        
+SUBNATIO,38099,Italy: Region 14 (not adjudicated)                                      
+SUBNATIO,39200,Japan                                                                  
+SUBNATIO,40000,Jordan                                                                 
+SUBNATIO,41000,Korea                                                                  
+SUBNATIO,41700,Kyrgyzstan                                                             
+SUBNATIO,42800,Latvia                                                                 
+SUBNATIO,43800,Liechtenstein                                                          
+SUBNATIO,44000,Lithuania                                                              
+SUBNATIO,44200,Luxembourg                                                             
+SUBNATIO,44600,Macao-China                                                            
+SUBNATIO,48400,Mexico                                                                 
+SUBNATIO,49900,Montenegro                                                             
+SUBNATIO,52800,Netherlands                                                            
+SUBNATIO,55400,New Zealand                                                            
+SUBNATIO,57800,Norway                                                                 
+SUBNATIO,61600,Poland                                                                 
+SUBNATIO,62000,Portugal                                                               
+SUBNATIO,63400,Qatar                                                                  
+SUBNATIO,64200,Romania                                                                
+SUBNATIO,64300,Russian Federation                                                     
+SUBNATIO,68800,Serbia                                                                 
+SUBNATIO,70300,Slovak Republic                                                        
+SUBNATIO,70500,Slovenia                                                               
+SUBNATIO,72401,Spain: Andalusia                                                        
+SUBNATIO,72402,Spain: Aragon                                                           
+SUBNATIO,72403,Spain: Asturias                                                         
+SUBNATIO,72406,Spain: Cantabria                                                        
+SUBNATIO,72407,Spain: Castile and Leon                                                 
+SUBNATIO,72409,Spain: Catalonia                                                        
+SUBNATIO,72411,Spain: Galicia                                                          
+SUBNATIO,72412,Spain: La Rioja                                                         
+SUBNATIO,72415,Spain: Navarre                                                          
+SUBNATIO,72416,Spain: Basque Country                                                   
+SUBNATIO,72499,The rest of Spain (not adjudicated)                                     
+SUBNATIO,75200,Sweden                                                                 
+SUBNATIO,75600,Switzerland                                                            
+SUBNATIO,76400,Thailand                                                               
+SUBNATIO,78800,Tunisia                                                                
+SUBNATIO,79200,Turkey                                                                 
+SUBNATIO,82610,"United Kingdom: England, Wales & Northern Ireland                       "
+SUBNATIO,82620,United Kingdom: Scotland                                                
+SUBNATIO,84000,United States                                                          
+SUBNATIO,85800,Uruguay 
+PA11,1000,"LEGISLATORS, SENIOR OFFICIALS & MANAGERS                                                             "
+PA11,1100,LEGISLATORS & SENIOR OFFICIALS                                                                       
+PA11,1110,"LEGISLATORS [incl. Member of Parliament, Member of Local Council]                                    "
+PA11,1120,"SENIOR GOVERNMENT OFFICIALS [incl. Minister, Ambassador]                                             "
+PA11,1130,SENIOR LOCAL GOVERNMENT OFFICIALS                                                                    
+PA11,1140,SENIOR OFFICIALS SPECIAL-INTEREST ORGANISATIONS                                                      
+PA11,1141,Senior officials political-party organisations                                                       
+PA11,1142,Senior officials economic-interest organisations                                                     
+PA11,1143,Senior officials special-interest organisations                                                      
+PA11,1200,CORPORATE MANAGERS [LARGE ENTERPRISES]                                                               
+PA11,1210,[LARGE ENTERPRISES] DIRECTORS & CHIEF EXECUTIVES                                                     
+PA11,1220,[LARGE ENTERPRISE OPERATION] DEPARTMENT MANAGERS                                                     
+PA11,1221,Production dep. managers agriculture & fishing                                                       
+PA11,1222,Production dep. managers manufacturing [incl. Factory Manager]                                       
+PA11,1223,Production dep. managers construction                                                                
+PA11,1224,Production dep. managers wholesale & retail trade                                                    
+PA11,1225,Production dep. managers restaurants & hotels                                                        
+PA11,1226,"Production dep. managers transp., storage & communic. ]                                              "
+PA11,1227,Production dep. managers business services [incl. Bank Manager]                                      
+PA11,1228,"Production dep. managers personal care, cleaning etc                                                 "
+PA11,1229,"Production dep. managers nec [incl. Dean,School Principal]                                           "
+PA11,1230,[LARGE ENTERPRISES] OTHER DEPARTMENT MANAGERS                                                        
+PA11,1231,Finance & admin. department managers [incl. Company Secretary]                                       
+PA11,1232,Personnel & industrial relations department managers                                                 
+PA11,1233,Sales & marketing department managers                                                                
+PA11,1234,Advertising & public relations department managers                                                   
+PA11,1235,Supply & distribution department managers                                                            
+PA11,1236,Computing services department managers                                                               
+PA11,1237,Research & development department managers                                                           
+PA11,1239,Other department managers nec                                                                        
+PA11,1240,OFFICE MANAGERS [incl. Clerical Supervisor]                                                          
+PA11,1250,MILITARY OFFICERS                                                                                    
+PA11,1251,Higher military officers [Captain and above]                                                         
+PA11,1252,Lower grade commissioned officers [incl. Army Lieutenant]                                            
+PA11,1300,[SMALL ENTERPRISE] GENERAL MANAGERS                                                                  
+PA11,1310,"[SMALL ENTERPRISE] GENERAL MANAGERS [incl. Businessman, Trader]                                      "
+PA11,1311,"[Small enterprise] General managers agr., forestry & fishing                                         "
+PA11,1312,[Small enterprise] General managers manufacturing                                                    
+PA11,1313,[Small enterprise] General managers constr. [incl. Contractor]                                       
+PA11,1314,[Small enterprise] General managers wholesale & retail trade                                         
+PA11,1315,[Small enterprise] General managers restaurants & hotels                                             
+PA11,1316,"[Small enterprise] General managers transp., storage & comm.                                         "
+PA11,1317,[Small enterprise] General managers business services                                                
+PA11,1318,"[Small enterprise] General managers personal care, cleaning etc.                                     "
+PA11,1319,"[Small enterprise] General managers nec [incl. Travel, Fitness]                                      "
+PA11,2000,PROFESSIONALS                                                                                        
+PA11,2100,"PHYSICAL, MATHEMATICAL & ENGINEERING SCIENCE PROFESSIONALS                                           "
+PA11,2110,"PHYSICISTS, CHEMISTS & RELATED PROFESSIONALS                                                         "
+PA11,2111,Physicists & astronomers                                                                             
+PA11,2112,Meteorologists                                                                                       
+PA11,2113,Chemists                                                                                             
+PA11,2114,Geologists & geophysicists [incl. Geodesist]                                                         
+PA11,2120,"MATHEMATICIANS, STATISTICIANS ETC PROFESSIONALS                                                      "
+PA11,2121,Mathematicians etc professionals                                                                     
+PA11,2122,Statisticians [incl. Actuary]                                                                        
+PA11,2130,COMPUTING PROFESSIONALS                                                                              
+PA11,2131,Computer systems designers & analysts [incl. Software Engineer]                                      
+PA11,2132,Computer programmers                                                                                 
+PA11,2139,Computing professionals nec                                                                          
+PA11,2140,"ARCHITECTS, ENGINEERS ETC PROFESSIONALS                                                              "
+PA11,2141,Architects town & traffic planners [incl. Landscape Architect]                                       
+PA11,2142,Civil engineers [incl. Construction Engineer]                                                        
+PA11,2143,Electrical engineers                                                                                 
+PA11,2144,Electronics & telecommunications engineers                                                           
+PA11,2145,Mechanical engineers                                                                                 
+PA11,2146,Chemical engineers                                                                                   
+PA11,2147,"Mining engineers, metallurgists etc professionals                                                    "
+PA11,2148,Cartographers & surveyors                                                                            
+PA11,2149,Architects engineers etc professionals nec [incl. Consultant]                                        
+PA11,2200,LIFE SCIENCE & HEALTH PROFESSIONALS                                                                  
+PA11,2210,LIFE SCIENCE PROFESSIONALS                                                                           
+PA11,2211,"Biologists, botanists zoologists etc professionals                                                   "
+PA11,2212,"Pharmacologists, pathologists etc profess. [incl. Biochemist]                                        "
+PA11,2213,Agronomists etc professionals                                                                        
+PA11,2220,HEALTH PROFESSIONALS (EXCEPT NURSING)                                                                
+PA11,2221,Medical doctors                                                                                      
+PA11,2222,Dentists                                                                                             
+PA11,2223,Veterinarians                                                                                        
+PA11,2224,Pharmacists                                                                                          
+PA11,2229,Health professionals except nursing nec                                                              
+PA11,2230,"NURSING & MIDWIFERY PROFESS. [incl. Registered Nurses, Midwives]                                     "
+PA11,2300,TEACHING PROFESSIONALS                                                                               
+PA11,2310,HIGHER EDUCATION TEACHING PROFESSIONALS [incl. Univ. Professor]                                      
+PA11,2320,SECONDARY EDUCATION TEACHING PROFESSIONALS                                                           
+PA11,2321,"[Sec. teachers, academic track] [incl. Middle School Teacher]                                        "
+PA11,2322,"[Sec. teachers, vocational track] [incl. Vocational Instructor]                                      "
+PA11,2330,PRIMARY & PRE-PRIMARY EDUCATION TEACHING PROFESSIONALS                                               
+PA11,2331,Primary education teaching professionals                                                             
+PA11,2332,Pre-primary educ. teaching professionals [incl. Kindergarten]                                        
+PA11,2340,"SPECIAL EDUC. TEACHING PROFESSIONALS [incl. Remedial, Blind]                                         "
+PA11,2350,OTHER TEACHING PROFESSIONALS                                                                         
+PA11,2351,Education methods specialists [incl. Curricula Developer]                                            
+PA11,2352,School inspectors                                                                                    
+PA11,2359,Other teaching professionals nec                                                                     
+PA11,2400,"OTHER PROFESSIONALS [incl. Professional nfs, Admin. Professional]                                    "
+PA11,2410,BUSINESS PROFESSIONALS                                                                               
+PA11,2411,Accountants [incl. Auditor]                                                                          
+PA11,2412,"Personnel & careers profess. [incl. Job Analyst, Stud. Couns.]                                       "
+PA11,2419,"Business profess. [incl. Publicity/Patent agent, Market Research]                                    "
+PA11,2420,LEGAL PROFESSIONALS                                                                                  
+PA11,2421,Lawyers                                                                                              
+PA11,2422,Judges                                                                                               
+PA11,2429,"Legal professionals nec [incl. Notary, Notary Public]                                                "
+PA11,2430,"ARCHIVISTS, LIBRARIANS ETC INFORMATION PROFESSIONALS                                                 "
+PA11,2431,Archivists & curators                                                                                
+PA11,2432,Librarians etc information professionals                                                             
+PA11,2440,SOCIAL SCIENCE ETC PROFESSIONALS                                                                     
+PA11,2441,Economists                                                                                           
+PA11,2442,"Sociologists, anthropologists etc professionals                                                      "
+PA11,2443,"Philosophers, historians & political scientists                                                      "
+PA11,2444,"Philologists, translators & interpreters                                                             "
+PA11,2445,Psychologists                                                                                        
+PA11,2446,Social work professionals [incl. Welfare Worker]                                                     
+PA11,2450,WRITERS & CREATIVE OR PERFORMING ARTISTS                                                             
+PA11,2451,"Authors journalists & other writers [incl. Editor, Techn. Writer]                                    "
+PA11,2452,"Sculptors, painters etc artists                                                                      "
+PA11,2453,"Composers, musicians & singers                                                                       "
+PA11,2454,Choreographers & dancers                                                                             
+PA11,2455,"Film, stage etc actors & directors                                                                   "
+PA11,2460,RELIGIOUS PROFESSIONALS                                                                              
+PA11,3000,TECHNICIANS AND ASSOCIATE PROFESSIONALS                                                              
+PA11,3100,PHYSICAL & ENGINEERING SCIENCE ASSOCIATE PROFESSIONALS                                               
+PA11,3110,PHYSICAL & ENGINEERING SCIENCE TECHNICIANS                                                           
+PA11,3111,Chemical & physical science technicians                                                              
+PA11,3112,Civil engineering technicians                                                                        
+PA11,3113,Electrical engineering technicians                                                                   
+PA11,3114,Electronics & telecommunications engineering technicians                                             
+PA11,3115,Mechanical engineering technicians                                                                   
+PA11,3116,Chemical engineering technicians                                                                     
+PA11,3117,Mining & metallurgical technicians                                                                   
+PA11,3118,Draughtspersons [incl. Technical Illustrator]                                                        
+PA11,3119,Physical & engineering science technicians nec                                                       
+PA11,3120,COMPUTER ASSOCIATE PROFESSIONALS                                                                     
+PA11,3121,Computer assistants [incl. Assistant Users Services]                                                 
+PA11,3122,Computer equipment operators                                                                         
+PA11,3123,Industrial robot controllers                                                                         
+PA11,3130,OPTICAL & ELECTRONIC EQUIPMENT OPERATORS                                                             
+PA11,3131,Photographers & electronic equipment operators                                                       
+PA11,3132,Broadcasting & telecommunications equipment operators                                                
+PA11,3133,Medical equipment operators [incl. X-ray Technician]                                                 
+PA11,3139,Optical & electronic equipment operators nec                                                         
+PA11,3140,SHIP & AIRCRAFT CONTROLLERS & TECHNICIANS                                                            
+PA11,3141,Ships engineers                                                                                      
+PA11,3142,Ships deck officers & pilots [incl. River Boat Captain]                                              
+PA11,3143,Aircraft pilots etc associate professionals                                                          
+PA11,3144,Air traffic controllers                                                                              
+PA11,3145,Air traffic safety technicians                                                                       
+PA11,3150,SAFETY & QUALITY INSPECTORS                                                                          
+PA11,3151,Building & fire inspectors                                                                           
+PA11,3152,"Safety, health & quality inspectors                                                                  "
+PA11,3200,LIFE SCIENCE & HEALTH ASSOCIATE PROFESSIONALS                                                        
+PA11,3210,LIFE SCIENCE TECHNICIANS ETC ASSOCIATE PROFESSIONALS                                                 
+PA11,3211,Life science technicians [incl. Medical Laboratory Assistant]                                        
+PA11,3212,Agronomy & forestry technicians                                                                      
+PA11,3213,Farming & forestry advisers                                                                          
+PA11,3220,MODERN HEALTH ASSOCIATE PROFESSIONALS EXCEPT NURSING                                                 
+PA11,3221,Medical assistants                                                                                   
+PA11,3222,Sanitarians                                                                                          
+PA11,3223,Dieticians & nutritionists                                                                           
+PA11,3224,Optometrists & opticians [incl. Dispensing Optician]                                                 
+PA11,3225,Dental assistants [incl. Oral Hygienist]                                                             
+PA11,3226,Physiotherapists etc associate professionals                                                         
+PA11,3227,Veterinary assistants [incl. Veterinarian Vaccinater]                                                
+PA11,3228,Pharmaceutical assistants                                                                            
+PA11,3229,Modern health associate professionals except nursing nec                                             
+PA11,3230,NURSING & MIDWIFERY ASSOCIATE PROFESSIONALS                                                          
+PA11,3231,Nursing associate professionals [incl. Trainee Nurses]                                               
+PA11,3232,Midwifery associate professionals [incl. Trainee Midwife]                                            
+PA11,3240,TRADITIONAL MEDICINE PRACTITIONERS & FAITH HEALERS                                                   
+PA11,3241,Traditional medicine practitioners [incl. Herbalist]                                                 
+PA11,3242,Faith healers                                                                                        
+PA11,3300,TEACHING ASSOCIATE PROFESSIONALS                                                                     
+PA11,3310,PRIMARY EDUCATION TEACHING ASSOCIATE PROFESSIONALS                                                   
+PA11,3320,PRE-PRIMARY EDUCATION TEACHING ASSOCIATE PROFESSIONALS                                               
+PA11,3330,SPECIAL EDUCATION TEACHING ASSOCIATE PROFESSIONALS                                                   
+PA11,3340,OTHER TEACHING ASSOCIATE PROFESSIONALS                                                               
+PA11,3400,OTHER ASSOCIATE PROFESSIONALS                                                                        
+PA11,3410,FINANCE & SALES ASSOCIATE PROFESSIONALS                                                              
+PA11,3411,Securities & finance dealers & brokers                                                               
+PA11,3412,"Insurance representatives [incl. Insurance Agent, Underwriter]                                       "
+PA11,3413,[Real] estate agents [incl. Real Estate Broker]                                                      
+PA11,3414,Travel consultants & organisers                                                                      
+PA11,3415,Technical & commercial sales representatives                                                         
+PA11,3416,Buyers                                                                                               
+PA11,3417,"Appraisers, valuers & auctioneers [incl. Claims Adjuster]                                            "
+PA11,3419,Finance & sales associate professionals nec                                                          
+PA11,3420,BUSINESS SERVICES AGENTS AND TRADE BROKERS                                                           
+PA11,3421,Trade brokers                                                                                        
+PA11,3422,Clearing & forwarding agents                                                                         
+PA11,3423,Employment agents & labour contractors                                                               
+PA11,3429,Business services agents & trade brokers nec                                                         
+PA11,3430,ADMINISTRATIVE ASSOCIATE PROFESSIONALS                                                               
+PA11,3431,Administrative secretaries etc associate professionals                                               
+PA11,3432,"Legal etc business associate profess. [incl. Bailiff, Law Clerk]                                     "
+PA11,3433,Bookkeepers                                                                                          
+PA11,3434,"Statistical, mathematical etc associate professionals                                                "
+PA11,3439,Administrative associate profess. nec [incl. Management Ass.]                                        
+PA11,3440,"CUSTOMS, TAX ETC GOVERNMENT ASSOCIATE PROFESSIONALS                                                  "
+PA11,3441,Customs & border inspectors                                                                          
+PA11,3442,Government tax & excise officials                                                                    
+PA11,3443,Government social benefits officials                                                                 
+PA11,3444,Government licensing officials                                                                       
+PA11,3449,Customs tax etc government associate professionals nec                                               
+PA11,3450,POLICE INSPECTORS & DETECTIVES / [ARMY]                                                              
+PA11,3451,Police inspectors & detectives                                                                       
+PA11,3452,[Armed forces non-commissioned officers] [incl. Sergeant]                                            
+PA11,3460,SOCIAL WORK ASSOCIATE PROFESSIONALS                                                                  
+PA11,3470,"ARTISTIC, ENTERTAINMENT & SPORTS ASSOCIATE PROFESSIONALS                                             "
+PA11,3471,Decorators & commercial designers                                                                    
+PA11,3472,"Radio, television & other announcers                                                                 "
+PA11,3473,"Street night-club etc musicians, singers & dancers                                                   "
+PA11,3474,"Clowns, magicians, acrobats etc associate professionals                                              "
+PA11,3475,"Athletes, sports persons etc associate professionals                                                 "
+PA11,3480,"RELIGIOUS ASSOCIATE PROFESS. [incl. Evangelist, Lay Preacher]                                        "
+PA11,4000,CLERKS                                                                                               
+PA11,4100,"OFFICE CLERKS [Incl. Clerk nfs, Government Office Clerk nfs]                                         "
+PA11,4110,SECRETARIES & KEYBOARD-OPERATING CLERKS                                                              
+PA11,4111,Stenographers & typists                                                                              
+PA11,4112,Word-processor etc operators [incl. Teletypist]                                                      
+PA11,4113,Data entry operators [incl. Key Puncher]                                                             
+PA11,4114,Calculating-machine operators [incl. Bookkeeping Machine Op.]                                        
+PA11,4115,Secretaries                                                                                          
+PA11,4120,NUMERICAL CLERKS                                                                                     
+PA11,4121,Accounting & bookkeeping clerks [incl. Payroll Clerk]                                                
+PA11,4122,Statistical & finance clerks [incl. Credit Clerk]                                                    
+PA11,4130,MATERIAL-RECORDING & TRANSPORT CLERKS                                                                
+PA11,4131,"Stock clerks [incl. Weighing Clerk, Storehouse Clerk]                                                "
+PA11,4132,Production clerks [incl. Planning Clerks]                                                            
+PA11,4133,"Transport clerks [incl. Dispatcher, Expeditor]                                                       "
+PA11,4140,"LIBRARY, MAIL ETC CLERKS                                                                             "
+PA11,4141,Library & filing clerks                                                                              
+PA11,4142,Mail carriers & sorting clerks                                                                       
+PA11,4143,Coding proof-reading etc clerks                                                                      
+PA11,4144,Scribes etc workers [incl. Form Filling Assistance Clerk]                                            
+PA11,4190,"OTHER OFFICE CLERKS [incl. Office Boy, Photocopy Machine Op.]                                        "
+PA11,4200,CUSTOMER SERVICES CLERKS [incl. Customer Service Clerk nfs]                                          
+PA11,4210,"CASHIERS, TELLERS ETC CLERKS                                                                         "
+PA11,4211,"Cashiers & ticket clerks [incl. Bank/Store, Toll Collector]                                          "
+PA11,4212,"Tellers & other counter clerks [incl. Bank Teller, Post Office]                                      "
+PA11,4213,Bookmakers & croupiers                                                                               
+PA11,4214,Pawnbrokers & money-lenders                                                                          
+PA11,4215,Debt-collectors etc workers                                                                          
+PA11,4220,CLIENT INFORMATION CLERKS                                                                            
+PA11,4221,Travel agency etc clerks                                                                             
+PA11,4222,Receptionists & information clerks [incl. Medical Receptionist]                                      
+PA11,4223,Telephone switchboard operators [incl. Telephone Operator]                                           
+PA11,5000,SERVICE WORKERS & SHOP & MARKET SALES WORKERS                                                        
+PA11,5100,PERSONAL & PROTECTIVE SERVICES WORKERS                                                               
+PA11,5110,TRAVEL ATTENDANTS ETC                                                                                
+PA11,5111,Travel attendants & travel stewards                                                                  
+PA11,5112,Transport conductors [incl. Train Conductor]                                                         
+PA11,5113,"Travel, museum guides                                                                                "
+PA11,5120,HOUSEKEEPING & RESTAURANT SERVICES WORKERS                                                           
+PA11,5121,Housekeepers etc workers                                                                             
+PA11,5122,Cooks                                                                                                
+PA11,5123,"Waiters, waitresses & bartenders                                                                     "
+PA11,5130,PERSONAL CARE ETC WORK                                                                               
+PA11,5131,"Child-care workers [incl. Nursemaid, Governess]                                                      "
+PA11,5132,"Inst.-based personal care workers [incl. Ambulance, Orderly]                                         "
+PA11,5133,Home based personal care workers [incl. Attendant]                                                   
+PA11,5139,[Other] care etc workers nec [incl. Animal Feeder]                                                   
+PA11,5140,OTHER PERSONAL SERVICES WORKERS                                                                      
+PA11,5141,"Hairdressers, barbers, beauticians etc workers                                                       "
+PA11,5142,Companions & valets [incl. Personal Maid]                                                            
+PA11,5143,Undertakers & embalmers [incl. Funeral Director]                                                     
+PA11,5149,"Other personal services workers [incl. Escort, Dancing Partner]                                      "
+PA11,5150,"ASTROLOGERS, FORTUNE-TELLERS ETC WORKERS                                                             "
+PA11,5151,Astrologers etc workers                                                                              
+PA11,5152,"Fortune-tellers, palmists etc workers                                                                "
+PA11,5160,PROTECTIVE SERVICES WORKERS                                                                          
+PA11,5161,Fire-fighters                                                                                        
+PA11,5162,"Police officers [Incl. Policeman, Constable, Marshall]                                               "
+PA11,5163,Prison guards                                                                                        
+PA11,5164,"[Armed forces, soldiers] [incl. Enlisted Man]                                                        "
+PA11,5169,"Protective services workers [incl. Bodyguard, Coastguard]                                            "
+PA11,5200,"[SALESPERSONS, MODELS & DEMONSTRATORS]                                                               "
+PA11,5210,"FASHION & OTHER MODELS [incl. Mannequin, Artists Model]                                              "
+PA11,5220,SHOP SALESPERSONS & DEMONSTRATORS                                                                    
+PA11,5230,STALL & MARKET SALESPERSONS                                                                          
+PA11,6000,SKILLED AGRICULTURAL & FISHERY WORKERS                                                               
+PA11,6100,MARKET-ORIENTED SKILLED AGRICULTURAL & FISHERY WORKERS                                               
+PA11,6110,MARKET GARDENERS & CROPGROWERS                                                                       
+PA11,6111,Field crop & vegetable growers                                                                       
+PA11,6112,Tree & shrub crop growers                                                                            
+PA11,6113,"Gardeners, horticultural & nursery growers                                                           "
+PA11,6114,Mixed-crop growers [Incl. Share Cropper]                                                             
+PA11,6120,MARKET-ORIENTED ANIMAL PRODUCERS ETC WORKERS                                                         
+PA11,6121,Dairy & livestock producers                                                                          
+PA11,6122,"Poultry producers [incl. Chicken Farmer, Skilled Hatchery Worker]                                    "
+PA11,6123,"Apiarists & sericulturists [incl. Beekeeper, Silkworm Raiser]                                        "
+PA11,6124,Mixed-animal producers                                                                               
+PA11,6129,Market-oriented animal producers etc workers nec                                                     
+PA11,6130,MARKET-ORIENTED CROP & ANIMAL PRODUCERS                                                              
+PA11,6131,[Mixed farmers]                                                                                      
+PA11,6132,[Farm foremen/supervisor]                                                                            
+PA11,6133,[Farmers nfs]                                                                                        
+PA11,6134,[Skilled farm workers nfs]                                                                           
+PA11,6140,FORESTRY ETC WORKERS                                                                                 
+PA11,6141,"Forestry workers & loggers [incl. Rafter, Timber Cruiser]                                            "
+PA11,6142,Charcoal burners etc workers                                                                         
+PA11,6150,"FISHERY WORKERS, HUNTERS & TRAPPERS                                                                  "
+PA11,6151,Aquatic-life cultivation workers                                                                     
+PA11,6152,Inland & coastal waters fishery workers                                                              
+PA11,6153,"Deep-sea fishery workers [incl. Fisherman nfs, Trawler Crewman]                                      "
+PA11,6154,Hunters & trappers [incl. Whaler]                                                                    
+PA11,6200,SUBSISTENCE AGRICULTURAL & FISHERY WORKERS                                                           
+PA11,6210,SUBSISTENCE AGRICULTURAL & FISHERY WORKERS                                                           
+PA11,7000,CRAFT ETC TRADES WORKERS                                                                             
+PA11,7100,EXTRACTION & BUILDING TRADES WORKERS                                                                 
+PA11,7110,"MINERS, SHOTFIRERS, STONE CUTTERS & CARVERS                                                          "
+PA11,7111,Miners & quarry workers [incl. Miner nfs]                                                            
+PA11,7112,Shotfirers & blasters                                                                                
+PA11,7113,"Stone splitters, cutters & carvers [incl. Tombstone Carver]                                          "
+PA11,7120,BUILDING FRAME ETC TRADES WORKERS                                                                    
+PA11,7121,Builders traditional materials                                                                       
+PA11,7122,Bricklayers & stonemasons [incl. Paviour]                                                            
+PA11,7123,"Concrete placers, concrete finishers etc workers                                                     "
+PA11,7124,Carpenters & joiners                                                                                 
+PA11,7129,Building frame etc trades workers nec [incl. Scaffolder]                                             
+PA11,7130,BUILDING FINISHERS ETC TRADES WORKERS                                                                
+PA11,7131,Roofers                                                                                              
+PA11,7132,Floor layers & tile setters [incl. Parquetry Worker]                                                 
+PA11,7133,Plasterers [incl. Stucco Mason]                                                                      
+PA11,7134,Insulation workers                                                                                   
+PA11,7135,Glaziers                                                                                             
+PA11,7136,Plumbers & pipe fitters [incl. Well Digger]                                                          
+PA11,7137,Building etc electricians                                                                            
+PA11,7140,"PAINTERS, BUILDING STRUCTURE CLEANERS ETC TRADES WORKERS                                             "
+PA11,7141,"Painters etc workers [incl. Construction Painter, Paperhanger]                                       "
+PA11,7142,Varnishers etc painters [incl. Automobile Painter]                                                   
+PA11,7143,"Building structure cleaners [incl. Chimney Sweep, Sandblaster]                                       "
+PA11,7200,"METAL, MACHINERY ETC TRADES WORKERS                                                                  "
+PA11,7210,"METAL MOULDERS, WELDERS, SHEETMETAL WORKERS STRUCTURAL METAL                                         "
+PA11,7211,Metal moulders & coremakers                                                                          
+PA11,7212,"Welders & flamecutters [incl. Brazier, Solderer]                                                     "
+PA11,7213,"Sheet-metal workers [incl. Panel Beater, Coppersmith, Tinsmith]                                      "
+PA11,7214,Structural-metal preparers & erectors                                                                
+PA11,7215,Riggers & cable splicers                                                                             
+PA11,7216,Underwater workers [incl. Frogman]                                                                   
+PA11,7220,"BLACKSMITHS, TOOL-MAKERS ETC TRADES WORKERS                                                          "
+PA11,7221,"Blacksmiths, hammer-smiths & forging press workers                                                   "
+PA11,7222,Tool-makers etc workers [incl. Locksmith]                                                            
+PA11,7223,"Machine-tool setters & setter-operators [Metal driller, Turner]                                      "
+PA11,7224,"Metal wheel-grinders, polishers & tool sharpeners                                                    "
+PA11,7230,MACHINERY MECHANICS & FITTERS                                                                        
+PA11,7231,Motor vehicle mechanics & fitters [incl. Bicycle Repairman]                                          
+PA11,7232,Aircraft engine mechanics & fitters                                                                  
+PA11,7233,[Industrial & agricultural] machinery mechanics & fitters                                            
+PA11,7234,[Unskilled garage worker] [incl. Oiler-Greaser]                                                      
+PA11,7240,ELECTRICAL & ELECTRONIC EQUIPMENT MECHANICS & FITTERS                                                
+PA11,7241,Electrical mechanics & fitters [incl. Office Machine Repairman]                                      
+PA11,7242,Electronics fitters                                                                                  
+PA11,7243,Electronics mechanics & servicers                                                                    
+PA11,7244,Telegraph & telephone installers & servicers                                                         
+PA11,7245,"Electrical line installers, repairers & cable jointers                                               "
+PA11,7300,"PRECISION, HANDICRAFT, PRINTING ETC TRADES WORKERS                                                   "
+PA11,7310,PRECISION WORKERS IN METAL ETC MATERIALS                                                             
+PA11,7311,"Precision-instr. makers & repairers [incl. Dental, Watch Maker]                                      "
+PA11,7312,Musical-instrument makers & tuners                                                                   
+PA11,7313,Jewellery & precious-metal workers [incl. Goldsmith]                                                 
+PA11,7320,"POTTERS, GLASS-MAKERS ETC TRADES WORKERS                                                             "
+PA11,7321,"Abrasive wheel formers, potters etc workers                                                          "
+PA11,7322,"Glass-makers, cutters, grinders & finishers                                                          "
+PA11,7323,Glass engravers & etchers                                                                            
+PA11,7324,Glass ceramics etc decorative painters                                                               
+PA11,7330,"HANDICRAFT WORKERS IN WOOD,TEXTILE, LEATHER ETC                                                      "
+PA11,7331,Handicraft workers in wood etc materials                                                             
+PA11,7332,Handicraft workers in textile leather etc materials                                                  
+PA11,7340,PRINTING ETC TRADES WORKERS                                                                          
+PA11,7341,Compositors typesetters etc workers                                                                  
+PA11,7342,Stereotypers & electrotypers                                                                         
+PA11,7343,Printing engravers & etchers                                                                         
+PA11,7344,Photographic etc workers [incl. Darkroom worker]                                                     
+PA11,7345,Bookbinders etc workers                                                                              
+PA11,7346,"Silk-screen, block & textile printers                                                                "
+PA11,7400,OTHER CRAFT ETC TRADES WORKERS                                                                       
+PA11,7410,FOOD PROCESSING ETC TRADES WORKERS                                                                   
+PA11,7411,"Butchers, fishmongers etc food preparers                                                             "
+PA11,7412,"Bakers, pastry-cooks & confectionery makers                                                          "
+PA11,7413,Dairy-products makers                                                                                
+PA11,7414,"Fruit, vegetable etc preservers                                                                      "
+PA11,7415,Food & beverage tasters & graders                                                                    
+PA11,7416,Tobacco preparers & tobacco products makers                                                          
+PA11,7420,"WOOD TREATERS, CABINET-MAKERS ETC TRADES WORKERS                                                     "
+PA11,7421,"Wood treaters [incl. Wood Grader, Wood Impregnator]                                                  "
+PA11,7422,"Cabinet-makers etc workers [incl. Cartwright, Cooper]                                                "
+PA11,7423,Woodworking-machine setters & setter-operators                                                       
+PA11,7424,"Basketry weavers, brush makers etc workers [incl. Broom Maker]                                       "
+PA11,7430,"TEXTILE, GARMENT ETC TRADES WORKERS                                                                  "
+PA11,7431,Fibre preparers                                                                                      
+PA11,7432,"Weavers, knitters etc workers                                                                        "
+PA11,7433,"Tailors, dressmakers & hatters [incl. Milliner]                                                      "
+PA11,7434,Furriers etc workers                                                                                 
+PA11,7435,"Textile, leather etc pattern-makers & cutters                                                        "
+PA11,7436,"Sewers, embroiderers etc workers                                                                     "
+PA11,7437,Upholsterers etc workers                                                                             
+PA11,7440,"PELT, LEATHER & SHOEMAKING TRADES WORKERS                                                            "
+PA11,7441,"Pelt dressers, tanners & fellmongers                                                                 "
+PA11,7442,Shoe-makers etc workers                                                                              
+PA11,7500,[SKILLED WORKERS NFS]                                                                                
+PA11,7510,[MANUAL FOREMEN NFS --NON-FARM--]                                                                    
+PA11,7520,"[SKILLED WORKERS NFS] [incl. Craftsman, Artisan, Tradesman]                                          "
+PA11,7530,[APPRENTICE SKILLED WORK NFS]                                                                        
+PA11,8000,PLANT & MACHINE OPERATORS & ASSEMBLERS                                                               
+PA11,8100,STATIONARY-PLANT ETC OPERATORS                                                                       
+PA11,8110,MINING- & MINERAL-PROCESSING PLANT OPERATORS                                                         
+PA11,8111,Mining-plant operators                                                                               
+PA11,8112,Mineral-ore- & stone-processing-plant operators                                                      
+PA11,8113,Well drillers & borers etc workers                                                                   
+PA11,8120,METAL-PROCESSING-PLANT OPERATORS                                                                     
+PA11,8121,Ore & metal furnace operators                                                                        
+PA11,8122,"Metal melters, casters & rolling-mill operators                                                      "
+PA11,8123,Metal-heat-treating-plant operators                                                                  
+PA11,8124,Metal drawers & extruders                                                                            
+PA11,8130,"GLASS, CERAMICS ETC PLANT OPERATORS                                                                  "
+PA11,8131,Glass & ceramics kiln etc machine operators                                                          
+PA11,8139,"Glass, ceramics etc plant operators nec                                                              "
+PA11,8140,WOOD-PROCESSING- & PAPERMAKING-PLANT OPERATORS                                                       
+PA11,8141,Wood-processing-plant operators [incl. Sawyer]                                                       
+PA11,8142,Paper-pulp plant operators                                                                           
+PA11,8143,Papermaking-plant operators                                                                          
+PA11,8150,CHEMICAL-PROCESSING-PLANT OPERATORS                                                                  
+PA11,8151,Crushing- grinding- & chemical-mixing machinery operators                                            
+PA11,8152,Chemical-heat-treating-plant operators                                                               
+PA11,8153,Chemical-filtering- & separating-equipment operators                                                 
+PA11,8154,Chemical-still & reactor operators                                                                   
+PA11,8155,Petroleum- & natural-gas-refining-plant operators                                                    
+PA11,8159,Chemical-processing-plant operators nec                                                              
+PA11,8160,POWER-PRODUCTION ETC PLANT OPERATORS                                                                 
+PA11,8161,Power-production plant operators                                                                     
+PA11,8162,Steam-engine & boiler operators [incl. Stoker]                                                       
+PA11,8163,Incinerator water-treatment etc plant operators                                                      
+PA11,8170,AUTOMATED-ASSEMBLY-LINE & INDUSTRIAL-ROBOT OPERATORS                                                 
+PA11,8171,Automated-assembly-line operators                                                                    
+PA11,8172,Industrial-robot operators                                                                           
+PA11,8200,MACHINE OPERATORS & ASSEMBLERS                                                                       
+PA11,8210,METAL- & MINERAL-PRODUCTS MACHINE OPERATORS                                                          
+PA11,8211,Machine-tool operators [incl. Machine Operator nfs]                                                  
+PA11,8212,Cement & other mineral products machine operators                                                    
+PA11,8220,CHEMICAL-PRODUCTS MACHINE OPERATORS                                                                  
+PA11,8221,Pharmaceutical- & toiletry-products machine operators                                                
+PA11,8222,Ammunition- & explosive-products machine operators                                                   
+PA11,8223,Metal finishing- plating- & coating-machine operators                                                
+PA11,8224,Photographic-products machine operators                                                              
+PA11,8229,Chemical-products machine operators nec                                                              
+PA11,8230,RUBBER- & PLASTIC-PRODUCTS MACHINE OPERATORS                                                         
+PA11,8231,Rubber-products machine operators                                                                    
+PA11,8232,Plastic-products machine operators                                                                   
+PA11,8240,WOOD-PRODUCTS MACHINE OPERATORS                                                                      
+PA11,8250,"PRINTING-, BINDING- & PAPER-PRODUCTS MACHINE OPERATORS                                               "
+PA11,8251,Printing-machine operators                                                                           
+PA11,8252,Bookbinding-machine operators                                                                        
+PA11,8253,Paper-products machine operators                                                                     
+PA11,8260,"TEXTILE-, FUR- & LEATHER-PRODUCTS MACHINE OPERATORS                                                  "
+PA11,8261,"Fibre-preparing-, spinning- & winding machine operators                                              "
+PA11,8262,Weaving- & knitting-machine operators                                                                
+PA11,8263,Sewing-machine operators                                                                             
+PA11,8264,"Bleaching-, dyeing- & cleaning-machine operators                                                     "
+PA11,8265,Fur- & leather-preparing-machine operators                                                           
+PA11,8266,Shoemaking- etc machine operators                                                                    
+PA11,8269,"Textile-, fur- & leather-products machine operators nec                                              "
+PA11,8270,FOOD ETC PRODUCTS MACHINE OPERATORS                                                                  
+PA11,8271,Meat- & fish-processing-machine operators                                                            
+PA11,8272,Dairy-products machine operators                                                                     
+PA11,8273,Grain- & spice-milling-machine operators                                                             
+PA11,8274,Baked-goods cereal & chocolate-products machine operators                                            
+PA11,8275,"Fruit-, vegetable- & nut-processing-machine operators                                                "
+PA11,8276,Sugar production machine operators                                                                   
+PA11,8277,"Tea-, coffee- & cocoa-processing-machine operators                                                   "
+PA11,8278,Brewers- wine & other beverage machine operators                                                     
+PA11,8279,Tobacco production machine operators                                                                 
+PA11,8280,ASSEMBLERS                                                                                           
+PA11,8281,Mechanical-machinery assemblers [incl. Car Assembly Line Worker]                                     
+PA11,8282,Electrical-equipment assemblers                                                                      
+PA11,8283,Electronic-equipment assemblers                                                                      
+PA11,8284,"Metal-, rubber- & plastic-products assemblers                                                        "
+PA11,8285,Wood etc products assemblers                                                                         
+PA11,8286,"Paperboard, textile etc products assemblers                                                          "
+PA11,8290,OTHER MACHINE OPERATORS & ASSEMBLERS                                                                 
+PA11,8300,DRIVERS & MOBILE-PLANT OPERATORS                                                                     
+PA11,8310,LOCOMOTIVE-ENGINE DRIVERS ETC WORKERS                                                                
+PA11,8311,Locomotive-engine drivers                                                                            
+PA11,8312,Railway brakers signallers & shunters                                                                
+PA11,8320,MOTOR-VEHICLE DRIVERS [incl. Driver nfs]                                                             
+PA11,8321,Motor-cycle drivers                                                                                  
+PA11,8322,"Car, taxi & van drivers [incl. Taxi Owner nfs]                                                       "
+PA11,8323,Bus & tram drivers                                                                                   
+PA11,8324,Heavy truck & lorry drivers                                                                          
+PA11,8330,AGRICULTURAL & OTHER MOBILE PLANT OPERATORS                                                          
+PA11,8331,Motorised farm & forestry plant operators [incl. Tractor Driver]                                     
+PA11,8332,Earth-moving- etc plant operators [incl. Bulldozer Driver]                                           
+PA11,8333,"Crane, hoist etc plant operators                                                                     "
+PA11,8334,Lifting-truck operators                                                                              
+PA11,8340,"SHIPS DECK CREWS ETC WORKERS [incl. Boatman, Deck Hand, Sailor]                                      "
+PA11,8400,SEMI-SKILLED WORKERS NFS [Incl. Production Process Worker nfs]                                       
+PA11,9000,ELEMENTARY OCCUPATIONS                                                                               
+PA11,9100,SALES & SERVICES ELEMENTARY OCCUPATIONS                                                              
+PA11,9110,STREET VENDORS ETC WORKERS                                                                           
+PA11,9111,Street food vendors                                                                                  
+PA11,9112,"Street vendors non-food products [incl. Hawker, Pedlar]                                              "
+PA11,9113,"Door-to-door & tel. salespersons [incl. Solicitor, Canvasser]                                        "
+PA11,9120,STREET SERVICES ELEMENTARY OCCUPATIONS [incl. Billposter]                                            
+PA11,9130,DOMESTIC ETC HELPERS CLEANERS & LAUNDERERS                                                           
+PA11,9131,"Domestic helpers & cleaners [incl. Housemaid, Housekeeper nfs]                                       "
+PA11,9132,"Helpers & cleaners in establishments [Kitchen Hand, Chambermaid]                                     "
+PA11,9133,Hand-launderers & pressers                                                                           
+PA11,9140,"BUILDING CARETAKERS, WINDOW ETC CLEANERS                                                             "
+PA11,9141,"Building caretakers [incl. Janitor, Sexton, Verger]                                                  "
+PA11,9142,"Vehicle, window etc cleaners                                                                         "
+PA11,9150,"MESSENGERS, PORTERS, DOORKEEPERS ETC WORKERS                                                         "
+PA11,9151,"Messengers, package & luggage porters & deliverers                                                   "
+PA11,9152,"Doorkeepers, watch-persons etc workers                                                               "
+PA11,9153,"Vending-machine money collectors, meter readers etc workers                                          "
+PA11,9160,GARBAGE COLLECTORS ETC LABOURERS                                                                     
+PA11,9161,Garbage collectors [incl. Dustwoman]                                                                 
+PA11,9162,Sweepers etc labourers [incl. Odd-Job Worker]                                                        
+PA11,9200,"AGRICULTURAL, FISHERY ETC LABOURERS                                                                  "
+PA11,9210,"AGRICULTURAL, FISHERY ETC LABOURERS                                                                  "
+PA11,9211,"Farm-hands & labourers [incl. Cowherd, Farm Helper, Fruit Picker]                                    "
+PA11,9212,Forestry labourers                                                                                   
+PA11,9213,"Fishery, hunting & trapping labourers                                                                "
+PA11,9300,"LABOURERS IN MINING, CONSTRUCTION, MANUFACTURING & TRANSPORT                                         "
+PA11,9310,MINING & CONSTRUCTION LABOURERS                                                                      
+PA11,9311,Mining & quarrying labourers                                                                         
+PA11,9312,Construction & maintenance labourers: roads dams etc                                                 
+PA11,9313,"Building construction labourers [incl. Handyman, Hod Carrier]                                        "
+PA11,9320,MANUFACTURING LABOURERS                                                                              
+PA11,9321,"Assembling labourers [incl. Sorter, Bottle Sorter, Winder]                                           "
+PA11,9322,Handpackers & other manufacturing labourers [incl. Crater]                                           
+PA11,9330,TRANSPORT LABOURERS & FREIGHT HANDLERS                                                               
+PA11,9331,Hand or pedal vehicle drivers [incl. Rickshaw Driver]                                                
+PA11,9332,Drivers of animal-drawn vehicles & machinery                                                         
+PA11,9333,"Freight handlers [incl. Docker, Loader, Longshoreman, Remover]                                       "
+PA11,9501,Housewife                                                                                            
+PA11,9502,Student                                                                                              
+PA11,9503,"Social beneficiary (unemployed, retired, sickness, etc.)                                             "
+PA11,9504,Do not know                                                                                          
+PA11,9505,"Vague(a good job, a quiet job, a well paid job, an office job)                                       "
+PA11,9997,N/A                                                                                                  
+PA11,9998,Invalid                                                                                              
+PA11,9999,Missing                                                                                             
+PA09,1001,Less than 100 leva                                             
+PA09,1002,100 leva or more - less than 500 leva                          
+PA09,1003,500 leva or more - less than 1000 leva                         
+PA09,1004,1000 leva or more - less than 1500 leva                        
+PA09,1005,1500 leva or more                                              
+PA09,1701,Less than COP 50000                                           
+PA09,1702,COP 50000 or more - less than COP500000                      
+PA09,1703,COP500000 or more - less than COP1000000                     
+PA09,1704,COP1000000 or more - less than COP1500000                    
+PA09,1705,COP1500000 or more                                            
+PA09,2761,Less than 10 eruo                                              
+PA09,2762,10 eruo or more - less than 1200 euro                          
+PA09,2763,1200 euro or more - less than 2400 euro                        
+PA09,2764,2400 euro or more - less than 3600 euro                        
+PA09,2765,3600 euro or more                                              
+PA09,2081,Less than 500 Dkr                                              
+PA09,2082,500 Dkr or more - less than 4000 Dkr                           
+PA09,2083,4000 Dkr or more - less than 8000 Dkr                          
+PA09,2084,8000 Dkr or more - less than 12000 Dkr                         
+PA09,2085,12000 Dkr or more                                              
+PA09,3441,Less than HK5000                                              
+PA09,3442,HK5000 or more - less than HK10000                           
+PA09,3443,HK10000 or more - less than HK50000                          
+PA09,3444,HK50000 or more - less than HK100000                         
+PA09,3445,HK100000 or more                                              
+PA09,1911,Less than 2000 kuna                                            
+PA09,1912,2000 kuna or more - less than 5000 kuna                        
+PA09,1913,5000 kuna or more - less than 8000 kuna                        
+PA09,1914,8000 kuna or more - less than 11000 kuna                       
+PA09,1915,11000 kuna or more                                             
+PA09,3521,Less than 10000 Ikr                                            
+PA09,3522,10000 Ikr or more - less than 50000 Ikr                        
+PA09,3523,50000 Ikr or more - less than 90000 Ikr                        
+PA09,3524,90000 Ikr or more - less than 130000 Ikr                       
+PA09,3525,130000 Ikr or more                                             
+PA09,3801,Less than 100 euro                                             
+PA09,3802,100 euro or more - less than 200 euro                          
+PA09,3803,200 euro or more - less than 300 euro                          
+PA09,3804,300 euro or more - less than 400 euro                          
+PA09,3805,400 euro or more                                               
+PA09,4101,Less than 1500000 won                                          
+PA09,4102,1500000 won or more - less than 3000000 won                    
+PA09,4103,3000000 won or more - less than 4500000 won                    
+PA09,4104,4500000 won or more - less than 6000000 won                    
+PA09,4105,6000000 won or more                                            
+PA09,4421,Less than 100 euro                                             
+PA09,4422,100 euro or more - less than 800 euro                          
+PA09,4423,800 euro or more - less than 1600 euro                         
+PA09,4424,1600 euro or more - less than 2400 euro                        
+PA09,4425,2400 euro or more                                              
+PA09,4461,Less than MOP10000                                            
+PA09,4462,MOP10000 or more - less than MOP20000                        
+PA09,4463,MOP20000 or more - less than MOP30000                        
+PA09,4464,MOP30000 or more - less than MOP40000                        
+PA09,4465,MOP40000 or more                                              
+PA09,5541,Less than NZ200                                               
+PA09,5542,NZ200 or more - less than NZ3000                             
+PA09,5543,NZ3000 or more - less than NZ6000                            
+PA09,5544,NZ6000 or more - less than NZ9000                            
+PA09,5545,NZ9000 or more                                                
+PA09,6161,Less than 300 zlotych                                          
+PA09,6162,300 zlotych or more - less than 600 zlotych                    
+PA09,6163,600 zlotych or more - less than 1200 zlotych                   
+PA09,6164,1200 zlotych or more - less than 2500 zlotych                  
+PA09,6165,2500 zlotych or more                                           
+PA09,6201,Less than 20 euro                                              
+PA09,6202,20 euro or more - less than 4000 euro                          
+PA09,6203,4000 euro or more - less than 8000 euro                        
+PA09,6204,8000 euro or more - less than 12000 euro                       
+PA09,6205,12000 euro or more                                             
+PA09,6341,Less than QR 1000                                              
+PA09,6342,QR 1000 or more - less than QR 6000                            
+PA09,6343,QR 6000 or more - less than QR 11000                           
+PA09,6344,QR 11000 or more - less than QR 16000                          
+PA09,6345,QR 16000 or more                                               
+PA09,7921,Less than YTL 600                                              
+PA09,7922,YTL 600 or more - less than YTL 1200                           
+PA09,7923,YTL 1200 or more - less than YTL 5000                          
+PA09,7924,YTL 5000 or more - less than YTL 15000                         
+PA09,7925,YTL 15000 or more       
+PA09,9998,Invalid
+PA09,9999,Missing
+ INCOME,1001,Less than 2000 leva                                                    
+ INCOME,1002,2000 leva or more - less than 3000 leva                                
+ INCOME,1003,3000 leva or more - less than 4000 leva                                
+ INCOME,1004,4000 leva or more - less than 5000 leva                                
+ INCOME,1005,5000 leva or more - less than 6000 leva                                
+ INCOME,1006,6000 leva or more                                                      
+ INCOME,1701,Less than COP6000000                                                  
+ INCOME,1702,COP6000000 or more - less than COP9000000                            
+ INCOME,1703,COP9000000 or more - less than COP12000000                           
+ INCOME,1704,COP12000000 or more - less than COP15000000                          
+ INCOME,1705,COP15000000 or more - less than COP18000000                          
+ INCOME,1716,COP18000000 or more                                                   
+ INCOME,2761,Less than 20000 euro                                                   
+ INCOME,2762,20000 euro or more - less than 30000 euro                              
+ INCOME,2763,30000 euro or more - less than 40000 euro                              
+ INCOME,2764,40000 euro or more - less than 50000 euro                              
+ INCOME,2765,50000 euro or more - less than 60000 euro                              
+ INCOME,2766,60000 euro or more                                                     
+ INCOME,2081,Less than 200000 Dkr                                                   
+ INCOME,2082,200000 Dkr or more - less than 300000 Dkr                              
+ INCOME,2083,300000 Dkr or more - less than 400000 Dkr                              
+ INCOME,2084,400000 Dkr or more - less than 500000 Dkr                              
+ INCOME,2085,500000 Dkr or more - less than 600000 Dkr                              
+ INCOME,2086,600000 Dkr or more                                                     
+ INCOME,3441,Less than HK10000                                                     
+ INCOME,3442,HK10000 or more - less than HK15000                                  
+ INCOME,3443,HK15000 or more - less than HK20000                                  
+ INCOME,3444,HK20000 or more - less than HK25000                                  
+ INCOME,3445,HK25000 or more - less than HK30000                                  
+ INCOME,3446,HK30000 or more                                                       
+ INCOME,1911,Less than 2000 kuna                                                    
+ INCOME,1912,2000 kuna or more - less than 4000 kuna                                
+ INCOME,1913,4000 kuna or more - less than 6000 kuna                                
+ INCOME,1914,6000 kuna or more - less than 8000 kuna                                
+ INCOME,1915,8000 kuna or more - less than 10000 kuna                               
+ INCOME,1916,10000 kuna or more                                                     
+ INCOME,3521,Less than 2250000 Ikr                                                  
+ INCOME,3522,2250000 Ikr or more - less than 3375000 Ikr                            
+ INCOME,3523,3375000 Ikr or more - less than 4500000 Ikr                            
+ INCOME,3524,4500000 Ikr or more - less than 5625000 Ikr                            
+ INCOME,3525,5625000 Ikr or more - less than 6750000 Ikr                            
+ INCOME,3526,6750000 Ikr or more                                                    
+ INCOME,4101,Less than 15000000 won                                                 
+ INCOME,4102,15000000 won or more - less than 25000000 won                          
+ INCOME,4103,25000000 won or more - less than 35000000 won                          
+ INCOME,4104,35000000 won or more - less than 45000000 won                          
+ INCOME,4105,45000000 won or more - less than 55000000 won                          
+ INCOME,4106,55000000 won or more                                                   
+ INCOME,4421,Less than 20000 euro                                                   
+ INCOME,4422,20000 euro or more - less than 35000 euro                              
+ INCOME,4423,35000 euro or more - less than 50000 euro                              
+ INCOME,4424,50000 euro or more - less than 65000 euro                              
+ INCOME,4425,65000 euro or more - less than 80000 euro                              
+ INCOME,4426,80000 euro or more                                                     
+ INCOME,4461,Less than MOP72000                                                    
+ INCOME,4462,MOP72000 or more - less than MOP144000                               
+ INCOME,4463,MOP144000 or more - less than MOP216000                              
+ INCOME,4464,MOP216000 or more - less than MOP288000                              
+ INCOME,4465,MOP288000 or more - less than MOP360000                              
+ INCOME,4466,MOP360000 or more                                                     
+ INCOME,5541,Less than NZ30000                                                     
+ INCOME,5542,NZ30000 or more - less than NZ45000                                  
+ INCOME,5543,NZ45000 or more - less than NZ60000                                  
+ INCOME,5544,NZ60000 or more - less than NZ75000                                  
+ INCOME,5545,NZ75000 or more - less than NZ90000                                  
+ INCOME,5546,NZ90000 or more                                                       
+ INCOME,6161,Less than 600 zlotych                                                  
+ INCOME,6162,600 zlotych or more - less than 1200 zlotych                           
+ INCOME,6163,1200 zlotych or more - less than 1800 zlotych                          
+ INCOME,6164,1800 zlotych or more - less than 2400 zlotych                          
+ INCOME,6165,2400 zlotych or more - less than 3000 zlotych                          
+ INCOME,6166,3000 zlotych or more                                                   
+ INCOME,6201,Less than 1000 euro                                                    
+ INCOME,6202,1000 euro or more - less than 15000 euro                               
+ INCOME,6203,15000 euro or more - less than 20000 euro                              
+ INCOME,6204,20000 euro or more - less than 25000 euro                              
+ INCOME,6205,25000 euro or more - less than 30000 euro                              
+ INCOME,6206,30000 euro or more                                                     
+ INCOME,6341,Less than QR 50000                                                     
+ INCOME,6342,QR 50000 or more - less than QR 75000                                  
+ INCOME,6343,QR 75000 or more - less than QR 100000                                 
+ INCOME,6344,QR 100000 or more - less than QR 125000                                
+ INCOME,6345,QR 125000 or more - less than QR 150000                                
+ INCOME,6346,QR 150000 or more                                                      
+ INCOME,7921,Less than YTL 6000                                                     
+ INCOME,7922,YTL 6000 or more - less than YTL 12000                                 
+ INCOME,7923,YTL 12000 or more - less than YTL 24000                                
+ INCOME,7924,YTL 24000 or more - less than YTL 48000                                
+ INCOME,7925,YTL 48000 or more - less than YTL 72000                                
+ INCOME,7926,YTL 72000 or more
+ INCOME,9998,Invalid
+ INCOME,9999,Missing 
