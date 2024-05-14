@@ -2,9 +2,7 @@ library("tidyverse")
 library("arrow")
 library("haven")
 
-source("src/helpers/helpers.R")
-
-cli_h1('PISA 2018')
+source("src/helpers.R")
 
 cli_progress_step("Load data")
 
@@ -15,11 +13,11 @@ IDENTIFIERS <- c("cntstuid")
 # this may take a while and it will take up a couple of gigabytes of storage space so
 # beware if you have a full drive
 files <- tempfile()
-unzip("data/2018/SPSS_STU_QQQ.zip", exdir = files, unzip = "/usr/bin/unzip")
+unzip("data/2022/STU_QQQ_SPSS.zip", exdir = files, unzip = "/usr/bin/unzip")
 
 # the SPSS files are nicer to work with than the SAS ones, in particular
 # they support factor labels and missingness labels for numeric columns
-raw <- read_sav(file.path(files, "STU/CY07_MSU_STU_QQQ.sav"), user_na = TRUE)
+raw <- read_sav(file.path(files, "CY08MSP_STU_QQQ.sav"), user_na = TRUE)
 colnames(raw) <- str_to_lower(colnames(raw))
 
 unlink(files, recursive = TRUE)
@@ -47,8 +45,9 @@ extracted <- extract_flags(
 processed <- extracted$data
 flags <- extracted$metadata
 
-# check whether extraction of missingness flags worked as intended
-sniff_sentinels(processed)
+# check whether sentinels were successfully extracted
+problems <- sniff_sentinels(processed, treshold = 10)
+write_csv(problems, 'build/2022/problems/flags/students.csv')
 
 
 
@@ -59,30 +58,6 @@ sniff_sentinels(processed)
 processed$country_iso <- remove_labels(raw$cnt)
 processed$country_id <- remove_labels(raw$cntryid)
 processed$stratum_id <- remove_labels(raw$stratum)
-
-
-
-#### Errata, manual conversions etc. ####
-
-print("Downcasting floats to integers wherever appropriate")
-
-integers <- c(
-  "bookid",
-  "st001d01t", # grade
-  "st003d02t", # birth month
-  "st003d03t", # birth year
-  "mmins",
-  "lmins",
-  "smins",
-  "tmins",
-  "change",
-  "icthome"
-)
-
-for (integer in integers) {
-  processed[, integer] <- as.integer(processed[[integer]])
-}
-
 
 
 
@@ -100,12 +75,12 @@ processed <- unlabel_numbers(processed)
 
 cli_progress_step("Write to parquet dataset")
 
-write_parquet(processed, "build/2018.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(processed, "build/2022/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
-write_parquet(flags, "build/flags/2018.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(flags, "build/2022/flags/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
 cli_progress_done()

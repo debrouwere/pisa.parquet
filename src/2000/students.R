@@ -3,9 +3,7 @@ library("arrow")
 library("haven")
 library("cli")
 
-source("src/helpers/helpers.R")
-
-cli_h1('PISA 2000')
+source("src/helpers.R")
 
 cli_progress_step("Load data")
 
@@ -94,9 +92,8 @@ processed <- extracted$data
 flags <- extracted$metadata
 
 # check whether sentinels were successfully extracted
-# sniff_sentinels(raw, treshold=10)
 problems <- sniff_sentinels(processed, treshold = 10)
-write_csv(problems, 'build/problems/flags/2000.csv')
+write_csv(problems, 'build/2000/problems/flags/students.csv')
 
 
 
@@ -202,12 +199,12 @@ cli_progress_done()
 
 cli_progress_step("Write to parquet dataset")
 
-write_parquet(processed, "build/2000.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(processed, "build/2000/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
-write_parquet(flags, "build/flags/2000.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(flags, "build/2000/flags/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
 cli_progress_done()

@@ -2,9 +2,7 @@ library("tidyverse")
 library("arrow")
 library("haven")
 
-source("src/helpers/helpers.R")
-
-cli_h1('PISA 2015')
+source("src/helpers.R")
 
 cli_progress_step("Load data")
 
@@ -47,8 +45,9 @@ extracted <- extract_flags(
 processed <- extracted$data
 flags <- extracted$metadata
 
-# check whether extraction of missingness flags worked as intended
-sniff_sentinels(processed)
+# check whether sentinels were successfully extracted
+problems <- sniff_sentinels(processed, treshold = 10)
+write_csv(problems, 'build/2015/problems/flags/students.csv')
 
 
 
@@ -103,12 +102,12 @@ processed <- unlabel_numbers(processed)
 
 cli_progress_step("Write to parquet dataset")
 
-write_parquet(processed, "build/2015.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(processed, "build/2015/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
-write_parquet(flags, "build/flags/2015.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(flags, "build/2015/flags/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
 cli_progress_done()

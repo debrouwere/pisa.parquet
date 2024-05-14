@@ -2,18 +2,16 @@ library("tidyverse")
 library("arrow")
 library("haven")
 
-source("src/helpers/helpers.R")
-
-cli_h1('PISA 2009')
+source("src/helpers.R")
 
 cli_progress_step("Load data")
 
 IDENTIFIERS <- c("country", "schoolid", "stidstd")
 
-positions <- read_csv("src/2009/student/positions.csv")
-labels <- read_csv("src/2009/student/labels.csv")
-factors <- read_csv("src/2009/student/factors.csv")
-levels <- read_csv("src/2009/student/levels.csv")
+positions <- read_csv("src/2006/student/positions.csv")
+labels <- read_csv("src/2006/student/labels.csv")
+factors <- read_csv("src/2006/student/factors.csv")
+levels <- read_csv("src/2006/student/levels.csv")
 
 # when not using the fwf_positions function, read_fwf positions
 # should be encoded as (begin - 1, end), presumably so that
@@ -26,7 +24,7 @@ factors$factor <- str_to_lower(factors$factor)
 factors$levels <- str_to_lower(factors$levels)
 levels$column <- str_to_lower(levels$column)
 
-raw <- read_fwf("data/2009/INT_STQ09_DEC11.zip", col_positions = positions)
+raw <- read_fwf("data/2006/INT_Stu06_Dec07.zip", col_positions = positions)
 processed <- raw
 
 cli_progress_done()
@@ -52,14 +50,14 @@ extracted <- extract_flags(
   data = processed,
   metadata = processed |> select(all_of(IDENTIFIERS)),
   colspecs = positions,
-  suffixes = 6:9
+  suffixes = 7:9
 )
 processed <- extracted$data
 flags <- extracted$metadata
 
 # check whether sentinels were successfully extracted
-# sniff_sentinels(raw, treshold=10)
-sniff_sentinels(processed, treshold = 10)
+problems <- sniff_sentinels(processed, treshold = 10)
+write_csv(problems, 'build/2006/problems/flags/students.csv')
 
 
 
@@ -77,9 +75,9 @@ processed$stratum_id <- processed$stratum
 
 cli_progress_step("Merge backported ESCS scale")
 
-# PISA 2009 does not contain an ESCS measure but does contain all of its components;
+# PISA 2006 does not contain an ESCS measure but does contain all of its components;
 # the ESCS measure was later backported to allow for easier comparison between editions
-escs <- read_sas("data/trend_escs/escs_2009.sas7bdat")
+escs <- read_sas("data/trend_escs/escs_2006.sas7bdat")
 processed <- left_join(processed, escs, by = c("cnt", "schoolid", "stidstd"))
 
 cli_progress_done()
@@ -118,10 +116,9 @@ for (integer in integers) {
 print("Detecting factor variables")
 
 factors <- annotate_pseudofactors(factors, levels)
-true_factors <- factors |> filter(is_factor == TRUE)
+true_factors <- factors %>% filter(is_factor == TRUE)
 
 # convert numerical factor codes into factors with levels and labels
-
 processed <- chars_to_factors(processed, true_factors, levels)
 
 
@@ -129,12 +126,12 @@ processed <- chars_to_factors(processed, true_factors, levels)
 
 cli_progress_step("Write to parquet dataset")
 
-write_parquet(processed, "build/2009.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(processed, "build/2006/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
-write_parquet(flags, "build/flags/2009.parquet",
-  compression = "zstd", compression_level = 10
+write_parquet(flags, "build/2006/flags/students.parquet",
+              compression = "zstd", compression_level = 10
 )
 
 cli_progress_done()
