@@ -4,20 +4,20 @@ include .Renviron
 
 # no sense in uploading the data, when we actually want to data remotely and then download
 upload:
-	rsync --recursive --verbose --partial --progress --exclude '.*' --exclude 'data/*' --exclude 'renv/*' . ${PISA_data_SERVER}:${PISA_REMOTE_PATH}
+	rsync --recursive --verbose --partial --progress --exclude '.*' --exclude 'data/*' --exclude 'renv/*' . ${PISA_BUILD_SERVER}:${PISA_REMOTE_PATH}
 
 # when on wifi, consider that sneakernet is considerably faster
 download:
-	rsync --recursive --verbose --partial --progress ${PISA_data_SERVER}:${PISA_REMOTE_PATH}/data .
+	rsync --recursive --verbose --partial --progress ${PISA_BUILD_SERVER}:${PISA_REMOTE_PATH}/data .
 
 snapshot:
 	Rscript -e 'renv::snapshot()'
 
 update: snapshot upload
-	ssh ${PISA_data_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript -e 'renv::restore()'"
+	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript -e 'renv::restore()'"
 
 build:
-	ssh ${PISA_data_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript src/2000/convert.R; Rscript src/2003/convert.R; Rscript src/2006/convert.R; Rscript src/2009/convert.R; Rscript src/2012/convert.R; Rscript src/2015/convert.R; Rscript src/2018/convert.R; Rscript src/2022/convert.R"
+	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript src/2000/convert.R; Rscript src/2003/convert.R; Rscript src/2006/convert.R; Rscript src/2009/convert.R; Rscript src/2012/convert.R; Rscript src/2015/convert.R; Rscript src/2018/convert.R; Rscript src/2022/convert.R"
 
 data:
   # 2000
