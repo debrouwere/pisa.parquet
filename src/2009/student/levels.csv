@@ -1,0 +1,3861 @@
+column,key,value
+CNT,ALB,Albania
+CNT,ARG,Argentina
+CNT,AUS,Australia
+CNT,AUT,Austria
+CNT,AZE,Azerbaijan
+CNT,BEL,Belgium
+CNT,BRA,Brazil
+CNT,BGR,Bulgaria
+CNT,CAN,Canada
+CNT,CHL,Chile
+CNT,TAP,Chinese Taipei
+CNT,COL,Colombia
+CNT,HRV,Croatia
+CNT,CZE,Czech Republic
+CNT,DNK,Denmark
+CNT,EST,Estonia
+CNT,FIN,Finland
+CNT,FRA,France
+CNT,DEU,Germany
+CNT,GRC,Greece
+CNT,HKG,Hong Kong-China
+CNT,HUN,Hungary
+CNT,ISL,Iceland
+CNT,IDN,Indonesia
+CNT,IRL,Ireland
+CNT,ISR,Israel
+CNT,ITA,Italy
+CNT,JPN,Japan
+CNT,JOR,Jordan
+CNT,KAZ,Kazakhstan
+CNT,KOR,Korea
+CNT,KGZ,Kyrgyzstan
+CNT,LVA,Latvia
+CNT,LIE,Liechtenstein
+CNT,LTU,Lithuania
+CNT,LUX,Luxembourg
+CNT,MAC,Macao-China
+CNT,MEX,Mexico
+CNT,MNE,Montenegro
+CNT,NLD,Netherlands
+CNT,NZL,New Zealand
+CNT,NOR,Norway
+CNT,PAN,Panama
+CNT,PER,Peru
+CNT,POL,Poland
+CNT,PRT,Portugal
+CNT,QAT,Qatar
+CNT,ROU,Romania
+CNT,RUS,Russian Federation
+CNT,SRB,Serbia
+CNT,QCN,Shanghai-China
+CNT,SGP,Singapore
+CNT,SVK,Slovak Republic
+CNT,SVN,Slovenia
+CNT,ESP,Spain
+CNT,SWE,Sweden
+CNT,CHE,Switzerland
+CNT,THA,Thailand
+CNT,TTO,Trinidad and Tobago
+CNT,TUN,Tunisia
+CNT,TUR,Turkey
+CNT,GBR,United Kingdom
+CNT,USA,United States
+CNT,URY,Uruguay
+CNT,CRI,Costa Rica
+CNT,ARE,United Arab Emirates
+CNT,GEO,Georgia
+CNT,MYS,Malaysia
+CNT,MLT,Malta
+CNT,MUS,Mauritius
+CNT,MDA,Republic of Moldova
+CNT,QHP,Himachal Pradesh-India
+CNT,QTN,Tamil Nadu-India
+CNT,QVE,Miranda-Venezuela
+Country,008,Albania
+Country,032,Argentina
+Country,036,Australia
+Country,040,Austria
+Country,031,Azerbaijan
+Country,056,Belgium
+Country,076,Brazil
+Country,100,Bulgaria
+Country,124,Canada
+Country,152,Chile
+Country,158,Chinese Taipei
+Country,170,Colombia
+Country,191,Croatia
+Country,203,Czech Republic
+Country,208,Denmark
+Country,233,Estonia
+Country,246,Finland
+Country,250,France
+Country,276,Germany
+Country,300,Greece
+Country,344,Hong Kong-China
+Country,348,Hungary
+Country,352,Iceland
+Country,360,Indonesia
+Country,372,Ireland
+Country,376,Israel
+Country,380,Italy
+Country,392,Japan
+Country,400,Jordan
+Country,398,Kazakhstan
+Country,410,Korea
+Country,417,Kyrgyzstan
+Country,428,Latvia
+Country,438,Liechtenstein
+Country,440,Lithuania
+Country,442,Luxembourg
+Country,446,Macao-China
+Country,484,Mexico
+Country,499,Montenegro
+Country,528,Netherlands
+Country,554,New Zealand
+Country,578,Norway
+Country,591,Panama
+Country,604,Peru
+Country,616,Poland
+Country,620,Portugal
+Country,634,Qatar
+Country,642,Romania
+Country,643,Russian Federation
+Country,688,Serbia
+Country,156,Shanghai-China
+Country,702,Singapore
+Country,703,Slovak Republic
+Country,705,Slovenia
+Country,724,Spain
+Country,752,Sweden
+Country,756,Switzerland
+Country,764,Thailand
+Country,780,Trinidad and Tobago
+Country,788,Tunisia
+Country,792,Turkey
+Country,826,United Kingdom
+Country,840,United States
+Country,858,Uruguay
+Country,188,Costa Rica
+Country,784,United Arab Emirates
+Country,268,Georgia
+Country,458,Malaysia
+Country,470,Malta
+Country,480,Mauritius
+Country,498,Republic of Moldova
+Country,356,India (2009 States)
+Country,862,Miranda-Venezuela
+SUBNATIO,00800,Albania
+SUBNATIO,03100,Azerbaijan
+SUBNATIO,03200,Argentina
+SUBNATIO,03600,Australia
+SUBNATIO,04000,Austria
+SUBNATIO,05601,Belgium (Flemish Community)
+SUBNATIO,05600,Belgium (French & German regions) (not adjudicated)
+SUBNATIO,07600,Brazil
+SUBNATIO,10000,Bulgaria
+SUBNATIO,12400,Canada
+SUBNATIO,15200,Chile
+SUBNATIO,15600,Shanghai-China
+SUBNATIO,15800,Chinese Taipei
+SUBNATIO,17000,Colombia
+SUBNATIO,19100,Croatia
+SUBNATIO,20300,Czech Republic
+SUBNATIO,20800,Denmark
+SUBNATIO,23300,Estonia
+SUBNATIO,24600,Finland
+SUBNATIO,25000,France
+SUBNATIO,27600,Germany
+SUBNATIO,30000,Greece
+SUBNATIO,34400,Hong Kong-China
+SUBNATIO,34800,Hungary
+SUBNATIO,35200,Iceland
+SUBNATIO,36000,Indonesia
+SUBNATIO,37200,Ireland
+SUBNATIO,37600,Israel
+SUBNATIO,38000,Italy
+SUBNATIO,39200,Japan
+SUBNATIO,39800,Kazakhstan
+SUBNATIO,40000,Jordan
+SUBNATIO,41000,Korea
+SUBNATIO,41700,Kyrgyzstan
+SUBNATIO,42800,Latvia
+SUBNATIO,43800,Liechtenstein
+SUBNATIO,44000,Lithuania
+SUBNATIO,44200,Luxembourg
+SUBNATIO,44600,Macao-China
+SUBNATIO,48400,Mexico
+SUBNATIO,49900,Montenegro
+SUBNATIO,52800,Netherlands
+SUBNATIO,55400,New Zealand
+SUBNATIO,57800,Norway
+SUBNATIO,59100,Panama
+SUBNATIO,60400,Peru
+SUBNATIO,61600,Poland
+SUBNATIO,62000,Portugal
+SUBNATIO,63400,Qatar
+SUBNATIO,64200,Romania
+SUBNATIO,64300,Russian Federation
+SUBNATIO,68800,Serbia
+SUBNATIO,70200,Singapore
+SUBNATIO,70300,Slovak Republic
+SUBNATIO,70500,Slovenia
+SUBNATIO,72401,Spain (Andalusia)
+SUBNATIO,72402,Spain (Aragon)
+SUBNATIO,72403,Spain (Asturias)
+SUBNATIO,72404,Spain (Balearic Islands)
+SUBNATIO,72405,Spain (Canary Islands)
+SUBNATIO,72406,Spain (Cantabria)
+SUBNATIO,72407,Spain (Castile and Leon)
+SUBNATIO,72409,Spain (Catalonia)
+SUBNATIO,72411,Spain (Galicia)
+SUBNATIO,72412,Spain (La Rioja)
+SUBNATIO,72413,Spain (Madrid)
+SUBNATIO,72414,Spain (Murcia)
+SUBNATIO,72415,Spain (Navarre)
+SUBNATIO,72416,Spain (Basque Country)
+SUBNATIO,72418,Spain (Ceuta and Melilla)
+SUBNATIO,72499,Rest of Spain (not adjudicated)
+SUBNATIO,75200,Sweden
+SUBNATIO,75600,Switzerland
+SUBNATIO,76400,Thailand
+SUBNATIO,78000,Trinidad and Tobago
+SUBNATIO,78800,Tunisia
+SUBNATIO,79200,Turkey
+SUBNATIO,82600,"United Kingdom (England, Wales & Northern Ireland"
+SUBNATIO,82620,United Kingdom (Scotland)
+SUBNATIO,84000,United States
+SUBNATIO,85800,Uruguay
+SUBNATIO,18800,Costa Rica
+SUBNATIO,78400,Dubai
+SUBNATIO,78420,ARE (ex DUBAI)
+SUBNATIO,26800,Georgia
+SUBNATIO,45800,Malaysia
+SUBNATIO,47000,Malta
+SUBNATIO,48000,Mauritius
+SUBNATIO,49800,Republic of Moldova
+SUBNATIO,35601,Himachal Pradesh-India
+SUBNATIO,35602,Tamil Nadu-India
+SUBNATIO,86201,Miranda-Venezuela
+OECD,0,Non-OECD
+OECD,1,OECD
+ST01,96,Ungraded
+ST01,97,N/A
+ST01,98,Invalid
+ST01,99,Miss
+ST02,97,N/A
+ST02,98,Invalid
+ST02,99,Miss
+ST03,97,N/A
+ST03,98,Invalid
+ST03,99,Miss
+ST03,9997,N/A
+ST03,9998,Invalid
+ST03,9999,Missing
+ST04,1,Female
+ST04,2,Male
+ST04,7,N/A
+ST04,8,Invalid
+ST04,9,Miss
+ST05,1,No
+ST05,2,"Yes, one year or less"
+ST05,3,"Yes, more than one year"
+ST05,7,N/A
+ST05,8,Invalid
+ST05,9,Miss
+ST06,9997,N/A
+ST06,9998,Invalid
+ST06,9999,Miss
+ST07,1,"No, never"
+ST07,2,"Yes, once"
+ST07,3,"Yes, twice or more"
+ST07,7,N/A
+ST07,8,Invalid
+ST07,9,Miss
+ST08,1,Yes
+ST08,2,No
+ST08,7,N/A
+ST08,8,Invalid
+ST08,9,Miss
+ST10,1,<ISCED level 3A>
+ST10,2,"<ISCED level 3B, 3C>"
+ST10,3,<ISCED level 2>
+ST10,4,<ISCED level 1>
+ST10,5,Did not complete <ISCED level 1>
+ST10,7,N/A
+ST10,8,Invalid
+ST10,9,Miss
+ST11,1,Yes
+ST11,2,No
+ST11,7,N/A
+ST11,8,Invalid
+ST11,9,Miss
+ST12,1,Working Full-time
+ST12,2,Working Part-Time
+ST12,3,Looking for work
+ST12,4,Other
+ST12,7,N/A
+ST12,8,Invalid
+ST12,9,Miss
+ST14,1,<ISCED level 3A>
+ST14,2,"<ISCED level 3B, 3C>"
+ST14,3,<ISCED level 2>
+ST14,4,<ISCED level 1>
+ST14,5,Did Not Complete <ISCED level 1>
+ST14,7,N/A
+ST14,8,Invalid
+ST14,9,Miss
+ST15,1,Yes
+ST15,2,No
+ST15,7,N/A
+ST15,8,Invalid
+ST15,9,Miss
+ST16,1,Working Full-time
+ST16,2,Working Part-Time
+ST16,3,Looking for work
+ST16,4,Other
+ST16,7,N/A
+ST16,8,Invalid
+ST16,9,Miss
+ST17,1,Country of test
+ST17,2,Other country
+ST17,7,N/A
+ST17,8,Invalid
+ST17,9,Miss
+ST18,9997,N/A
+ST18,9998,Invalid
+ST18,9999,Miss
+ST19,1,Language of test
+ST19,2,Another language
+ST19,7,N/A
+ST19,8,Invalid
+ST19,9,Miss
+ST20,1,Yes
+ST20,2,No
+ST20,7,N/A
+ST20,8,Invalid
+ST20,9,Miss
+ST20Q15,008001,ALB: Microwave
+ST20Q15,008002,ALB: No Microwave
+ST20Q15,031001,AZE: Satellite antenna
+ST20Q15,031002,AZE: No Satellite antenna
+ST20Q15,032001,ARG: Air conditioner
+ST20Q15,032002,ARG: No Air conditioner
+ST20Q15,036001,AUS: Cable/pay TV
+ST20Q15,036002,AUS: No Cable/pay TV
+ST20Q15,040001,AUT: Laptop/Notebook for your own use
+ST20Q15,040002,AUT: No Laptop/Notebook for your own use
+ST20Q15,056011,BEL(Flemish Community): Plasma or LCD television
+ST20Q15,056012,BEL(Flemish Community): No plasma or LCD television
+ST20Q15,056001,BEL(French/German Community): Home cinema (LCD screen)
+ST20Q15,056002,BEL(French/German Community): No Home cinema (LCD screen)
+ST20Q15,076001,BRA: Cable TV
+ST20Q15,076002,BRA: No Cable TV
+ST20Q15,100001,BGR: MP3 or MP4 player
+ST20Q15,100002,BGR: No MP3 or MP4 player
+ST20Q15,124001,CAN: IPOD®/An MP3 player
+ST20Q15,124002,CAN: No IPOD®/An MP3 player
+ST20Q15,152001,CHL: Cable TV
+ST20Q15,152002,CHL: No cable TV
+ST20Q15,156001,QCN: Vacuum collector
+ST20Q15,156002,QCN: No vacuum collecter
+ST20Q15,158001,"TAP: Piano, violin"
+ST20Q15,158002,"TAP: No piano, violin"
+ST20Q15,170001,COL: Digital camera
+ST20Q15,170002,COL: No Digital camera
+ST20Q15,191001,HRV: Plasma or LCD TV
+ST20Q15,191002,HRV: No Plasma or LCD TV
+ST20Q15,203001,CZE: Laptop/Notebook for your own use
+ST20Q15,203002,CZE: No own notebook (laptop)
+ST20Q15,208001,DNK: Piano
+ST20Q15,208002,DNK: No Piano
+ST20Q15,233001,EST: Video camera
+ST20Q15,233002,EST: No Video camera
+ST20Q15,246001,FIN: Laptop
+ST20Q15,246002,FIN: No Laptop
+ST20Q15,250001,FRA: Flat screen TV
+ST20Q15,250002,FRA: No flat screen TV
+ST20Q15,276001,"DEU: Video game console (Playstation, Nintendo, X-Box, Wii)"
+ST20Q15,276002,"DEU: No video game console (Playstation, Nintendo, X-Box, Wii)"
+ST20Q15,300001,GRC: Home cinema
+ST20Q15,300002,GRC: No Home cinema
+ST20Q15,344001,HKG: Plasma TV/LCD TV (40' or above)
+ST20Q15,344002,HKG: No Plasma TV/LCD TV (40' or above)
+ST20Q15,348001,HUN: Your own computer
+ST20Q15,348002,HUN: No own computer
+ST20Q15,352001,ISL: Jacuzzi
+ST20Q15,352002,ISL: No Jacuzzi
+ST20Q15,360001,IDN: Digital camera
+ST20Q15,360002,IDN: No Digital camera
+ST20Q15,372001,IRL: A flat-screen television
+ST20Q15,372002,IRL: No flat-screen television
+ST20Q15,376001,ISR: Jeep
+ST20Q15,376002,ISR: No Jeep
+ST20Q15,380001,ITA: Antique furniture
+ST20Q15,380002,ITA: No antique furniture
+ST20Q15,392001,JPN: Digital camera
+ST20Q15,392002,JPN: No Digital camera
+ST20Q15,398001,KAZ: Digital fotocamera
+ST20Q15,398002,KAZ: No Digital fotocamera
+ST20Q15,400001,JOR: Central heating
+ST20Q15,400002,JOR: No Central heating
+ST20Q15,410001,KOR: Air conditioner
+ST20Q15,410002,KOR: No air conditioner
+ST20Q15,417001,KGZ: A photocamera
+ST20Q15,417002,KGZ: No photocamera
+ST20Q15,428001,LVA: Notebook
+ST20Q15,428002,LVA: No Notebook
+ST20Q15,438001,LIE: A musical instrument (no flute)
+ST20Q15,438002,LIE: A musical instrument (no flute)
+ST20Q15,440001,LTU: Digital camera
+ST20Q15,440002,LTU: No digital camera
+ST20Q15,442001,LUX: Digital video-camera
+ST20Q15,442002,LUX: No digital video-camera
+ST20Q15,446001,MAC: Video game
+ST20Q15,446002,MAC: No Video game
+ST20Q15,484001,"MEX: Pay TV (Sky, cablevision, etc.)"
+ST20Q15,484002,"MEX: No Pay TV (Sky, cablevision, etc.)"
+ST20Q15,499001,MNE: Cable TV
+ST20Q15,499002,MNE: No Cable TV
+ST20Q15,528001,NLD: An alarm system on the house
+ST20Q15,528002,NLD: No an alarm system on the house
+ST20Q15,554001,NZL: A broad band internet connection
+ST20Q15,554002,NZL: No broad band internet connection
+ST20Q15,578001,NOR: Video camera (not including camera on mobile phone and photo camera)
+ST20Q15,578002,NOR: No Video camera (not including camera on mobile phone and photo camera)
+ST20Q15,591001,"PAN: Video games such as Wii, Nintendo, Game Cube"
+ST20Q15,591002,"PAN: No Video games such as Wii, Nintendo, Game Cube"
+ST20Q15,604001,PER: Stereo with speakers
+ST20Q15,604002,PER: No Stereo with speakers
+ST20Q15,616001,POL: Cable TV with at least 30 channels
+ST20Q15,616002,POL: No Cable TV with at least 30 channels
+ST20Q15,620001,PRT: Cable TV or television by parabolic antenna
+ST20Q15,620002,PRT: No Cable TV or television by parabolic antenna
+ST20Q15,634001,QAT: MP3 walkman
+ST20Q15,634002,QAT: No MP3 walkman
+ST20Q15,642001,ROU: Digital video camera
+ST20Q15,642002,ROU: No digital video camera
+ST20Q15,643001,RUS: Digital fotocamera or videocamera
+ST20Q15,643002,RUS: No Digital fotocamera or videocamera
+ST20Q15,688001,SRB: Digital camera
+ST20Q15,688002,SRB: No Digital camera
+ST20Q15,702001,SGP: Cable television
+ST20Q15,702002,SGP: No Cable television
+ST20Q15,703001,SVK: Video camera
+ST20Q15,703002,SVK: No videocamera
+ST20Q15,705001,SVN: Your own computer
+ST20Q15,705002,SVN: No own computer
+ST20Q15,724001,ESP: Video camera
+ST20Q15,724002,ESP: No Video camera
+ST20Q15,752001,SWE: Piano
+ST20Q15,752002,SWE: No Piano
+ST20Q15,756001,CHE: A musical instrument (no flute)
+ST20Q15,756002,CHE: No musical instrument (no flute)
+ST20Q15,764001,THA: Air condition
+ST20Q15,764002,THA: No Air condition
+ST20Q15,780001,TTO: Refrigerator with ice maker
+ST20Q15,780002,TTO: No refrigerator with ice maker
+ST20Q15,788001,TUN: A dish washer
+ST20Q15,788002,TUN: No dish washer
+ST20Q15,792001,TUR: Air-conditioned type heating and cooling system
+ST20Q15,792002,TUR: No air-conditioned type heating and cooling system
+ST20Q15,826001,GBR: A flat-screen TV
+ST20Q15,826002,GBR: No A flat-screen TV
+ST20Q15,826201,GBR(Scotland): A flat-screen TV
+ST20Q15,826202,GBR(Scotland): No flat-screen TV
+ST20Q15,840001,USA: A guest room
+ST20Q15,840002,USA: No guest room
+ST20Q15,858001,URY: Cable TV
+ST20Q15,858002,URY: No cable TV
+ST20Q15,188001,CRI: Digital camera
+ST20Q15,188002,CRI: No Digital camera
+ST20Q15,784001,DUBAI: Plasma TV
+ST20Q15,784002,DUBAI: No Plasma TV
+ST20Q15,784201,ARE (ex DUBAI): Chandeliers
+ST20Q15,784202,ARE (ex DUBAI): No Chandeliers
+ST20Q15,268001,GEO: Dishwasher
+ST20Q15,268002,GEO: No Dishwasher
+ST20Q15,458001,MYS: Television
+ST20Q15,458002,MYS: No Television
+ST20Q15,470001,MLT: A flat plasma screen TV
+ST20Q15,470002,MLT: No flat plasma screen TV
+ST20Q15,480001,MUS: A car / motorcycle
+ST20Q15,480002,MUS: No A car / motorcycle
+ST20Q15,498001,MDA: Digital-camera
+ST20Q15,498002,MDA: No Digital-camera
+ST20Q15,356011,QHP: Fridge
+ST20Q15,356012,QHP: No Fridge
+ST20Q15,356021,QTN: Fridge
+ST20Q15,356022,QTN: No Fridge
+ST20Q15,862011,QVE: Digital camera
+ST20Q15,862012,QVE: No Digital camera
+ST20Q15,999997,N/A
+ST20Q15,999998,Invalid
+ST20Q15,999999,Missing
+ST20Q16,008001,ALB: Culture TV programmes with payment
+ST20Q16,008002,ALB: No Culture TV programmes with payment
+ST20Q16,031001,AZE: Video camera
+ST20Q16,031002,AZE: No Video camera
+ST20Q16,032001,ARG: LSD/Plasma TV
+ST20Q16,032002,ARG: No LSD/Plasma TV
+ST20Q16,036001,AUS: iPhone
+ST20Q16,036002,AUS: No iPhone
+ST20Q16,040001,"AUT: Electronical devices for playing (Playstation, Nintendo, X-Box)"
+ST20Q16,040002,"AUT: No electronical devices for playing (Playstation, Nintendo, X-Box)"
+ST20Q16,056011,BEL(Flemish Community): An alarm system
+ST20Q16,056012,BEL(Flemish Community): No alarm system
+ST20Q16,056001,BEL(French/German Community): An alarm system
+ST20Q16,056002,BEL(French/German Community): No alarm system
+ST20Q16,076001,BRA: Videogame
+ST20Q16,076002,BRA: No Videogame
+ST20Q16,100001,BGR: Digital camera
+ST20Q16,100002,BGR: No Digital camera
+ST20Q16,124001,CAN: A subscription to a daily newspaper
+ST20Q16,124002,CAN: No subscription to a daily newspaper
+ST20Q16,152001,CHL: Digital Video camera
+ST20Q16,152002,CHL: No Digital Video camera
+ST20Q16,156001,QCN: Digital camera or digital video recorder
+ST20Q16,156002,QCN: No digital camera or digital video recorder
+ST20Q16,158001,TAP: iPOD
+ST20Q16,158002,TAP: No iPod
+ST20Q16,170001,COL: Cable TV or Direct to Home TV
+ST20Q16,170002,COL: No Cable TV or Direct to Home TV
+ST20Q16,191001,HRV: Play Station 3 /Play Station
+ST20Q16,191002,HRV: No Play Station 3 / Play Station
+ST20Q16,203001,CZE: Camcorder
+ST20Q16,203002,CZE: No camcorder
+ST20Q16,208001,DNK: Digital camera
+ST20Q16,208002,DNK: No Digital camera
+ST20Q16,233001,EST: Digital photocamera
+ST20Q16,233002,EST: No digital photocamera
+ST20Q16,246001,FIN: Flat screen Tv
+ST20Q16,246002,FIN: No Flat screen Tv
+ST20Q16,250001,FRA: Digital camera (not part of a portable)
+ST20Q16,250002,FRA: No Digital camera (not part of a portable)
+ST20Q16,276001,DEU: A TV in your own room
+ST20Q16,276002,DEU: No A TV in your own room
+ST20Q16,300001,"GRC: Cable T.V (Nova, Filmnet)"
+ST20Q16,300002,"GRC: No Cable T.V (Nova, Filmnet)"
+ST20Q16,344001,HKG: Piano
+ST20Q16,344002,HKG: No Piano
+ST20Q16,348001,HUN: MP3/MP4 player
+ST20Q16,348002,HUN: No MP3/MP4 player
+ST20Q16,352001,ISL: Satellite dish
+ST20Q16,352002,ISL: No Satellite dish
+ST20Q16,360001,IDN: Refrigerator
+ST20Q16,360002,IDN: No Refrigerator
+ST20Q16,372001,IRL: A bedroom with an en-suite bathroom
+ST20Q16,372002,IRL: No bedroom with an en-suite bathroom
+ST20Q16,376001,ISR: Espresso Machine
+ST20Q16,376002,ISR: No Espresso Machine
+ST20Q16,380001,ITA: Plasma TV set
+ST20Q16,380002,ITA: No Plasma TV set
+ST20Q16,392001,JPN: Air conditioner
+ST20Q16,392002,JPN: No Air conditioner
+ST20Q16,398001,KAZ: No videocamera
+ST20Q16,398002,KAZ: No videocamera
+ST20Q16,400001,JOR: Plasma TV set
+ST20Q16,400002,JOR: No Plasma TV set
+ST20Q16,410001,"KOR: Digital TV(eg: PDP, LCD,LED)"
+ST20Q16,410002,"KOR: No Digital TV(eg: PDP, LCD,LED)"
+ST20Q16,417001,KGZ: Avacuum cleaner
+ST20Q16,417002,KGZ: No vacuum cleaner
+ST20Q16,428001,LVA: Bycicle
+ST20Q16,428002,LVA: No Bycicle
+ST20Q16,438001,LIE: An iPhone
+ST20Q16,438002,LIE: No iPhone
+ST20Q16,440001,"LTU: Press. Subscription edition (newspaper, magazine)."
+ST20Q16,440002,"LTU: No Press. Subscription edition (newspaper, magazine)."
+ST20Q16,442001,LUX: iPod or iPhone
+ST20Q16,442002,LUX: No iPod or iPhone
+ST20Q16,446001,MAC: Digital camera
+ST20Q16,446002,MAC: No Digital camera
+ST20Q16,484001,MEX: Phone line
+ST20Q16,484002,MEX: No Phone line
+ST20Q16,499001,MNE: Plasma TV
+ST20Q16,499002,MNE: No Plasma TV
+ST20Q16,528001,NLD: Piano
+ST20Q16,528002,NLD: No piano
+ST20Q16,554001,"NZL: Pay television e.g. Sky, Saturn"
+ST20Q16,554002,"NZL: No Pay television e.g. Sky, Saturn"
+ST20Q16,578001,NOR: Jacuzzi
+ST20Q16,578002,NOR: No Jacuzzi
+ST20Q16,591001,PAN: Media Player3 and Media Player4
+ST20Q16,591002,PAN: No Media Player3 and Media Player4
+ST20Q16,604001,PER: Refrigerator
+ST20Q16,604002,PER: No Refrigerator
+ST20Q16,616001,POL: Digital camera
+ST20Q16,616002,POL: No digital camera
+ST20Q16,620001,PRT: Plasma or LCD television
+ST20Q16,620002,PRT: No Plasma or LCD television
+ST20Q16,634001,QAT: Digital video camera
+ST20Q16,634002,QAT: No digital video camera
+ST20Q16,642001,ROU: iPod
+ST20Q16,642002,ROU: No iPod
+ST20Q16,643001,RUS: Home cinema
+ST20Q16,643002,RUS: No home cinema
+ST20Q16,688001,SRB: Clothes dryer
+ST20Q16,688002,SRB: No Clothes dryer
+ST20Q16,702001,SGP: Air conditioner
+ST20Q16,702002,SGP: No Air conditioner
+ST20Q16,703001,"SVK: Digital camera (not as a part of a mobile phone, but separate one)"
+ST20Q16,703002,"SVK: No digital camera (not as a part of a mobile phone, but separate one)"
+ST20Q16,705001,SVN: You attend in an extra out-of-school-time activities paid by your parents.
+ST20Q16,705002,SVN: You do not attend in an extra out-of-school-time activities paid by your parents.
+ST20Q16,724001,ESP: Parabolic aerial
+ST20Q16,724002,ESP: No Parabolic aerial
+ST20Q16,752001,SWE: Video Camera
+ST20Q16,752002,SWE: No Video Camera
+ST20Q16,756001,CHE: An iPhone
+ST20Q16,756002,CHE: No i-phone
+ST20Q16,764001,THA: Washing machine
+ST20Q16,764002,THA: No Washing machine
+ST20Q16,780001,TTO: Flat screen television
+ST20Q16,780002,TTO: No Flat screen television
+ST20Q16,788001,TUN: Digital Camera
+ST20Q16,788002,TUN: No Digital Camera
+ST20Q16,792001,TUR: Video camera
+ST20Q16,792002,TUR: No video camera
+ST20Q16,826001,"GBR: An MP3  player, e.g. iPod"
+ST20Q16,826002,"GBR: No MP3  player, e.g. iPod"
+ST20Q16,826201,GBR(Scotland): A bedroom with an ensuite bathroom
+ST20Q16,826202,GBR(Scotland): No bedroom with an ensuite bathroom
+ST20Q16,840001,USA: A high speed internet connection
+ST20Q16,840002,USA: No high speed internet connection
+ST20Q16,858001,URY: Freezer
+ST20Q16,858002,URY: No Freezer
+ST20Q16,188001,CRI: Cable TV or Direct to Home TV
+ST20Q16,188002,CRI: No Cable TV or Direct to Home TV
+ST20Q16,784001,DUBAI: Laptop computer
+ST20Q16,784002,DUBAI: No Laptop computer
+ST20Q16,784201,ARE (ex DUBAI): Apple Mac Laptop computer
+ST20Q16,784202,ARE (ex DUBAI): No Apple Mac Laptop computer
+ST20Q16,268001,GEO: Home theatre
+ST20Q16,268002,GEO: No home theatre
+ST20Q16,458001,MYS: Refrigerator
+ST20Q16,458002,MYS: No Refrigerator
+ST20Q16,470001,MLT: Digital camcorder
+ST20Q16,470002,MLT: No Digital camcorder
+ST20Q16,480001,MUS: Telephone / Mobile phone
+ST20Q16,480002,MUS: No Telephone / Mobile phone
+ST20Q16,498001,MDA: I-pod
+ST20Q16,498002,MDA: No I-pod
+ST20Q16,356011,QHP: Two wheeler / Bike
+ST20Q16,356012,QHP: No Two wheeler / Bike
+ST20Q16,356021,QTN: Two wheeler / Bike
+ST20Q16,356022,QTN: No Two wheeler / Bike
+ST20Q16,862011,QVE: Cable TV or Direct to Home TV
+ST20Q16,862012,QVE: No Cable TV or Direct to Home TV
+ST20Q16,999997,N/A
+ST20Q16,999998,Invalid
+ST20Q16,999999,Missing
+ST20Q17,008001,ALB: Traditional dishes
+ST20Q17,008002,ALB: No Traditional dishes
+ST20Q17,031001,AZE: Colour printer
+ST20Q17,031002,AZE: No colour printer
+ST20Q17,032001,ARG: Washing machine
+ST20Q17,032002,ARG: No Wash machine
+ST20Q17,036001,AUS: Plasma or LCD TV
+ST20Q17,036002,AUS: No Plasma or LCD TV
+ST20Q17,040001,AUT: A digital video camera
+ST20Q17,040002,AUT: No digital video camera
+ST20Q17,056011,BEL(Flemish Community): A home cinema
+ST20Q17,056012,BEL(Flemish Community): No home cinema
+ST20Q17,056001,BEL(French/German Community): A housekeeper
+ST20Q17,056002,BEL(French/German Community): No housekeeper
+ST20Q17,076001,BRA: An Ipod.
+ST20Q17,076002,BRA: No Ipod.
+ST20Q17,100001,BGR: Air-conditioner
+ST20Q17,100002,BGR: No air-conditioner
+ST20Q17,124001,CAN: Central air conditioning
+ST20Q17,124002,CAN: No Central air conditioning
+ST20Q17,152001,CHL: Microwave oven
+ST20Q17,152002,CHL: No Microwave oven
+ST20Q17,156001,QCN: Juice extractor
+ST20Q17,156002,QCN: No juice extractor
+ST20Q17,158001,TAP: Digital camera
+ST20Q17,158002,TAP: No digital camera
+ST20Q17,170001,COL: Encyclopaedia
+ST20Q17,170002,COL: No Encyclopaedia
+ST20Q17,191001,"HRV: Alarm system at home, Cable or digital TV"
+ST20Q17,191002,HRV: No Alarm system at home   Cable or digital TV
+ST20Q17,203001,"CZE: Home cinema (screen, DVD player, speakers)"
+ST20Q17,203002,"CZE: No home cinema (screen, DVD player, speakers)"
+ST20Q17,208001,DNK: Flat screen TV
+ST20Q17,208002,DNK: No Flat screen TV
+ST20Q17,233001,EST: Plasma or LCD TV.
+ST20Q17,233002,EST: No Plasma or LCD TV.
+ST20Q17,246001,FIN: Home alarm system
+ST20Q17,246002,FIN: No Home alarm system
+ST20Q17,250001,FRA: A portable computer.
+ST20Q17,250002,FRA: No portable computer.
+ST20Q17,276001,DEU: Audio-books
+ST20Q17,276002,DEU: No Audio-books
+ST20Q17,300001,GRC: Alarm system
+ST20Q17,300002,GRC: No Alarm system
+ST20Q17,344001,HKG: Pay TV Channel
+ST20Q17,344002,HKG: No Pay TV Channel
+ST20Q17,348001,HUN: Digital camera (not part of a phone)
+ST20Q17,348002,HUN: No Digital camera (not part of a phone)
+ST20Q17,352001,ISL: Plasma TV or a TV projector
+ST20Q17,352002,ISL: No Plasma TV or a TV projector
+ST20Q17,360001,IDN: Car
+ST20Q17,360002,IDN: No Car
+ST20Q17,372001,"IRL: A premium cable TV package (e.g., Sky Movies, Sky Sports)"
+ST20Q17,372002,"IRL: No premium cable TV package (e.g., Sky Movies, Sky Sports)"
+ST20Q17,376001,ISR: Plasma screen (Home system)
+ST20Q17,376002,ISR: No Plasma screen (Home system)
+ST20Q17,380001,ITA: Air conditioning
+ST20Q17,380002,ITA: No Air conditioning
+ST20Q17,392001,JPN: Clothing Dryer
+ST20Q17,392002,JPN: No Clothing Dryer
+ST20Q17,398001,KAZ: Satellite antenna
+ST20Q17,398002,KAZ: No Satellite antenna
+ST20Q17,400001,JOR: Digital camera
+ST20Q17,400002,JOR: No Digital camera
+ST20Q17,410001,KOR: Kimchi refrigerator (for maturing)
+ST20Q17,410002,KOR: No Kimchi refrigerator (for maturing)
+ST20Q17,417001,KGZ: Imported laundry washer (such as 'Ariston' or 'Indesit')
+ST20Q17,417002,KGZ: No Imported laundry washer (such as 'Ariston' or 'Indesit')
+ST20Q17,428001,LVA: Digital photocamera
+ST20Q17,428002,LVA: No digital photocamera
+ST20Q17,438001,LIE: Digital videocamera
+ST20Q17,438002,LIE: a digital videocamera
+ST20Q17,440001,LTU: Cinecamera
+ST20Q17,440002,LTU: No cinecamera
+ST20Q17,442001,LUX: Games console
+ST20Q17,442002,LUX: No games console
+ST20Q17,446001,MAC: MP3 player
+ST20Q17,446002,MAC: No MP3 player
+ST20Q17,484001,MEX: Microwave
+ST20Q17,484002,MEX: No Microwave
+ST20Q17,499001,MNE: Digital camera
+ST20Q17,499002,MNE: No digital camera
+ST20Q17,528001,NLD: A laptop
+ST20Q17,528002,NLD: no lap top
+ST20Q17,554001,NZL: You and your family have a holiday away from home for at least one week each year.
+ST20Q17,554002,NZL: You and your family do not have a holiday away from home for at least one week each year.
+ST20Q17,578001,NOR: TV with flatscreen
+ST20Q17,578002,NOR: NoTV with flatscreen
+ST20Q17,591001,PAN: Digital camera
+ST20Q17,591002,PAN: No Digital camera
+ST20Q17,604001,PER: A washing machine
+ST20Q17,604002,PER: No washing machine
+ST20Q17,616001,POL: Plasma or LCD TV
+ST20Q17,616002,POL: No plasma or LCD tv
+ST20Q17,620001,PRT: Air conditioning
+ST20Q17,620002,PRT: No Air conditioning
+ST20Q17,634001,QAT: Home cinema system
+ST20Q17,634002,QAT: No Home cinema system
+ST20Q17,642001,ROU: A Home cinema system
+ST20Q17,642002,ROU: No Home cinema system
+ST20Q17,643001,RUS: Satellite antenna
+ST20Q17,643002,RUS: No Satellite antenna
+ST20Q17,688001,SRB: Cable TV
+ST20Q17,688002,SRB: No Cable TV
+ST20Q17,702001,SGP: Domestic helper (e.g. house maid)
+ST20Q17,702002,SGP: No Domestic helper (e.g. house maid)
+ST20Q17,703001,SVK: Lawn-mover
+ST20Q17,703002,SVK: No lawn-mover
+ST20Q17,705001,SVN: Travelling abroad for one week or more
+ST20Q17,705002,SVN: No travelling abroad for one week or more
+ST20Q17,724001,ESP: Home Cinema
+ST20Q17,724002,ESP: No Home Cinema
+ST20Q17,752001,SWE: Flat screen TV
+ST20Q17,752002,SWE: No Flat screen TV
+ST20Q17,756001,CHE: Digital videocamera
+ST20Q17,756002,CHE: No digital videocamera
+ST20Q17,764001,THA: Microwave Oven
+ST20Q17,764002,THA: No Microwave Oven
+ST20Q17,780001,TTO: Camcorder
+ST20Q17,780002,TTO: No Camcorder
+ST20Q17,788001,TUN: A home flat-screen TV.
+ST20Q17,788002,TUN: no home flat-screen TV.
+ST20Q17,792001,TUR: Digital camera
+ST20Q17,792002,TUR: No digital camera
+ST20Q17,826001,"GBR: A premium TV package (e.g. Sky Movies, Sky Sports)"
+ST20Q17,826002,"GBR: No premium TV package (e.g. Sky Movies, Sky Sports)"
+ST20Q17,826201,"GBR(Scotland): A premium TV package (e.g. Sky Movies, Sky Sports)"
+ST20Q17,826202,"GBR(Scotland): No premium TV package (e.g. Sky Movies, Sky Sports)"
+ST20Q17,840001,USA: A musical instrument
+ST20Q17,840002,USA: No musical instrument
+ST20Q17,858001,URY: Laptop (XO Ceibal not included)
+ST20Q17,858002,URY: No Laptop (XO Ceibal not included)
+ST20Q17,188001,CRI: Encyclopedia
+ST20Q17,188002,CRI: No Encyclopedia
+ST20Q17,784001,DUBAI: Designer clothing
+ST20Q17,784002,DUBAI: No designer clothing
+ST20Q17,784201,ARE (ex DUBAI): Swimming Pool
+ST20Q17,784202,ARE (ex DUBAI): No Swimming Pool
+ST20Q17,268001,GEO: Swimming pool
+ST20Q17,268002,GEO: No swimming pool
+ST20Q17,458001,MYS: Air conditioner
+ST20Q17,458002,MYS: No Air conditioner
+ST20Q17,470001,MLT: Country-specific wealth item 3
+ST20Q17,470002,MLT: No Country-specific wealth item 3
+ST20Q17,480001,MUS: A camera
+ST20Q17,480002,MUS: No camera
+ST20Q17,498001,MDA: Home cinema system
+ST20Q17,498002,MDA: No home cinema system
+ST20Q17,356011,QHP: Cooler
+ST20Q17,356012,QHP: No Cooler
+ST20Q17,356021,QTN: Cooler
+ST20Q17,356022,QTN: No Cooler
+ST20Q17,862011,QVE: Encyclopedia
+ST20Q17,862012,QVE: No Encyclopedia
+ST20Q17,999997,N/A
+ST20Q17,999998,Invalid
+ST20Q17,999999,Missing
+ST21,1,None
+ST21,2,One
+ST21,3,Two
+ST21,4,Three or more
+ST21,7,N/A
+ST21,8,Invalid
+ST21,9,Miss
+ST22,1,0-10 books
+ST22,2,11-25 books
+ST22,3,26-100 books
+ST22,4,101-200 books
+ST22,5,201-500 books
+ST22,6,More than 500 books
+ST22,7,N/A
+ST22,8,Invalid
+ST22,9,Miss
+ST23,1,I don’t read for enjoyment
+ST23,2,30 minutes or less a day
+ST23,3,Between 30 and 60 minutes
+ST23,4,1 to 2 hours a day
+ST23,5,More than 2 hours a day
+ST23,7,N/A
+ST23,8,Invalid
+ST23,9,Miss
+ST24,1,Strongly disagree
+ST24,2,Disagree
+ST24,3,Agree
+ST24,4,Strongly agree
+ST24,7,N/A
+ST24,8,Invalid
+ST24,9,Miss
+ST25,1,Never or almost never
+ST25,2,A few times a year
+ST25,3,About once a month
+ST25,4,Several times a month
+ST25,5,Several times a week
+ST25,7,N/A
+ST25,8,Invalid
+ST25,9,Miss
+ST26,1,Don’t know what it is
+ST26,2,Never or almost never
+ST26,3,Several times a month
+ST26,4,Several times a week
+ST26,5,Several times a day
+ST26,7,N/A
+ST26,8,Invalid
+ST26,9,Miss
+ST27,1,Almost Never
+ST27,2,Sometimes
+ST27,3,Often
+ST27,4,Almost always
+ST27,7,N/A
+ST27,8,Invalid
+ST27,9,Miss
+ST28,9997,N/A
+ST28,9998,Invalid
+ST28,9999,Miss
+ST29,9997,N/A
+ST29,9998,Invalid
+ST29,9999,Miss
+ST30,9997,N/A
+ST30,9998,Invalid
+ST30,9999,Miss
+ST31,1,Yes
+ST31,2,No
+ST31,7,N/A
+ST31,8,Invalid
+ST31,9,Miss
+ST32,1,Do not attend
+ST32,2,Less than 2 hours a week
+ST32,3,2 up to 4 Hours a week
+ST32,4,4 up to 6 hours per week
+ST32,5,6 or more hours a week
+ST32,7,N/A
+ST32,8,Invalid
+ST32,9,Miss
+ST33,1,Strongly disagree
+ST33,2,Disagree
+ST33,3,Agree
+ST33,4,Strongly Agree
+ST33,7,N/A
+ST33,8,Invalid
+ST33,9,Miss
+ST34,1,Strongly disagree
+ST34,2,Disagree
+ST34,3,Agree
+ST34,4,Strong agree
+ST34,7,N/A
+ST34,8,Invalid
+ST34,9,Miss
+ST35,9997,N/A
+ST35,9998,Invalid
+ST35,9999,Miss
+ST36,1,Never or hardly ever
+ST36,2,Some lessons
+ST36,3,Most lessons
+ST36,4,Every lesson
+ST36,7,N/A
+ST36,8,Invalid
+ST36,9,Miss
+ST37,1,Never or hardly ever
+ST37,2,Some lessons
+ST37,3,Most lessons
+ST37,4,All Lessons
+ST37,7,N/A
+ST37,8,Invalid
+ST37,9,Miss
+ST38,1,Never or hardly ever
+ST38,2,Some lessons
+ST38,3,Most lessons
+ST38,4,All Lessons
+ST38,7,N/A
+ST38,8,Invalid
+ST38,9,Miss
+ST39,1,Never
+ST39,2,A few times a year
+ST39,3,About once a month
+ST39,4,Several times a month
+ST39,5,Several times a week
+ST39,7,N/A
+ST39,8,Invalid
+ST39,9,Miss
+ST40,1,No
+ST40,2,Yes
+ST40,7,N/A
+ST40,8,Invalid
+ST40,9,Miss
+ST41,1,(1) Not useful at all
+ST41,2,(2)
+ST41,3,(3)
+ST41,4,(4)
+ST41,5,(5)
+ST41,6,(6) Very Useful
+ST41,7,N/A
+ST41,8,Invalid
+ST41,9,Miss
+ST42,1,(1) Not useful at all
+ST42,2,(2)
+ST42,3,(3)
+ST42,4,(4)
+ST42,5,(5)
+ST42,6,(6) Very Useful
+ST42,7,N/A
+ST42,8,Invalid
+ST42,9,Miss
+IC01,1,"Yes, I use it"
+IC01,2,"Yes, but I don't use it"
+IC01,3,No
+IC01,7,N/A
+IC01,8,Invalid
+IC01,9,Miss
+IC02,1,"Yes, I use it"
+IC02,2,"Yes, but I don't use it"
+IC02,3,No
+IC02,7,N/A
+IC02,8,Invalid
+IC02,9,Miss
+IC03,1,Yes
+IC03,2,No
+IC03,7,N/A
+IC03,8,Invalid
+IC03,9,Miss
+IC04,1,Never or hardly ever
+IC04,2,Once or twice a month
+IC04,3,Once or twice a week
+IC04,4,Almost every day
+IC04,7,N/A
+IC04,8,Invalid
+IC04,9,Miss
+IC05,1,Never or hardly ever
+IC05,2,Once or twice a month
+IC05,3,Once or twice a week
+IC05,4,Almost every day
+IC05,7,N/A
+IC05,8,Invalid
+IC05,9,Miss
+IC06,1,Never or hardly ever
+IC06,2,Once or twice a month
+IC06,3,Once or twice a week
+IC06,4,Almost every day
+IC06,7,N/A
+IC06,8,Invalid
+IC06,9,Miss
+IC07,1,No time
+IC07,2,0-30 minutes a week
+IC07,3,31-60 minutes a week
+IC07,4,More than 60 minutes a week
+IC07,7,N/A
+IC07,8,Invalid
+IC07,9,Miss
+IC08,1,Do well by myself
+IC08,2,Do with Help
+IC08,3,Know but can't do
+IC08,4,Don’t know
+IC08,7,N/A
+IC08,8,Invalid
+IC08,9,Miss
+IC09,1,Never
+IC09,2,Half hour a week
+IC09,3,Hour a week
+IC09,4,Two hours a week
+IC09,5,Three hours a week
+IC09,6,Four hours or more a week
+IC09,7,N/A
+IC09,8,Invalid
+IC09,9,Miss
+IC10,1,Strongly disagree
+IC10,2,Disagree
+IC10,3,Agree
+IC10,4,Strongly agree
+IC10,7,N/A
+IC10,8,Invalid
+IC10,9,Miss
+EC01,1,"No, never"
+EC01,2,"Yes, once"
+EC01,3,"Yes, twice or more"
+EC01,7,N/A
+EC01,8,Invalid
+EC01,9,Miss
+EC02,1,"No, never"
+EC02,2,"Yes, once"
+EC02,3,"Yes, twice or more"
+EC02,7,N/A
+EC02,8,Invalid
+EC02,9,Miss
+EC03,1,"No, never"
+EC03,2,"Yes, once"
+EC03,3,"Yes, twice or more"
+EC03,7,N/A
+EC03,8,Invalid
+EC03,9,Miss
+EC04,1,"No, never"
+EC04,2,"Yes, once"
+EC04,3,"Yes, twice or more"
+EC04,7,N/A
+EC04,8,Invalid
+EC04,9,Miss
+EC05,1,Tick
+EC05,2,No Tick
+EC05,7,N/A
+EC05,8,Invalid
+EC05,9,Miss
+EC06,1,Yes
+EC06,2,No
+EC06,7,N/A
+EC06,8,Invalid
+EC06,9,Miss
+EC07,9997,N/A
+EC07,9998,Invalid
+EC07,9999,Miss
+RFS1,1,Many times
+RFS1,2,Two or three times
+RFS1,3,Once
+RFS1,4,Not at all
+RFS1,7,N/A
+RFS1,8,Invalid
+RFS1,9,Miss
+RFS2,1,Many times
+RFS2,2,Two or three times
+RFS2,3,Once
+RFS2,4,Not at all
+RFS2,7,N/A
+RFS2,8,Invalid
+RFS2,9,Miss
+BookID,20,UH booklet
+BookID,99,Missing
+BMMJ,97,N/A
+BMMJ,98,Invalid
+BMMJ,99,Miss
+ISCEDL,1,ISCED level 1
+ISCEDL,2,ISCED level 2
+ISCEDL,3,ISCED level 3
+ISCEDL,7,N/A
+ISCEDL,8,Invalid
+ISCEDL,9,Miss
+ISCEDD,1,A
+ISCEDD,2,B
+ISCEDD,3,C
+ISCEDD,4,M
+ISCEDD,7,N/A
+ISCEDD,8,Invalid
+ISCEDD,9,Miss
+ISCEDO,1,General
+ISCEDO,2,Pre-Vocational
+ISCEDO,3,Vocational
+ISCEDO,4,Modular
+ISCEDO,7,N/A
+ISCEDO,8,Invalid
+ISCEDO,9,Miss
+AGE,97,N/A
+AGE,98,Invalid
+AGE,99,Miss
+ISCED,0,None
+ISCED,1,ISCED 1
+ISCED,2,ISCED 2
+ISCED,3,"ISCED 3B, C"
+ISCED,4,"ISCED 3A, ISCED 4"
+ISCED,5,ISCED 5B
+ISCED,6,"ISCED 5A, 6"
+ISCED,7,N/A
+ISCED,8,Invalid
+ISCED,9,Missing
+PARED,97,N/A
+PARED,98,Invalid
+PARED,99,Missing
+FAMSTRUC,1,Single parent (natural or otherwise)
+FAMSTRUC,2,Two parents (natural or otherwise)
+FAMSTRUC,3,Other
+FAMSTRUC,7,N/A
+FAMSTRUC,8,Invalid
+FAMSTRUC,9,Missing
+IMMIG,1,Native
+IMMIG,2,Second-Generation
+IMMIG,3,First-Generation
+IMMIG,7,N/A
+IMMIG,8,Invalid
+IMMIG,9,Missing
+IND,9997,N/A
+IND,9999,Missing
+IND,9998,Invalid
+MsECATEG,1,White collar high skilled
+MsECATEG,2,White collar low skilled
+MsECATEG,3,Blue collar high skilled
+MsECATEG,4,Blue collar low skilled
+MsECATEG,7,N/A
+MsECATEG,9,Missing
+COB,000400,Afghanistan
+COB,000800,Albania
+COB,002900,Caribbean
+COB,003100,Azerbaijan
+COB,003200,Argentina
+COB,003600,Australia
+COB,004000,Austria
+COB,005000,Bangladesh
+COB,005600,Belgium
+COB,006800,Bolivia (Plurinational State of)
+COB,007000,Bosnia and Herzegovina
+COB,007600,Brazil
+COB,010000,Bulgaria
+COB,011200,Belarus
+COB,012400,Canada
+COB,013200,Cape Verde
+COB,015200,Chile
+COB,015600,China
+COB,015601,China (Shanghai)
+COB,015602,Another province in mainland China (QCN)
+COB,015603,Hong Kong Macau Chinese Taipei
+COB,015610,China (incl. Hong Kong)
+COB,015800,Chinese Taipei
+COB,017000,Colombia
+COB,019100,Croatia
+COB,020300,Czech Republic
+COB,020800,Denmark
+COB,023100,Ethiopia
+COB,023300,Estonia
+COB,024600,Finland
+COB,025000,France
+COB,027500,Occupied Palestinian Territory
+COB,027600,Germany
+COB,030000,Greece
+COB,034400,Hong Kong-China
+COB,034800,Hungary
+COB,035200,Iceland
+COB,035600,India
+COB,036000,Indonesia
+COB,036400,"Iran, Islamic Republic of"
+COB,036800,Iraq
+COB,037200,Ireland
+COB,037600,Israel
+COB,038000,Italy
+COB,039200,Japan
+COB,039800,Kazakhstan
+COB,040000,Jordan
+COB,041000,Republic of Korea
+COB,041700,Kyrgyzstan
+COB,042200,Lebanon
+COB,042800,Latvia
+COB,043800,Liechtenstein
+COB,044000,Lithuania
+COB,044200,Luxembourg
+COB,044600,Macao-China
+COB,045800,Malaysia
+COB,048400,Mexico
+COB,049900,Montenegro
+COB,050400,Morocco
+COB,052800,Netherlands
+COB,053000,Netherlands Antilles
+COB,055400,New Zealand
+COB,057800,Norway
+COB,058600,Pakistan
+COB,059100,Panama
+COB,060000,Paraguay
+COB,060400,Peru
+COB,060800,Philippines
+COB,061600,Poland
+COB,062000,Portugal
+COB,063400,Qatar
+COB,064200,Romania
+COB,064300,Russian Federation
+COB,068800,Serbia
+COB,070200,Singapore
+COB,070300,Slovak Republic
+COB,070400,Viet Nam
+COB,070500,Slovenia
+COB,070600,Somalia
+COB,071000,South Africa
+COB,072400,Spain
+COB,072401,Andalusia (ESP)
+COB,072402,Aragon (ESP)
+COB,072403,Asturias (ESP)
+COB,072404,Balearic Islands (ESP)
+COB,072405,Canary Islands (ESP)
+COB,072406,Cantabria (ESP)
+COB,072407,Castile-La Mancha (ESP)
+COB,072408,Castile and Leon (ESP)
+COB,072409,Catalonia (ESP)
+COB,072410,Extremadura (ESP)
+COB,072411,Galicia (ESP)
+COB,072412,La Rioja (ESP)
+COB,072413,Madrid (ESP)
+COB,072414,Murcia (ESP)
+COB,072415,Navarre (ESP)
+COB,072416,Basque Country (ESP)
+COB,072417,Valencian Community (ESP)
+COB,072418,Ceuta and Melilla (ESP)
+COB,074000,Suriname
+COB,075200,Sweden
+COB,075600,Switzerland
+COB,076200,Tajikistan
+COB,076400,Thailand
+COB,078000,Trinidad and Tobago
+COB,078410,United Arab Emirates (Dubai)
+COB,078411,Another Arabic country (Dubai)
+COB,078800,Tunisia
+COB,079200,Turkey
+COB,080400,Ukraine
+COB,080700,FYR Macedonia
+COB,081800,Egypt
+COB,082600,United Kingdom
+COB,082611,United Kingdom (England)
+COB,082612,United Kingdom (Northern Ireland)
+COB,082640,United Kingdom (Great Britain)
+COB,084000,United States of America
+COB,085800,Uruguay
+COB,086000,Uzbekistan
+COB,088200,Samoa
+COB,088700,Yemen
+COB,100200,Africa
+COB,100201,African country with Portuguese as the official language
+COB,100202,A Sub-Saharan country (Africa excl. Maghreb)
+COB,100204,North African country (Maghreb)
+COB,100501,"South, Latin & Central America"
+COB,114500,Middle Eastern country
+COB,115000,A European country
+COB,115001,Other Western European country (BEL)
+COB,115003,Other European Union Country (LUX)
+COB,115004,A country from European Union (PRT)
+COB,115007,Other European country (NLD)
+COB,115008,Other European country (QSC)
+COB,115100,An Eastern European country
+COB,115106,An Eastern European country outside the EU
+COB,119001,Another American country [URY]
+COB,181000,One of the former USSR republics
+COB,181001,In another former USSR republic (RUS)
+COB,181002,In another former USSR republic (EST)
+COB,189000,One of the former Yugoslav republics
+COB,189001,One of the other former Yugoslav republics (HRV)
+COB,189002,One of the other former Yugoslav republics (SRB)
+COB,189003,Serbia and Montenegro
+COB,900800,Another country (ALB)
+COB,903100,Another country (AZE)
+COB,903200,Another country (ARG)
+COB,903600,Another country (AUS)
+COB,904000,Another country (AUT)
+COB,905600,Another country (BEL)
+COB,907600,Another country (BRA)
+COB,910000,Another country (BGR)
+COB,912400,Another country (CAN)
+COB,915200,Another country (CHL)
+COB,915601,Another country (QCN)
+COB,915800,Another country (TAP)
+COB,917000,Another country (COL)
+COB,919100,Another country (HRV)
+COB,920300,Another country (CZE)
+COB,920800,Another country (DNK)
+COB,923300,Another country (EST)
+COB,924600,Another country (FIN)
+COB,925000,Another country (FRA)
+COB,927600,Another country (DEU)
+COB,930000,Another country (GRC)
+COB,934400,Another country (HKG)
+COB,934800,Another country (HUN)
+COB,935200,Another country (ISL)
+COB,936000,Another country (IDN)
+COB,937200,Another country (IRL)
+COB,937600,Another country (ISR)
+COB,938000,Another country (ITA)
+COB,939200,Another country (JPN)
+COB,939800,Another country (KAZ)
+COB,940000,Another country (JOR)
+COB,941000,Another country (KOR)
+COB,941700,Another country (KGZ)
+COB,942800,Another country (LVA)
+COB,944000,Another country (LTU)
+COB,944200,Another country (LUX)
+COB,944600,Another country (MAC)
+COB,948400,Another country (MEX)
+COB,949900,Another country (MNE)
+COB,952800,Another country (NLD)
+COB,955400,Another country (NZL)
+COB,957800,Another country (NOR)
+COB,959100,Another country (PAN)
+COB,960400,Another country (PER)
+COB,961600,Another country (POL)
+COB,962000,Another country (PRT)
+COB,963400,Another country (QAT)
+COB,964200,Another country (ROU)
+COB,964300,Another country (RUS)
+COB,968800,Another country (SRB)
+COB,970200,Another country (SGP)
+COB,970300,Another country (SVK)
+COB,970500,Another country (SVN)
+COB,972400,Another country (ESP)
+COB,975200,Another country (SWE)
+COB,975600,Another country (CHE)
+COB,976400,Another country (THA)
+COB,978000,Another country (TTO)
+COB,978410,Another country (Dubai)
+COB,978800,Another country (TUN)
+COB,979200,Another country (TUR)
+COB,982610,Another country (QUK)
+COB,982620,Another country (QSC)
+COB,984000,Another country (USA)
+COB,985800,Another country (URY)
+COB,018800,Costa Rica
+COB,026800,Georgia
+COB,035610,India (2009 States)
+COB,047000,Malta
+COB,048000,Mauritius
+COB,049800,Republic of Moldova
+COB,078420,United Arab Emirates (ex.Dubai)
+COB,078421,Abu Dhabi (ARE ex Dubai)
+COB,078422,Al Ain (ARE ex Dubai)
+COB,078423,Western Region (ARE ex Dubai)
+COB,078424,Sharjah (ARE ex Dubai)
+COB,078425,Ajman (ARE ex Dubai)
+COB,078426,Umm Al Quain (ARE ex Dubai)
+COB,078427,Fujaurah (ARE ex Dubai)
+COB,078428,Ras Al Khaimah (ARE ex Dubai)
+COB,086201,Venezuela (Miranda)
+COB,115005,A European country that is not a member of the European Union
+COB,115009,Another country within the European Union (MLT)
+COB,181003,In another former USSR republic (GEO)
+COB,918800,Another country (CRI)
+COB,926800,Another country (GEO)
+COB,935610,Another country (QIN)
+COB,945800,Another country (MYS)
+COB,947000,Another country (MLT)
+COB,948000,Another country (MUS)
+COB,949800,Another country (MDA)
+COB,978420,Another country (ARE ex Dubai)
+COB,986201,Another country (QVE)
+COB,999997,N/A
+COB,999998,Invalid
+COB,999999,Missing
+GRADE,97,N/A
+GRADE,98,Invalid
+GRADE,99,Missing
+OCCM,1000,"Legislators, Senior Officials & Managers"
+OCCM,1100,Legislators & Senior Officials
+OCCM,1110,"Legislators [Incl. Member Of Parliament, Member Of Local Council]"
+OCCM,1120,"Senior Government Officials [Incl. Minister, Ambassador]"
+OCCM,1130,Senior Local Government Officials
+OCCM,1140,Senior Officials Special-Interest Organisations
+OCCM,1141,Senior Officials Political-Party Organisations
+OCCM,1142,Senior Officials Economic-Interest Organisations
+OCCM,1143,Senior Officials Special-Interest Organisations
+OCCM,1200,Corporate Managers [Large Enterprises]
+OCCM,1210,[Large Enterprises] Directors  & Chief Executives
+OCCM,1220,[Large Enterprise Operation] Department Managers
+OCCM,1221,Production Dep. Managers Agriculture & Fishing
+OCCM,1222,Production Dep. Managers Manufacturing [Incl. Factory Manager]
+OCCM,1223,Production Dep. Managers Construction
+OCCM,1224,Production Dep. Managers Wholesale & Retail Trade
+OCCM,1225,Production Dep. Managers Restaurants & Hotels
+OCCM,1226,"Production Dep. Managers Transp., Storage & Communic. ]"
+OCCM,1227,Production Dep. Managers Business Services [Incl. Bank Manager]
+OCCM,1228,"Production Dep. Managers Personal Care, Cleaning Etc"
+OCCM,1229,"Production Dep. Managers Nec [Incl.Dean, School Principal]"
+OCCM,1230,[Large Enterprises] Other Department Managers
+OCCM,1231,Finance & Admin. Department Managers [Incl. Company Secretary]
+OCCM,1232,Personnel & Industrial Relations Department Managers
+OCCM,1233,Sales & Marketing Department Managers
+OCCM,1234,Advertising & Public Relations Department Managers
+OCCM,1235,Supply & Distribution Department Managers
+OCCM,1236,Computing Services Department Managers
+OCCM,1237,Research & Development Department Managers
+OCCM,1239,Other Department Managers Nec
+OCCM,1240,Office Managers [Incl. Clerical Supervisor]
+OCCM,1250,Military Officers
+OCCM,1251,Higher Military Officers [Captain And Above]
+OCCM,1252,Lower Grade Commissioned Officers [Incl. Army Lieutenant]
+OCCM,1300,[Small Enterprise] General Managers
+OCCM,1310,"[Small Enterprise] General Managers [Incl. Businessman, Trader]"
+OCCM,1311,"[Small Enterprise] General Managers Agr., Forestry & Fishing"
+OCCM,1312,[Small Enterprise] General Managers Manufacturing
+OCCM,1313,[Small Enterprise] General Managers Constr. [Incl. Contractor]
+OCCM,1314,[Small Enterprise] General Managers Wholesale & Retail Trade
+OCCM,1315,[Small Enterprise] General Managers Restaurants & Hotels
+OCCM,1316,"[Small Enterprise] General Managers Transp., Storage & Comm."
+OCCM,1317,[Small Enterprise] General Managers Business Services
+OCCM,1318,"[Small Enterprise] General Managers Personal Care, Cleaning Etc."
+OCCM,1319,"[Small Enterprise] General Managers Nec [Incl. Travel, Fitness]"
+OCCM,2000,Professionals
+OCCM,2100,"Physical, Mathematical & Engineering Science Professionals"
+OCCM,2110,"Physicists, Chemists & Related Professionals"
+OCCM,2111,Physicists & Astronomers
+OCCM,2112,Meteorologists
+OCCM,2113,Chemists
+OCCM,2114,Geologists & Geophysicists [Incl. Geodesist]
+OCCM,2120,"Mathematicians, Statisticians Etc Professionals"
+OCCM,2121,Mathematicians Etc Professionals
+OCCM,2122,Statisticians [Incl. Actuary]
+OCCM,2130,Computing Professionals
+OCCM,2131,Computer Systems Designers & Analysts [Incl. Software Engineer]
+OCCM,2132,Computer Programmers
+OCCM,2139,Computing Professionals Nec
+OCCM,2140,"Architects, Engineers Etc Professionals"
+OCCM,2141,Architects Town & Traffic Planners [Incl. Landscape Architect]
+OCCM,2142,Civil Engineers [Incl. Construction Engineer]
+OCCM,2143,Electrical Engineers
+OCCM,2144,Electronics & Telecommunications Engineers
+OCCM,2145,Mechanical Engineers
+OCCM,2146,Chemical Engineers
+OCCM,2147,"Mining Engineers, Metallurgists Etc Professionals"
+OCCM,2148,Cartographers & Surveyors
+OCCM,2149,Architects Engineers Etc Professionals Nec [Incl. Consultant]
+OCCM,2200,Life Science & Health Professionals
+OCCM,2210,Life Science Professionals
+OCCM,2211,"Biologists, Botanists Zoologists Etc Professionals"
+OCCM,2212,"Pharmacologists, Pathologists Etc Profess. [Incl. Biochemist]"
+OCCM,2213,Agronomists Etc Professionals
+OCCM,2220,Health Professionals (Except Nursing)
+OCCM,2221,Medical Doctors
+OCCM,2222,Dentists
+OCCM,2223,Veterinarians
+OCCM,2224,Pharmacists
+OCCM,2229,Health Professionals Except Nursing Nec
+OCCM,2230,"Nursing & Midwifery Profess. [Incl. Registered Nurses, Midwives]"
+OCCM,2300,Teaching Professionals
+OCCM,2310,Higher Education Teaching Professionals [Incl. Univ. Professor]
+OCCM,2320,Secondary Education Teaching Professionals
+OCCM,2321,"[Sec. Teachers, Academic Track] [Incl. Middle School Teacher]"
+OCCM,2322,"[Sec. Teachers, Vocational Track] [Incl. Vocational Instructor]"
+OCCM,2330,Primary & Pre-Primary Education Teaching Professionals
+OCCM,2331,Primary Education Teaching Professionals
+OCCM,2332,Pre-Primary Educ. Teaching Professionals [Incl. Kindergarten]
+OCCM,2340,"Special Educ. Teaching Professionals [Incl. Remedial, Blind]"
+OCCM,2350,Other Teaching Professionals
+OCCM,2351,Education Methods Specialists [Incl. Curricula Developer]
+OCCM,2352,School Inspectors
+OCCM,2359,Other Teaching Professionals Nec
+OCCM,2400,"Other Professionals [Incl. Professional Nfs, Admin. Professional]"
+OCCM,2410,Business Professionals
+OCCM,2411,Accountants [Incl. Auditor]
+OCCM,2412,"Personnel & Careers Profess. [Incl. Job Analyst, Stud. Couns.]"
+OCCM,2419,"Business Profess. [Incl. Publicity/Patent Agent, Market Research]"
+OCCM,2420,Legal Professionals
+OCCM,2421,Lawyers
+OCCM,2422,Judges
+OCCM,2429,"Legal Professionals Nec [Incl. Notary, Notary Public]"
+OCCM,2430,"Archivists, Librarians Etc Information Professionals"
+OCCM,2431,Archivists & Curators
+OCCM,2432,Librarians Etc Information Professionals
+OCCM,2440,Social Science Etc Professionals
+OCCM,2441,Economists
+OCCM,2442,"Sociologists, Anthropologists Etc Professionals"
+OCCM,2443,"Philosophers, Historians & Political Scientists"
+OCCM,2444,"Philologists, Translators & Interpreters"
+OCCM,2445,Psychologists
+OCCM,2446,Social Work Professionals [Incl. Welfare Worker]
+OCCM,2450,Writers & Creative Or Performing Artists
+OCCM,2451,"Authors Journalists & Other Writers [Incl. Editor, Techn. Writer]"
+OCCM,2452,"Sculptors, Painters Etc Artists"
+OCCM,2453,"Composers, Musicians & Singers"
+OCCM,2454,Choreographers & Dancers
+OCCM,2455,"Film, Stage Etc Actors & Directors"
+OCCM,2460,Religious Professionals
+OCCM,3000,Technicians And Associate Professionals
+OCCM,3100,Physical & Engineering Science Associate Professionals
+OCCM,3110,Physical & Engineering Science Technicians
+OCCM,3111,Chemical & Physical Science Technicians
+OCCM,3112,Civil Engineering Technicians
+OCCM,3113,Electrical Engineering Technicians
+OCCM,3114,Electronics & Telecommunications Engineering Technicians
+OCCM,3115,Mechanical Engineering Technicians
+OCCM,3116,Chemical Engineering Technicians
+OCCM,3117,Mining & Metallurgical Technicians
+OCCM,3118,Drocthtspersons [Incl. Technical Illustrator]
+OCCM,3119,Physical & Engineering Science Technicians Nec
+OCCM,3120,Computer Associate Professionals
+OCCM,3121,Computer Assistants [Incl. Assistant Users Services]
+OCCM,3122,Computer Equipment Operators
+OCCM,3123,Industrial Robot Controllers
+OCCM,3130,Optical & Electronic Equipment Operators
+OCCM,3131,Photographers & Electronic Equipment Operators
+OCCM,3132,Broadcasting & Telecommunications Equipment Operators
+OCCM,3133,Medical Equipment Operators [Incl. X-Ray Technician]
+OCCM,3139,Optical & Electronic Equipment Operators Nec
+OCCM,3140,Ship & Aircraft Controllers & Technicians
+OCCM,3141,Ships Engineers
+OCCM,3142,Ships Deck Officers & Pilots [Incl. River Boat Captain]
+OCCM,3143,Aircraft Pilots Etc Associate Professionals
+OCCM,3144,Air Traffic Controllers
+OCCM,3145,Air Traffic Safety Technicians
+OCCM,3150,Safety & Quality Inspectors
+OCCM,3151,Building & Fire Inspectors
+OCCM,3152,"Safety, Health & Quality Inspectors"
+OCCM,3200,Life Science & Health Associate Professionals
+OCCM,3210,Life Science Technicians Etc Associate Professionals
+OCCM,3211,Life Science Technicians [Incl. Medical Laboratory Assistant]
+OCCM,3212,Agronomy & Forestry Technicians
+OCCM,3213,Farming & Forestry Advisers
+OCCM,3220,Modern Health Associate Professionals Except Nursing
+OCCM,3221,Medical Assistants
+OCCM,3222,Sanitarians
+OCCM,3223,Dieticians & Nutritionists
+OCCM,3224,Optometrists & Opticians [Incl. Dispensing Optician]
+OCCM,3225,Dental Assistants [Incl. Oral Hygienist]
+OCCM,3226,Physiotherapists Etc Associate Professionals
+OCCM,3227,Veterinary Assistants [Incl. Veterinarian Vaccinater]
+OCCM,3228,Pharmaceutical Assistants
+OCCM,3229,Modern Health Associate Professionals Except Nursing Nec
+OCCM,3230,Nursing & Midwifery Associate Professionals
+OCCM,3231,Nursing Associate Professionals [Incl. Trainee Nurses]
+OCCM,3232,Midwifery Associate Professionals [Incl. Trainee Midwife]
+OCCM,3240,Traditional Medicine Practitioners & Faith Healers
+OCCM,3241,Traditional Medicine Practitioners [Incl. Herbalist]
+OCCM,3242,Faith Healers
+OCCM,3300,Teaching Associate Professionals
+OCCM,3310,Primary Education Teaching Associate Professionals
+OCCM,3320,Pre-Primary Education Teaching Associate Professionals
+OCCM,3330,Special Education Teaching Associate Professionals
+OCCM,3340,Other Teaching Associate Professionals
+OCCM,3400,Other Associate Professionals
+OCCM,3410,Finance & Sales Associate Professionals
+OCCM,3411,Securities & Finance Dealers & Brokers
+OCCM,3412,"Insurance Representatives [Incl. Insurance Agent, Underwriter]"
+OCCM,3413,[Real] Estate Agents [Incl. Real Estate Broker]
+OCCM,3414,Travel Consultants & Organisers
+OCCM,3415,Technical & Commercial Sales Representatives
+OCCM,3416,Buyers
+OCCM,3417,"Appraisers, Valuers & Auctioneers [Incl. Claims Adjuster]"
+OCCM,3419,Finance & Sales Associate Professionals Nec
+OCCM,3420,Business Services Agents And Trade Brokers
+OCCM,3421,Trade Brokers
+OCCM,3422,Clearing & Forwarding Agents
+OCCM,3423,Employment Agents & Labour Contractors
+OCCM,3429,Business Services Agents & Trade Brokers Nec
+OCCM,3430,Administrative Associate Professionals
+OCCM,3431,Administrative Secretaries Etc Associate Professionals
+OCCM,3432,"Legal Etc Business Associate Profess. [Incl. Bailiff, Law Clerk]"
+OCCM,3433,Bookkeepers
+OCCM,3434,"Statistical, Mathematical Etc Associate Professionals"
+OCCM,3439,Administrative Associate Profess. Nec [Incl. Management Ass.]
+OCCM,3440,"Customs, Tax Etc Government Associate Professionals"
+OCCM,3441,Customs & Border Inspectors
+OCCM,3442,Government Tax & Excise Officials
+OCCM,3443,Government Social Benefits Officials
+OCCM,3444,Government Licensing Officials
+OCCM,3449,Customs Tax Etc Government Associate Professionals Nec
+OCCM,3450,Police Inspectors & Detectives / [Army]
+OCCM,3451,Police Inspectors & Detectives
+OCCM,3452,[Armed Forces Non-Commissioned Officers] [Incl. Sergeant]
+OCCM,3460,Social Work Associate Professionals
+OCCM,3470,"Artistic, Entertainment & Sports Associate Professionals"
+OCCM,3471,Decorators & Commercial Designers
+OCCM,3472,"Radio, Television & Other Announcers"
+OCCM,3473,"Street Night-Club Etc Musicians, Singers & Dancers"
+OCCM,3474,"Clowns, Magicians, Acrobats Etc Associate Professionals"
+OCCM,3475,"Athletes, Sports Persons Etc Associate Professionals"
+OCCM,3480,"Religious Associate Profess. [Incl. Evangelist, Lay Preacher]"
+OCCM,4000,Clerks
+OCCM,4100,"Office Clerks [Incl. Clerk Nfs, Government Office Clerk Nfs]"
+OCCM,4110,Secretaries & Keyboard-Operating Clerks
+OCCM,4111,Stenographers & Typists
+OCCM,4112,Word-Processor Etc Operators [Incl. Teletypist]
+OCCM,4113,Data Entry Operators [Incl. Key Puncher]
+OCCM,4114,Calculating-Machine Operators [Incl. Bookkeeping Machine Op.]
+OCCM,4115,Secretaries
+OCCM,4120,Numerical Clerks
+OCCM,4121,Accounting & Bookkeeping Clerks [Incl. Payroll Clerk]
+OCCM,4122,Statistical & Finance Clerks [Incl. Credit Clerk]
+OCCM,4130,Material-Recording & Transport Clerks
+OCCM,4131,"Stock Clerks [Incl. Weighing Clerk, Storehouse Clerk]"
+OCCM,4132,Production Clerks [Incl. Planning Clerks]
+OCCM,4133,"Transport Clerks [Incl. Dispatcher, Expeditor]"
+OCCM,4140,"Library, Mail Etc Clerks"
+OCCM,4141,Library & Filing Clerks
+OCCM,4142,Mail Carriers & Sorting Clerks
+OCCM,4143,Coding Proof-Reading Etc Clerks
+OCCM,4144,Scribes Etc Workers [Incl. Form Filling Assistance Clerk]
+OCCM,4190,"Other Office Clerks [Incl. Office Boy, Photocopy Machine Op.]"
+OCCM,4200,Customer Services Clerks [Incl. Customer Service Clerk Nfs]
+OCCM,4210,"Cashiers, Tellers Etc Clerks"
+OCCM,4211,"Cashiers & Ticket Clerks [Incl. Bank/Store, Toll Collector]"
+OCCM,4212,"Tellers & Other Counter Clerks [Incl. Bank Teller, Post Office]"
+OCCM,4213,Bookmakers & Croupiers
+OCCM,4214,Pawnbrokers & Money-Lenders
+OCCM,4215,Debt-Collectors Etc Workers
+OCCM,4220,Client Information Clerks
+OCCM,4221,Travel Agency Etc Clerks
+OCCM,4222,Receptionists & Information Clerks [Incl. Medical Receptionist]
+OCCM,4223,Telephone Switchboard Operators [Incl. Telephone Operator]
+OCCM,5000,Service Workers & Shop & Market Sales Workers
+OCCM,5100,Personal & Protective Services Workers
+OCCM,5110,Travel Attendants Etc
+OCCM,5111,Travel Attendants & Travel Stewards
+OCCM,5112,Transport Conductors [Incl. Train Conductor]
+OCCM,5113,"Travel, Museum Guides"
+OCCM,5120,Housekeeping & Restaurant Services Workers
+OCCM,5121,Housekeepers Etc Workers
+OCCM,5122,Cooks
+OCCM,5123,"Waiters, Waitresses & Bartenders"
+OCCM,5130,Personal Care Etc Work
+OCCM,5131,"Child-Care Workers [Incl. Nursemaid, Governess]"
+OCCM,5132,"Inst.-Based Personal Care Workers [Incl. Ambulance, Orderly]"
+OCCM,5133,Home Based Personal Care Workers [Incl. Attendant]
+OCCM,5139,[Other] Care Etc Workers Nec [Incl. Animal Feeder]
+OCCM,5140,Other Personal Services Workers
+OCCM,5141,"Hairdressers, Barbers, Beauticians Etc Workers"
+OCCM,5142,Companions & Valets [Incl. Personal Maid]
+OCCM,5143,Undertakers & Embalmers [Incl. Funeral Director]
+OCCM,5149,"Other Personal Services Workers [Incl. Escort, Dancing Partner]"
+OCCM,5150,"Astrologers, Fortune-Tellers Etc Workers"
+OCCM,5151,Astrologers Etc Workers
+OCCM,5152,"Fortune-Tellers, Palmists Etc Workers"
+OCCM,5160,Protective Services Workers
+OCCM,5161,Fire-Fighters
+OCCM,5162,"Police Officers [Incl. Policeman, Constable, Marshall]"
+OCCM,5163,Prison Guards
+OCCM,5164,"[Armed Forces, Soldiers] [Incl. Enlisted Man]"
+OCCM,5169,"Protective Services Workers [Incl. Bodyguard, Coastguard]"
+OCCM,5200,"[Salespersons, Models & Demonstrators]"
+OCCM,5210,"Fashion & Other Models [Incl. Mannequin, Artists Model]"
+OCCM,5220,Shop Salespersons & Demonstrators
+OCCM,5230,Stall & Market Salespersons
+OCCM,6000,Skilled Agricultural & Fishery Workers
+OCCM,6100,Market-Oriented Skilled Agricultural & Fishery Workers
+OCCM,6110,Market Gardeners & Cropgrowers
+OCCM,6111,Field Crop & Vegetable Growers
+OCCM,6112,Tree & Shrub Crop Growers
+OCCM,6113,"Gardeners, Horticultural & Nursery Growers"
+OCCM,6114,Mixed-Crop Growers [Incl. Share Cropper]
+OCCM,6120,Market-Oriented Animal Producers Etc Workers
+OCCM,6121,Dairy & Livestock Producers
+OCCM,6122,"Poultry Producers [Incl. Chicken Farmer, Skilled Hatchery Worker]"
+OCCM,6123,"Apiarists & Sericulturists [Incl. Beekeeper, Silkworm Raiser]"
+OCCM,6124,Mixed-Animal Producers
+OCCM,6129,Market-Oriented Animal Producers Etc Workers Nec
+OCCM,6130,Market-Oriented Crop & Animal Producers
+OCCM,6131,[Mixed Farmers]
+OCCM,6132,[Farm Foremen/Supervisor]
+OCCM,6133,[Farmers Nfs]
+OCCM,6134,[Skilled Farm Workers Nfs]
+OCCM,6140,Forestry Etc Workers
+OCCM,6141,"Forestry Workers & Loggers [Incl. Rafter, Timber Cruiser]"
+OCCM,6142,Charcoal Burners Etc Workers
+OCCM,6150,"Fishery Workers, Hunters & Trappers"
+OCCM,6151,Aquatic-Life Cultivation Workers
+OCCM,6152,Inland & Coastal Waters Fishery Workers
+OCCM,6153,"Deep-Sea Fishery Workers [Incl. Fisherman Nfs, Trawler Crewman]"
+OCCM,6154,Hunters & Trappers [Incl. Whaler]
+OCCM,6200,Subsistence Agricultural & Fishery Workers
+OCCM,6210,Subsistence Agricultural & Fishery Workers
+OCCM,7000,Craft Etc Trades Workers
+OCCM,7100,Extraction & Building Trades Workers
+OCCM,7110,"Miners, Shotfirers, Stone Cutters & Carvers"
+OCCM,7111,Miners & Quarry Workers [Incl. Miner Nfs]
+OCCM,7112,Shotfirers & Blasters
+OCCM,7113,"Stone Splitters, Cutters & Carvers [Incl. Tombstone Carver]"
+OCCM,7120,Building Frame Etc Trades Workers
+OCCM,7121,Builders Traditional Materials
+OCCM,7122,Bricklayers & Stonemasons [Incl. Paviour]
+OCCM,7123,"Concrete Placers, Concrete Finishers Etc Workers"
+OCCM,7124,Carpenters & Joiners
+OCCM,7129,Building Frame Etc Trades Workers Nec [Incl. Scaffolder]
+OCCM,7130,Building Finishers Etc Trades Workers
+OCCM,7131,Roofers
+OCCM,7132,Floor Layers & Tile Setters [Incl. Parquetry Worker]
+OCCM,7133,Plasterers [Incl. Stucco Mason]
+OCCM,7134,Insulation Workers
+OCCM,7135,Glaziers
+OCCM,7136,Plumbers & Pipe Fitters [Incl. Well Digger]
+OCCM,7137,Building Etc Electricians
+OCCM,7140,"Painters, Building Structure Cleaners Etc Trades Workers"
+OCCM,7141,"Painters Etc Workers [Incl. Construction Painter, Paperhanger]"
+OCCM,7142,Varnishers Etc Painters [Incl. Automobile Painter]
+OCCM,7143,"Building Structure Cleaners [Incl. Chimney Sweep, Sandblaster]"
+OCCM,7200,"Metal, Machinery Etc Trades Workers"
+OCCM,7210,"Metal Moulders, Welders, Sheetmetal Workers Structural Metal"
+OCCM,7211,Metal Moulders & Coremakers
+OCCM,7212,"Welders & Flamecutters [Incl. Brazier, Solderer]"
+OCCM,7213,"Sheet-Metal Workers [Incl. Panel Beater, Coppersmith, Tinsmith]"
+OCCM,7214,Structural-Metal Preparers & Erectors
+OCCM,7215,Riggers & Cable Splicers
+OCCM,7216,Underwater Workers [Incl. Frogman]
+OCCM,7220,"Blacksmiths, Tool-Makers Etc Trades Workers"
+OCCM,7221,"Blacksmiths, Hammer-Smiths & Forging Press Workers"
+OCCM,7222,Tool-Makers Etc Workers [Incl. Locksmith]
+OCCM,7223,"Machine-Tool Setters & Setter-Operators [Metal Driller, Turner]"
+OCCM,7224,"Metal Wheel-Grinders, Polishers & Tool Sharpeners"
+OCCM,7230,Machinery Mechanics & Fitters
+OCCM,7231,Motor Vehicle Mechanics & Fitters [Incl. Bicycle Repairman]
+OCCM,7232,Aircraft Engine Mechanics & Fitters
+OCCM,7233,[Industrial & Agricultural] Machinery Mechanics & Fitters
+OCCM,7234,[Unskilled Garage Worker] [Incl. Oiler-Greaser]
+OCCM,7240,Electrical & Electronic Equipment Mechanics & Fitters
+OCCM,7241,Electrical Mechanics & Fitters [Incl. Office Machine Repairman]
+OCCM,7242,Electronics Fitters
+OCCM,7243,Electronics Mechanics & Servicers
+OCCM,7244,Telegraph & Telephone Installers & Servicers
+OCCM,7245,"Electrical Line Installers, Repairers & Cable Jointers"
+OCCM,7300,"Precision, Handicraft, Printing Etc Trades Workers"
+OCCM,7310,Precision Workers In Metal Etc Materials
+OCCM,7311,"Precision-Instr. Makers & Repairers [Incl. Dental, Watch Maker]"
+OCCM,7312,Musical-Instrument Makers & Tuners
+OCCM,7313,Jewellery & Precious-Metal Workers [Incl. Goldsmith]
+OCCM,7320,"Potters, Glass-Makers Etc Trades Workers"
+OCCM,7321,"Abrasive Wheel Formers, Potters Etc Workers"
+OCCM,7322,"Glass-Makers, Cutters, Grinders & Finishers"
+OCCM,7323,Glass Engravers & Etchers
+OCCM,7324,Glass Ceramics Etc Decorative Painters
+OCCM,7330,"Handicraft Workers In Wood,Textile, Leather Etc"
+OCCM,7331,Handicraft Workers In Wood Etc Materials
+OCCM,7332,Handicraft Workers In Textile Leather Etc Materials
+OCCM,7340,Printing Etc Trades Workers
+OCCM,7341,Compositors Typesetters Etc Workers
+OCCM,7342,Stereotypers & Electrotypers
+OCCM,7343,Printing Engravers & Etchers
+OCCM,7344,Photographic Etc Workers [Incl. Darkroom Worker]
+OCCM,7345,Bookbinders Etc Workers
+OCCM,7346,"Silk-Screen, Block & Textile Printers"
+OCCM,7400,Other Craft Etc Trades Workers
+OCCM,7410,Food Processing Etc Trades Workers
+OCCM,7411,"Butchers, Fishmongers Etc Food Preparers"
+OCCM,7412,"Bakers, Pastry-Cooks & Confectionery Makers"
+OCCM,7413,Dairy-Products Makers
+OCCM,7414,"Fruit, Vegetable Etc Preservers"
+OCCM,7415,Food & Beverage Tasters & Graders
+OCCM,7416,Tobacco Preparers & Tobacco Products Makers
+OCCM,7420,"Wood Treaters, Cabinet-Makers Etc Trades Workers"
+OCCM,7421,"Wood Treaters [Incl. Wood Grader, Wood Impregnator]"
+OCCM,7422,"Cabinet-Makers Etc Workers [Incl. Cartwright, Cooper]"
+OCCM,7423,Woodworking-Machine Setters & Setter-Operators
+OCCM,7424,"Basketry Weavers, Brush Makers Etc Workers [Incl. Broom Maker]"
+OCCM,7430,"Textile, Garment Etc Trades Workers"
+OCCM,7431,Fibre Preparers
+OCCM,7432,"Weavers, Knitters Etc Workers"
+OCCM,7433,"Tailors, Dressmakers & Hatters [Incl. Milliner]"
+OCCM,7434,Furriers Etc Workers
+OCCM,7435,"Textile, Leather Etc Pattern-Makers & Cutters"
+OCCM,7436,"Sewers, Embroiderers Etc Workers"
+OCCM,7437,Upholsterers Etc Workers
+OCCM,7440,"Pelt, Leather & Shoemaking Trades Workers"
+OCCM,7441,"Pelt Dressers, Tanners & Fellmongers"
+OCCM,7442,Shoe-Makers Etc Workers
+OCCM,7500,[Skilled Workers Nfs]
+OCCM,7510,[Manual Foremen Nfs --Non-Farm--]
+OCCM,7520,"[Skilled Workers Nfs] [Incl. Craftsman, Artisan, Tradesman]"
+OCCM,7530,[Apprentice Skilled Work Nfs]
+OCCM,8000,Plant & Machine Operators & Assemblers
+OCCM,8100,Stationary-Plant Etc Operators
+OCCM,8110,Mining- & Mineral-Processing Plant Operators
+OCCM,8111,Mining-Plant Operators
+OCCM,8112,Mineral-Ore- & Stone-Processing-Plant Operators
+OCCM,8113,Well Drillers & Borers Etc Workers
+OCCM,8120,Metal-Processing-Plant Operators
+OCCM,8121,Ore & Metal Furnace Operators
+OCCM,8122,"Metal Melters, Casters & Rolling-Mill Operators"
+OCCM,8123,Metal-Heat-Treating-Plant Operators
+OCCM,8124,Metal Drawers & Extruders
+OCCM,8130,"Glass, Ceramics Etc Plant Operators"
+OCCM,8131,Glass & Ceramics Kiln Etc Machine Operators
+OCCM,8139,"Glass, Ceramics Etc Plant Operators Nec"
+OCCM,8140,Wood-Processing- & Papermaking-Plant Operators
+OCCM,8141,Wood-Processing-Plant Operators [Incl. Sawyer]
+OCCM,8142,Paper-Pulp Plant Operators
+OCCM,8143,Papermaking-Plant Operators
+OCCM,8150,Chemical-Processing-Plant Operators
+OCCM,8151,Crushing- Grinding- & Chemical-Mixing Machinery Operators
+OCCM,8152,Chemical-Heat-Treating-Plant Operators
+OCCM,8153,Chemical-Filtering- & Separating-Equipment Operators
+OCCM,8154,Chemical-Still & Reactor Operators
+OCCM,8155,Petroleum- & Natural-Gas-Refining-Plant Operators
+OCCM,8159,Chemical-Processing-Plant Operators Nec
+OCCM,8160,Power-Production Etc Plant Operators
+OCCM,8161,Power-Production Plant Operators
+OCCM,8162,Steam-Engine & Boiler Operators [Incl. Stoker]
+OCCM,8163,Incinerator Water-Treatment Etc Plant Operators
+OCCM,8170,Automated-Assembly-Line & Industrial-Robot Operators
+OCCM,8171,Automated-Assembly-Line Operators
+OCCM,8172,Industrial-Robot Operators
+OCCM,8200,Machine Operators & Assemblers
+OCCM,8210,Metal- & Mineral-Products Machine Operators
+OCCM,8211,Machine-Tool Operators [Incl. Machine Operator Nfs]
+OCCM,8212,Cement & Other Mineral Products Machine Operators
+OCCM,8220,Chemical-Products Machine Operators
+OCCM,8221,Pharmaceutical- & Toiletry-Products Machine Operators
+OCCM,8222,Ammunition- & Explosive-Products Machine Operators
+OCCM,8223,Metal Finishing- Plating- & Coating-Machine Operators
+OCCM,8224,Photographic-Products Machine Operators
+OCCM,8229,Chemical-Products Machine Operators Nec
+OCCM,8230,Rubber- & Plastic-Products Machine Operators
+OCCM,8231,Rubber-Products Machine Operators
+OCCM,8232,Plastic-Products Machine Operators
+OCCM,8240,Wood-Products Machine Operators
+OCCM,8250,"Printing-, Binding- & Paper-Products Machine Operators"
+OCCM,8251,Printing-Machine Operators
+OCCM,8252,Bookbinding-Machine Operators
+OCCM,8253,Paper-Products Machine Operators
+OCCM,8260,"Textile-, Fur- & Leather-Products Machine Operators"
+OCCM,8261,"Fibre-Preparing-, Spinning- & Winding Machine Operators"
+OCCM,8262,Weaving- & Knitting-Machine Operators
+OCCM,8263,Sewing-Machine Operators
+OCCM,8264,"Bleaching-, Dyeing- & Cleaning-Machine Operators"
+OCCM,8265,Fur- & Leather-Preparing-Machine Operators
+OCCM,8266,Shoemaking- Etc Machine Operators
+OCCM,8269,"Textile-, Fur- & Leather-Products Machine Operators Nec"
+OCCM,8270,Food Etc Products Machine Operators
+OCCM,8271,Meat- & Fish-Processing-Machine Operators
+OCCM,8272,Dairy-Products Machine Operators
+OCCM,8273,Grain- & Spice-Milling-Machine Operators
+OCCM,8274,Baked-Goods Cereal & Chocolate-Products Machine Operators
+OCCM,8275,"Fruit-, Vegetable- & Nut-Processing-Machine Operators"
+OCCM,8276,Sugar Production Machine Operators
+OCCM,8277,"Tea-, Coffee- & Cocoa-Processing-Machine Operators"
+OCCM,8278,Brewers- Wine & Other Beverage Machine Operators
+OCCM,8279,Tobacco Production Machine Operators
+OCCM,8280,Assemblers
+OCCM,8281,Mechanical-Machinery Assemblers [Incl. Car Assembly Line Worker]
+OCCM,8282,Electrical-Equipment Assemblers
+OCCM,8283,Electronic-Equipment Assemblers
+OCCM,8284,"Metal-, Rubber- & Plastic-Products Assemblers"
+OCCM,8285,Wood Etc Products Assemblers
+OCCM,8286,"Paperboard, Textile Etc Products Assemblers"
+OCCM,8290,Other Machine Operators & Assemblers
+OCCM,8300,Drivers & Mobile-Plant Operators
+OCCM,8310,Locomotive-Engine Drivers Etc Workers
+OCCM,8311,Locomotive-Engine Drivers
+OCCM,8312,Railway Brakers Signallers & Shunters
+OCCM,8320,Motor-Vehicle Drivers [Incl. Driver Nfs]
+OCCM,8321,Motor-Cycle Drivers
+OCCM,8322,"Car, Taxi & Van Drivers [Incl. Taxi Owner Nfs]"
+OCCM,8323,Bus & Tram Drivers
+OCCM,8324,Heavy Truck & Lorry Drivers
+OCCM,8330,Agricultural & Other Mobile Plant Operators
+OCCM,8331,Motorised Farm & Forestry Plant Operators [Incl. Tractor Driver]
+OCCM,8332,Earth-Moving- Etc Plant Operators [Incl. Bulldozer Driver]
+OCCM,8333,"Crane, Hoist Etc Plant Operators"
+OCCM,8334,Lifting-Truck Operators
+OCCM,8340,"Ships Deck Crews Etc Workers [Incl. Boatman, Deck Hand, Sailor]"
+OCCM,8400,Semi-Skilled Workers Nfs [Incl. Production Process Worker Nfs]
+OCCM,9000,Elementary Occupations
+OCCM,9100,Sales & Services Elementary Occupations
+OCCM,9110,Street Vendors Etc Workers
+OCCM,9111,Street Food Vendors
+OCCM,9112,"Street Vendors Non-Food Products [Incl. Hawker, Pedlar]"
+OCCM,9113,"Door-To-Door & Tel. Salespersons [Incl. Solicitor, Canvasser]"
+OCCM,9120,Street Services Elementary Occupations [Incl. Billposter]
+OCCM,9130,Domestic Etc Helpers Cleaners & Launderers
+OCCM,9131,"Domestic Helpers & Cleaners [Incl. Housemaid, Housekeeper Nfs]"
+OCCM,9132,"Helpers & Cleaners In Establishments [Kitchen Hand, Chambermaid]"
+OCCM,9133,Hand-Launderers & Pressers
+OCCM,9140,"Building Caretakers, Window Etc Cleaners"
+OCCM,9141,"Building Caretakers [Incl. Janitor, Sexton, Verger]"
+OCCM,9142,"Vehicle, Window Etc Cleaners"
+OCCM,9150,"Messengers, Porters, Doorkeepers Etc Workers"
+OCCM,9151,"Messengers, Package & Luggage Porters & Deliverers"
+OCCM,9152,"Doorkeepers, Watch-Persons Etc Workers"
+OCCM,9153,"Vending-Machine Money Collectors, Meter Readers Etc Workers"
+OCCM,9160,Garbage Collectors Etc Labourers
+OCCM,9161,Garbage Collectors [Incl. Dustwoman]
+OCCM,9162,Sweepers Etc Labourers [Incl. Odd-Job Worker]
+OCCM,9200,"Agricultural, Fishery Etc Labourers"
+OCCM,9210,"Agricultural, Fishery Etc Labourers"
+OCCM,9211,"Farm-Hands & Labourers [Incl. Cowherd, Farm Helper, Fruit Picker]"
+OCCM,9212,Forestry Labourers
+OCCM,9213,"Fishery, Hunting & Trapping Labourers"
+OCCM,9300,"Labourers In Mining, Construction, Manufacturing & Transport"
+OCCM,9310,Mining & Construction Labourers
+OCCM,9311,Mining & Quarrying Labourers
+OCCM,9312,Construction & Maintenance Labourers: Roads Dams Etc
+OCCM,9313,"Building Construction Labourers [Incl. Handyman, Hod Carrier]"
+OCCM,9320,Manufacturing Labourers
+OCCM,9321,"Assembling Labourers [Incl. Sorter, Bottle Sorter, Winder]"
+OCCM,9322,Handpackers & Other Manufacturing Labourers [Incl. Crater]
+OCCM,9330,Transport Labourers & Freight Handlers
+OCCM,9331,Hand Or Pedal Vehicle Drivers [Incl. Rickshaw Driver]
+OCCM,9332,Drivers Of Animal-Drawn Vehicles & Machinery
+OCCM,9333,"Freight Handlers [Incl. Docker, Loader, Longshoreman, Remover]"
+OCCM,9501,Housewife
+OCCM,9502,Student
+OCCM,9503,"Social Beneficiary (Unemployed, Retired, Sickness, Etc.)"
+OCCM,9504,Do Not Know
+OCCM,9505,"Vague(A Good Job, A Quiet Job, A Well Paid Job, An Office Job)"
+OCCM,9997,N/A
+OCCM,9998,Invalid
+OCCM,9999,Missing
+LANGN,104,Mauritian French Creole
+LANGN,105,Kurdish
+LANGN,108,Tagalog
+LANGN,113,Indonesian
+LANGN,118,Romanian
+LANGN,121,Estonian
+LANGN,130,Georgian
+LANGN,133,Raeto-Romance
+LANGN,137,Somali
+LANGN,140,Albanian
+LANGN,148,German
+LANGN,154,Tamil
+LANGN,156,Spanish
+LANGN,160,Catalan
+LANGN,170,Slovak
+LANGN,171,Ethiopic
+LANGN,192,Bosnian
+LANGN,200,Italian
+LANGN,204,Malay
+LANGN,230,Walloon
+LANGN,232,Portuguese
+LANGN,244,Czech
+LANGN,258,Urdu
+LANGN,264,Danish
+LANGN,266,Croatian
+LANGN,272,Samoan
+LANGN,273,Polish
+LANGN,275,Kazakh
+LANGN,286,Japanese
+LANGN,301,Korean
+LANGN,313,English
+LANGN,316,Chinese
+LANGN,317,Serbian
+LANGN,322,Dutch
+LANGN,325,Latvian
+LANGN,329,Vietnamese
+LANGN,340,Pushto
+LANGN,344,Turkish
+LANGN,351,Bulgarian
+LANGN,358,Quechua
+LANGN,363,Kyrgyz
+LANGN,369,Azerbaijani
+LANGN,375,Lithuanian
+LANGN,379,Welsh
+LANGN,381,Romani
+LANGN,382,Scottish Gaelic
+LANGN,409,Maltese
+LANGN,412,Panjabi
+LANGN,415,Hindi
+LANGN,420,Finnish
+LANGN,422,Hebrew
+LANGN,428,Belarusian
+LANGN,434,Irish
+LANGN,442,Slovenian
+LANGN,449,Greek
+LANGN,451,Basque
+LANGN,463,Australian languages
+LANGN,465,Maori
+LANGN,467,Icelandic
+LANGN,471,Uzbek
+LANGN,474,Galician
+LANGN,492,Macedonian
+LANGN,493,French
+LANGN,494,Swedish
+LANGN,495,Russian
+LANGN,496,Hungarian
+LANGN,500,Arabic
+LANGN,507,Luxembourgish
+LANGN,514,Ukrainian
+LANGN,523,Norwegian
+LANGN,527,Aymara
+LANGN,540,Sami
+LANGN,547,Armenian
+LANGN,555,Thai
+LANGN,600,"Yugoslavian - Serbian, Croatian, etc"
+LANGN,601,Gagauz (MDA)
+LANGN,602,Minority languages  and Bulgarian dialects  (BGR)
+LANGN,603,Shanghai dialect
+LANGN,604,Swiss Italian
+LANGN,605,Other European languages (QSC)
+LANGN,606,Western European languages
+LANGN,607,Regional languages (FRA)
+LANGN,608,Valencian
+LANGN,609,Chinese dialects or languages (HKG)
+LANGN,610,Another official language (ITA)
+LANGN,611,A dialect (ITA)
+LANGN,613,Chinese dialects or  languages (MAC)
+LANGN,614,Languages of the former USSR
+LANGN,615,Eastern European languages
+LANGN,616,National dialects or languages (THA)
+LANGN,617,Arabic dialect (TUN)
+LANGN,621,Flemish dialect (BEL)
+LANGN,622,Serbian of a yekavian variant or Montenegrin
+LANGN,623,Other European Languages (NLD)
+LANGN,624,Another EU language (ITA)
+LANGN,625,Cantonese
+LANGN,626,Ulster Scots
+LANGN,627,Other National dialects or languages (ROU)
+LANGN,628,Indian Languages (MEX)
+LANGN,629,Indigenous language (ARG)
+LANGN,630,Taiwanese dialect
+LANGN,631,Amazonic language (PER)
+LANGN,639,Other former Yugoslavian languages (SVN)
+LANGN,640,German dialect (BEL)
+LANGN,641,Mandarin
+LANGN,642,Local language in Indonesia
+LANGN,648,Swiss German
+LANGN,649,German (LIE)
+LANGN,650,Aboriginal dialect (TAP)
+LANGN,654,Another local Chinese dialect (QCN)
+LANGN,661,Hakka dialect (TAP)
+LANGN,662,Portugués del Uruguay
+LANGN,800,Another language (ARG)
+LANGN,801,Another language (AUS)
+LANGN,802,Another language (AUT)
+LANGN,803,Another language (AZE)
+LANGN,804,Another language (BEL)
+LANGN,805,Another language (BRA)
+LANGN,806,Another language (BGR)
+LANGN,807,Another language (CAN)
+LANGN,808,Another language (CHL)
+LANGN,809,Another language (TAP)
+LANGN,810,Another language (COL)
+LANGN,811,Another language (HRV)
+LANGN,812,Another language (CZE)
+LANGN,813,Another language (DNK)
+LANGN,814,Another language (EST)
+LANGN,815,Another language (FIN)
+LANGN,816,Another language (FRA)
+LANGN,817,Another language (KAZ)
+LANGN,818,Another language (DEU)
+LANGN,819,Another language (GRC)
+LANGN,820,Another language (HKG)
+LANGN,821,Another language (HUN)
+LANGN,822,Another language (ISL)
+LANGN,823,Another language (IDN)
+LANGN,824,Another language (IRL)
+LANGN,825,Another language (ISR)
+LANGN,826,Another language (ITA)
+LANGN,827,Another language (JPN)
+LANGN,828,Another language (JOR)
+LANGN,830,Another language (KGZ)
+LANGN,831,Another language (LVA)
+LANGN,833,Another language (LTU)
+LANGN,834,Another language (LUX)
+LANGN,835,Another language (MAC)
+LANGN,836,Another language (MEX)
+LANGN,837,Another language (MNE)
+LANGN,838,Another language (NLD)
+LANGN,839,Another language (NZL)
+LANGN,840,Another language (NOR)
+LANGN,841,Another language (PER)
+LANGN,842,Another language (POL)
+LANGN,843,Another language (PRT)
+LANGN,844,Another language (QAT)
+LANGN,845,Another language (KOR)
+LANGN,846,Another language (ROU)
+LANGN,847,Another language (RUS)
+LANGN,848,Another language (QSC)
+LANGN,850,Another language (SVK)
+LANGN,851,Another language (SVN)
+LANGN,852,Another language (ESP)
+LANGN,853,Another language (SWE)
+LANGN,854,Another language (CHE)
+LANGN,855,Another language (THA)
+LANGN,856,Another language (TUN)
+LANGN,857,Another language (TUR)
+LANGN,858,Another language (QUK)
+LANGN,859,Another language (USA)
+LANGN,860,Another language (URY)
+LANGN,861,Another language (SRB)
+LANGN,862,Another language (TTO)
+LANGN,863,Another language (PAN)
+LANGN,864,Another language (QCN)
+LANGN,865,Another language (ALB)
+LANGN,867,Another language (SGP)
+LANGN,871,Another language (DUBAI)
+LANGN,875,Another language (ARE ex Dubai)
+LANGN,832,Another language (CRI)
+LANGN,869,Another language (MDA)
+LANGN,870,Another language (GEO)
+LANGN,872,Another language (MYS)
+LANGN,873,Another language (MLT)
+LANGN,874,Another language (MUS)
+LANGN,880,Another language (QIN)
+LANGN,876,Another language (QVN)
+LANGN,997,N/A
+LANGN,998,Invalid
+LANGN,999,Missing
+PROGN,0080001,ALB: Lower secondary education
+PROGN,0080002,ALB: Upper secondary education
+PROGN,0080003,"ALB: Secondary education, vocational variant"
+PROGN,0080004,"ALB: Secondary education, technical variant"
+PROGN,0080005,ALB: Secondary education for adults (upper)
+PROGN,0310001,AZE: Programme of basic general education (Lower secondary)
+PROGN,0310002,AZE: Programme of secondary general education (Upper Secondary)
+PROGN,0310003,"AZE: Programme of initial professional education (professional schools, etc.)"
+PROGN,0310004,"AZE: Programme of secondary professional education (technikum, college, etc.)"
+PROGN,0320001,ARG: Primary - 7th year
+PROGN,0320002,ARG: GBE 3rd cycle - Lower secondary
+PROGN,0320003,ARG: Polimodal (all orientations except Producción de Bienes y Servicios with TTP)
+PROGN,0320004,ARG: Polimodal Orientation Producción de Bienes y Servicios con TTP - Upper secondary
+PROGN,0320005,ARG: General programme - Lower secondary
+PROGN,0320006,ARG: General programme - 4th to 6th year -Upper secondary- only for Province of Córdoba
+PROGN,0320007,ARG: Vocational programme - Lower secondary
+PROGN,0320008,ARG: Vocational programme - Upper secondary
+PROGN,0320009,ARG: General programme - Lower secondary
+PROGN,0320010,ARG: General programme - Upper secondary
+PROGN,0320011,ARG: Vocational programme - Lower secondary
+PROGN,0320012,ARG: Vocational programme - Upper secondary
+PROGN,0320013,ARG: Adult Education - General Programme Upper secondary
+PROGN,0320014,ARG: No regular Education
+PROGN,0360001,AUS: Lower secondary general academic
+PROGN,0360002,AUS: Lower secondary with some VET subjects
+PROGN,0360003,AUS: Upper secondary general academic
+PROGN,0360004,AUS: Upper secondary with some VET subjects
+PROGN,0360005,AUS: Upper secondary VET course
+PROGN,0400001,AUT: Upper Primary school
+PROGN,0400002,AUT: Lower Secondary school
+PROGN,0400003,AUT: Vocational Programme
+PROGN,0400004,AUT: Special education school (lower secondary)
+PROGN,0400005,AUT: Special education school (upper secondary)
+PROGN,0400006,AUT: Gymnasium Lower Secondary
+PROGN,0400007,AUT: Gymnasium Upper Secondary
+PROGN,0400008,AUT: Lower Secondary school
+PROGN,0400009,AUT: Upper Secondary school
+PROGN,0400010,AUT: Apprenticeship
+PROGN,0400011,AUT: Middle vocational school
+PROGN,0400012,AUT: Middle vocational school
+PROGN,0400013,AUT: Middle vocational school
+PROGN,0400014,AUT: Higher vocational school
+PROGN,0400015,AUT: Vocational college
+PROGN,0560001,BEL: (First year A of first stage of) General Education
+PROGN,0560002,BEL: (First year B of first stage of General Education) – Special needs
+PROGN,0560003,BEL: Second year of first stage - preparing for vocational secondary education
+PROGN,0560004,BEL: Second year of first stage preparing for regular secondary education
+PROGN,0560005,BEL: Second & third stage regular secondary education
+PROGN,0560006,BEL: Second & third stage technical secondary education
+PROGN,0560007,BEL: Second & third stage artistic secondary education
+PROGN,0560008,BEL: Second & third stage vocational secondary education
+PROGN,0560009,BEL: Part-time vocational secondary education focused on the labour market
+PROGN,0560010,BEL: Special secondary education - lower secondary (training form 3 / first 3 years)
+PROGN,0560011,BEL: Special secondary education - upper secondary (training form 3 / years 4 and 5)
+PROGN,0560012,BEL: First degree of general education (Fr/Ger)
+PROGN,0560013,BEL: First year B special needs (Fr/Ger)
+PROGN,0560014,BEL: 2nd year of vocational education (Fr/Ger)
+PROGN,0560015,BEL: Complementary year to 1st degree (Fr Com only)
+PROGN,0560016,BEL: Second & third degrees of general education (Fr/Ger)
+PROGN,0560017,BEL: Second & third degrees of technical or artistical education (transition) (Fr/Ger)
+PROGN,0560018,BEL: Second & third degrees of technical or artistical education (qualification) (Fr/Ger)
+PROGN,0560019,BEL: Second & third degrees of vocational education (Fr/Ger)
+PROGN,0560020,BEL: Vocational training focused on the labour market (Fr Com only)
+PROGN,0560021,BEL: Part-time Vocational training focused on the labour market (Fr Com only)
+PROGN,0560022,BEL: Special secondary education (lower secondary - training form 3) (Fr Com only)
+PROGN,0560023,"BEL: First, second & third degrees of Special secondary education ( form 4) (Fr Com only)"
+PROGN,0560024,BEL: Special secondary education (lower secondary) (Germ Com only)
+PROGN,0560025,BEL: Special secondary education (upper secondary) (Germ Com only)
+PROGN,0560026,BEL: Part-time Vocational Education (Germ Com only)
+PROGN,0560027,BEL: Vocational Education (Germ Com only)
+PROGN,0560028,"BEL: First, second & third degrees of Special secondary education ( form 4) (Fr Com only)"
+PROGN,0760001,BRA: Lower secondary education
+PROGN,0760002,BRA: Upper secondary education
+PROGN,1000001,BGR: Secondary education (lower)
+PROGN,1000002,BGR: Secondary education - general nonspecialized (upper)
+PROGN,1000003,BGR: Secondary education - general profiled (upper)
+PROGN,1000004,BGR: Secondary education - vocational (upper)
+PROGN,1240001,CAN: Grades 7 - 9 (Quebec: Secondary 1 – 3 )
+PROGN,1240002,"CAN: Grades 10 - 12 (Quebec: Secondary 4 and 5, Newfoundland: Level I - III)"
+PROGN,1520001,CHL: Lower Secondary education
+PROGN,1520002,CHL: First cycle of Upper secondary
+PROGN,1520003,"CHL: Second cycle of upper secondary education, academic orientation"
+PROGN,1520004,"CHL: Second cycle of upper secondary education, technical orientation"
+PROGN,1560001,QCN: Lower secondary general
+PROGN,1560002,QCN: Upper secondary general
+PROGN,1560003,QCN: Upper secondary vocational
+PROGN,1560004,QCN: 6/7 years secondary vocational
+PROGN,1580001,TAP: Junior high school
+PROGN,1580002,TAP: Senior high school
+PROGN,1580003,TAP: Vocational senior high school
+PROGN,1580004,TAP: Five-year college (not including the last two years)
+PROGN,1700001,COL: Secondary education (lower)
+PROGN,1700002,"COL: Secondary education (upper), academica"
+PROGN,1700003,"COL: Secondary education (upper), tecnica"
+PROGN,1910001,HRV: Gymnasium
+PROGN,1910002,HRV: Four year vocational programmes
+PROGN,1910003,HRV: Art programmes
+PROGN,1910004,HRV: Vocational programmes for industry
+PROGN,1910005,HRV: Vocational programmes for crafts
+PROGN,1910006,HRV: Lower qualification vocational programmes
+PROGN,1910007,HRV: Primary school - lower secondary education
+PROGN,2030001,CZE: Basic school
+PROGN,2030002,"CZE: 6, 8-year gymnasium and 8-year conservatory (lower secondary)"
+PROGN,2030003,"CZE: 6, 8-year gymnasium (upper secondary)"
+PROGN,2030004,CZE: 4- year gymnasium
+PROGN,2030005,CZE: Voc/tech secondary school with maturate
+PROGN,2030006,CZE: Conservatory (upper secondary)
+PROGN,2030007,CZE: Voc/tech secondary school without maturate
+PROGN,2030008,CZE: Basic special schools
+PROGN,2030009,"CZE: Secondary special schools - practical schools, vocational education predominantly"
+PROGN,2080001,"DNK: Primary and lower secondary (public school, private school)"
+PROGN,2080002,DNK: Continuation school (boarding)
+PROGN,2080003,DNK: Education at a production school
+PROGN,2080004,"DNK: Upper secondary education (general, commercial, technical)"
+PROGN,2080005,"DNK: Upper secondary, vocational"
+PROGN,2330001,EST: Lower secondary
+PROGN,2330002,EST: Upper secondary
+PROGN,2330003,EST: Vocational upper secondary education
+PROGN,2460001,FIN: Comprehensive secondary school
+PROGN,2460002,"FIN: Comprehensive secondary school, additional education"
+PROGN,2460003,FIN: Upper secondary school
+PROGN,2460004,FIN: Upper secondary vocational school
+PROGN,2460005,"FIN: Double or triple examination, upper secondary stage"
+PROGN,2460006,FIN: Other
+PROGN,2500001,FRA: isced2
+PROGN,2500002,FRA: special education in isced 2
+PROGN,2500003,FRA: isced 3a
+PROGN,2500004,FRA: isced 3c
+PROGN,2500005,FRA: other type of isced 3c
+PROGN,2760001,DEU: Lower secondary with access to upper secondary (comprehensive)
+PROGN,2760002,"DEU: Lower secondary without access to upper secondary, providing a basic general education (grade 5 - 10)"
+PROGN,2760003,"DEU: Lower secondary without access to upper secondary, providing an extensive general education (grades 5- 10)"
+PROGN,2760004,DEU: Lower secondary with access to upper secondary
+PROGN,2760005,DEU: Upper secondary level of education
+PROGN,2760006,DEU: Lower secondary with access to upper secondary (comprehensive)
+PROGN,2760007,DEU: Upper secondary level of education
+PROGN,2760008,"DEU: Lower secondary without access to upper secondary, providing a basic general education (gr 5 -10)"
+PROGN,2760009,"DEU: Lower secondary with/without access to upper secondary, providing an extensive general education (gr 5 - 10)"
+PROGN,2760010,DEU: Lower secondary with access to upper secondary (comprehensive)
+PROGN,2760011,DEU: Upper secondary level of education
+PROGN,2760012,"DEU: Lower secondary without access to upper secondary, providing a basic general education (grades 5 - 10)"
+PROGN,2760013,"DEU: Lower secondary without access to upper secondary, providing an extensive general education (grades 5 - 10)"
+PROGN,2760014,"DEU: Lower secondary without access to upper secondary, providing a basic general education (grades 5 - 10)"
+PROGN,2760015,"DEU: Lower secondary without access to upper secondary, providing an extensive general education (grades 5 - 10)"
+PROGN,2760016,DEU: Lower secondary with access to upper secondary (comprehensive)
+PROGN,2760017,DEU: Upper secondary level of education
+PROGN,2760018,DEU: pre-vocational training year upper secondary level
+PROGN,2760019,DEU: Vocational school upper secondary level
+PROGN,2760020,DEU: Vocational school
+PROGN,3000001,GRC: Secondary education (lower)
+PROGN,3000002,GRC: Secondary education (upper)
+PROGN,3000003,GRC: Technical-Vocational Schools Upper secondary education
+PROGN,3000004,GRC: Lower secondary education Evening school
+PROGN,3000005,GRC: Upper Secondary Education Evening Lyceum
+PROGN,3440001,HKG: Lower Secondary in G & I Sch.
+PROGN,3440002,HKG: Upper Secondary in G & I Sch.
+PROGN,3480001,HUN: Primary school
+PROGN,3480002,HUN: Grammar school
+PROGN,3480003,HUN: Vocational secondary school
+PROGN,3480004,HUN: Vocational school
+PROGN,3520001,ISL: Lower Secondary school
+PROGN,3520002,ISL: Marine engineer certificate 1st grade
+PROGN,3520003,ISL: Upper secondary level vocational 1-year certificate
+PROGN,3520004,ISL: School certificate
+PROGN,3520005,ISL: Upper secondary level vocational 2-year certificate
+PROGN,3520006,ISL: Health related auxiliary 3-year certificate
+PROGN,3520007,ISL: Upper secondary level vocational 3-year certificate
+PROGN,3520008,ISL: School certificate
+PROGN,3520009,ISL: Health related auxiliary examination
+PROGN,3520010,ISL: Fine arts examination
+PROGN,3520011,ISL: Upper secondary level general 2-year certificate
+PROGN,3520012,ISL: Stúdentspróf. Matriculation examination certificate (granting access to university studies)
+PROGN,3600001,IDN: General Junior High School
+PROGN,3600002,IDN: Islamic Junior High School
+PROGN,3600003,IDN: General Senior High School
+PROGN,3600004,IDN: Islamic Senior High School
+PROGN,3600005,IDN: Vocational High School
+PROGN,3720001,IRL: Junior Cert.
+PROGN,3720002,IRL: Transition Year Programme
+PROGN,3720003,IRL: Leaving Cert. Applied
+PROGN,3720004,IRL: Leaving Cert. Established
+PROGN,3720005,IRL: Leaving Cert. Vocational
+PROGN,3720006,IRL: Youthreach
+PROGN,3760001,"ISR: Primary + Lower secondary education, grades 1-8"
+PROGN,3760002,"ISR: Primary + Lower secondary education, grades 1-9"
+PROGN,3760003,"ISR: Lower secondary education, grades 7-9"
+PROGN,3760004,"ISR: Upper secondary education, grades 10-12"
+PROGN,3760005,"ISR:  4 years Higher education, grades 9-12"
+PROGN,3760006,"ISR: 6 years Higher education, grades 7-12"
+PROGN,3760007,"ISR: 6 years Higher education, grades 7-12"
+PROGN,3760008,"ISR: Primary education-ultra orthodox, grades 1-8"
+PROGN,3760009,ISR: Ultra Orthodox- Higher education- Boys
+PROGN,3760010,ISR: Ultra Orthodox- Higher education- Girls
+PROGN,3800001,"ITA: Scientific, Classical, Social Science, Scientific-technological, Linguistic"
+PROGN,3800002,ITA: Technical Institute
+PROGN,3800003,"ITA: Vocational Institute, Art Institute, Art High School"
+PROGN,3800004,ITA: Lower secondary education
+PROGN,3800005,ITA: Vocational training Vocational Schools of Bolzano and Trento Provinces
+PROGN,3920001,JPN: Upper secondary school (General)
+PROGN,3920002,JPN: Technical college (First 3 years)
+PROGN,3920003,JPN: Upper secondary school (Vocational)
+PROGN,3920004,JPN: Secondary school (Upper division)
+PROGN,3980001,KAZ: Programm of basic secondary education (5-9 grades)
+PROGN,3980002,KAZ: Programm of general secondary education (10-11 grades)
+PROGN,3980003,KAZ: Programme of technical and vocational education (professional school and professional lyceum).
+PROGN,3980004,KAZ: Programme of technical and vocational education (colledge and uchilische).
+PROGN,4000001,JOR: basic education
+PROGN,4100001,KOR: Lower Secondary Education
+PROGN,4100002,KOR: Upper Secondary Education
+PROGN,4100003,KOR: Upper Secondary Education
+PROGN,4170001,KGZ: Programme of basic general education (Lower secondary)
+PROGN,4170002,KGZ: Programme of secondary general education (Upper Secondary)
+PROGN,4170003,"KGZ: Programme of initial professional education (professional schools, etc.)"
+PROGN,4170004,"KGZ: Programme of secondary professional education (technikum, college, etc.)"
+PROGN,4280001,LVA: Basic education
+PROGN,4280002,LVA: Special basic education
+PROGN,4280003,LVA: Basic vocational education
+PROGN,4280004,LVA: General secondary education
+PROGN,4280005,LVA: Secondary vocational education
+PROGN,4380001,"LIE: Secondary education, First stage"
+PROGN,4380002,LIE: Preparatory course for vocational education
+PROGN,4380003,LIE: School preparing for the university entrance certificate
+PROGN,4400001,LTU: Basic School
+PROGN,4400002,LTU: Secondary School (Lower Secondary)
+PROGN,4400003,LTU: Secondary School (Upper Secondary)
+PROGN,4400004,LTU: Lower Gymnasium
+PROGN,4400005,LTU: Upper Gymnasium
+PROGN,4400006,LTU: Vocational School
+PROGN,4400007,LTU: Progymnasium
+PROGN,4420001,LUX: Lower secondary education
+PROGN,4420002,LUX: Lower secondary education
+PROGN,4420003,LUX: Lower secondary education
+PROGN,4420004,LUX: A 3-year vocational education
+PROGN,4420005,LUX: A 4-year technical education
+PROGN,4420006,"LUX: A 4 to 5-year technical, commercial or social education"
+PROGN,4420007,LUX: Upper secondary education
+PROGN,4420008,"LUX: Lower secondary private, not subsidized"
+PROGN,4420009,"LUX: Upper secondary private, not subsidized"
+PROGN,4460001,MAC: Grammar or International Program at Lower Secondary Levels
+PROGN,4460002,MAC: Grammar or International Program at Higher Secondary Levels
+PROGN,4460003,MAC: Technical or Prevocational Program at Lower Secondary Levels
+PROGN,4460004,MAC: Technical or Prevocational Program at Higher Secondary Levels
+PROGN,4840001,MEX: General Lower Secondary
+PROGN,4840002,MEX: Technical Lower Secondary
+PROGN,4840003,MEX: General Lower Secondary by Television
+PROGN,4840004,MEX: General Baccalaureate or Upper Secondary
+PROGN,4840005,MEX: General Baccalaureate or Upper Secondary
+PROGN,4840006,MEX: General Baccalaureate or Upper Secondary
+PROGN,4840007,MEX: Technical Baccalaureate or Technical from Upper Secondary
+PROGN,4840008,MEX: Professional Technician
+PROGN,4990001,MNE: lower secondary or second stage of compulsory basic education
+PROGN,4990002,MNE: general upper secondary school
+PROGN,4990003,MNE: 4-year vocational secondary school
+PROGN,4990004,MNE: 3-year vocational secondary school
+PROGN,5280001,NLD: practical preparation for labour market
+PROGN,5280002,"NLD: general vocational oriented in next year tracks into BB, KB, GL, TL"
+PROGN,5280003,"NLD: admission to ISCED 3,MBO level 1-3, post secondary, non tertiary"
+PROGN,5280004,"NLD: admission to ISCED 3,MBO level 1-3"
+PROGN,5280005,"NLD: admission to ISCED 3,MBO tertiary level,"
+PROGN,5280006,"NLD: HAVO: advanced general secondary education/ admission to higher voc./ college, so tertiary level (ISCED2)"
+PROGN,5280007,"NLD: HAVO: advanced general secondary education/ admission to higher voc./ college, so tertiary level (ISCED3)"
+PROGN,5280008,NLD: VWO: admission to university (ISCED2)
+PROGN,5280009,NLD: VWO: admission to university (ISCED3)
+PROGN,5540001,NZL: Lower secondary
+PROGN,5540002,NZL: Upper secondary
+PROGN,5780001,NOR: Lower secondary
+PROGN,5780002,NOR: Upper secondary
+PROGN,5780003,NOR: Lower and upper secondary
+PROGN,5780004,NOR: Lower and secondary
+PROGN,5910001,PAN: Lower secondary education
+PROGN,5910002,PAN: Upper secondary education
+PROGN,6040001,PER: Lower secondary education. Includes secondary for adults and distance secondary.
+PROGN,6040002,PER: Upper secondary education. Includes secondary for adults and distance secondary.
+PROGN,6040003,PER: Alternative Basic Education-Advanced cycle
+PROGN,6160001,POL: Gymnasium
+PROGN,6160002,POL: Lyceum - General education
+PROGN,6160003,POL: Profiled Lyceum
+PROGN,6160004,POL: Technical School
+PROGN,6160005,POL: Basic Vocational School
+PROGN,6200001,PRT: Lower Secondary
+PROGN,6200002,PRT: Lower Secondary Ungraded
+PROGN,6200003,PRT: Upper Secondary
+PROGN,6200004,PRT: Vocational Secondary
+PROGN,6200005,PRT: Vocational Secondary
+PROGN,6200006,PRT: Lower Secondary
+PROGN,6340001,QAT: Lower Secondary
+PROGN,6340002,QAT: Lower Secondary Reformed
+PROGN,6340003,QAT: Lower Secondary International
+PROGN,6340004,QAT: Upper Secondary
+PROGN,6340005,QAT: Upper Secondary Reformed
+PROGN,6340006,QAT: Upper Secondary International
+PROGN,6420001,"ROU: General education, leading to the continuation of studies in vocational education"
+PROGN,6420002,"ROU: Vocational education leading to qualification, introducing participants in the labour market and preparing them for the continuation of studies"
+PROGN,6420003,"ROU: Lower Secondary education, it continues the Gymnasium to the first part of the High School"
+PROGN,6430001,RUS: Programme of basic general education (Lower secondary)
+PROGN,6430002,RUS: Programme of secondary general education (Upper secondary)
+PROGN,6430003,"RUS: Programme of initial professional education (professional schools, ets.)"
+PROGN,6430004,"RUS: Programme of secondary professional education (technikum, college, ets.)"
+PROGN,6880001,SRB: Primary School
+PROGN,6880002,SRB: Gymnasium
+PROGN,6880003,SRB: Technical
+PROGN,6880004,SRB: Technical Vocational
+PROGN,6880005,SRB: Medical
+PROGN,6880006,SRB: Economic
+PROGN,6880007,SRB: Economic Vocational
+PROGN,6880008,SRB: Agricultural
+PROGN,6880009,SRB: Agricultural Vocational
+PROGN,6880010,SRB: Artistic
+PROGN,6880011,SRB: Mixed
+PROGN,7020001,SGP: Lower Secondary education
+PROGN,7020002,SGP: Upper Secondary education
+PROGN,7020003,SGP: Post Secondary education
+PROGN,7030001,SVK: Basic school
+PROGN,7030002,SVK: Vocational Basic school
+PROGN,7030003,SVK: Secondary school (ISCED 2)
+PROGN,7030004,SVK: Secondary school (ISCED 3)
+PROGN,7030005,SVK: High School
+PROGN,7030006,SVK: Secondary College
+PROGN,7030007,SVK: Technical College - branch/class with a school leaving examination
+PROGN,7030008,SVK: Secondary College or Technical College - branch/class without the school leaving examination
+PROGN,7050001,SVN: Secondary general education - general and classical gymnasiums
+PROGN,7050002,SVN: Secondary general education - technical gymnasiums
+PROGN,7050003,SVN: Technical education programmes
+PROGN,7050004,SVN: Vocational education programmes of medium duration - school type and dual type/apprenticeship organisation
+PROGN,7050005,SVN: Vocational education programmes of short duration
+PROGN,7050006,SVN: Basic (elementary) education
+PROGN,7240001,ESP: Compulsory Secondary Education
+PROGN,7240002,ESP: Baccalaureat
+PROGN,7240003,ESP: Intermediate Level Vocational Training
+PROGN,7520001,SWE: Compulsory basic school
+PROGN,7520002,"SWE: Upper secondary school, general orientation"
+PROGN,7520003,"SWE: Upper secondary school, vocational orientation"
+PROGN,7520004,"SWE: Upper secondary school, the individual programme"
+PROGN,7560001,"CHE: Secondary education, First stage"
+PROGN,7560002,CHE: Preparatory course for vocational education
+PROGN,7560003,CHE: School preparing for the university entrance certificate
+PROGN,7560004,"CHE: Vocational baccalaureat, dual system 3-4 years"
+PROGN,7560005,"CHE: Vocational education, dual system 3-4 years"
+PROGN,7560006,CHE: Intermediate diploma school
+PROGN,7560007,"CHE: Basic vocational education, dual system 1-2 years"
+PROGN,7560008,CHE: Intermediate Diploma School
+PROGN,7640001,THA: Lower Secondary Level
+PROGN,7640002,THA: Upper Secondary Level
+PROGN,7640003,THA: Vocational Certificate level (Upper secondary level)
+PROGN,7800001,TTO: Lower secondary general
+PROGN,7800002,TTO: Upper secondary general
+PROGN,7800003,TTO: Lower secondary vocational
+PROGN,7800004,TTO: Upper secondary vocational
+PROGN,7880001,TUN: Enseignement de base (lower secondary)
+PROGN,7880002,TUN: Enseignement secondaire (upper secondary)
+PROGN,7920001,TUR: Primary school
+PROGN,7920002,TUR: General high school
+PROGN,7920003,TUR: Anatolian high school
+PROGN,7920004,TUR: Science high school
+PROGN,7920005,TUR: Social Sciences High School
+PROGN,7920006,TUR: Anatolian Teacher Training High School
+PROGN,7920007,TUR: Anatolian Fine Arts High School
+PROGN,7920008,TUR: Sport High School
+PROGN,7920009,TUR: Vocational High School
+PROGN,7920010,TUR: Anatolian Vocational High School
+PROGN,7920011,TUR: Technical High School
+PROGN,7920012,TUR: Anatolian Technical High Schoo
+PROGN,7920013,TUR: Multi Programme High School
+PROGN,8261001,GBR: Students studying mostly toward Entry Level Certificates
+PROGN,8261002,GBR: Students studying mostly toward GCSE or equivalent level 1 or level 2 qualifications
+PROGN,8261003,GBR: Students studying mostly for AS or A Levels or equivalent non-vocational level 3 qualifications
+PROGN,8261004,GBR: Students studying mostly for VCE AS or A-levels
+PROGN,8261005,"GBR: Students studying mostly towards level 1 or 2 vocational qualifications, e.g. level 1 or 2 NVQs"
+PROGN,8261006,"GBR: Students studying mostly for level 3 vocational qualifications, e.g. level 3 NVQs"
+PROGN,8261007,GBR: Students below Year 10 (England and Wales) Students below Year 11 (Northern Ireland)
+PROGN,8262001,GBR: All PISA students in S4.
+PROGN,8262002,"GBR: S5-S6 and studying National Qualifications at Higher level, A-level, or equivalent."
+PROGN,8262003,"GBR: S5-S6 and studying National Qualifications at Intermediate or Access level, or equivalent."
+PROGN,8262004,GBR: S5-S6 and studying at least 25% technical or vocational subjects.
+PROGN,8400001,USA: Grades 7-9
+PROGN,8400002,USA: Grades 10-12
+PROGN,8580001,URY: Lower Secondary
+PROGN,8580002,URY: Lower Secondary with a technological component
+PROGN,8580003,URY: Vocational lower secondary
+PROGN,8580004,URY: Lower Secondary with a very important technological component
+PROGN,8580005,URY: Lower secondary in Rural Primary Schools
+PROGN,8580006,URY: General upper secondary
+PROGN,8580007,URY: Technical upper secondary
+PROGN,8580008,URY: Vocational upper secondary
+PROGN,8580009,URY: Vocational Upper Secondary
+PROGN,8580010,URY: Technical upper secondary
+PROGN,8580011,URY: Military School
+PROGN,7840001,DUBAI: Grade 6-9 Lower secondary
+PROGN,7840002,DUBAI: Grade 10-12   Upper secondary
+PROGN,1880001,CRI: Secondary education (lower)
+PROGN,1880002,"CRI: Secondary education (upper) academic,"
+PROGN,1880003,CRI: Secondary education (upper) technical
+PROGN,2680001,GEO: basic school
+PROGN,2680002,GEO: secondary school
+PROGN,4580001,MYS: Science Upper Secondary
+PROGN,4580002,MYS: Arts Upper Secondary
+PROGN,4580003,MYS: Technical/Vocational Secondary
+PROGN,4580004,MYS: Religious Secondary
+PROGN,4580005,MYS: Lower Secondary
+PROGN,4700001,MLT: Secondary Education (lower)
+PROGN,4700002,MLT: Secondary education (upper)
+PROGN,4700003,MLT: Secondary education (upper)
+PROGN,4800001,MUS: Secondary Education (Lower)
+PROGN,4800002,MUS: Secondary Education (Upper)
+PROGN,4800003,MUS: Prevocational Education
+PROGN,4800004,MUS: Secondary Education (Vocational)
+PROGN,4980001,MDA: Lower secondary general
+PROGN,4980002,MDA: Upper secondary general
+PROGN,4980003,MDA: Upper secondary general
+PROGN,7842001,ARE (ex. Dubai): General Education
+PROGN,7842002,ARE (ex. Dubai): General Education
+PROGN,3561001,India (2009 States): Upper Primary
+PROGN,3561002,India (2009 States): Secondary Education
+PROGN,3561003,India (2009 States): Senior Secondary
+PROGN,3561004,India (2009 States): Vocational Education
+PROGN,8620101,QVE: Lower Secondary
+PROGN,8620102,QVE: Upper secondary general
+PROGN,8620103,QVE: Upper secondary vocational
+TLANG,ALB,ALBANIAN
+TLANG,ARA,ARABIC
+TLANG,AZE,AZERBAIJANI
+TLANG,BAQ,BASQUE
+TLANG,BUL,BULGARIAN
+TLANG,CAT,CATALAN
+TLANG,CHI,CHINESE
+TLANG,CZE,CZECH
+TLANG,DAN,DANISH
+TLANG,DUT,DUTCH
+TLANG,ENG,ENGLISH
+TLANG,EST,ESTONIAN
+TLANG,FIN,FINNISH
+TLANG,FRE,FRENCH
+TLANG,GER,GERMAN
+TLANG,GEO,GEORGIAN
+TLANG,GLE,IRISH
+TLANG,GLG,GALICIAN
+TLANG,GRE,GREEK
+TLANG,HEB,HEBREW
+TLANG,HIN,HINDI
+TLANG,HUN,HUNGARIAN
+TLANG,ICE,ICELANDIC
+TLANG,IND,INDONESIAN
+TLANG,ITA,ITALIAN
+TLANG,JPN,JAPANESE
+TLANG,KAZ,KAZAKH
+TLANG,KIR,KYRGYZ
+TLANG,KOR,KOREAN
+TLANG,LAV,LATVIAN
+TLANG,LIT,LITHUANIAN
+TLANG,MAY,MALAY
+TLANG,NOR,NORWEGIAN
+TLANG,POL,POLISH
+TLANG,POR,PORTUGUESE
+TLANG,QMN,MONTENEGRIN
+TLANG,QVL,VALENCIAN
+TLANG,RUM,ROMANIAN
+TLANG,RUS,RUSSIAN
+TLANG,SCC,SERBIAN
+TLANG,SCR,CROATIAN
+TLANG,SLO,SLOVAK
+TLANG,SLV,SLOVENIAN
+TLANG,SPA,SPANISH
+TLANG,SWE,SWEDISH
+TLANG,TAM,TAMIL
+TLANG,THA,THAI
+TLANG,TUR,TURKISH
+TLANG,UZB,UZBEK
+TLANG,WEL,WELSH
+TLANG,XYY,NOT APPLICABLE
+STRATUM,00801,ALB: North/Urban/General
+STRATUM,00802,ALB: North/Urban/Vocational
+STRATUM,00803,ALB: North/Rural/General
+STRATUM,00804,ALB: Center/Urban/General
+STRATUM,00805,ALB: Center/Urban/Vocational
+STRATUM,00806,ALB: Center/Rural/General
+STRATUM,00807,ALB: South/Urban/General
+STRATUM,00808,ALB: South/Urban/Vocational
+STRATUM,00809,ALB: South/Rural/General
+STRATUM,00810,ALB: Rural/Vocational
+STRATUM,00811,ALB: Stratum 11
+STRATUM,03201,ARG: 01: Centro
+STRATUM,03202,ARG: 02: NEA
+STRATUM,03203,ARG: 03: NOA
+STRATUM,03204,ARG: 04: Cuyo
+STRATUM,03205,ARG: 05: Patagonia
+STRATUM,03601,AUS: ACT_Catholic
+STRATUM,03602,AUS: ACT_Government
+STRATUM,03603,AUS: ACT_Independent
+STRATUM,03604,AUS: NSW_Catholic
+STRATUM,03605,AUS: NSW_Government
+STRATUM,03606,AUS: NSW_Independent
+STRATUM,03607,AUS: VIC_Catholic
+STRATUM,03608,AUS: VIC_Government
+STRATUM,03609,AUS: VIC_Independent
+STRATUM,03610,AUS: QLD_Catholic
+STRATUM,03611,AUS: QLD_Government
+STRATUM,03612,AUS: QLD_Independent
+STRATUM,03613,AUS: SA_Catholic
+STRATUM,03614,AUS: SA_Government
+STRATUM,03615,AUS: SA_Independent
+STRATUM,03616,AUS: WA_Catholic
+STRATUM,03617,AUS: WA_Government
+STRATUM,03618,AUS: WA_Independent
+STRATUM,03619,AUS: TAS_Catholic
+STRATUM,03620,AUS: TAS_Government
+STRATUM,03621,AUS: TAS_Independent
+STRATUM,03622,AUS: NT_Catholic
+STRATUM,03623,AUS: NT_Government
+STRATUM,03624,AUS: NT_Independent
+STRATUM,03625,AUS: Stratum 25
+STRATUM,04097,AUT: Stratum 97
+STRATUM,03197,AZE: Stratum 97
+STRATUM,05601,BEL: Flanders/Gen Ed only/private subsidized
+STRATUM,05602,BEL: Flanders/Gen Ed only/network comm. schls
+STRATUM,05603,BEL: Flanders/Gen Ed and other type/private subsidized
+STRATUM,05604,BEL: Flanders/Gen Ed and other type/network comm. schls
+STRATUM,05605,BEL: Flanders/Tech/Voc/noGen Ed/ private subsidized
+STRATUM,05606,BEL: Flanders/Tech/Voc/no Gen Ed/network comm. schls
+STRATUM,05607,BEL: Flanders/Spec Ed/ private subsidized
+STRATUM,05608,BEL: Flanders/Spec Ed/network comm. schls
+STRATUM,05609,BEL: Flanders/Part-time Voc/ private subsidized
+STRATUM,05611,BEL: French com/Regular/private sectarian
+STRATUM,05612,BEL: French com/Regular/public at state/community level
+STRATUM,05613,BEL: French com/Regular/public at local level
+STRATUM,05614,BEL: French com/Regular/private non-sectarian
+STRATUM,05615,BEL: French com/Spec Ed/private sectarian
+STRATUM,05616,BEL: French com/Spec Ed/public at state/community level
+STRATUM,05617,BEL: French com/Spec Ed/public at local level
+STRATUM,05618,BEL: French com/Spec Ed/private non-sectarian
+STRATUM,05619,BEL: French com/Part-time Voc/private sectarian
+STRATUM,05620,BEL: French com/Part-time Voc/public at state/community level
+STRATUM,05621,BEL: French com/Part-time Voc /public at local level
+STRATUM,05622,BEL: German com/Regular
+STRATUM,05623,BEL: German com/Special Ed
+STRATUM,10001,"BGR: 1. General profiled ISCED3,1"
+STRATUM,10002,"BGR: 1. General profiled ISCED3,2"
+STRATUM,10003,"BGR: 1. General profiled ISCED3,3"
+STRATUM,10004,"BGR: 1. General profiled ISCED3,4"
+STRATUM,10005,"BGR: 1. General profiled ISCED3,5"
+STRATUM,10006,"BGR: 1. General profiled ISCED3,6"
+STRATUM,10007,"BGR: 1. General profiled ISCED3,7"
+STRATUM,10008,"BGR: 1. General profiled ISCED3,8"
+STRATUM,10009,"BGR: 1. General profiled ISCED3,9"
+STRATUM,10010,"BGR: 1. General profiled ISCED3,10"
+STRATUM,10011,"BGR: 1. General profiled ISCED3,11"
+STRATUM,10012,"BGR: 2. General non-profiled ISCED3,1"
+STRATUM,10014,"BGR: 2. General non-profiled ISCED3,3"
+STRATUM,10015,"BGR: 2. General non-profiled ISCED3,4"
+STRATUM,10016,"BGR: 2. General non-profiled ISCED3,5"
+STRATUM,10017,"BGR: 2. General non-profiled ISCED3,6"
+STRATUM,10018,"BGR: 2. General non-profiled ISCED3,7"
+STRATUM,10019,"BGR: 2. General non-profiled ISCED3,8"
+STRATUM,10020,"BGR: 2. General non-profiled ISCED3,9"
+STRATUM,10021,"BGR: 2. General non-profiled ISCED3,10"
+STRATUM,10022,"BGR: 2. General non-profiled ISCED3,11"
+STRATUM,10023,"BGR: 3. Other,1"
+STRATUM,10024,"BGR: 3. Other,2"
+STRATUM,10025,"BGR: 3. Other,3"
+STRATUM,10026,"BGR: 3. Other,4"
+STRATUM,10027,"BGR: 3. Other,5"
+STRATUM,10028,"BGR: 3. Other,6"
+STRATUM,10029,"BGR: 3. Other,7"
+STRATUM,10030,"BGR: 3. Other,8"
+STRATUM,10031,"BGR: 3. Other,9"
+STRATUM,10032,"BGR: 3. Other,10"
+STRATUM,10033,"BGR: 3. Other,11"
+STRATUM,07601,BRA: ACRE - no grade 9
+STRATUM,07602,"BRA: ACRE - grade 9, SMOP,1"
+STRATUM,07603,"BRA: ACRE - grade 9, SMOP,53"
+STRATUM,07604,BRA: ALAGOAS - no grade 9
+STRATUM,07605,"BRA: ALAGOAS - grade 9, SMOP,1"
+STRATUM,07606,"BRA: ALAGOAS - grade 9, SMOP,53"
+STRATUM,07607,BRA: AMAPÁ - no grade 9
+STRATUM,07608,"BRA: AMAPÁ - grade 9, SMOP,1"
+STRATUM,07609,"BRA: AMAPÁ - grade 9, SMOP,53"
+STRATUM,07610,BRA: AMAZONAS - no grade 9
+STRATUM,07611,"BRA: AMAZONAS - grade 9, SMOP,1"
+STRATUM,07612,"BRA: AMAZONAS - grade 9, SMOP,53"
+STRATUM,07613,BRA: BAHIA - no grade 9
+STRATUM,07614,"BRA: BAHIA - grade 9, SMOP,1"
+STRATUM,07615,"BRA: BAHIA - grade 9, SMOP,53"
+STRATUM,07616,BRA: CEARÁ - no grade 9
+STRATUM,07617,"BRA: CEARÁ - grade 9, SMOP,1"
+STRATUM,07618,"BRA: CEARÁ - grade 9, SMOP,53"
+STRATUM,07619,BRA: DISTRITO FEDERAL - no grade 9
+STRATUM,07620,"BRA: DISTRITO FEDERAL - grade 9, SMOP,1"
+STRATUM,07621,"BRA: DISTRITO FEDERAL - grade 9, SMOP,53"
+STRATUM,07622,BRA: ESPÍRITO SANTO - no grade 9
+STRATUM,07623,"BRA: ESPÍRITO SANTO - grade 9, SMOP,1"
+STRATUM,07624,"BRA: ESPÍRITO SANTO - grade 9, SMOP,53"
+STRATUM,07625,BRA: GOIÁS - no grade 9
+STRATUM,07626,"BRA: GOIÁS - grade 9, SMOP,1"
+STRATUM,07627,"BRA: GOIÁS - grade 9, SMOP,53"
+STRATUM,07628,BRA: MARANHÃO - no grade 9
+STRATUM,07629,"BRA: MARANHÃO - grade 9, SMOP,1"
+STRATUM,07630,"BRA: MARANHÃO - grade 9, SMOP,53"
+STRATUM,07631,BRA: MATO GROSSO - no grade 9
+STRATUM,07632,"BRA: MATO GROSSO - grade 9, SMOP,1"
+STRATUM,07633,"BRA: MATO GROSSO - grade 9, SMOP,53"
+STRATUM,07634,BRA: MATO GROSSO DO SUL - no grade 9
+STRATUM,07635,"BRA: MATO GROSSO DO SUL - grade 9, SMOP,1"
+STRATUM,07636,"BRA: MATO GROSSO DO SUL - grade 9, SMOP,53"
+STRATUM,07637,BRA: MINAS GERAIS - no grade 9
+STRATUM,07638,"BRA: MINAS GERAIS - grade 9, SMOP,1"
+STRATUM,07639,"BRA: MINAS GERAIS - grade 9, SMOP,53"
+STRATUM,07640,BRA: PARÁ - no grade 9
+STRATUM,07641,"BRA: PARÁ - grade 9, SMOP,1"
+STRATUM,07642,"BRA: PARÁ - grade 9, SMOP,53"
+STRATUM,07643,BRA: PARAÍBA - no grade 9
+STRATUM,07644,"BRA: PARAÍBA - grade 9, SMOP,1"
+STRATUM,07645,"BRA: PARAÍBA - grade 9, SMOP,53"
+STRATUM,07646,BRA: PARANÁ - no grade 9
+STRATUM,07647,"BRA: PARANÁ - grade 9, SMOP,1"
+STRATUM,07648,"BRA: PARANÁ - grade 9, SMOP,53"
+STRATUM,07649,BRA: PERNAMBUCO - no grade 9
+STRATUM,07650,"BRA: PERNAMBUCO - grade 9, SMOP,1"
+STRATUM,07651,"BRA: PERNAMBUCO - grade 9, SMOP,53"
+STRATUM,07652,BRA: PIAUÍ - no grade 9
+STRATUM,07653,"BRA: PIAUÍ - grade 9, SMOP,1"
+STRATUM,07654,"BRA: PIAUÍ - grade 9, SMOP,53"
+STRATUM,07655,BRA: RIO DE JANEIRO - no grade 9
+STRATUM,07656,"BRA: RIO DE JANEIRO - grade 9, SMOP,1"
+STRATUM,07657,"BRA: RIO DE JANEIRO - grade 9, SMOP,53"
+STRATUM,07658,BRA: RIO GRANDE DO NORTE - no grade 9
+STRATUM,07659,"BRA: RIO GRANDE DO NORTE - grade 9, SMOP,1"
+STRATUM,07660,"BRA: RIO GRANDE DO NORTE - grade 9, SMOP,53"
+STRATUM,07661,BRA: RIO GRANDE DO SUL - no grade 9
+STRATUM,07662,"BRA: RIO GRANDE DO SUL - grade 9, SMOP,1"
+STRATUM,07663,"BRA: RIO GRANDE DO SUL - grade 9, SMOP,53"
+STRATUM,07664,BRA: RONDÔNIA - no grade 9
+STRATUM,07665,"BRA: RONDÔNIA - grade 9, SMOP,1"
+STRATUM,07666,"BRA: RONDÔNIA - grade 9, SMOP,53"
+STRATUM,07667,BRA: RORAIMA - no grade 9
+STRATUM,07668,"BRA: RORAIMA - grade 9, SMOP,1"
+STRATUM,07669,"BRA: RORAIMA - grade 9, SMOP,53"
+STRATUM,07670,BRA: SANTA CATARINA - no grade 9
+STRATUM,07671,"BRA: SANTA CATARINA - grade 9, SMOP,1"
+STRATUM,07672,"BRA: SANTA CATARINA - grade 9, SMOP,53"
+STRATUM,07673,BRA: SÃO PAULO - no grade 9
+STRATUM,07674,"BRA: SÃO PAULO - grade 9, SMOP,1"
+STRATUM,07675,"BRA: SÃO PAULO - grade 9, SMOP,53"
+STRATUM,07676,BRA: SERGIPE - no grade 9
+STRATUM,07677,"BRA: SERGIPE - grade 9, SMOP,1"
+STRATUM,07678,"BRA: SERGIPE - grade 9, SMOP,53"
+STRATUM,07679,BRA: TOCANTINS - no grade 9
+STRATUM,07680,"BRA: TOCANTINS - grade 9, SMOP,1"
+STRATUM,07681,"BRA: TOCANTINS - grade 9, SMOP,53"
+STRATUM,07682,BRA: Stratum 82
+STRATUM,12401,CAN: 00 - prov 10 Fr.& Eng. 1 to 17
+STRATUM,12402,CAN: 01 - prov 10 Fr.& Eng. 18 to 34
+STRATUM,12403,CAN: 02 - prov 10 Fr.& Eng. 35 to ...
+STRATUM,12404,CAN: 10 - prov 11 Fr.& Eng. 1 to ...
+STRATUM,12405,CAN: 20 - prov 12 Eng. 1 to 17
+STRATUM,12406,CAN: 21 - prov 12 Eng. 18 to 34
+STRATUM,12407,CAN: 22 - prov 12 Eng. 35 to ...
+STRATUM,12408,CAN: 25 - prov 12 Fr. 1 to 17
+STRATUM,12409,CAN: 26 - prov 12 Fr. 18 to ...
+STRATUM,12410,CAN: 30 - prov 13 Eng. 1 to 34
+STRATUM,12411,CAN: 31 - prov 13 Eng. 35 to ...
+STRATUM,12412,CAN: 35 - prov 13 Fr. 1 to 34
+STRATUM,12413,CAN: 36 - prov 13 Fr. 35 to 139
+STRATUM,12414,CAN: 37 - prov 13 Fr. 140 to ...
+STRATUM,12415,CAN: 40 - prov 24 Eng. 1 to 17
+STRATUM,12416,CAN: 41 - prov 24 Eng. 18 to 34
+STRATUM,12417,CAN: 42 - prov 24 Eng. 35 to ...
+STRATUM,12418,CAN: 45 - prov 24 Fr.  1 to 34
+STRATUM,12419,CAN: 46 - prov 24 Fr.  35 to ...
+STRATUM,12420,CAN: 50 - prov 35 Eng.  1 to 34
+STRATUM,12421,CAN: 51 - prov 35 Eng.  35 to ...
+STRATUM,12422,CAN: 55 - prov 35 Fr.  1 to 17
+STRATUM,12423,CAN: 56 - prov 35 Fr.  18 to 34
+STRATUM,12424,CAN: 57 - prov 35 Fr.  35 to ...
+STRATUM,12425,CAN: 60 - prov 46 Eng.  1 to 17
+STRATUM,12426,CAN: 61 - prov 46 Eng.  18 to 34
+STRATUM,12427,CAN: 62 - prov 46 Eng.  35 to ...
+STRATUM,12428,CAN: 65 - prov 46 Fr.  1 to 17
+STRATUM,12429,CAN: 66 - prov 46 Fr.  18 to ...
+STRATUM,12430,CAN: 70 - prov 47 Eng.  1 to 17
+STRATUM,12431,CAN: 71 - prov 47 Eng. 18 to 34
+STRATUM,12432,CAN: 72 - prov 47 Eng. 35 to ...
+STRATUM,12433,CAN: 75 - prov 47 Fr.  1 to 8
+STRATUM,12434,CAN: 76 - prov 47 Fr.  9 to ...
+STRATUM,12435,CAN: 80 - prov 48 Eng.  1 to 17
+STRATUM,12436,CAN: 81 - prov 48 Eng.  18 to 34
+STRATUM,12437,CAN: 82 - prov 48 Eng.  35 to ...
+STRATUM,12438,CAN: 85 - prov 48 Fr.  1 to 8
+STRATUM,12439,CAN: 86 - prov 48 Fr.  9 to ...
+STRATUM,12440,CAN: 90 - prov 59 Eng.  1 to 17
+STRATUM,12441,CAN: 91 - prov 59 Eng.  18 to 34
+STRATUM,12442,CAN: 92 - prov 59 Eng.  35 to ...
+STRATUM,12443,CAN: 95 - prov 59 Fr.  1 to 8
+STRATUM,12444,CAN: 96 - prov 59 Fr.  9 to ...
+STRATUM,12445,CAN: Stratum 45
+STRATUM,75601,CHE: AG.gr9.pub.
+STRATUM,75602,CHE: AR.gr9.pub.
+STRATUM,75603,CHE: BE(d).gr9.pub.
+STRATUM,75604,CHE: SG.gr9.pub.
+STRATUM,75605,CHE: SH.gr9.pub.
+STRATUM,75607,CHE: VS(d).gr9.pub.
+STRATUM,75608,CHE: D-Rest.gr9.pub.
+STRATUM,75609,CHE: D-CH.other.v1.
+STRATUM,75610,CHE: D-CH.other.v2.
+STRATUM,75611,CHE: D-CH.other.v3.
+STRATUM,75612,CHE: D-CH.other.b.
+STRATUM,75613,CHE: D-CH.gr9.priv.
+STRATUM,75614,CHE: BE(f).gr9.pub.
+STRATUM,75615,CHE: FR(f).gr9.pub.
+STRATUM,75616,CHE: GE.gr9.pub.
+STRATUM,75617,CHE: JU.gr9.pub.
+STRATUM,75618,CHE: NE.gr9.pub.
+STRATUM,75619,CHE: VD.gr9.pub.
+STRATUM,75620,CHE: VS(f).gr9.pub.
+STRATUM,75621,CHE: F-CH.other.v1.
+STRATUM,75622,CHE: F-CH.other.v2.
+STRATUM,75623,CHE: F-CH.other.v3.
+STRATUM,75624,CHE: F-CH.other.b.
+STRATUM,75625,CHE: F-CH.gr9.priv.
+STRATUM,75626,CHE: I-CH.gr9.pub.
+STRATUM,75627,CHE: I-CH.other.v.
+STRATUM,75628,CHE: I-CH.other.b.
+STRATUM,75629,CHE: I-CH.gr9.priv.
+STRATUM,75661,"CHE: ZH.gr9.pub.(30.1,30.15,31)"
+STRATUM,75662,"CHE: ZH.gr9.pub.(12,12.1)"
+STRATUM,75663,"CHE: ZH.gr9.pub.(13,13.2,14,14.1,16)"
+STRATUM,75664,CHE: Stratum 64
+STRATUM,15297,CHL: Stratum 97
+STRATUM,17001,COL: 01: BARRANQUILLA
+STRATUM,17002,COL: 02: BOGOTÁ
+STRATUM,17003,COL: 03: CÚCUTA
+STRATUM,17004,COL: 04: rest of MANIZALES
+STRATUM,17005,COL: 05: Manizales-Escuela Activa
+STRATUM,17006,COL: 06: MEDELLÍN
+STRATUM,17007,COL: 07: PASTO
+STRATUM,17008,COL: 08: PEREIRA
+STRATUM,17009,COL: 09: REST OF THE COUNTRY
+STRATUM,17011,COL: 11: VILLAVICENCIO
+STRATUM,17012,COL: 12: Stratum 12
+STRATUM,20301,CZE: Basic/Region1/L
+STRATUM,20302,CZE: Basic/Region1/M
+STRATUM,20303,CZE: Basic/Region1/V
+STRATUM,20304,CZE: Basic/Region2/L
+STRATUM,20305,CZE: Basic/Region2/M
+STRATUM,20306,CZE: Basic/Region2/V
+STRATUM,20307,CZE: Basic/Region3/L
+STRATUM,20308,CZE: Basic/Region3/M
+STRATUM,20309,CZE: Basic/Region3/V
+STRATUM,20310,CZE: Basic/Region4/L
+STRATUM,20311,CZE: Basic/Region4/M
+STRATUM,20312,CZE: Basic/Region4/V
+STRATUM,20313,CZE: Basic/Region5/L
+STRATUM,20314,CZE: Basic/Region5/M
+STRATUM,20315,CZE: Basic/Region5/V
+STRATUM,20316,CZE: Basic/Region6/L
+STRATUM,20317,CZE: Basic/Region6/M
+STRATUM,20318,CZE: Basic/Region6/V
+STRATUM,20319,CZE: Basic/Region7/L
+STRATUM,20320,CZE: Basic/Region7/M
+STRATUM,20321,CZE: Basic/Region7/V
+STRATUM,20322,CZE: Basic/Region8/L
+STRATUM,20323,CZE: Basic/Region8/M
+STRATUM,20324,CZE: Basic/Region8/V
+STRATUM,20325,CZE: Basic/Region9/L
+STRATUM,20326,CZE: Basic/Region9/M
+STRATUM,20327,CZE: Basic/Region9/V
+STRATUM,20328,CZE: Basic/Region10/L
+STRATUM,20329,CZE: Basic/Region10/M
+STRATUM,20330,CZE: Basic/Region10/V
+STRATUM,20331,CZE: Basic/Region11/L
+STRATUM,20332,CZE: Basic/Region11/M
+STRATUM,20333,CZE: Basic/Region11/V
+STRATUM,20334,CZE: Basic/Region12/L
+STRATUM,20335,CZE: Basic/Region12/M
+STRATUM,20336,CZE: Basic/Region12/V
+STRATUM,20337,CZE: Basic/Region13/L
+STRATUM,20338,CZE: Basic/Region13/M
+STRATUM,20339,CZE: Basic/Region13/V
+STRATUM,20340,CZE: Basic/Region14/L
+STRATUM,20341,CZE: Basic/Region14/M
+STRATUM,20342,CZE: Basic/Region14/V
+STRATUM,20343,CZE: 6-8yrGym/Region1/L
+STRATUM,20344,CZE: 6-8yrGym/Region1/M&V
+STRATUM,20345,CZE: 6-8yrGym/Region2/L
+STRATUM,20346,CZE: 6-8yrGym/Region2/M&V
+STRATUM,20347,CZE: 6-8yrGym/Region3/L
+STRATUM,20348,CZE: 6-8yrGym/Region3/M&V
+STRATUM,20349,CZE: 6-8yrGym/Region4/L
+STRATUM,20350,CZE: 6-8yrGym/Region4/M&V
+STRATUM,20351,CZE: 6-8yrGym/Region5/L
+STRATUM,20352,CZE: 6-8yrGym/Region5/M&V
+STRATUM,20353,CZE: 6-8yrGym/Region6/L
+STRATUM,20354,CZE: 6-8yrGym/Region6/M&V
+STRATUM,20355,CZE: 6-8yrGym/Region7/L
+STRATUM,20356,CZE: 6-8yrGym/Region7/M&V
+STRATUM,20357,CZE: 6-8yrGym/Region8/L
+STRATUM,20358,CZE: 6-8yrGym/Region8/M&V
+STRATUM,20359,CZE: 6-8yrGym/Region9/L
+STRATUM,20360,CZE: 6-8yrGym/Region9/M&V
+STRATUM,20361,CZE: 6-8yrGym/Region10/L
+STRATUM,20362,CZE: 6-8yrGym/Region10/M&V
+STRATUM,20363,CZE: 6-8yrGym/Region11/L
+STRATUM,20364,CZE: 6-8yrGym/Region11/M&V
+STRATUM,20365,CZE: 6-8yrGym/Region12/L
+STRATUM,20366,CZE: 6-8yrGym/Region12/M&V
+STRATUM,20367,CZE: 6-8yrGym/Region13/L
+STRATUM,20368,CZE: 6-8yrGym/Region13/M&V
+STRATUM,20369,CZE: 6-8yrGym/Region14/L
+STRATUM,20370,CZE: 6-8yrGym/Region14/M&V
+STRATUM,20371,CZE: 4yr Gym/Large
+STRATUM,20372,CZE: Voc-conservatory/Large
+STRATUM,20373,CZE: Voc-without maturate/Large
+STRATUM,20374,CZE: Special/practical/Large
+STRATUM,20375,CZE: 4yrGym/Voc-C/Voc-other/MSS
+STRATUM,20376,CZE: 4yrGym/Voc-C/Voc-other/VSS
+STRATUM,20377,CZE: Special/practical/MSS
+STRATUM,20378,CZE: Special/practical/VSS
+STRATUM,27697,DEU: stratum 97
+STRATUM,20801,"DNK: 1,high minority"
+STRATUM,20802,"DNK: 2,mid minority"
+STRATUM,20803,"DNK: 3,low minority"
+STRATUM,20804,"DNK: 4,all other"
+STRATUM,20872,DNK: Stratum 72
+STRATUM,72401,"ESP: Andalusia, public, E"
+STRATUM,72402,"ESP: Andalusia, private, E"
+STRATUM,72403,"ESP: Aragon, public, E"
+STRATUM,72404,"ESP: Aragon, private, E"
+STRATUM,72405,"ESP: Asturias, public, E"
+STRATUM,72406,"ESP: Asturias, private, E"
+STRATUM,72407,"ESP: BalearicIslands, public, E"
+STRATUM,72408,"ESP: BalearicIslands, private, E"
+STRATUM,72409,"ESP: CanaryIslands, public, E"
+STRATUM,72410,"ESP: CanaryIslands, private, E"
+STRATUM,72411,"ESP: Cantabria, public, E"
+STRATUM,72412,"ESP: Cantabria, private, E"
+STRATUM,72413,"ESP: CastileandLeon, public, E"
+STRATUM,72414,"ESP: CastileandLeon, private, E"
+STRATUM,72415,"ESP: Castile-LaMancha, public, E"
+STRATUM,72416,"ESP: Castile-LaMancha, private, E"
+STRATUM,72417,"ESP: Catalonia, public, E"
+STRATUM,72418,"ESP: Catalonia, private, E"
+STRATUM,72419,"ESP: Extremadura, public, E"
+STRATUM,72420,"ESP: Extremadura, private, E"
+STRATUM,72421,"ESP: Galicia, public, E"
+STRATUM,72422,"ESP: Galicia, private, E"
+STRATUM,72423,"ESP: LaRioja, public, E"
+STRATUM,72424,"ESP: LaRioja, private, E"
+STRATUM,72425,"ESP: Madrid, public, E"
+STRATUM,72426,"ESP: Madrid, private, E"
+STRATUM,72427,"ESP: Murcia, public, E"
+STRATUM,72428,"ESP: Murcia, private, E"
+STRATUM,72429,"ESP: Navarra, public, E"
+STRATUM,72430,"ESP: Navarra, private, E"
+STRATUM,72431,"ESP: BasqueCountry, public, A"
+STRATUM,72432,"ESP: BasqueCountry, public, B"
+STRATUM,72433,"ESP: BasqueCountry, public, C"
+STRATUM,72434,"ESP: BasqueCountry, private, A"
+STRATUM,72435,"ESP: BasqueCountry, private, B"
+STRATUM,72436,"ESP: BasqueCountry, private, C"
+STRATUM,72437,"ESP: Valencia, public, E"
+STRATUM,72438,"ESP: Valencia, private, E"
+STRATUM,72439,"ESP: CeutaandMelilla, public, E"
+STRATUM,72440,"ESP: CeutaandMelilla, private, E"
+STRATUM,72441,ESP: Stratum 41
+STRATUM,23301,EST: Estonian
+STRATUM,23302,EST: Mix
+STRATUM,23303,EST: Russian
+STRATUM,23304,EST: Stratum 4
+STRATUM,24601,"FIN: Southern Finland, urban, MR_ST,1"
+STRATUM,24602,"FIN: Southern Finland, rural, MR_ST,1"
+STRATUM,24603,"FIN: Western Finland, urban, MR_ST,1"
+STRATUM,24604,"FIN: Western Finland, rural, MR_ST,1"
+STRATUM,24605,"FIN: Eastern Finland, urban, MR_ST,1"
+STRATUM,24606,"FIN: Eastern Finland, rural, MR_ST,1"
+STRATUM,24607,"FIN: Northern Finland, urban, MR_ST,1"
+STRATUM,24608,"FIN: Northern Finland, rural, MR_ST,1"
+STRATUM,24609,"FIN: Swedish speaking, urban, school types 1 and 2, MR_ST,2"
+STRATUM,24610,"FIN: Swedish speaking, urban, school types 3, 4, and 5, MR_ST,3"
+STRATUM,24611,"FIN: Swedish speaking, rural, school types 1 and 2, MR_ST,2"
+STRATUM,24612,"FIN: Swedish speaking, rural, school types 3, 4, and 5, MR_ST,3"
+STRATUM,25001,"FRA: lycée général et technologique, ENR>,32"
+STRATUM,25002,"FRA: collège, ENR>,32"
+STRATUM,25003,"FRA: lycée professionnel, ENR>,32"
+STRATUM,25004,"FRA: lycée agricole, ENR>,32"
+STRATUM,25005,"FRA: moderately small school, 16<,ENR<32"
+STRATUM,25006,"FRA: very small school, ENR<16"
+STRATUM,82681,GBR: Scotland/Sch. Attain. Lev. 1
+STRATUM,82682,GBR: Scotland/Sch. Attain. Lev. 2
+STRATUM,82683,GBR: Scotland/Sch. Attain. Lev. 3
+STRATUM,82684,GBR: Scotland/Sch. Attain. Lev. 4
+STRATUM,82685,GBR: Scotland/Sch. Attain. Lev. 5
+STRATUM,82686,GBR: Scotland/Sch. Attain. Lev. 6
+STRATUM,82601,GBR: England/Maintained selective/ North
+STRATUM,82602,GBR: England/Maintained selective/ Midlands
+STRATUM,82603,GBR: England/Maintained selective/ South
+STRATUM,82604,GBR: England/Maintained selective/ London
+STRATUM,82605,GBR: England/Maintained non-selective/ North
+STRATUM,82606,GBR: England/Maintained non-selective/ Midlands
+STRATUM,82607,GBR: England/Maintained non-selective/ South
+STRATUM,82608,GBR: England/Maintained non-selective/ London
+STRATUM,82609,GBR: England/Independent/ North
+STRATUM,82610,GBR: England/Independent/ Midlands
+STRATUM,82611,GBR: England/Independent/ South
+STRATUM,82612,GBR: England/Independent/ London
+STRATUM,82613,GBR: NI/ Maintained selective/Belfast
+STRATUM,82614,GBR: NI/ Maintained selective/Western
+STRATUM,82615,GBR: NI/ Maintained selective/North Eastern
+STRATUM,82616,GBR: NI/ Maintained selective/South Eastern
+STRATUM,82617,GBR: NI/ Maintained selective/Southern
+STRATUM,82618,GBR: NI/ Maintained non-selective/Belfast
+STRATUM,82619,GBR: NI/ Maintained non-selective/Western
+STRATUM,82620,GBR: NI/ Maintained non-selective/North Eastern
+STRATUM,82621,GBR: NI/ Maintained non-selective/South Eastern
+STRATUM,82622,GBR: NI/ Maintained non-selective/Southern
+STRATUM,82623,GBR: NI/ Independent
+STRATUM,82624,GBR: Wales/Maintained/North
+STRATUM,82625,GBR: Wales/Maintained/ Powys and South West
+STRATUM,82626,GBR: Wales/Maintained/South East
+STRATUM,82627,GBR: Wales/Independent/North
+STRATUM,82628,GBR: Wales/Independent/ Powys and South West
+STRATUM,82629,GBR: Wales/Independent/South East
+STRATUM,82630,GBR: Stratum 30
+STRATUM,30001,GRC: ORIGSTRT 01:  11 - Attica Public
+STRATUM,30002,GRC: ORIGSTRT 02:  12 - Central Greece public
+STRATUM,30003,GRC: ORIGSTRT 03:  13 - Central Macedonia public
+STRATUM,30004,GRC: ORIGSTRT 04:  14 - Crete public
+STRATUM,30005,GRC: ORIGSTRT 05:  15 - East Macedonia public
+STRATUM,30006,GRC: ORIGSTRT 06:  16 - Thrace public
+STRATUM,30007,GRC: ORIGSTRT 07:  17 - Epirus public
+STRATUM,30008,GRC: ORIGSTRT 08:  18 - Ionian Islands public
+STRATUM,30009,GRC: ORIGSTRT 09:  19 - North Aegean public
+STRATUM,30010,GRC: ORIGSTRT 10:  20 - Peloponnese public
+STRATUM,30011,GRC: ORIGSTRT 11:  21 - South Aegean public
+STRATUM,30012,GRC: ORIGSTRT 12:  22 - Thessaly public
+STRATUM,30013,GRC: ORIGSTRT 13:  23 - West Greece public
+STRATUM,30014,GRC: ORIGSTRT 14:  24 - West Macedonia public
+STRATUM,30015,GRC: ORIGSTRT 15:  25 - Attica private
+STRATUM,30016,GRC: ORIGSTRT 16:  26 - Rest of Greece private
+STRATUM,30017,GRC: ORIGSTRT 17:  27 - All of Greece evening schools
+STRATUM,34401,HKG: Government
+STRATUM,34402,HKG: Aided or Caput
+STRATUM,34403,HKG: Private
+STRATUM,34404,HKG: Direct Subsidy Scheme
+STRATUM,19101,HRV: 1 - Four year vocational prog.
+STRATUM,19102,HRV: 2 - Vocational - industrial - crafts prog.
+STRATUM,19103,HRV: 3 - Mixed type
+STRATUM,19104,HRV: 4 - Art - vocational prog.
+STRATUM,19105,HRV: 5 - Gymnasium
+STRATUM,19106,HRV: 6 - Primary schools (lower secondary education)
+STRATUM,19107,HRV: Stratum 7
+STRATUM,34801,HUN: primary school
+STRATUM,34802,HUN: grammar school
+STRATUM,34803,HUN: vocational secondary school
+STRATUM,34804,HUN: vocational school
+STRATUM,36001,IDN: Indonesia
+STRATUM,37201,"IRL: Size <,40 / comm../comprehen."
+STRATUM,37202,IRL: Size 41-80 / comm../comprehen.
+STRATUM,37203,IRL: Size > 80 / comm../comprehen.
+STRATUM,37204,"IRL: Size <,40 / secondary"
+STRATUM,37205,IRL: Size 41-80 / secondary
+STRATUM,37206,IRL: Size > 80 / secondary
+STRATUM,37207,"IRL: Size <,40 / vocational"
+STRATUM,37208,IRL: Size 41-80 / vocational
+STRATUM,37209,IRL: Size > 80 / vocational
+STRATUM,35201,ISL: 01: Reykjavik
+STRATUM,35202,ISL: 02: Nágrenni Reykjavíkur
+STRATUM,35203,ISL: 03: Suðurnes
+STRATUM,35204,"ISL: 04: Vesturland,"
+STRATUM,35205,"ISL: 05: Vestfirðir,"
+STRATUM,35206,ISL: 06: Norðurland-vestra
+STRATUM,35207,ISL: 07: Norðurland-eystra
+STRATUM,35208,ISL: 08: Austurland
+STRATUM,35209,ISL: 09: Suðurland
+STRATUM,37601,ISR: Stratum 01
+STRATUM,37602,ISR: Stratum 02
+STRATUM,37603,ISR: Stratum 03
+STRATUM,37604,ISR: Stratum 04
+STRATUM,37605,ISR: Stratum 05
+STRATUM,37606,ISR: Stratum 06
+STRATUM,37607,ISR: Stratum 07
+STRATUM,37608,ISR: Stratum 08
+STRATUM,37609,ISR: Stratum 09
+STRATUM,37610,ISR: Stratum 10
+STRATUM,37611,ISR: Stratum 11
+STRATUM,38001,ITA: [Sub 08] PIEMONTE LICEI
+STRATUM,38002,ITA: [Sub 08] PIEMONTE TECNICI
+STRATUM,38003,ITA: [Sub 08] PIEMONTE PROFESSIONALI
+STRATUM,38004,ITA: [Sub 08] PIEMONTE MEDIE
+STRATUM,38005,ITA: [Sub 08] Piemonte FORMAZIONE PROFESSIONALE
+STRATUM,38006,ITA: [Sub 07] LOMBARDIA LICEI
+STRATUM,38007,ITA: [Sub 07] LOMBARDIA TECNICI
+STRATUM,38008,ITA: [Sub 07] LOMBARDIA PROFESSIONALI
+STRATUM,38009,ITA: [Sub 07] LOMBARDIA MEDIE
+STRATUM,38010,ITA: [Sub 07] Lombardia FORMAZIONE PROFESSIONALE
+STRATUM,38011,ITA: [Sub 06] LIGURIA LICEI
+STRATUM,38012,ITA: [Sub 06] LIGURIA TECNICI
+STRATUM,38013,ITA: [Sub 06] LIGURIA PROFESSIONALI
+STRATUM,38014,ITA: [Sub 06] LIGURIA MEDIE
+STRATUM,38015,ITA: [Sub 06] Liguria FORMAZIONE PROFESSIONALE
+STRATUM,38016,ITA: [Sub 21] VALLE D'AOSTA LICEI
+STRATUM,38017,ITA: [Sub 21] VALLE D'AOSTA TECNICI
+STRATUM,38018,ITA: [Sub 21] VALLE D'AOSTA PROFESSIONALI
+STRATUM,38019,ITA: [Sub 21] VALLE D'AOSTA MEDIE
+STRATUM,38020,ITA: [Sub 21] Valle D'Aosta FORMAZIONE PROFESSIONALE
+STRATUM,38021,ITA: [Sub 13] VENETO LICEI
+STRATUM,38022,ITA: [Sub 13] VENETO TECNICI
+STRATUM,38023,ITA: [Sub 13] VENETO PROFESSIONALI
+STRATUM,38024,ITA: [Sub 13] VENETO MEDIE
+STRATUM,38025,ITA: [Sub 13] VENETO FORMAZIONE PROFESSIONALE
+STRATUM,38026,ITA: [Sub 12] TRENTO LICEI
+STRATUM,38027,ITA: [Sub 12] TRENTO TECNICI
+STRATUM,38028,ITA: [Sub 12] TRENTO PROFESSIONALI
+STRATUM,38029,ITA: [Sub 12] TRENTO MEDIE
+STRATUM,38030,ITA: [Sub 12] Trento FORMAZIONE PROFESSIONALE
+STRATUM,38031,ITA: [Sub 01] BOLZANO LICEI
+STRATUM,38032,ITA: [Sub 01] BOLZANO TECNICI
+STRATUM,38033,ITA: [Sub 01] BOLZANO PROFESSIONALI
+STRATUM,38034,ITA: [Sub 01] BOLZANO MEDIE
+STRATUM,38035,ITA: [Sub 01] Bolzano FORMAZIONE PROFESSIONALE
+STRATUM,38036,ITA: [Sub 05] FRIULI VENEZIA GIULIA LICEI
+STRATUM,38037,ITA: [Sub 05] FRIULI VENEZIA GIULIA TECNICI
+STRATUM,38038,ITA: [Sub 05] FRIULI VENEZIA GIULIA PROFESSIONALI
+STRATUM,38039,ITA: [Sub 05] FRIULI VENEZIA GIULIA MEDIE
+STRATUM,38040,ITA: [Sub 05] Friuli Venezia Giulia FORMAZIONE PROFESSIONALE
+STRATUM,38041,ITA: [Sub 04] EMILIA ROMAGNA LICEI
+STRATUM,38042,ITA: [Sub 04] EMILIA ROMAGNA TECNICI
+STRATUM,38043,ITA: [Sub 04] EMILIA ROMAGNA PROFESSIONALI
+STRATUM,38045,ITA: [Sub 04] Emilia Romagna FORMAZIONE PROFESSIONALE
+STRATUM,38046,ITA: [Sub 17] MARCHE LICEI
+STRATUM,38047,ITA: [Sub 17] MARCHE TECNICI
+STRATUM,38048,ITA: [Sub 17] MARCHE PROFESSIONALI
+STRATUM,38049,ITA: [Sub 17] MARCHE MEDIE
+STRATUM,38050,ITA: [Sub 19] TOSCANA LICEI
+STRATUM,38051,ITA: [Sub 19] TOSCANA TECNICI
+STRATUM,38052,ITA: [Sub 19] TOSCANA PROFESSIONALI
+STRATUM,38053,ITA: [Sub 19] TOSCANA MEDIE
+STRATUM,38054,ITA: [Sub 20] UMBRIA LICEI
+STRATUM,38055,ITA: [Sub 20] UMBRIA TECNICI
+STRATUM,38056,ITA: [Sub 20] UMBRIA PROFESSIONALI
+STRATUM,38057,ITA: [Sub 20] UMBRIA MEDIE
+STRATUM,38058,ITA: [Sub 20] Umbria FORMAZIONE PROFESSIONALE
+STRATUM,38059,ITA: [Sub 16] LAZIO LICEI
+STRATUM,38060,ITA: [Sub 16] LAZIO TECNICI
+STRATUM,38061,ITA: [Sub 16] LAZIO PROFESSIONALI
+STRATUM,38062,ITA: [Sub 16] LAZIO MEDIE
+STRATUM,38063,ITA: [Sub 16] Lazio FORMAZIONE PROFESSIONALE
+STRATUM,38064,ITA: [Sub 14] ABRUZZO LICEI
+STRATUM,38065,ITA: [Sub 14] ABRUZZO TECNICI
+STRATUM,38066,ITA: [Sub 14] ABRUZZO PROFESSIONALI
+STRATUM,38067,ITA: [Sub 14] ABRUZZO MEDIE
+STRATUM,38068,ITA: [Sub 14] ABRUZZO FORMAZIONE PROFESSIONALE
+STRATUM,38069,ITA: [Sub 18] MOLISE LICEI
+STRATUM,38070,ITA: [Sub 18] MOLISE TECNICI
+STRATUM,38071,ITA: [Sub 18] MOLISE PROFESSIONALI
+STRATUM,38072,ITA: [Sub 18] MOLISE MEDIE
+STRATUM,38073,ITA: [Sub 18] Molise FORMAZIONE PROFESSIONALE
+STRATUM,38074,ITA: [Sub 03] CAMPANIA LICEI
+STRATUM,38075,ITA: [Sub 03] CAMPANIA TECNICI
+STRATUM,38076,ITA: [Sub 03] CAMPANIA PROFESSIONALI
+STRATUM,38077,ITA: [Sub 03] CAMPANIA MEDIE
+STRATUM,38078,ITA: [Sub 09] PUGLIA LICEI
+STRATUM,38079,ITA: [Sub 09] PUGLIA TECNICI
+STRATUM,38080,ITA: [Sub 09] PUGLIA PROFESSIONALI
+STRATUM,38082,ITA: [Sub 02] BASILICATA LICEI
+STRATUM,38083,ITA: [Sub 02] BASILICATA TECNICI
+STRATUM,38084,ITA: [Sub 02] BASILICATA PROFESSIONALI
+STRATUM,38085,ITA: [Sub 02] BASILICATA MEDIE
+STRATUM,38086,ITA: [Sub 15] CALABRIA LICEI
+STRATUM,38087,ITA: [Sub 15] CALABRIA TECNICI
+STRATUM,38088,ITA: [Sub 15] CALABRIA PROFESSIONALI
+STRATUM,38089,ITA: [Sub 15] CALABRIA MEDIE
+STRATUM,38090,ITA: [Sub 10] SARDEGNA LICEI
+STRATUM,38091,ITA: [Sub 10] SARDEGNA TECNICI
+STRATUM,38092,ITA: [Sub 10] SARDEGNA PROFESSIONALI
+STRATUM,38093,ITA: [Sub 10] SARDEGNA MEDIE
+STRATUM,38094,ITA: [Sub 11] SICILIA LICEI
+STRATUM,38095,ITA: [Sub 11] SICILIA TECNICI
+STRATUM,38096,ITA: [Sub 11] SICILIA PROFESSIONALI
+STRATUM,38097,ITA: [Sub 11] SICILIA MEDIE
+STRATUM,38098,ITA: [Sub 11] Sicilia FORMAZIONE PROFESSIONALE
+STRATUM,38099,ITA: Stratum 99
+STRATUM,40001,JOR: Discovery
+STRATUM,40002,JOR: Public
+STRATUM,40003,JOR: UNRWA
+STRATUM,40004,JOR: Private
+STRATUM,39201,JPN: 1- Public & Academic
+STRATUM,39202,JPN: 2 – Public & Practical
+STRATUM,39203,JPN: 3 – Private & Academic
+STRATUM,39204,JPN: 4 – Private & Practical
+STRATUM,39801,KAZ: Akmola/ Kazakh only
+STRATUM,39802,KAZ: Akmola/ Russian only
+STRATUM,39803,KAZ: Akmola/ multiple
+STRATUM,39804,KAZ: Aktobe/ Kazakh only
+STRATUM,39805,KAZ: Aktobe/ Russian only
+STRATUM,39806,KAZ: Aktobe/ multiple
+STRATUM,39807,KAZ: Almaty/ Kazakh only
+STRATUM,39808,KAZ: Almaty/ Russian only
+STRATUM,39809,KAZ: Almaty/  multiple
+STRATUM,39810,KAZ: Almaty City/ Kazakh only
+STRATUM,39811,KAZ: Almaty City/ Russian only
+STRATUM,39812,KAZ: Almaty City/ multiple
+STRATUM,39813,KAZ: Astana City/ Kazakh only
+STRATUM,39814,KAZ: Astana City/ Russian only
+STRATUM,39815,KAZ: Astana City/ multiple
+STRATUM,39816,KAZ: Atyrau/ Kazakh only
+STRATUM,39817,KAZ: Atyrau/ Russian only
+STRATUM,39818,KAZ: Atyrau/ multiple
+STRATUM,39819,KAZ: East Kaz./ Kazakh only
+STRATUM,39820,KAZ: East Kaz./ Russian only
+STRATUM,39821,KAZ: East Kaz./ multiple
+STRATUM,39822,KAZ: Zhambyl/ Kazakh only
+STRATUM,39823,KAZ: Zhambyl/ Russian only
+STRATUM,39824,KAZ: Zhambyl/ multiple
+STRATUM,39825,KAZ: West Kaz./ Kazakh only
+STRATUM,39826,KAZ: West Kaz./ Russian only
+STRATUM,39827,KAZ: West Kaz./ multiple
+STRATUM,39828,KAZ: Karagandy/ Kazakh only
+STRATUM,39829,KAZ: Karagandy/ Russian only
+STRATUM,39830,KAZ: Karagandy/  multiple
+STRATUM,39831,KAZ: Kostanay/ Kazakh only
+STRATUM,39832,KAZ: Kostanay/ Russian only
+STRATUM,39833,KAZ: Kostanay/ multiple
+STRATUM,39834,KAZ: Kyzylorda/ Kazakh only
+STRATUM,39835,KAZ: Kyzylorda/ Russian only
+STRATUM,39836,KAZ: Kyzylorda/ multiple
+STRATUM,39837,KAZ: Mangystau/ Kazakh only
+STRATUM,39838,KAZ: Mangystau/ Russian only
+STRATUM,39839,KAZ: Mangystau/  multiple
+STRATUM,39840,KAZ: Pavlodar/ Kazakh only
+STRATUM,39841,KAZ: Pavlodar/ Russian only
+STRATUM,39842,KAZ: Pavlodar/  multiple
+STRATUM,39843,KAZ: North Kaz./ Kazakh only
+STRATUM,39844,KAZ: North Kaz./ Russian only
+STRATUM,39845,KAZ: North Kaz./ multiple
+STRATUM,39846,KAZ: South Kaz./ Kazakh only
+STRATUM,39847,KAZ: South Kaz./ Russian only
+STRATUM,39848,KAZ: South Kaz./ multiple
+STRATUM,41701,KGZ: Bishkek / Bishkek
+STRATUM,41702,KGZ: Batken / Rural
+STRATUM,41703,KGZ: Batken / Small Town
+STRATUM,41704,KGZ: Chui / Rural
+STRATUM,41705,KGZ: Chui / Small Town
+STRATUM,41706,KGZ: Issyk-Kul / Rural
+STRATUM,41707,KGZ: Issyk-Kul / Small Town
+STRATUM,41708,KGZ: Jalalabat / Rural
+STRATUM,41709,KGZ: Jalalabat / Small Town
+STRATUM,41710,KGZ: Naryn / Rural
+STRATUM,41711,KGZ: Naryn / Small Town
+STRATUM,41712,KGZ: Osh / Rural
+STRATUM,41713,KGZ: Osh / Small Town
+STRATUM,41714,KGZ: Osh city / Rural
+STRATUM,41715,KGZ: Osh city / Small Town
+STRATUM,41716,KGZ: Talas / Rural
+STRATUM,41717,KGZ: Talas / Small Town
+STRATUM,41097,KOR: Stratum 97
+STRATUM,43865,LIE: Stratum 65
+STRATUM,44001,"LTU: Capital, Basic"
+STRATUM,44002,"LTU: Capital, Secondary"
+STRATUM,44003,"LTU: Capital, Gymnasium"
+STRATUM,44004,"LTU: Capital, Other"
+STRATUM,44005,"LTU: City, Basic"
+STRATUM,44006,"LTU: City, Secondary"
+STRATUM,44007,"LTU: City, Gymnasium"
+STRATUM,44008,"LTU: City, Other"
+STRATUM,44009,"LTU: Town, Basic"
+STRATUM,44010,"LTU: Town, Secondary"
+STRATUM,44011,"LTU: Town, Gymnasium"
+STRATUM,44012,"LTU: Town, Other"
+STRATUM,44013,"LTU: Village, Basic"
+STRATUM,44014,"LTU: Village, Secondary"
+STRATUM,44015,"LTU: Village, Gymnasium"
+STRATUM,44016,"LTU: Village, Other"
+STRATUM,44201,LUX: ES gov public
+STRATUM,44202,LUX: EST gov public
+STRATUM,44203,LUX: ES+EST gov public
+STRATUM,44204,LUX: EST gov private
+STRATUM,44205,LUX: ES+EST gov private
+STRATUM,44206,LUX: gov independent
+STRATUM,42801,LVA: Cities
+STRATUM,42802,LVA: Riga
+STRATUM,42803,LVA: Rural
+STRATUM,42804,LVA: Towns
+STRATUM,42805,LVA: Stratum 5
+STRATUM,44601,"MAC: Public, Grammer-International, Chinese and Portuguese"
+STRATUM,44602,"MAC: Public, Technical-vocational, Chinese"
+STRATUM,44603,"MAC: Private-in-net, Grammer-International, Chinese"
+STRATUM,44604,"MAC: Private-in-net, Grammer-International, English"
+STRATUM,44605,"MAC: Private-in-net, Grammer-International, Chinese and English"
+STRATUM,44606,"MAC: Private-in-net, Technical-vocational, Chinese"
+STRATUM,44607,"MAC: Private-not- in-net, Grammer-International, Chinese"
+STRATUM,44608,"MAC: Private-not-in-net, Grammer-International, English"
+STRATUM,44609,"MAC: Private-not-in-net, Grammer-International, Portuguese"
+STRATUM,44610,"MAC: Private-not- in-net, Grammer-International, Chinese and English"
+STRATUM,48401,"MEX: AGUASCALIENTES, large schools"
+STRATUM,48402,"MEX: AGUASCALIENTES, moderately small schools"
+STRATUM,48403,"MEX: AGUASCALIENTES, very small schools"
+STRATUM,48404,"MEX: BAJA CALIFORNIA, large schools"
+STRATUM,48405,"MEX: BAJA CALIFORNIA, moderately small schools"
+STRATUM,48406,"MEX: BAJA CALIFORNIA, very small schools"
+STRATUM,48407,"MEX: BAJA CALIFORNIA SUR, large schools"
+STRATUM,48408,"MEX: BAJA CALIFORNIA SUR, moderately small schools"
+STRATUM,48409,"MEX: BAJA CALIFORNIA SUR, very small schools"
+STRATUM,48410,"MEX: CAMPECHE, large schools"
+STRATUM,48411,"MEX: CAMPECHE, moderately small schools"
+STRATUM,48412,"MEX: CAMPECHE, very small schools"
+STRATUM,48413,"MEX: COAHUILA DE ZARAGOZA, large schools"
+STRATUM,48414,"MEX: COAHUILA DE ZARAGOZA, moderately small schools"
+STRATUM,48415,"MEX: COAHUILA DE ZARAGOZA, very small schools"
+STRATUM,48416,"MEX: COLIMA, large schools"
+STRATUM,48417,"MEX: COLIMA, moderately small schools"
+STRATUM,48418,"MEX: COLIMA, very small schools"
+STRATUM,48419,"MEX: CHIAPAS, large schools"
+STRATUM,48420,"MEX: CHIAPAS, moderately small schools"
+STRATUM,48421,"MEX: CHIAPAS, very small schools"
+STRATUM,48422,"MEX: CHIHUAHUA, large schools"
+STRATUM,48423,"MEX: CHIHUAHUA, moderately small schools"
+STRATUM,48424,"MEX: CHIHUAHUA, very small schools"
+STRATUM,48425,"MEX: DISTRITO FEDERAL, large schools"
+STRATUM,48426,"MEX: DISTRITO FEDERAL, moderately small schools"
+STRATUM,48427,"MEX: DISTRITO FEDERAL, very small schools"
+STRATUM,48428,"MEX: DURANGO, large schools"
+STRATUM,48429,"MEX: DURANGO, moderately small schools"
+STRATUM,48430,"MEX: DURANGO, very small schools"
+STRATUM,48431,"MEX: GUANAJUATO, large schools"
+STRATUM,48432,"MEX: GUANAJUATO, moderately small schools"
+STRATUM,48433,"MEX: GUANAJUATO, very small schools"
+STRATUM,48434,"MEX: GUERRERO, large schools"
+STRATUM,48435,"MEX: GUERRERO, moderately small schools"
+STRATUM,48436,"MEX: GUERRERO, very small schools"
+STRATUM,48437,"MEX: HIDALGO, large schools"
+STRATUM,48438,"MEX: HIDALGO, moderately small schools"
+STRATUM,48439,"MEX: HIDALGO, very small schools"
+STRATUM,48440,"MEX: JALISCO, large schools"
+STRATUM,48441,"MEX: JALISCO, moderately small schools"
+STRATUM,48442,"MEX: JALISCO, very small schools"
+STRATUM,48443,"MEX: MEXICO, large schools"
+STRATUM,48444,"MEX: MEXICO, moderately small schools"
+STRATUM,48445,"MEX: MEXICO, very small schools"
+STRATUM,48446,"MEX: MICHOACAN DE OCAMPO, large schools"
+STRATUM,48447,"MEX: MICHOACAN DE OCAMPO, moderately small schools"
+STRATUM,48448,"MEX: MICHOACAN DE OCAMPO, very small schools"
+STRATUM,48449,"MEX: MORELOS, large schools"
+STRATUM,48450,"MEX: MORELOS, moderately small schools"
+STRATUM,48451,"MEX: MORELOS, very small schools"
+STRATUM,48452,"MEX: NAYARIT, large schools"
+STRATUM,48453,"MEX: NAYARIT, moderately small schools"
+STRATUM,48454,"MEX: NAYARIT, very small schools"
+STRATUM,48455,"MEX: NUEVO LEON, large schools"
+STRATUM,48456,"MEX: NUEVO LEON, moderately small schools"
+STRATUM,48457,"MEX: NUEVO LEON, very small schools"
+STRATUM,48458,"MEX: OAXACA, large schools"
+STRATUM,48459,"MEX: OAXACA, moderately small schools"
+STRATUM,48460,"MEX: OAXACA, very small schools"
+STRATUM,48461,"MEX: PUEBLA, large schools"
+STRATUM,48462,"MEX: PUEBLA, moderately small schools"
+STRATUM,48463,"MEX: PUEBLA, very small schools"
+STRATUM,48464,"MEX: QUERETARO DE ARTEAGA, large schools"
+STRATUM,48465,"MEX: QUERETARO DE ARTEAGA, moderately small schools"
+STRATUM,48466,"MEX: QUERETARO DE ARTEAGA, very small schools"
+STRATUM,48467,"MEX: QUINTANA ROO, large schools"
+STRATUM,48468,"MEX: QUINTANA ROO, moderately small schools"
+STRATUM,48469,"MEX: QUINTANA ROO, very small schools"
+STRATUM,48470,"MEX: SAN LUIS POTOSI, large schools"
+STRATUM,48471,"MEX: SAN LUIS POTOSI, moderately small schools"
+STRATUM,48472,"MEX: SAN LUIS POTOSI, very small schools"
+STRATUM,48473,"MEX: SINALOA, large schools"
+STRATUM,48474,"MEX: SINALOA, moderately small schools"
+STRATUM,48475,"MEX: SINALOA, very small schools"
+STRATUM,48476,"MEX: SONORA, large schools"
+STRATUM,48477,"MEX: SONORA, moderately small schools"
+STRATUM,48478,"MEX: SONORA, very small schools"
+STRATUM,48479,"MEX: TABASCO, large schools"
+STRATUM,48480,"MEX: TABASCO, moderately small schools"
+STRATUM,48481,"MEX: TABASCO, very small schools"
+STRATUM,48482,"MEX: TAMAULIPAS, large schools"
+STRATUM,48483,"MEX: TAMAULIPAS, moderately small schools"
+STRATUM,48484,"MEX: TAMAULIPAS, very small schools"
+STRATUM,48485,"MEX: TLAXCALA, large schools"
+STRATUM,48486,"MEX: TLAXCALA, moderately small schools"
+STRATUM,48487,"MEX: TLAXCALA, very small schools"
+STRATUM,48488,"MEX: VERACRUZ IGNACIO DE LA LLAVE, large schools"
+STRATUM,48489,"MEX: VERACRUZ IGNACIO DE LA LLAVE, moderately small schools"
+STRATUM,48490,"MEX: VERACRUZ IGNACIO DE LA LLAVE, very small schools"
+STRATUM,48491,"MEX: YUCATAN, large schools"
+STRATUM,48492,"MEX: YUCATAN, moderately small schools"
+STRATUM,48493,"MEX: YUCATAN, very small schools"
+STRATUM,48494,"MEX: ZACATECAS, large schools"
+STRATUM,48495,"MEX: ZACATECAS, moderately small schools"
+STRATUM,48496,"MEX: ZACATECAS, very small schools"
+STRATUM,48497,MEX: Stratum 97
+STRATUM,49901,"MNE: 1. academic,1. central"
+STRATUM,49902,"MNE: 1. academic,2. north"
+STRATUM,49903,"MNE: 1. academic,3. south"
+STRATUM,49904,"MNE: 2. vocational,1. central"
+STRATUM,49905,"MNE: 2. vocational,2. north"
+STRATUM,49906,"MNE: 2. vocational,3. south"
+STRATUM,49908,"MNE: 3. mixed,2. north"
+STRATUM,49909,"MNE: 3. mixed,3. south"
+STRATUM,49910,"MNE: 4. general,1. central"
+STRATUM,49911,"MNE: 4. general,2. north"
+STRATUM,49912,"MNE: 4. general,3. south12"
+STRATUM,52801,NLD: 01: PRO/VMBO in rest of NLD
+STRATUM,52802,NLD: 02: HAVO/VWO in rest of NLD
+STRATUM,52803,NLD: 03: PRO/VMBO in Limburg
+STRATUM,52804,NLD: 04: HAVO/VWO in Limburg
+STRATUM,57801,NOR: Upper Secondary
+STRATUM,57802,NOR: Lower secondary
+STRATUM,55401,NZL: All Schools
+STRATUM,55402,NZL: Stratum 2
+STRATUM,59101,PAN: Urban/Public
+STRATUM,59102,PAN: Urban/Private
+STRATUM,59103,PAN: Rural/Public
+STRATUM,59104,PAN: Stratum 4
+STRATUM,60401,PER: Public/Urban
+STRATUM,60402,PER: Public/Rural
+STRATUM,60403,PER: Private/Urban
+STRATUM,60404,PER: Private/Rural
+STRATUM,61601,POL: Public Gymnasia
+STRATUM,61602,POL: Private Gymnasia
+STRATUM,61603,POL: Lyceum
+STRATUM,61604,POL: Vocational
+STRATUM,62001,PRT: 01: Alentejo - Alentejo Central
+STRATUM,62002,PRT: 02: Alentejo - Alentejo Litoral
+STRATUM,62003,PRT: 03: Alentejo - Alto Alentejo
+STRATUM,62004,PRT: 04: Alentejo - Baixo Alentejo
+STRATUM,62005,PRT: 05: Alentejo - Lezíria do Tejo
+STRATUM,62006,PRT: 06: Algarve - Algarve
+STRATUM,62007,PRT: 07: Centro - Baixo Mondego
+STRATUM,62008,PRT: 08: Centro - Baixo Vouga
+STRATUM,62009,PRT: 09: Centro - Beira Interior Norte
+STRATUM,62010,PRT: 10: Centro - Beira Interior Sul
+STRATUM,62011,PRT: 11: Centro - Cova da Beira
+STRATUM,62012,PRT: 12: Centro - Dão Lafões
+STRATUM,62013,PRT: 13: Centro - Médio Tejo
+STRATUM,62014,PRT: 14: Centro - Oeste
+STRATUM,62015,PRT: 15: Centro - Pinhal Interior Norte
+STRATUM,62016,PRT: 16: Centro - Pinhal Interior Sul
+STRATUM,62017,PRT: 17: Centro - Pinhal Litoral
+STRATUM,62018,PRT: 18: Centro - Serra da Estrela
+STRATUM,62019,PRT: 19: Lisboa - Grande Lisboa
+STRATUM,62020,PRT: 20: Lisboa - Península de Setúbal
+STRATUM,62021,PRT: 21: Norte - Alto Trás-os-Montes
+STRATUM,62022,PRT: 22: Norte - Ave
+STRATUM,62023,PRT: 23: Norte - Cávado
+STRATUM,62024,PRT: 24: Norte - Douro
+STRATUM,62025,PRT: 25: Norte - Entre Douro e Vouga
+STRATUM,62026,PRT: 26: Norte - Grande Porto
+STRATUM,62027,PRT: 27: Norte - Minho Lima
+STRATUM,62028,PRT: 28: Norte - Tâmega
+STRATUM,62029,"PRT: 29: Região Autónoma da Madeira,"
+STRATUM,62030,"PRT: 30: Região Autónoma dos Açores,"
+STRATUM,62031,PRT: Stratum 31
+STRATUM,63401,QAT: 1. Public
+STRATUM,63402,QAT: 2. Public/complex
+STRATUM,63403,QAT: 3. Independent
+STRATUM,63404,QAT: 4. Independent/complex
+STRATUM,63405,QAT: 5. Community
+STRATUM,63406,QAT: 6. International
+STRATUM,63407,QAT: 7. Private
+STRATUM,63408,QAT: 8. Private/complex
+STRATUM,15601,QCN: Lower secondary
+STRATUM,15602,QCN: Mixed ISCED2 and ISCED3 secondary
+STRATUM,15603,QCN: Upper secondary/ General/ Experimental Model schools
+STRATUM,15604,QCN: Upper secondary/ General/ Ordinary schools
+STRATUM,15605,QCN: Upper secondary/ Vocational/ Key schools
+STRATUM,15606,QCN: Upper secondary/ Vocational/ Non-Key schools
+STRATUM,15607,QCN: Stratum 07
+STRATUM,64201,ROU: 01: GIM
+STRATUM,64202,ROU: 02: SAM
+STRATUM,64203,ROU: 03: LIC
+STRATUM,64301,RUS: Republic of Adygeya
+STRATUM,64303,RUS: Republic of Bashkortostan
+STRATUM,64305,RUS: Republic of Dagestan
+STRATUM,64310,RUS: Republic of Karelia
+STRATUM,64311,RUS: Republic of Komi
+STRATUM,64312,RUS: Republic of Marij El
+STRATUM,64314,RUS: Republic of Sakha (Yakutia)
+STRATUM,64316,RUS: Republic of Tatarstan
+STRATUM,64318,RUS: Udmurtian Republic
+STRATUM,64321,RUS: Chuvashi  Republic
+STRATUM,64322,RUS: Altai territory
+STRATUM,64323,RUS: Krasnodar territory
+STRATUM,64324,RUS: Krasnoyarsk territory
+STRATUM,64325,RUS: Primorie territory
+STRATUM,64326,RUS: Stavropol territory
+STRATUM,64330,RUS: Astrakhan region
+STRATUM,64333,RUS: Vladimir region
+STRATUM,64334,RUS: Volgograd region
+STRATUM,64335,RUS: Vologda region
+STRATUM,64336,RUS: Voronezh region
+STRATUM,64340,RUS: Kaluga region
+STRATUM,64342,RUS: Kemerovo region
+STRATUM,64346,RUS: Kursk region
+STRATUM,64350,RUS: Moscow region
+STRATUM,64352,RUS: Nizhnij Novgorod region
+STRATUM,64354,RUS: Novosibirsk region
+STRATUM,64355,RUS: Omsk region
+STRATUM,64356,RUS: Orenburg region
+STRATUM,64359,RUS: Perm territory
+STRATUM,64361,RUS: Rostov region
+STRATUM,64362,RUS: Ryazan region
+STRATUM,64363,RUS: Samara region
+STRATUM,64364,RUS: Saratov region
+STRATUM,64365,RUS: Sakhalin region
+STRATUM,64366,RUS: Sverdlovsk region
+STRATUM,64368,RUS: Tambov region
+STRATUM,64370,RUS: Tomsk region
+STRATUM,64371,RUS: Tula region
+STRATUM,64372,RUS: Tyumen region
+STRATUM,64373,RUS: Ulyanovsk region
+STRATUM,64374,RUS: Chelyabinsk region
+STRATUM,64375,RUS: Chita region
+STRATUM,64377,RUS: The City of Moscow
+STRATUM,64378,RUS: The City of Saint-Petersburg
+STRATUM,64386,RUS: Khanty-Mansijsk autonomous district - Yugra
+STRATUM,70201,SGP: 1 - Public Secondary
+STRATUM,70203,SGP: 3 – Private Secondary
+STRATUM,68812,"SRB: North Vojvodina,Gymnasium"
+STRATUM,68813,"SRB: North Vojvodina,Technical"
+STRATUM,68814,"SRB: North Vojvodina,Medical"
+STRATUM,68815,"SRB: North Vojvodina,Economic"
+STRATUM,68816,"SRB: North Vojvodina,Agricultural"
+STRATUM,68817,"SRB: North Vojvodina,Art"
+STRATUM,68818,"SRB: North Vojvodina,Mixed"
+STRATUM,68822,"SRB: South Vojvodina,Gymnasium"
+STRATUM,68823,"SRB: South Vojvodina,Technical"
+STRATUM,68824,"SRB: South Vojvodina,Medical"
+STRATUM,68825,"SRB: South Vojvodina,Economic"
+STRATUM,68826,"SRB: South Vojvodina,Agricultural"
+STRATUM,68827,"SRB: South Vojvodina,Art"
+STRATUM,68828,"SRB: South Vojvodina,Mixed"
+STRATUM,68832,"SRB: Belgrade,Gymnasium"
+STRATUM,68833,"SRB: Belgrade,Technical"
+STRATUM,68834,"SRB: Belgrade,Medical"
+STRATUM,68835,"SRB: Belgrade,Economic"
+STRATUM,68836,"SRB: Belgrade,Agricultural"
+STRATUM,68837,"SRB: Belgrade,Art"
+STRATUM,68838,"SRB: Belgrade,Mixed"
+STRATUM,68842,"SRB: Stig,Gymnasium"
+STRATUM,68843,"SRB: Stig,Technical"
+STRATUM,68844,"SRB: Stig,Medical"
+STRATUM,68845,"SRB: Stig,Economic"
+STRATUM,68846,"SRB: Stig,Agricultural"
+STRATUM,68847,"SRB: Stig,Art"
+STRATUM,68848,"SRB: Stig,Mixed"
+STRATUM,68852,"SRB: Western Serbia,Gymnasium"
+STRATUM,68853,"SRB: Western Serbia,Technical"
+STRATUM,68854,"SRB: Western Serbia,Medical"
+STRATUM,68855,"SRB: Western Serbia,Economic"
+STRATUM,68856,"SRB: Western Serbia,Agricultural"
+STRATUM,68857,"SRB: Western Serbia,Art"
+STRATUM,68858,"SRB: Western Serbia,Mixed"
+STRATUM,68862,"SRB: Central Serbia,Gymnasium"
+STRATUM,68863,"SRB: Central Serbia,Technical"
+STRATUM,68864,"SRB: Central Serbia,Medical"
+STRATUM,68865,"SRB: Central Serbia,Economic"
+STRATUM,68866,"SRB: Central Serbia,Agricultural"
+STRATUM,68867,"SRB: Central Serbia,Art"
+STRATUM,68868,"SRB: Central Serbia,Mixed"
+STRATUM,68872,"SRB: East Serbia,Gymnasium"
+STRATUM,68873,"SRB: East Serbia,Technical"
+STRATUM,68874,"SRB: East Serbia,Medical"
+STRATUM,68875,"SRB: East Serbia,Economic"
+STRATUM,68876,"SRB: East Serbia,Agricultural"
+STRATUM,68877,"SRB: East Serbia,Arts"
+STRATUM,68878,"SRB: East Serbia,Mixed"
+STRATUM,68882,"SRB: Southern Serbia,Gymnasium"
+STRATUM,68883,"SRB: Southern Serbia,Technical"
+STRATUM,68884,"SRB: Southern Serbia,Medical"
+STRATUM,68885,"SRB: Southern Serbia,Economic"
+STRATUM,68886,"SRB: Southern Serbia,Agricultural"
+STRATUM,68887,"SRB: Southern Serbia,Arts"
+STRATUM,68888,"SRB: Southern Serbia,Mixed"
+STRATUM,68890,SRB: Primary schools
+STRATUM,68891,SRB: Stratum 91
+STRATUM,70301,SVK: Region 1 / 1_ZS
+STRATUM,70302,SVK: Region 1 / 2_GYM
+STRATUM,70303,SVK: Region 1 / 3_others
+STRATUM,70304,SVK: Region 2 / 1_ZS
+STRATUM,70305,SVK: Region 2 / 2_GYM
+STRATUM,70306,SVK: Region 2 / 3_others
+STRATUM,70307,SVK: Region 3 / 1_ZS
+STRATUM,70308,SVK: Region 3 / 2_GYM
+STRATUM,70309,SVK: Region 3 / 3_others
+STRATUM,70310,SVK: Region 4 / 1_ZS
+STRATUM,70311,SVK: Region 4 / 2_GYM
+STRATUM,70312,SVK: Region 4 / 3_others
+STRATUM,70313,SVK: Region 5 / 1_ZS
+STRATUM,70314,SVK: Region 5 / 2_GYM
+STRATUM,70315,SVK: Region 5 / 3_others
+STRATUM,70316,SVK: Region 6 / 1_ZS
+STRATUM,70317,SVK: Region 6 / 2_GYM
+STRATUM,70318,SVK: Region 6 / 3_others
+STRATUM,70319,SVK: Region 7 / 1_ZS
+STRATUM,70320,SVK: Region 7 / 2_GYM
+STRATUM,70321,SVK: Region 7 / 3_others
+STRATUM,70322,SVK: Region 8 / 1_ZS
+STRATUM,70323,SVK: Region 8 / 2_GYM
+STRATUM,70324,SVK: Region 8 / 3_others
+STRATUM,70501,SVN: GIMg - gymnasia general
+STRATUM,70502,SVN: GIMs - gymnasia specialist
+STRATUM,70503,SVN: STSI - technical educational programmes
+STRATUM,70504,SVN: SPI - vocational of medium duration
+STRATUM,70505,SVN: NPI - vocational of short duration
+STRATUM,70506,SVN: OS - elementary school
+STRATUM,70508,SVN: Adult Education Institutes
+STRATUM,75201,SWE: PUB/ LOWER SEC/ METRO
+STRATUM,75202,SWE: PUB/ LOWER SEC/ OTHER LARGE
+STRATUM,75203,SWE: PUB/ LOWER SEC/ AT LEAST 12500
+STRATUM,75204,SWE: PUB/ LOWER SEC/ MANUFACURING
+STRATUM,75205,SWE: PUB/ LOWER SEC/ SPARSE POP
+STRATUM,75206,SWE: PUB/ UPPER SEC
+STRATUM,75207,SWE: INDEP/ LOWER SEC/ METRO
+STRATUM,75208,SWE: INDEP/ LOWER SEC/ OTHER LARGE
+STRATUM,75209,SWE: INDEP/ LOWER SEC/ AT LEAST 12500
+STRATUM,75210,SWE: INDEP/ LOWER SEC/ MANUFACURING
+STRATUM,75211,SWE: INDEP/ LOWER SEC/ SPARSE POP
+STRATUM,75212,SWE: INDEP/ UPPER SEC
+STRATUM,15801,TAP: general junior high school/public/urban
+STRATUM,15802,TAP: general junior high school/public/rural
+STRATUM,15803,TAP: general junior high school/private/urban
+STRATUM,15804,TAP: general junior high school/private/rural
+STRATUM,15805,TAP: general senior high school/public/urban
+STRATUM,15806,TAP: general senior high school/public/rural
+STRATUM,15807,TAP: general senior high school/private/urban
+STRATUM,15808,TAP: general senior high school/private/rural
+STRATUM,15809,TAP: vocational senior high school/public/urban
+STRATUM,15810,TAP: vocational senior high school/public/rural
+STRATUM,15811,TAP: vocational senior high school/private/urban
+STRATUM,15812,TAP: vocational senior high school/private/rural
+STRATUM,15813,TAP: mixed general and vocational senior high school/public/urban
+STRATUM,15814,TAP: mixed general and vocational senior high school/public/rural
+STRATUM,15815,TAP: mixed general and vocational senior high school/private/urban
+STRATUM,15816,TAP: mixed general and vocational senior high school/private/rural
+STRATUM,15817,TAP: comprehensive high school/public/urban
+STRATUM,15818,TAP: comprehensive high school/public/rural
+STRATUM,15819,TAP: comprehensive high school/private/urban
+STRATUM,15820,TAP: comprehensive high school/private/rural
+STRATUM,15821,TAP: complex high school/public/urban
+STRATUM,15822,TAP: complex high school/public/rural
+STRATUM,15823,TAP: complex high school/private/urban
+STRATUM,15824,TAP: complex high school/private/rural
+STRATUM,15825,TAP: five-year college/public/urban
+STRATUM,15826,TAP: five-year college/public/rural
+STRATUM,15827,TAP: five-year college/private/urban
+STRATUM,15828,TAP: five-year college/private/rural
+STRATUM,15829,TAP: Stratum 29
+STRATUM,76401,THA: Office of the Basic Education Commission/Lower secondary
+STRATUM,76402,THA: Office of the Basic Education Commission/Upper secondary
+STRATUM,76403,THA: Office of the Basic Education Commission/Mixed
+STRATUM,76404,THA: Office of the Private Education Commission/Lower Secondary
+STRATUM,76405,THA: Office of the Private Education Commission/ Upper Secondary
+STRATUM,76406,THA: Office of the Private Education Commission/ Mixed
+STRATUM,76407,THA: Department of Education of Bangkok Metropolitan Administration/Lower secondary
+STRATUM,76408,THA: Department of Education of Bangkok Metropolitan Administration/Mixed
+STRATUM,76409,THA: Bureau of Local Educational Development and Co-ordination/ Lower Secondary
+STRATUM,76410,THA: Bureau of Local Educational Development and Co-ordination/Upper Secondary
+STRATUM,76411,THA: Bureau of Local Educational Development and Co-ordination/Mixed
+STRATUM,76412,THA: Commission of Higher Education/Lower secondary
+STRATUM,76413,THA: Commission of Higher Education/Mixed
+STRATUM,76414,THA: Vocational Education Commission/ Upper Secondary
+STRATUM,76415,THA: Stratum 15
+STRATUM,78001,TTO: Caroni/Religious
+STRATUM,78002,TTO: Caroni/Secular
+STRATUM,78003,TTO: Caroni/Private
+STRATUM,78004,TTO: North Eastern/Religious
+STRATUM,78005,TTO: North Eastern/Secular
+STRATUM,78006,TTO: North Eastern/Private
+STRATUM,78007,TTO: Port of Spain/Religious
+STRATUM,78008,TTO: Port of Spain/Secular
+STRATUM,78009,TTO: Port of Spain/Private
+STRATUM,78010,TTO: St. George East/Religious
+STRATUM,78011,TTO: St. George East/Secular
+STRATUM,78012,TTO: St. George East/Private
+STRATUM,78013,TTO: St. Patrick/Religious
+STRATUM,78014,TTO: St. Patrick/Secular
+STRATUM,78015,TTO: South Eastern/Religious
+STRATUM,78016,TTO: South Eastern/Secular
+STRATUM,78017,TTO: South Eastern/Private
+STRATUM,78018,TTO: Victoria/Religious
+STRATUM,78019,TTO: Victoria/Secular
+STRATUM,78020,TTO: Victoria/Private
+STRATUM,78021,TTO: Tobago/Religious
+STRATUM,78022,TTO: Tobago/Secular
+STRATUM,78023,TTO: Tobago/Religious
+STRATUM,78801,TUN: East - ISCED 2 only - Private
+STRATUM,78802,TUN: East - ISCED 3 & Mixed - Private
+STRATUM,78803,TUN: North/West - ISCED 3 & Mixed - Private
+STRATUM,78804,TUN: South/West - ISCED 3 & Mixed - Private
+STRATUM,78805,TUN: North/East - ISCED 2 only - Public
+STRATUM,78806,TUN: North/East - ISCED 3 only - Public
+STRATUM,78807,TUN: North/East - Mixed - Public
+STRATUM,78808,TUN: North/West - ISCED 2 only - Public
+STRATUM,78809,TUN: North/West - ISCED 3 only - Public
+STRATUM,78810,TUN: North/West - Mixed - Public
+STRATUM,78811,TUN: South/East - ISCED 2 only - Public
+STRATUM,78812,TUN: South/East - ISCED 3 only - Public
+STRATUM,78813,TUN: South/East - Mixed - Public
+STRATUM,78814,TUN: South/West - ISCED 2 only - Public
+STRATUM,78815,TUN: South/West - ISCED 3 only - Public
+STRATUM,78816,TUN: South/West - Mixed - Public
+STRATUM,79201,TUR: TR1 PRIMARY
+STRATUM,79202,TUR: TR1 GENERAL SECONDARY
+STRATUM,79203,TUR: TR1 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79204,TUR: TR2 PRIMARY
+STRATUM,79205,TUR: TR2 GENERAL SECONDARY
+STRATUM,79206,TUR: TR2 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79207,TUR: TR3 PRIMARY
+STRATUM,79208,TUR: TR3 GENERAL SECONDARY
+STRATUM,79209,TUR: TR3 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79210,TUR: TR4 PRIMARY
+STRATUM,79211,TUR: TR4 GENERAL SECONDARY
+STRATUM,79212,TUR: TR4 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79213,TUR: TR5 PRIMARY
+STRATUM,79214,TUR: TR5 GENERAL SECONDARY
+STRATUM,79215,TUR: TR5 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79216,TUR: TR6 PRIMARY
+STRATUM,79217,TUR: TR6 GENERAL SECONDARY
+STRATUM,79218,TUR: TR6 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79219,TUR: TR7 PRIMARY
+STRATUM,79220,TUR: TR7 GENERAL SECONDARY
+STRATUM,79221,TUR: TR7 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79222,TUR: TR8 PRIMARY
+STRATUM,79223,TUR: TR8 GENERAL SECONDARY
+STRATUM,79224,TUR: TR8 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79225,TUR: TR9 PRIMARY
+STRATUM,79226,TUR: TR9 GENERAL SECONDARY
+STRATUM,79227,TUR: TR9 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79228,TUR: TRA PRIMARY
+STRATUM,79229,TUR: TRA GENERAL SECONDARY
+STRATUM,79230,TUR: TRA VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79231,TUR: TRB PRIMARY
+STRATUM,79232,TUR: TRB GENERAL SECONDARY
+STRATUM,79233,TUR: TRB VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79234,TUR: TRC PRIMARY
+STRATUM,79235,TUR: TRC GENERAL SECONDARY
+STRATUM,79236,TUR: TRC VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,85801,URY: Private General Secondary Education - Metropolitan Area of Montevideo - not border with Brazil
+STRATUM,85802,URY: Private General Secondary Education - Province Capitals - border with Brazil
+STRATUM,85803,URY: Private General Secondary Education - Province Capitals - not border with Brazil
+STRATUM,85804,URY: Private General Secondary Education - Rural areas  - not border with Brazil
+STRATUM,85805,URY: Private General Secondary Education - Small cities  - not border with Brazil
+STRATUM,85806,URY: Public General Secondary Education - Metropolitan Area of Montevideo - not border with Brazil
+STRATUM,85807,URY: Public General Secondary Education - Province Capitals - border with Brazil
+STRATUM,85808,URY: Public General Secondary Education - Province Capitals - not border with Brazil
+STRATUM,85809,URY: Public General Secondary Education - Rural areas  - border with Brazil
+STRATUM,85810,URY: Public General Secondary Education - Rural areas  - not border with Brazil
+STRATUM,85811,URY: Public General Secondary Education - Small cities  - border with Brazil
+STRATUM,85812,URY: Public General Secondary Education - Small cities  - not border with Brazil
+STRATUM,85813,URY: Public Technical Education - Metropolitan Area of Montevideo - not border with Brazil
+STRATUM,85814,URY: Public Technical Education - Province Capitals - border with Brazil
+STRATUM,85815,URY: Public Technical Education - Province Capitals - not border with Brazil
+STRATUM,85816,URY: Public Technical Education - Rural areas  - border with Brazil
+STRATUM,85817,URY: Public Technical Education - Rural areas  - not border with Brazil
+STRATUM,85818,URY: Public Technical Education - Small cities  - border with Brazil
+STRATUM,85819,URY: Public Technical Education - Small cities  - not border with Brazil
+STRATUM,85820,URY: Rural Schools with Lower Secondary Degree - Rural areas  - border with Brazil
+STRATUM,85821,URY: Rural Schools with Lower Secondary Degree - Rural areas  - not border with Brazil
+STRATUM,85822,URY: Stratum 22
+STRATUM,84001,USA: Public Northeast
+STRATUM,84002,USA: Public Midwest
+STRATUM,84003,USA: Public South
+STRATUM,84004,USA: Public West
+STRATUM,84005,USA: Private Northeast
+STRATUM,84006,USA: Private Midwest
+STRATUM,84007,USA: Private South
+STRATUM,84008,USA: Private West
+STRATUM,47001,MLT: Church boys school
+STRATUM,47002,MLT: Church girls schools
+STRATUM,47003,MLT: State boys junior lyceum schools
+STRATUM,47004,MLT: State girls junior lyceum schools
+STRATUM,47005,MLT: State boys secondary schools
+STRATUM,47006,MLT: State girls secondary schools
+STRATUM,47007,MLT: State ISCED 3 schools
+STRATUM,47008,MLT: Independent schools
+STRATUM,49801,"MDA: Romanian, rural"
+STRATUM,49802,"MDA: Romanian, urban"
+STRATUM,49803,"MDA: Russian, rural"
+STRATUM,49804,"MDA: Russian, urban"
+STRATUM,49805,MDA: Both
+STRATUM,48001,MUS: Urban/General only/Mixed ISCED/Boys
+STRATUM,48002,MUS: Urban/General only/Mixed ISCED/Girls
+STRATUM,48003,MUS: Urban/General only/Mixed ISCED/Mixed gender
+STRATUM,48004,MUS: Urban/Pre-Vocational only/ISCED2 only/Boys
+STRATUM,48005,MUS: Urban/Vocational only/ ISCED3 only/Mixed gender
+STRATUM,48006,MUS: Urban/Mixed programs/Mixed ISCED/Boys
+STRATUM,48007,MUS: Urban/Mixed programs/Mixed ISCED/Girls
+STRATUM,48008,MUS: Urban/Mixed programs/Mixed ISCED/Mixed gender
+STRATUM,48009,MUS: Rural/General only/Mixed ISCED/Boys
+STRATUM,48010,MUS: Rural/General only/Mixed ISCED/Girls
+STRATUM,48011,MUS: Rural/General only/Mixed ISCED/Mixed gender
+STRATUM,48012,MUS: Rural/Pre-Vocational only/ISCED2 only/Boys
+STRATUM,48013,MUS: Rural/Vocational only/ ISCED3 only/Mixed gender
+STRATUM,48014,MUS: Rural/Mixed programs/Mixed ISCED/Boys
+STRATUM,48015,MUS: Rural/Mixed programs/Mixed ISCED/Girls
+STRATUM,48016,MUS: Rural/Mixed programs/Mixed ISCED/Mixed gender
+STRATUM,26801,GEO: Public urban schools
+STRATUM,26802,GEO: Public rural schools
+STRATUM,26803,GEO: Public highland school
+STRATUM,26804,GEO: Private schools
+STRATUM,18801,"CRI: Public, academic, urban"
+STRATUM,18802,"CRI: Public, academic, rural"
+STRATUM,18803,"CRI: Public, technical, urban"
+STRATUM,18804,"CRI: Public, technical, rural"
+STRATUM,18805,CRI: Private
+STRATUM,18806,CRI: stratum 6
+STRATUM,78401,"ARE ex Dubai: Public, Arabic, PPP, girls schools"
+STRATUM,78402,"ARE ex Dubai: Public, Arabic, PPP, boys schools"
+STRATUM,78403,"ARE ex Dubai: Public, Arabic, MAG and Model, schools"
+STRATUM,78404,"ARE ex Dubai: Public, Arabic, Ministry, girls schools"
+STRATUM,78405,"ARE ex Dubai: Public, Arabic, Ministry, boys schools"
+STRATUM,78406,"ARE ex Dubai: Private, Arabic, Ministry schools"
+STRATUM,78408,"ARE ex Dubai: Private, English, Other schools"
+STRATUM,78409,"ARE ex Dubai: Private, English, CBSE schools"
+STRATUM,78410,ARE ex Dubai: Stratum 10
+STRATUM,45801,"MYS: MOE-control, National Secondary Schools"
+STRATUM,45802,"MYS: MOE-control, Religious Schools"
+STRATUM,45803,"MYS: MOE-control, Technical Schools"
+STRATUM,45804,"MYS: MOE-control, Fully residential Schools"
+STRATUM,45805,"MYS: non-MOE-control, MARA Science Junior College"
+STRATUM,45806,"MYS: non-MOE-control, Other Schools"
+STRATUM,78481,DUBAI: National – Public - Arabic
+STRATUM,78482,DUBAI: UK - Public- English
+STRATUM,78483,DUBAI: National – Private - Arabic
+STRATUM,78484,DUBAI: US - English
+STRATUM,78485,DUBAI: UK - English
+STRATUM,78486,DUBAI: Indian - English
+STRATUM,78487,DUBAI: Pakistani - English
+STRATUM,78488,DUBAI: IB - English
+STRATUM,78489,DUBAI: Other - English
+STRATUM,35601,QHP: Rural Government/Aided Hindi schools
+STRATUM,35602,QHP: Rural nonGovernment English schools
+STRATUM,35603,QHP: Urban Government/Aided Hindi schools
+STRATUM,35604,QHP: Urban nonGovernment English schools
+STRATUM,35605,QHP: Vocational Institutes
+STRATUM,35606,QTN: Rural Government/Aided Grades 9-10 schools
+STRATUM,35607,QTN: Rural Government/Aided Grades 9-11 schools
+STRATUM,35608,QTN: Rural nonGovernment/Aided Grades 9-10 schools
+STRATUM,35609,QTN: Rural nonGovernment/Aided Grades 9-11 schools
+STRATUM,35610,QTN: Rural nonGovernment Grades 6-8/unknown schools
+STRATUM,35611,QTN: Urban Government/Aided Grades 9-10 schools
+STRATUM,35612,QTN: Urban Government/Aided Grades 9-11 schools
+STRATUM,35613,QTN: Urban nonGovernment/Aided Grades 9-10 schools
+STRATUM,35614,QTN: Urban nonGovernment/Aided Grades 9-11 schools
+STRATUM,35615,QTN: Urban nonGovernment Grades 6-8/unknown schools
+STRATUM,35616,QTN: Government vocational institutes
+STRATUM,35617,QTN: nonGovernment vocational Institutes
+STRATUM,86201,QVE: Private subsidized schools
+STRATUM,86202,QVE: Private elite schools
+STRATUM,86203,QVE: Private non-elite lower schools
+STRATUM,86204,QVE: Private non-elite religious mixed level schools
+STRATUM,86205,QVE: Private non-elite secular mixed level schools
+STRATUM,86206,QVE: Private religious boys schools
+STRATUM,86207,QVE: Public lower schools
+STRATUM,86208,QVE: Public mixed level schools
+STRATUM,86209,QVE: stratum 9

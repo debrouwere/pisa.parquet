@@ -1,0 +1,2160 @@
+column,key,value
+CNT,ALB,Albania
+CNT,ARG,Argentina
+CNT,AUS,Australia
+CNT,AUT,Austria
+CNT,AZE,Azerbaijan
+CNT,BEL,Belgium
+CNT,BRA,Brazil
+CNT,BGR,Bulgaria
+CNT,CAN,Canada
+CNT,CHL,Chile
+CNT,TAP,Chinese Taipei
+CNT,COL,Colombia
+CNT,HRV,Croatia
+CNT,CZE,Czech Republic
+CNT,DNK,Denmark
+CNT,EST,Estonia
+CNT,FIN,Finland
+CNT,FRA,France
+CNT,DEU,Germany
+CNT,GRC,Greece
+CNT,HKG,Hong Kong-China
+CNT,HUN,Hungary
+CNT,ISL,Iceland
+CNT,IDN,Indonesia
+CNT,IRL,Ireland
+CNT,ISR,Israel
+CNT,ITA,Italy
+CNT,JPN,Japan
+CNT,JOR,Jordan
+CNT,KAZ,Kazakhstan
+CNT,KOR,Korea
+CNT,KGZ,Kyrgyzstan
+CNT,LVA,Latvia
+CNT,LIE,Liechtenstein
+CNT,LTU,Lithuania
+CNT,LUX,Luxembourg
+CNT,MAC,Macao-China
+CNT,MEX,Mexico
+CNT,MNE,Montenegro
+CNT,NLD,Netherlands
+CNT,NZL,New Zealand
+CNT,NOR,Norway
+CNT,PAN,Panama
+CNT,PER,Peru
+CNT,POL,Poland
+CNT,PRT,Portugal
+CNT,QAT,Qatar
+CNT,ROU,Romania
+CNT,RUS,Russian Federation
+CNT,SRB,Serbia
+CNT,QCN,Shanghai-China
+CNT,SGP,Singapore
+CNT,SVK,Slovak Republic
+CNT,SVN,Slovenia
+CNT,ESP,Spain
+CNT,SWE,Sweden
+CNT,CHE,Switzerland
+CNT,THA,Thailand
+CNT,TTO,Trinidad and Tobago
+CNT,TUN,Tunisia
+CNT,TUR,Turkey
+CNT,GBR,United Kingdom
+CNT,USA,United States
+CNT,URY,Uruguay
+CNT,CRI,Costa Rica
+CNT,ARE,United Arab Emirates
+CNT,GEO,Georgia   
+CNT,MYS,Malaysia  
+CNT,MLT,Malta
+CNT,MUS,Mauritius 
+CNT,MDA,Republic of Moldova
+CNT,QHP,Himachal Pradesh-India
+CNT,QTN,Tamil Nadu-India  
+CNT,QVE,Miranda-Venezuela   
+Country,008,Albania
+Country,032,Argentina
+Country,036,Australia
+Country,040,Austria
+Country,031,Azerbaijan
+Country,056,Belgium
+Country,076,Brazil
+Country,100,Bulgaria
+Country,124,Canada
+Country,152,Chile
+Country,158,Chinese Taipei
+Country,170,Colombia
+Country,191,Croatia
+Country,203,Czech Republic
+Country,208,Denmark
+Country,233,Estonia
+Country,246,Finland
+Country,250,France
+Country,276,Germany
+Country,300,Greece
+Country,344,Hong Kong-China
+Country,348,Hungary
+Country,352,Iceland
+Country,360,Indonesia
+Country,372,Ireland
+Country,376,Israel
+Country,380,Italy
+Country,392,Japan
+Country,400,Jordan
+Country,398,Kazakhstan
+Country,410,Korea
+Country,417,Kyrgyzstan
+Country,428,Latvia
+Country,438,Liechtenstein
+Country,440,Lithuania
+Country,442,Luxembourg
+Country,446,Macao-China
+Country,484,Mexico
+Country,499,Montenegro
+Country,528,Netherlands
+Country,554,New Zealand
+Country,578,Norway
+Country,591,Panama
+Country,604,Peru
+Country,616,Poland
+Country,620,Portugal
+Country,634,Qatar
+Country,642,Romania
+Country,643,Russian Federation
+Country,688,Serbia
+Country,156,Shanghai-China
+Country,702,Singapore
+Country,703,Slovak Republic
+Country,705,Slovenia
+Country,724,Spain
+Country,752,Sweden
+Country,756,Switzerland
+Country,764,Thailand
+Country,780,Trinidad and Tobago
+Country,788,Tunisia
+Country,792,Turkey
+Country,826,United Kingdom
+Country,840,United States
+Country,858,Uruguay
+Country,188,Costa Rica  
+Country,784,United Arab Emirates     
+Country,268,Georgia     
+Country,458,Malaysia    
+Country,470,Malta       
+Country,480,Mauritius   
+Country,498,Republic of Moldova
+Country,356,India (2009 States)   
+Country,862,Miranda-Venezuela    
+SUBNATIO,00800,Albania
+SUBNATIO,03100,Azerbaijan
+SUBNATIO,03200,Argentina
+SUBNATIO,03600,Australia
+SUBNATIO,04000,Austria
+SUBNATIO,05601,Belgium (Flemish Community)
+SUBNATIO,05600,Belgium (French & German regions) (not adjudicated)
+SUBNATIO,07600,Brazil
+SUBNATIO,10000,Bulgaria
+SUBNATIO,12400,Canada
+SUBNATIO,15200,Chile
+SUBNATIO,15600,Shanghai-China
+SUBNATIO,15800,Chinese Taipei
+SUBNATIO,17000,Colombia
+SUBNATIO,19100,Croatia
+SUBNATIO,20300,Czech Republic
+SUBNATIO,20800,Denmark
+SUBNATIO,23300,Estonia
+SUBNATIO,24600,Finland
+SUBNATIO,25000,France
+SUBNATIO,27600,Germany
+SUBNATIO,30000,Greece
+SUBNATIO,34400,Hong Kong-China
+SUBNATIO,34800,Hungary
+SUBNATIO,35200,Iceland
+SUBNATIO,36000,Indonesia
+SUBNATIO,37200,Ireland
+SUBNATIO,37600,Israel
+SUBNATIO,38000,Italy
+SUBNATIO,39200,Japan
+SUBNATIO,39800,Kazakhstan
+SUBNATIO,40000,Jordan
+SUBNATIO,41000,Korea
+SUBNATIO,41700,Kyrgyzstan
+SUBNATIO,42800,Latvia
+SUBNATIO,43800,Liechtenstein
+SUBNATIO,44000,Lithuania
+SUBNATIO,44200,Luxembourg
+SUBNATIO,44600,Macao-China
+SUBNATIO,48400,Mexico
+SUBNATIO,49900,Montenegro
+SUBNATIO,52800,Netherlands
+SUBNATIO,55400,New Zealand
+SUBNATIO,57800,Norway
+SUBNATIO,59100,Panama
+SUBNATIO,60400,Peru
+SUBNATIO,61600,Poland
+SUBNATIO,62000,Portugal
+SUBNATIO,63400,Qatar
+SUBNATIO,64200,Romania
+SUBNATIO,64300,Russian Federation
+SUBNATIO,68800,Serbia
+SUBNATIO,70200,Singapore
+SUBNATIO,70300,Slovak Republic
+SUBNATIO,70500,Slovenia
+SUBNATIO,72401,Spain (Andalusia)
+SUBNATIO,72402,Spain (Aragon)
+SUBNATIO,72403,Spain (Asturias)
+SUBNATIO,72404,Spain (Balearic Islands)
+SUBNATIO,72405,Spain (Canary Islands)
+SUBNATIO,72406,Spain (Cantabria)
+SUBNATIO,72407,Spain (Castile and Leon)
+SUBNATIO,72409,Spain (Catalonia)
+SUBNATIO,72411,Spain (Galicia)
+SUBNATIO,72412,Spain (La Rioja)
+SUBNATIO,72413,Spain (Madrid)
+SUBNATIO,72414,Spain (Murcia)
+SUBNATIO,72415,Spain (Navarre)
+SUBNATIO,72416,Spain (Basque Country)
+SUBNATIO,72418,Spain (Ceuta and Melilla)
+SUBNATIO,72499,Rest of Spain (not adjudicated)
+SUBNATIO,75200,Sweden
+SUBNATIO,75600,Switzerland
+SUBNATIO,76400,Thailand
+SUBNATIO,78000,Trinidad and Tobago
+SUBNATIO,78800,Tunisia
+SUBNATIO,79200,Turkey
+SUBNATIO,82600,"United Kingdom (England, Wales & Northern Ireland"
+SUBNATIO,82620,United Kingdom (Scotland)
+SUBNATIO,84000,United States
+SUBNATIO,85800,Uruguay
+SUBNATIO,18800,Costa Rica
+SUBNATIO,78400,Dubai
+SUBNATIO,78420,ARE (ex DUBAI)
+SUBNATIO,26800,Georgia   
+SUBNATIO,45800,Malaysia  
+SUBNATIO,47000,Malta     
+SUBNATIO,48000,Mauritius 
+SUBNATIO,49800,Republic of Moldova
+SUBNATIO,35601,Himachal Pradesh-India
+SUBNATIO,35602,Tamil Nadu-India
+SUBNATIO,86201,Miranda-Venezuela  
+OECD,0,Non-OECD
+OECD,1,OECD  
+SC0101F   ,1,Yes
+SC0101F   ,2,No
+SC0101F   ,8,Invalid
+SC0101F   ,9,Miss
+SC0102F   ,1,Yes
+SC0102F   ,2,No
+SC0102F   ,8,Invalid
+SC0102F   ,9,Miss
+SC0103F   ,1,Yes
+SC0103F   ,2,No
+SC0103F   ,8,Invalid
+SC0103F   ,9,Miss
+SC0104F   ,1,Yes
+SC0104F   ,2,No
+SC0104F   ,8,Invalid
+SC0104F   ,9,Miss
+SC0105F   ,1,Yes
+SC0105F   ,2,No
+SC0105F   ,8,Invalid
+SC0105F   ,9,Miss
+SC0106F   ,1,Yes
+SC0106F   ,2,No
+SC0106F   ,8,Invalid
+SC0106F   ,9,Miss
+SC0107F   ,1,Yes
+SC0107F   ,2,No
+SC0107F   ,8,Invalid
+SC0107F   ,9,Miss
+SC0108F   ,1,Yes
+SC0108F   ,2,No
+SC0108F   ,8,Invalid
+SC0108F   ,9,Miss
+SC0109F   ,1,Yes
+SC0109F   ,2,No
+SC0109F   ,8,Invalid
+SC0109F   ,9,Miss
+SC0110F   ,1,Yes
+SC0110F   ,2,No
+SC0110F   ,8,Invalid
+SC0110F   ,9,Miss
+SC0111F   ,1,Yes
+SC0111F   ,2,No
+SC0111F   ,8,Invalid
+SC0111F   ,9,Miss
+SC0112F   ,1,Yes
+SC0112F   ,2,No
+SC0112F   ,8,Invalid
+SC0112F   ,9,Miss
+SC0113F   ,1,Yes
+SC0113F   ,2,No
+SC0113F   ,8,Invalid
+SC0113F   ,9,Miss
+SC0114F   ,1,Yes
+SC0114F   ,2,No
+SC0114F   ,8,Invalid
+SC0114F   ,9,Miss
+SC0201F   ,1,Public
+SC0201F   ,2,Private
+SC0201F   ,8,Invalid
+SC0201F   ,9,Miss
+SC0401F   ,1,Village
+SC0401F   ,2,Small Town
+SC0401F   ,3,Town
+SC0401F   ,4,City
+SC0401F   ,5,Large City
+SC0401F   ,8,Invalid
+SC0401F   ,9,Miss
+SC0501F   ,1,Two or More Schools
+SC0501F   ,2,One Other
+SC0501F   ,3,No Others
+SC0501F   ,8,Invalid
+SC0501F   ,9,Miss
+SC0801F   ,1,60% or more
+SC0801F   ,2,40% up to 60%
+SC0801F   ,3,20% up to 40%
+SC0801F   ,4,10% up to 20%
+SC0801F   ,5,0% up to 10%
+SC0801F   ,8,Invalid
+SC0801F   ,9,Miss
+SC1101F   ,1,Not at all
+SC1101F   ,2,Very little
+SC1101F   ,3,To some extent
+SC1101F   ,4,A lot
+SC1101F   ,8,Invalid
+SC1101F   ,9,Miss
+SC1102F   ,1,Not at all
+SC1102F   ,2,Very little
+SC1102F   ,3,To some extent
+SC1102F   ,4,A lot
+SC1102F   ,8,Invalid
+SC1102F   ,9,Miss
+SC1103F   ,1,Not at all
+SC1103F   ,2,Very little
+SC1103F   ,3,To some extent
+SC1103F   ,4,A lot
+SC1103F   ,8,Invalid
+SC1103F   ,9,Miss
+SC1104F   ,1,Not at all
+SC1104F   ,2,Very little
+SC1104F   ,3,To some extent
+SC1104F   ,4,A lot
+SC1104F   ,8,Invalid
+SC1104F   ,9,Miss
+SC1105F   ,1,Not at all
+SC1105F   ,2,Very little
+SC1105F   ,3,To some extent
+SC1105F   ,4,A lot
+SC1105F   ,8,Invalid
+SC1105F   ,9,Miss
+SC1106F   ,1,Not at all
+SC1106F   ,2,Very little
+SC1106F   ,3,To some extent
+SC1106F   ,4,A lot
+SC1106F   ,8,Invalid
+SC1106F   ,9,Miss
+SC1107F   ,1,Not at all
+SC1107F   ,2,Very little
+SC1107F   ,3,To some extent
+SC1107F   ,4,A lot
+SC1107F   ,8,Invalid
+SC1107F   ,9,Miss
+SC1108F   ,1,Not at all
+SC1108F   ,2,Very little
+SC1108F   ,3,To some extent
+SC1108F   ,4,A lot
+SC1108F   ,8,Invalid
+SC1108F   ,9,Miss
+SC1109F   ,1,Not at all
+SC1109F   ,2,Very little
+SC1109F   ,3,To some extent
+SC1109F   ,4,A lot
+SC1109F   ,8,Invalid
+SC1109F   ,9,Miss
+SC1110F   ,1,Not at all
+SC1110F   ,2,Very little
+SC1110F   ,3,To some extent
+SC1110F   ,4,A lot
+SC1110F   ,8,Invalid
+SC1110F   ,9,Miss
+SC1111F   ,1,Not at all
+SC1111F   ,2,Very little
+SC1111F   ,3,To some extent
+SC1111F   ,4,A lot
+SC1111F   ,8,Invalid
+SC1111F   ,9,Miss
+SC1112F   ,1,Not at all
+SC1112F   ,2,Very little
+SC1112F   ,3,To some extent
+SC1112F   ,4,A lot
+SC1112F   ,8,Invalid
+SC1112F   ,9,Miss
+SC1113F   ,1,Not at all
+SC1113F   ,2,Very little
+SC1113F   ,3,To some extent
+SC1113F   ,4,A lot
+SC1113F   ,8,Invalid
+SC1113F   ,9,Miss
+SC1201F   ,1,For all subjects
+SC1201F   ,2,For some subjects
+SC1201F   ,3,Not for any subject
+SC1201F   ,8,Invalid
+SC1201F   ,9,Miss
+SC1202F   ,1,For all subjects
+SC1202F   ,2,For some subjects
+SC1202F   ,3,Not for any subject
+SC1202F   ,8,Invalid
+SC1202F   ,9,Miss
+SC1301F   ,1,Yes
+SC1301F   ,2,No
+SC1301F   ,8,Invalid
+SC1301F   ,9,Miss
+SC1302F   ,1,Yes
+SC1302F   ,2,No
+SC1302F   ,8,Invalid
+SC1302F   ,9,Miss
+SC1303F   ,1,Yes
+SC1303F   ,2,No
+SC1303F   ,8,Invalid
+SC1303F   ,9,Miss
+SC1304F   ,1,Yes
+SC1304F   ,2,No
+SC1304F   ,8,Invalid
+SC1304F   ,9,Miss
+SC1305F   ,1,Yes
+SC1305F   ,2,No
+SC1305F   ,8,Invalid
+SC1305F   ,9,Miss
+SC1306F   ,1,Yes
+SC1306F   ,2,No
+SC1306F   ,8,Invalid
+SC1306F   ,9,Miss
+SC1307F   ,1,Yes
+SC1307F   ,2,No
+SC1307F   ,8,Invalid
+SC1307F   ,9,Miss
+SC1308F   ,1,Yes
+SC1308F   ,2,No
+SC1308F   ,8,Invalid
+SC1308F   ,9,Miss
+SC1309F   ,1,Yes
+SC1309F   ,2,No
+SC1309F   ,8,Invalid
+SC1309F   ,9,Miss
+SC1310F   ,1,Yes
+SC1310F   ,2,No
+SC1310F   ,8,Invalid
+SC1310F   ,9,Miss
+SC1311F   ,1,Yes
+SC1311F   ,2,No
+SC1311F   ,8,Invalid
+SC1311F   ,9,Miss
+SC1312F   ,1,Yes
+SC1312F   ,2,No
+SC1312F   ,8,Invalid
+SC1312F   ,9,Miss
+SC1313F   ,1,Yes
+SC1313F   ,2,No
+SC1313F   ,8,Invalid
+SC1313F   ,9,Miss
+SC1314F   ,1,Yes
+SC1314F   ,2,No
+SC1314F   ,8,Invalid
+SC1314F   ,9,Miss
+SC1401F   ,1,Yes
+SC1401F   ,2,No
+SC1401F   ,8,Invalid
+SC1401F   ,9,Miss
+SC1402F   ,1,Yes
+SC1402F   ,2,No
+SC1402F   ,8,Invalid
+SC1402F   ,9,Miss
+SC1403F   ,1,Yes
+SC1403F   ,2,No
+SC1403F   ,8,Invalid
+SC1403F   ,9,Miss
+SC1404F   ,1,Yes
+SC1404F   ,2,No
+SC1404F   ,8,Invalid
+SC1404F   ,9,Miss
+SC1405F   ,1,Yes
+SC1405F   ,2,No
+SC1405F   ,8,Invalid
+SC1405F   ,9,Miss
+SC1501F   ,1,Never
+SC1501F   ,2,1-2 times a year
+SC1501F   ,3,3-5 times a year
+SC1501F   ,4,Monthly
+SC1501F   ,5,More than once a month
+SC1501F   ,8,Invalid
+SC1501F   ,9,Miss
+SC1502F   ,1,Never
+SC1502F   ,2,1-2 times a year
+SC1502F   ,3,3-5 times a year
+SC1502F   ,4,Monthly
+SC1502F   ,5,More than once a month
+SC1502F   ,8,Invalid
+SC1502F   ,9,Miss
+SC1503F   ,1,Never
+SC1503F   ,2,1-2 times a year
+SC1503F   ,3,3-5 times a year
+SC1503F   ,4,Monthly
+SC1503F   ,5,More than once a month
+SC1503F   ,8,Invalid
+SC1503F   ,9,Miss
+SC1504F   ,1,Never
+SC1504F   ,2,1-2 times a year
+SC1504F   ,3,3-5 times a year
+SC1504F   ,4,Monthly
+SC1504F   ,5,More than once a month
+SC1504F   ,8,Invalid
+SC1504F   ,9,Miss
+SC1505F   ,1,Never
+SC1505F   ,2,1-2 times a year
+SC1505F   ,3,3-5 times a year
+SC1505F   ,4,Monthly
+SC1505F   ,5,More than once a month
+SC1505F   ,8,Invalid
+SC1505F   ,9,Miss
+SC1601F   ,1,Yes
+SC1601F   ,2,No
+SC1601F   ,8,Invalid
+SC1601F   ,9,Miss
+SC1602F   ,1,Yes
+SC1602F   ,2,No
+SC1602F   ,8,Invalid
+SC1602F   ,9,Miss
+SC1603F   ,1,Yes
+SC1603F   ,2,No
+SC1603F   ,8,Invalid
+SC1603F   ,9,Miss
+SC1604F   ,1,Yes
+SC1604F   ,2,No
+SC1604F   ,8,Invalid
+SC1604F   ,9,Miss
+SC1605F   ,1,Yes
+SC1605F   ,2,No
+SC1605F   ,8,Invalid
+SC1605F   ,9,Miss
+SC1606F   ,1,Yes
+SC1606F   ,2,No
+SC1606F   ,8,Invalid
+SC1606F   ,9,Miss
+SC1607F   ,1,Yes
+SC1607F   ,2,No
+SC1607F   ,8,Invalid
+SC1607F   ,9,Miss
+SC1608F   ,1,Yes
+SC1608F   ,2,No
+SC1608F   ,8,Invalid
+SC1608F   ,9,Miss
+SC1701F   ,1,Not at all
+SC1701F   ,2,Very little
+SC1701F   ,3,To some extent
+SC1701F   ,4,A lot
+SC1701F   ,8,Invalid
+SC1701F   ,9,Miss
+SC1702F   ,1,Not at all
+SC1702F   ,2,Very little
+SC1702F   ,3,To some extent
+SC1702F   ,4,A lot
+SC1702F   ,8,Invalid
+SC1702F   ,9,Miss
+SC1703F   ,1,Not at all
+SC1703F   ,2,Very little
+SC1703F   ,3,To some extent
+SC1703F   ,4,A lot
+SC1703F   ,8,Invalid
+SC1703F   ,9,Miss
+SC1704F   ,1,Not at all
+SC1704F   ,2,Very little
+SC1704F   ,3,To some extent
+SC1704F   ,4,A lot
+SC1704F   ,8,Invalid
+SC1704F   ,9,Miss
+SC1705F   ,1,Not at all
+SC1705F   ,2,Very little
+SC1705F   ,3,To some extent
+SC1705F   ,4,A lot
+SC1705F   ,8,Invalid
+SC1705F   ,9,Miss
+SC1706F   ,1,Not at all
+SC1706F   ,2,Very little
+SC1706F   ,3,To some extent
+SC1706F   ,4,A lot
+SC1706F   ,8,Invalid
+SC1706F   ,9,Miss
+SC1707F   ,1,Not at all
+SC1707F   ,2,Very little
+SC1707F   ,3,To some extent
+SC1707F   ,4,A lot
+SC1707F   ,8,Invalid
+SC1707F   ,9,Miss
+SC1708F   ,1,Not at all
+SC1708F   ,2,Very little
+SC1708F   ,3,To some extent
+SC1708F   ,4,A lot
+SC1708F   ,8,Invalid
+SC1708F   ,9,Miss
+SC1709F   ,1,Not at all
+SC1709F   ,2,Very little
+SC1709F   ,3,To some extent
+SC1709F   ,4,A lot
+SC1709F   ,8,Invalid
+SC1709F   ,9,Miss
+SC1710F   ,1,Not at all
+SC1710F   ,2,Very little
+SC1710F   ,3,To some extent
+SC1710F   ,4,A lot
+SC1710F   ,8,Invalid
+SC1710F   ,9,Miss
+SC1711F   ,1,Not at all
+SC1711F   ,2,Very little
+SC1711F   ,3,To some extent
+SC1711F   ,4,A lot
+SC1711F   ,8,Invalid
+SC1711F   ,9,Miss
+SC1712F   ,1,Not at all
+SC1712F   ,2,Very little
+SC1712F   ,3,To some extent
+SC1712F   ,4,A lot
+SC1712F   ,8,Invalid
+SC1712F   ,9,Miss
+SC1713F   ,1,Not at all
+SC1713F   ,2,Very little
+SC1713F   ,3,To some extent
+SC1713F   ,4,A lot
+SC1713F   ,8,Invalid
+SC1713F   ,9,Miss
+SC1801F   ,1,Many Parents
+SC1801F   ,2,Minority of Parents
+SC1801F   ,3,Largely absent
+SC1801F   ,8,Invalid
+SC1801F   ,9,Miss
+SC1901F   ,1,Never
+SC1901F   ,2,Sometimes
+SC1901F   ,3,Always
+SC1901F   ,8,Invalid
+SC1901F   ,9,Miss
+SC1902F   ,1,Never
+SC1902F   ,2,Sometimes
+SC1902F   ,3,Always
+SC1902F   ,8,Invalid
+SC1902F   ,9,Miss
+SC1903F   ,1,Never
+SC1903F   ,2,Sometimes
+SC1903F   ,3,Always
+SC1903F   ,8,Invalid
+SC1903F   ,9,Miss
+SC1904F   ,1,Never
+SC1904F   ,2,Sometimes
+SC1904F   ,3,Always
+SC1904F   ,8,Invalid
+SC1904F   ,9,Miss
+SC1905F   ,1,Never
+SC1905F   ,2,Sometimes
+SC1905F   ,3,Always
+SC1905F   ,8,Invalid
+SC1905F   ,9,Miss
+SC1906F   ,1,Never
+SC1906F   ,2,Sometimes
+SC1906F   ,3,Always
+SC1906F   ,8,Invalid
+SC1906F   ,9,Miss
+SC1907F   ,1,Never
+SC1907F   ,2,Sometimes
+SC1907F   ,3,Always
+SC1907F   ,8,Invalid
+SC1907F   ,9,Miss
+SC2001F   ,1,Not likely
+SC2001F   ,2,Likely
+SC2001F   ,3,Very likely
+SC2001F   ,8,Invalid
+SC2001F   ,9,Miss
+SC2002F   ,1,Not likely
+SC2002F   ,2,Likely
+SC2002F   ,3,Very likely
+SC2002F   ,8,Invalid
+SC2002F   ,9,Miss
+SC2003F   ,1,Not likely
+SC2003F   ,2,Likely
+SC2003F   ,3,Very likely
+SC2003F   ,8,Invalid
+SC2003F   ,9,Miss
+SC2004F   ,1,Not likely
+SC2004F   ,2,Likely
+SC2004F   ,3,Very likely
+SC2004F   ,8,Invalid
+SC2004F   ,9,Miss
+SC2005F   ,1,Not likely
+SC2005F   ,2,Likely
+SC2005F   ,3,Very likely
+SC2005F   ,8,Invalid
+SC2005F   ,9,Miss
+SC2006F   ,1,Not likely
+SC2006F   ,2,Likely
+SC2006F   ,3,Very likely
+SC2006F   ,8,Invalid
+SC2006F   ,9,Miss
+SC2101F   ,1,Yes
+SC2101F   ,2,No
+SC2101F   ,8,Invalid
+SC2101F   ,9,Miss
+SC2102F   ,1,Yes
+SC2102F   ,2,No
+SC2102F   ,8,Invalid
+SC2102F   ,9,Miss
+SC2103F   ,1,Yes
+SC2103F   ,2,No
+SC2103F   ,8,Invalid
+SC2103F   ,9,Miss
+SC2201F   ,1,Yes
+SC2201F   ,2,No
+SC2201F   ,8,Invalid
+SC2201F   ,9,Miss
+SC2202F   ,1,Yes
+SC2202F   ,2,No
+SC2202F   ,8,Invalid
+SC2202F   ,9,Miss
+SC2203F   ,1,Yes
+SC2203F   ,2,No
+SC2203F   ,8,Invalid
+SC2203F   ,9,Miss
+SC2204F   ,1,Yes
+SC2204F   ,2,No
+SC2204F   ,8,Invalid
+SC2204F   ,9,Miss
+SC2205F   ,1,Yes
+SC2205F   ,2,No
+SC2205F   ,8,Invalid
+SC2205F   ,9,Miss
+SC2301F   ,1,Yes
+SC2301F   ,2,No
+SC2301F   ,8,Invalid
+SC2301F   ,9,Miss
+SC2302F   ,1,Yes
+SC2302F   ,2,No
+SC2302F   ,8,Invalid
+SC2302F   ,9,Miss
+SC2303F   ,1,Yes
+SC2303F   ,2,No
+SC2303F   ,8,Invalid
+SC2303F   ,9,Miss
+SC2304F   ,1,Yes
+SC2304F   ,2,No
+SC2304F   ,8,Invalid
+SC2304F   ,9,Miss
+SC24F      ,1,Tick
+SC24F      ,2,No Tick
+SC24F      ,8,Invalid
+SC24F      ,9,Miss
+SC25F      ,1,Tick
+SC25F      ,2,No Tick
+SC25F      ,8,Invalid
+SC25F      ,9,Miss
+SC2601F   ,1,Never
+SC2601F   ,2,Seldom
+SC2601F   ,3,Quite often
+SC2601F   ,4,Very often
+SC2601F   ,8,Invalid
+SC2601F   ,9,Miss
+SC2602F   ,1,Never
+SC2602F   ,2,Seldom
+SC2602F   ,3,Quite often
+SC2602F   ,4,Very often
+SC2602F   ,8,Invalid
+SC2602F   ,9,Miss
+SC2603F   ,1,Never
+SC2603F   ,2,Seldom
+SC2603F   ,3,Quite often
+SC2603F   ,4,Very often
+SC2603F   ,8,Invalid
+SC2603F   ,9,Miss
+SC2604F   ,1,Never
+SC2604F   ,2,Seldom
+SC2604F   ,3,Quite often
+SC2604F   ,4,Very often
+SC2604F   ,8,Invalid
+SC2604F   ,9,Miss
+SC2605F   ,1,Never
+SC2605F   ,2,Seldom
+SC2605F   ,3,Quite often
+SC2605F   ,4,Very often
+SC2605F   ,8,Invalid
+SC2605F   ,9,Miss
+SC2606F   ,1,Never
+SC2606F   ,2,Seldom
+SC2606F   ,3,Quite often
+SC2606F   ,4,Very often
+SC2606F   ,8,Invalid
+SC2606F   ,9,Miss
+SC2607F   ,1,Never
+SC2607F   ,2,Seldom
+SC2607F   ,3,Quite often
+SC2607F   ,4,Very often
+SC2607F   ,8,Invalid
+SC2607F   ,9,Miss
+SC2608F   ,1,Never
+SC2608F   ,2,Seldom
+SC2608F   ,3,Quite often
+SC2608F   ,4,Very often
+SC2608F   ,8,Invalid
+SC2608F   ,9,Miss
+SC2609F   ,1,Never
+SC2609F   ,2,Seldom
+SC2609F   ,3,Quite often
+SC2609F   ,4,Very often
+SC2609F   ,8,Invalid
+SC2609F   ,9,Miss
+SC2610F   ,1,Never
+SC2610F   ,2,Seldom
+SC2610F   ,3,Quite often
+SC2610F   ,4,Very often
+SC2610F   ,8,Invalid
+SC2610F   ,9,Miss
+SC2611F   ,1,Never
+SC2611F   ,2,Seldom
+SC2611F   ,3,Quite often
+SC2611F   ,4,Very often
+SC2611F   ,8,Invalid
+SC2611F   ,9,Miss
+SC2612F   ,1,Never
+SC2612F   ,2,Seldom
+SC2612F   ,3,Quite often
+SC2612F   ,4,Very often
+SC2612F   ,8,Invalid
+SC2612F   ,9,Miss
+SC2613F   ,1,Never
+SC2613F   ,2,Seldom
+SC2613F   ,3,Quite often
+SC2613F   ,4,Very often
+SC2613F   ,8,Invalid
+SC2613F   ,9,Miss
+SC2614F   ,1,Never
+SC2614F   ,2,Seldom
+SC2614F   ,3,Quite often
+SC2614F   ,4,Very often
+SC2614F   ,8,Invalid
+SC2614F   ,9,Missing
+SC2701F   ,1,Female
+SC2701F   ,2,Male
+SC2701F   ,8,Invalid
+SC2701F   ,9,Miss
+SCHLTF    ,1,Public
+SCHLTF    ,2,Private government-dependent
+SCHLTF    ,3,Private Independent
+SCHLTF    ,8,Invalid
+SCHLTF    ,9,Miss
+SCHLTF    ,7,N/A
+abF       ,1,Not for any subjects
+abF       ,2,For some subjects
+abF       ,3,For all subjects
+abF       ,8,Invalid
+abF       ,9,Miss
+abF       ,7,N/A
+SELSCHF   ,1, Two factors are never considered
+SELSCHF   ,2, At least one sometimes but neither always
+SELSCHF   ,3,At least one always considered
+SELSCHF   ,8,Invalid
+SELSCHF   ,9,Miss
+SELSCHF   ,7,N/A
+miss1F    ,9999,Miss
+miss1F    ,9998,Invalid
+miss1F    ,9997,N/A
+miss4F   ,9,Miss
+miss4F   ,8,Invalid
+miss4F   ,7,N/A
+sc0701F   ,996,N/A-<ISCED level> not available in this school
+sc0701F   ,9999,Miss
+sc0701F   ,9998,Invalid
+sc0701F   ,9997,N/A
+ssizeF    ,99999,Miss
+ssizeF    ,99998,Invalid
+ssizeF    ,99997,N/A
+STRATUM,00801,ALB: North/Urban/General
+STRATUM,00802,ALB: North/Urban/Vocational
+STRATUM,00803,ALB: North/Rural/General
+STRATUM,00804,ALB: Center/Urban/General
+STRATUM,00805,ALB: Center/Urban/Vocational
+STRATUM,00806,ALB: Center/Rural/General
+STRATUM,00807,ALB: South/Urban/General
+STRATUM,00808,ALB: South/Urban/Vocational
+STRATUM,00809,ALB: South/Rural/General
+STRATUM,00810,ALB: Rural/Vocational
+STRATUM,00811,ALB: Stratum 11
+STRATUM,03201,ARG: 01: Centro
+STRATUM,03202,ARG: 02: NEA
+STRATUM,03203,ARG: 03: NOA
+STRATUM,03204,ARG: 04: Cuyo
+STRATUM,03205,ARG: 05: Patagonia
+STRATUM,03601,AUS: ACT_Catholic
+STRATUM,03602,AUS: ACT_Government
+STRATUM,03603,AUS: ACT_Independent
+STRATUM,03604,AUS: NSW_Catholic
+STRATUM,03605,AUS: NSW_Government
+STRATUM,03606,AUS: NSW_Independent
+STRATUM,03607,AUS: VIC_Catholic
+STRATUM,03608,AUS: VIC_Government
+STRATUM,03609,AUS: VIC_Independent
+STRATUM,03610,AUS: QLD_Catholic
+STRATUM,03611,AUS: QLD_Government
+STRATUM,03612,AUS: QLD_Independent
+STRATUM,03613,AUS: SA_Catholic
+STRATUM,03614,AUS: SA_Government
+STRATUM,03615,AUS: SA_Independent
+STRATUM,03616,AUS: WA_Catholic
+STRATUM,03617,AUS: WA_Government
+STRATUM,03618,AUS: WA_Independent
+STRATUM,03619,AUS: TAS_Catholic
+STRATUM,03620,AUS: TAS_Government
+STRATUM,03621,AUS: TAS_Independent
+STRATUM,03622,AUS: NT_Catholic
+STRATUM,03623,AUS: NT_Government
+STRATUM,03624,AUS: NT_Independent
+STRATUM,03625,AUS: Stratum 25
+STRATUM,04097,AUT: Stratum 97
+STRATUM,03197,AZE: Stratum 97
+STRATUM,05601,BEL: Flanders/Gen Ed only/private subsidized
+STRATUM,05602,BEL: Flanders/Gen Ed only/network comm. schls
+STRATUM,05603,BEL: Flanders/Gen Ed and other type/private subsidized
+STRATUM,05604,BEL: Flanders/Gen Ed and other type/network comm. schls
+STRATUM,05605,BEL: Flanders/Tech/Voc/noGen Ed/ private subsidized
+STRATUM,05606,BEL: Flanders/Tech/Voc/no Gen Ed/network comm. schls
+STRATUM,05607,BEL: Flanders/Spec Ed/ private subsidized
+STRATUM,05608,BEL: Flanders/Spec Ed/network comm. schls
+STRATUM,05609,BEL: Flanders/Part-time Voc/ private subsidized
+STRATUM,05611,BEL: French com/Regular/private sectarian
+STRATUM,05612,BEL: French com/Regular/public at state/community level
+STRATUM,05613,BEL: French com/Regular/public at local level
+STRATUM,05614,BEL: French com/Regular/private non-sectarian
+STRATUM,05615,BEL: French com/Spec Ed/private sectarian
+STRATUM,05616,BEL: French com/Spec Ed/public at state/community level
+STRATUM,05617,BEL: French com/Spec Ed/public at local level
+STRATUM,05618,BEL: French com/Spec Ed/private non-sectarian
+STRATUM,05619,BEL: French com/Part-time Voc/private sectarian
+STRATUM,05620,BEL: French com/Part-time Voc/public at state/community level
+STRATUM,05621,BEL: French com/Part-time Voc /public at local level
+STRATUM,05622,BEL: German com/Regular
+STRATUM,05623,BEL: German com/Special Ed
+STRATUM,10001,"BGR: 1. General profiled ISCED3,1"
+STRATUM,10002,"BGR: 1. General profiled ISCED3,2"
+STRATUM,10003,"BGR: 1. General profiled ISCED3,3"
+STRATUM,10004,"BGR: 1. General profiled ISCED3,4"
+STRATUM,10005,"BGR: 1. General profiled ISCED3,5"
+STRATUM,10006,"BGR: 1. General profiled ISCED3,6"
+STRATUM,10007,"BGR: 1. General profiled ISCED3,7"
+STRATUM,10008,"BGR: 1. General profiled ISCED3,8"
+STRATUM,10009,"BGR: 1. General profiled ISCED3,9"
+STRATUM,10010,"BGR: 1. General profiled ISCED3,10"
+STRATUM,10011,"BGR: 1. General profiled ISCED3,11"
+STRATUM,10012,"BGR: 2. General non-profiled ISCED3,1"
+STRATUM,10014,"BGR: 2. General non-profiled ISCED3,3"
+STRATUM,10015,"BGR: 2. General non-profiled ISCED3,4"
+STRATUM,10016,"BGR: 2. General non-profiled ISCED3,5"
+STRATUM,10017,"BGR: 2. General non-profiled ISCED3,6"
+STRATUM,10018,"BGR: 2. General non-profiled ISCED3,7"
+STRATUM,10019,"BGR: 2. General non-profiled ISCED3,8"
+STRATUM,10020,"BGR: 2. General non-profiled ISCED3,9"
+STRATUM,10021,"BGR: 2. General non-profiled ISCED3,10"
+STRATUM,10022,"BGR: 2. General non-profiled ISCED3,11"
+STRATUM,10023,"BGR: 3. Other,1"
+STRATUM,10024,"BGR: 3. Other,2"
+STRATUM,10025,"BGR: 3. Other,3"
+STRATUM,10026,"BGR: 3. Other,4"
+STRATUM,10027,"BGR: 3. Other,5"
+STRATUM,10028,"BGR: 3. Other,6"
+STRATUM,10029,"BGR: 3. Other,7"
+STRATUM,10030,"BGR: 3. Other,8"
+STRATUM,10031,"BGR: 3. Other,9"
+STRATUM,10032,"BGR: 3. Other,10"
+STRATUM,10033,"BGR: 3. Other,11"
+STRATUM,07601,BRA: ACRE - no grade 9
+STRATUM,07602,"BRA: ACRE - grade 9, SMOP,1"
+STRATUM,07603,"BRA: ACRE - grade 9, SMOP,53"
+STRATUM,07604,BRA: ALAGOAS - no grade 9
+STRATUM,07605,"BRA: ALAGOAS - grade 9, SMOP,1"
+STRATUM,07606,"BRA: ALAGOAS - grade 9, SMOP,53"
+STRATUM,07607,BRA: AMAPÁ - no grade 9
+STRATUM,07608,"BRA: AMAPÁ - grade 9, SMOP,1"
+STRATUM,07609,"BRA: AMAPÁ - grade 9, SMOP,53"
+STRATUM,07610,BRA: AMAZONAS - no grade 9
+STRATUM,07611,"BRA: AMAZONAS - grade 9, SMOP,1"
+STRATUM,07612,"BRA: AMAZONAS - grade 9, SMOP,53"
+STRATUM,07613,BRA: BAHIA - no grade 9
+STRATUM,07614,"BRA: BAHIA - grade 9, SMOP,1"
+STRATUM,07615,"BRA: BAHIA - grade 9, SMOP,53"
+STRATUM,07616,BRA: CEARÁ - no grade 9
+STRATUM,07617,"BRA: CEARÁ - grade 9, SMOP,1"
+STRATUM,07618,"BRA: CEARÁ - grade 9, SMOP,53"
+STRATUM,07619,BRA: DISTRITO FEDERAL - no grade 9
+STRATUM,07620,"BRA: DISTRITO FEDERAL - grade 9, SMOP,1"
+STRATUM,07621,"BRA: DISTRITO FEDERAL - grade 9, SMOP,53"
+STRATUM,07622,BRA: ESPÍRITO SANTO - no grade 9
+STRATUM,07623,"BRA: ESPÍRITO SANTO - grade 9, SMOP,1"
+STRATUM,07624,"BRA: ESPÍRITO SANTO - grade 9, SMOP,53"
+STRATUM,07625,BRA: GOIÁS - no grade 9
+STRATUM,07626,"BRA: GOIÁS - grade 9, SMOP,1"
+STRATUM,07627,"BRA: GOIÁS - grade 9, SMOP,53"
+STRATUM,07628,BRA: MARANHÃO - no grade 9
+STRATUM,07629,"BRA: MARANHÃO - grade 9, SMOP,1"
+STRATUM,07630,"BRA: MARANHÃO - grade 9, SMOP,53"
+STRATUM,07631,BRA: MATO GROSSO - no grade 9
+STRATUM,07632,"BRA: MATO GROSSO - grade 9, SMOP,1"
+STRATUM,07633,"BRA: MATO GROSSO - grade 9, SMOP,53"
+STRATUM,07634,BRA: MATO GROSSO DO SUL - no grade 9
+STRATUM,07635,"BRA: MATO GROSSO DO SUL - grade 9, SMOP,1"
+STRATUM,07636,"BRA: MATO GROSSO DO SUL - grade 9, SMOP,53"
+STRATUM,07637,BRA: MINAS GERAIS - no grade 9
+STRATUM,07638,"BRA: MINAS GERAIS - grade 9, SMOP,1"
+STRATUM,07639,"BRA: MINAS GERAIS - grade 9, SMOP,53"
+STRATUM,07640,BRA: PARÁ - no grade 9
+STRATUM,07641,"BRA: PARÁ - grade 9, SMOP,1"
+STRATUM,07642,"BRA: PARÁ - grade 9, SMOP,53"
+STRATUM,07643,BRA: PARAÍBA - no grade 9
+STRATUM,07644,"BRA: PARAÍBA - grade 9, SMOP,1"
+STRATUM,07645,"BRA: PARAÍBA - grade 9, SMOP,53"
+STRATUM,07646,BRA: PARANÁ - no grade 9
+STRATUM,07647,"BRA: PARANÁ - grade 9, SMOP,1"
+STRATUM,07648,"BRA: PARANÁ - grade 9, SMOP,53"
+STRATUM,07649,BRA: PERNAMBUCO - no grade 9
+STRATUM,07650,"BRA: PERNAMBUCO - grade 9, SMOP,1"
+STRATUM,07651,"BRA: PERNAMBUCO - grade 9, SMOP,53"
+STRATUM,07652,BRA: PIAUÍ - no grade 9
+STRATUM,07653,"BRA: PIAUÍ - grade 9, SMOP,1"
+STRATUM,07654,"BRA: PIAUÍ - grade 9, SMOP,53"
+STRATUM,07655,BRA: RIO DE JANEIRO - no grade 9
+STRATUM,07656,"BRA: RIO DE JANEIRO - grade 9, SMOP,1"
+STRATUM,07657,"BRA: RIO DE JANEIRO - grade 9, SMOP,53"
+STRATUM,07658,BRA: RIO GRANDE DO NORTE - no grade 9
+STRATUM,07659,"BRA: RIO GRANDE DO NORTE - grade 9, SMOP,1"
+STRATUM,07660,"BRA: RIO GRANDE DO NORTE - grade 9, SMOP,53"
+STRATUM,07661,BRA: RIO GRANDE DO SUL - no grade 9
+STRATUM,07662,"BRA: RIO GRANDE DO SUL - grade 9, SMOP,1"
+STRATUM,07663,"BRA: RIO GRANDE DO SUL - grade 9, SMOP,53"
+STRATUM,07664,BRA: RONDÔNIA - no grade 9
+STRATUM,07665,"BRA: RONDÔNIA - grade 9, SMOP,1"
+STRATUM,07666,"BRA: RONDÔNIA - grade 9, SMOP,53"
+STRATUM,07667,BRA: RORAIMA - no grade 9
+STRATUM,07668,"BRA: RORAIMA - grade 9, SMOP,1"
+STRATUM,07669,"BRA: RORAIMA - grade 9, SMOP,53"
+STRATUM,07670,BRA: SANTA CATARINA - no grade 9
+STRATUM,07671,"BRA: SANTA CATARINA - grade 9, SMOP,1"
+STRATUM,07672,"BRA: SANTA CATARINA - grade 9, SMOP,53"
+STRATUM,07673,BRA: SÃO PAULO - no grade 9
+STRATUM,07674,"BRA: SÃO PAULO - grade 9, SMOP,1"
+STRATUM,07675,"BRA: SÃO PAULO - grade 9, SMOP,53"
+STRATUM,07676,BRA: SERGIPE - no grade 9
+STRATUM,07677,"BRA: SERGIPE - grade 9, SMOP,1"
+STRATUM,07678,"BRA: SERGIPE - grade 9, SMOP,53"
+STRATUM,07679,BRA: TOCANTINS - no grade 9
+STRATUM,07680,"BRA: TOCANTINS - grade 9, SMOP,1"
+STRATUM,07681,"BRA: TOCANTINS - grade 9, SMOP,53"
+STRATUM,07682,BRA: Stratum 82
+STRATUM,12401,CAN: 00 - prov 10 Fr.& Eng. 1 to 17
+STRATUM,12402,CAN: 01 - prov 10 Fr.& Eng. 18 to 34
+STRATUM,12403,CAN: 02 - prov 10 Fr.& Eng. 35 to ...
+STRATUM,12404,CAN: 10 - prov 11 Fr.& Eng. 1 to ...
+STRATUM,12405,CAN: 20 - prov 12 Eng. 1 to 17
+STRATUM,12406,CAN: 21 - prov 12 Eng. 18 to 34
+STRATUM,12407,CAN: 22 - prov 12 Eng. 35 to ...
+STRATUM,12408,CAN: 25 - prov 12 Fr. 1 to 17
+STRATUM,12409,CAN: 26 - prov 12 Fr. 18 to ...
+STRATUM,12410,CAN: 30 - prov 13 Eng. 1 to 34
+STRATUM,12411,CAN: 31 - prov 13 Eng. 35 to ...
+STRATUM,12412,CAN: 35 - prov 13 Fr. 1 to 34
+STRATUM,12413,CAN: 36 - prov 13 Fr. 35 to 139
+STRATUM,12414,CAN: 37 - prov 13 Fr. 140 to ...
+STRATUM,12415,CAN: 40 - prov 24 Eng. 1 to 17
+STRATUM,12416,CAN: 41 - prov 24 Eng. 18 to 34
+STRATUM,12417,CAN: 42 - prov 24 Eng. 35 to ...
+STRATUM,12418,CAN: 45 - prov 24 Fr.  1 to 34
+STRATUM,12419,CAN: 46 - prov 24 Fr.  35 to ...
+STRATUM,12420,CAN: 50 - prov 35 Eng.  1 to 34
+STRATUM,12421,CAN: 51 - prov 35 Eng.  35 to ...
+STRATUM,12422,CAN: 55 - prov 35 Fr.  1 to 17
+STRATUM,12423,CAN: 56 - prov 35 Fr.  18 to 34
+STRATUM,12424,CAN: 57 - prov 35 Fr.  35 to ...
+STRATUM,12425,CAN: 60 - prov 46 Eng.  1 to 17
+STRATUM,12426,CAN: 61 - prov 46 Eng.  18 to 34
+STRATUM,12427,CAN: 62 - prov 46 Eng.  35 to ...
+STRATUM,12428,CAN: 65 - prov 46 Fr.  1 to 17
+STRATUM,12429,CAN: 66 - prov 46 Fr.  18 to ...
+STRATUM,12430,CAN: 70 - prov 47 Eng.  1 to 17
+STRATUM,12431,CAN: 71 - prov 47 Eng. 18 to 34
+STRATUM,12432,CAN: 72 - prov 47 Eng. 35 to ...
+STRATUM,12433,CAN: 75 - prov 47 Fr.  1 to 8
+STRATUM,12434,CAN: 76 - prov 47 Fr.  9 to ...
+STRATUM,12435,CAN: 80 - prov 48 Eng.  1 to 17
+STRATUM,12436,CAN: 81 - prov 48 Eng.  18 to 34
+STRATUM,12437,CAN: 82 - prov 48 Eng.  35 to ...
+STRATUM,12438,CAN: 85 - prov 48 Fr.  1 to 8
+STRATUM,12439,CAN: 86 - prov 48 Fr.  9 to ...
+STRATUM,12440,CAN: 90 - prov 59 Eng.  1 to 17
+STRATUM,12441,CAN: 91 - prov 59 Eng.  18 to 34
+STRATUM,12442,CAN: 92 - prov 59 Eng.  35 to ...
+STRATUM,12443,CAN: 95 - prov 59 Fr.  1 to 8
+STRATUM,12444,CAN: 96 - prov 59 Fr.  9 to ...
+STRATUM,12445,CAN: Stratum 45
+STRATUM,75601,CHE: AG.gr9.pub.
+STRATUM,75602,CHE: AR.gr9.pub.
+STRATUM,75603,CHE: BE(d).gr9.pub.
+STRATUM,75604,CHE: SG.gr9.pub.
+STRATUM,75605,CHE: SH.gr9.pub.
+STRATUM,75607,CHE: VS(d).gr9.pub.
+STRATUM,75608,CHE: D-Rest.gr9.pub.
+STRATUM,75609,CHE: D-CH.other.v1.
+STRATUM,75610,CHE: D-CH.other.v2.
+STRATUM,75611,CHE: D-CH.other.v3.
+STRATUM,75612,CHE: D-CH.other.b.
+STRATUM,75613,CHE: D-CH.gr9.priv.
+STRATUM,75614,CHE: BE(f).gr9.pub.
+STRATUM,75615,CHE: FR(f).gr9.pub.
+STRATUM,75616,CHE: GE.gr9.pub.
+STRATUM,75617,CHE: JU.gr9.pub.
+STRATUM,75618,CHE: NE.gr9.pub.
+STRATUM,75619,CHE: VD.gr9.pub.
+STRATUM,75620,CHE: VS(f).gr9.pub.
+STRATUM,75621,CHE: F-CH.other.v1.
+STRATUM,75622,CHE: F-CH.other.v2.
+STRATUM,75623,CHE: F-CH.other.v3.
+STRATUM,75624,CHE: F-CH.other.b.
+STRATUM,75625,CHE: F-CH.gr9.priv.
+STRATUM,75626,CHE: I-CH.gr9.pub.
+STRATUM,75627,CHE: I-CH.other.v.
+STRATUM,75628,CHE: I-CH.other.b.
+STRATUM,75629,CHE: I-CH.gr9.priv.
+STRATUM,75661,"CHE: ZH.gr9.pub.(30.1,30.15,31)"
+STRATUM,75662,"CHE: ZH.gr9.pub.(12,12.1)"
+STRATUM,75663,"CHE: ZH.gr9.pub.(13,13.2,14,14.1,16)"
+STRATUM,75664,CHE: Stratum 64
+STRATUM,15297,CHL: Stratum 97
+STRATUM,17001,COL: 01: BARRANQUILLA
+STRATUM,17002,COL: 02: BOGOTÁ
+STRATUM,17003,COL: 03: CÚCUTA
+STRATUM,17004,COL: 04: rest of MANIZALES
+STRATUM,17005,COL: 05: Manizales-Escuela Activa
+STRATUM,17006,COL: 06: MEDELLÍN
+STRATUM,17007,COL: 07: PASTO
+STRATUM,17008,COL: 08: PEREIRA
+STRATUM,17009,COL: 09: REST OF THE COUNTRY
+STRATUM,17011,COL: 11: VILLAVICENCIO
+STRATUM,17012,COL: 12: Stratum 12
+STRATUM,20301,CZE: Basic/Region1/L
+STRATUM,20302,CZE: Basic/Region1/M
+STRATUM,20303,CZE: Basic/Region1/V
+STRATUM,20304,CZE: Basic/Region2/L
+STRATUM,20305,CZE: Basic/Region2/M
+STRATUM,20306,CZE: Basic/Region2/V
+STRATUM,20307,CZE: Basic/Region3/L
+STRATUM,20308,CZE: Basic/Region3/M
+STRATUM,20309,CZE: Basic/Region3/V
+STRATUM,20310,CZE: Basic/Region4/L
+STRATUM,20311,CZE: Basic/Region4/M
+STRATUM,20312,CZE: Basic/Region4/V
+STRATUM,20313,CZE: Basic/Region5/L
+STRATUM,20314,CZE: Basic/Region5/M
+STRATUM,20315,CZE: Basic/Region5/V
+STRATUM,20316,CZE: Basic/Region6/L
+STRATUM,20317,CZE: Basic/Region6/M
+STRATUM,20318,CZE: Basic/Region6/V
+STRATUM,20319,CZE: Basic/Region7/L
+STRATUM,20320,CZE: Basic/Region7/M
+STRATUM,20321,CZE: Basic/Region7/V
+STRATUM,20322,CZE: Basic/Region8/L
+STRATUM,20323,CZE: Basic/Region8/M
+STRATUM,20324,CZE: Basic/Region8/V
+STRATUM,20325,CZE: Basic/Region9/L
+STRATUM,20326,CZE: Basic/Region9/M
+STRATUM,20327,CZE: Basic/Region9/V
+STRATUM,20328,CZE: Basic/Region10/L
+STRATUM,20329,CZE: Basic/Region10/M
+STRATUM,20330,CZE: Basic/Region10/V
+STRATUM,20331,CZE: Basic/Region11/L
+STRATUM,20332,CZE: Basic/Region11/M
+STRATUM,20333,CZE: Basic/Region11/V
+STRATUM,20334,CZE: Basic/Region12/L
+STRATUM,20335,CZE: Basic/Region12/M
+STRATUM,20336,CZE: Basic/Region12/V
+STRATUM,20337,CZE: Basic/Region13/L
+STRATUM,20338,CZE: Basic/Region13/M
+STRATUM,20339,CZE: Basic/Region13/V
+STRATUM,20340,CZE: Basic/Region14/L
+STRATUM,20341,CZE: Basic/Region14/M
+STRATUM,20342,CZE: Basic/Region14/V
+STRATUM,20343,CZE: 6-8yrGym/Region1/L
+STRATUM,20344,CZE: 6-8yrGym/Region1/M&V
+STRATUM,20345,CZE: 6-8yrGym/Region2/L
+STRATUM,20346,CZE: 6-8yrGym/Region2/M&V
+STRATUM,20347,CZE: 6-8yrGym/Region3/L
+STRATUM,20348,CZE: 6-8yrGym/Region3/M&V
+STRATUM,20349,CZE: 6-8yrGym/Region4/L
+STRATUM,20350,CZE: 6-8yrGym/Region4/M&V
+STRATUM,20351,CZE: 6-8yrGym/Region5/L
+STRATUM,20352,CZE: 6-8yrGym/Region5/M&V
+STRATUM,20353,CZE: 6-8yrGym/Region6/L
+STRATUM,20354,CZE: 6-8yrGym/Region6/M&V
+STRATUM,20355,CZE: 6-8yrGym/Region7/L
+STRATUM,20356,CZE: 6-8yrGym/Region7/M&V
+STRATUM,20357,CZE: 6-8yrGym/Region8/L
+STRATUM,20358,CZE: 6-8yrGym/Region8/M&V
+STRATUM,20359,CZE: 6-8yrGym/Region9/L
+STRATUM,20360,CZE: 6-8yrGym/Region9/M&V
+STRATUM,20361,CZE: 6-8yrGym/Region10/L
+STRATUM,20362,CZE: 6-8yrGym/Region10/M&V
+STRATUM,20363,CZE: 6-8yrGym/Region11/L
+STRATUM,20364,CZE: 6-8yrGym/Region11/M&V
+STRATUM,20365,CZE: 6-8yrGym/Region12/L
+STRATUM,20366,CZE: 6-8yrGym/Region12/M&V
+STRATUM,20367,CZE: 6-8yrGym/Region13/L
+STRATUM,20368,CZE: 6-8yrGym/Region13/M&V
+STRATUM,20369,CZE: 6-8yrGym/Region14/L
+STRATUM,20370,CZE: 6-8yrGym/Region14/M&V
+STRATUM,20371,CZE: 4yr Gym/Large
+STRATUM,20372,CZE: Voc-conservatory/Large
+STRATUM,20373,CZE: Voc-without maturate/Large
+STRATUM,20374,CZE: Special/practical/Large
+STRATUM,20375,CZE: 4yrGym/Voc-C/Voc-other/MSS
+STRATUM,20376,CZE: 4yrGym/Voc-C/Voc-other/VSS
+STRATUM,20377,CZE: Special/practical/MSS
+STRATUM,20378,CZE: Special/practical/VSS
+STRATUM,27697,DEU: stratum 97
+STRATUM,20801,"DNK: 1,high minority"
+STRATUM,20802,"DNK: 2,mid minority"
+STRATUM,20803,"DNK: 3,low minority"
+STRATUM,20804,"DNK: 4,all other"
+STRATUM,20872,DNK: Stratum 72
+STRATUM,72401,"ESP: Andalusia, public, E"
+STRATUM,72402,"ESP: Andalusia, private, E"
+STRATUM,72403,"ESP: Aragon, public, E"
+STRATUM,72404,"ESP: Aragon, private, E"
+STRATUM,72405,"ESP: Asturias, public, E"
+STRATUM,72406,"ESP: Asturias, private, E"
+STRATUM,72407,"ESP: BalearicIslands, public, E"
+STRATUM,72408,"ESP: BalearicIslands, private, E"
+STRATUM,72409,"ESP: CanaryIslands, public, E"
+STRATUM,72410,"ESP: CanaryIslands, private, E"
+STRATUM,72411,"ESP: Cantabria, public, E"
+STRATUM,72412,"ESP: Cantabria, private, E"
+STRATUM,72413,"ESP: CastileandLeon, public, E"
+STRATUM,72414,"ESP: CastileandLeon, private, E"
+STRATUM,72415,"ESP: Castile-LaMancha, public, E"
+STRATUM,72416,"ESP: Castile-LaMancha, private, E"
+STRATUM,72417,"ESP: Catalonia, public, E"
+STRATUM,72418,"ESP: Catalonia, private, E"
+STRATUM,72419,"ESP: Extremadura, public, E"
+STRATUM,72420,"ESP: Extremadura, private, E"
+STRATUM,72421,"ESP: Galicia, public, E"
+STRATUM,72422,"ESP: Galicia, private, E"
+STRATUM,72423,"ESP: LaRioja, public, E"
+STRATUM,72424,"ESP: LaRioja, private, E"
+STRATUM,72425,"ESP: Madrid, public, E"
+STRATUM,72426,"ESP: Madrid, private, E"
+STRATUM,72427,"ESP: Murcia, public, E"
+STRATUM,72428,"ESP: Murcia, private, E"
+STRATUM,72429,"ESP: Navarra, public, E"
+STRATUM,72430,"ESP: Navarra, private, E"
+STRATUM,72431,"ESP: BasqueCountry, public, A"
+STRATUM,72432,"ESP: BasqueCountry, public, B"
+STRATUM,72433,"ESP: BasqueCountry, public, C"
+STRATUM,72434,"ESP: BasqueCountry, private, A"
+STRATUM,72435,"ESP: BasqueCountry, private, B"
+STRATUM,72436,"ESP: BasqueCountry, private, C"
+STRATUM,72437,"ESP: Valencia, public, E"
+STRATUM,72438,"ESP: Valencia, private, E"
+STRATUM,72439,"ESP: CeutaandMelilla, public, E"
+STRATUM,72440,"ESP: CeutaandMelilla, private, E"
+STRATUM,72441,ESP: Stratum 41
+STRATUM,23301,EST: Estonian
+STRATUM,23302,EST: Mix
+STRATUM,23303,EST: Russian
+STRATUM,23304,EST: Stratum 4
+STRATUM,24601,"FIN: Southern Finland, urban, MR_ST,1"
+STRATUM,24602,"FIN: Southern Finland, rural, MR_ST,1"
+STRATUM,24603,"FIN: Western Finland, urban, MR_ST,1"
+STRATUM,24604,"FIN: Western Finland, rural, MR_ST,1"
+STRATUM,24605,"FIN: Eastern Finland, urban, MR_ST,1"
+STRATUM,24606,"FIN: Eastern Finland, rural, MR_ST,1"
+STRATUM,24607,"FIN: Northern Finland, urban, MR_ST,1"
+STRATUM,24608,"FIN: Northern Finland, rural, MR_ST,1"
+STRATUM,24609,"FIN: Swedish speaking, urban, school types 1 and 2, MR_ST,2"
+STRATUM,24610,"FIN: Swedish speaking, urban, school types 3, 4, and 5, MR_ST,3"
+STRATUM,24611,"FIN: Swedish speaking, rural, school types 1 and 2, MR_ST,2"
+STRATUM,24612,"FIN: Swedish speaking, rural, school types 3, 4, and 5, MR_ST,3"
+STRATUM,25001,"FRA: lycée général et technologique, ENR>,32"
+STRATUM,25002,"FRA: collège, ENR>,32"
+STRATUM,25003,"FRA: lycée professionnel, ENR>,32"
+STRATUM,25004,"FRA: lycée agricole, ENR>,32"
+STRATUM,25005,"FRA: moderately small school, 16<,ENR<32"
+STRATUM,25006,"FRA: very small school, ENR<16"
+STRATUM,82681,GBR: Scotland/Sch. Attain. Lev. 1
+STRATUM,82682,GBR: Scotland/Sch. Attain. Lev. 2
+STRATUM,82683,GBR: Scotland/Sch. Attain. Lev. 3
+STRATUM,82684,GBR: Scotland/Sch. Attain. Lev. 4
+STRATUM,82685,GBR: Scotland/Sch. Attain. Lev. 5
+STRATUM,82686,GBR: Scotland/Sch. Attain. Lev. 6
+STRATUM,82601,GBR: England/Maintained selective/ North
+STRATUM,82602,GBR: England/Maintained selective/ Midlands
+STRATUM,82603,GBR: England/Maintained selective/ South
+STRATUM,82604,GBR: England/Maintained selective/ London
+STRATUM,82605,GBR: England/Maintained non-selective/ North
+STRATUM,82606,GBR: England/Maintained non-selective/ Midlands
+STRATUM,82607,GBR: England/Maintained non-selective/ South
+STRATUM,82608,GBR: England/Maintained non-selective/ London
+STRATUM,82609,GBR: England/Independent/ North
+STRATUM,82610,GBR: England/Independent/ Midlands
+STRATUM,82611,GBR: England/Independent/ South
+STRATUM,82612,GBR: England/Independent/ London
+STRATUM,82613,GBR: NI/ Maintained selective/Belfast
+STRATUM,82614,GBR: NI/ Maintained selective/Western
+STRATUM,82615,GBR: NI/ Maintained selective/North Eastern
+STRATUM,82616,GBR: NI/ Maintained selective/South Eastern
+STRATUM,82617,GBR: NI/ Maintained selective/Southern
+STRATUM,82618,GBR: NI/ Maintained non-selective/Belfast
+STRATUM,82619,GBR: NI/ Maintained non-selective/Western
+STRATUM,82620,GBR: NI/ Maintained non-selective/North Eastern
+STRATUM,82621,GBR: NI/ Maintained non-selective/South Eastern
+STRATUM,82622,GBR: NI/ Maintained non-selective/Southern
+STRATUM,82623,GBR: NI/ Independent
+STRATUM,82624,GBR: Wales/Maintained/North
+STRATUM,82625,GBR: Wales/Maintained/ Powys and South West
+STRATUM,82626,GBR: Wales/Maintained/South East
+STRATUM,82627,GBR: Wales/Independent/North
+STRATUM,82628,GBR: Wales/Independent/ Powys and South West
+STRATUM,82629,GBR: Wales/Independent/South East
+STRATUM,82630,GBR: Stratum 30
+STRATUM,30001,GRC: ORIGSTRT 01:  11 - Attica Public
+STRATUM,30002,GRC: ORIGSTRT 02:  12 - Central Greece public
+STRATUM,30003,GRC: ORIGSTRT 03:  13 - Central Macedonia public
+STRATUM,30004,GRC: ORIGSTRT 04:  14 - Crete public
+STRATUM,30005,GRC: ORIGSTRT 05:  15 - East Macedonia public
+STRATUM,30006,GRC: ORIGSTRT 06:  16 - Thrace public
+STRATUM,30007,GRC: ORIGSTRT 07:  17 - Epirus public
+STRATUM,30008,GRC: ORIGSTRT 08:  18 - Ionian Islands public
+STRATUM,30009,GRC: ORIGSTRT 09:  19 - North Aegean public
+STRATUM,30010,GRC: ORIGSTRT 10:  20 - Peloponnese public
+STRATUM,30011,GRC: ORIGSTRT 11:  21 - South Aegean public
+STRATUM,30012,GRC: ORIGSTRT 12:  22 - Thessaly public
+STRATUM,30013,GRC: ORIGSTRT 13:  23 - West Greece public
+STRATUM,30014,GRC: ORIGSTRT 14:  24 - West Macedonia public
+STRATUM,30015,GRC: ORIGSTRT 15:  25 - Attica private
+STRATUM,30016,GRC: ORIGSTRT 16:  26 - Rest of Greece private
+STRATUM,30017,GRC: ORIGSTRT 17:  27 - All of Greece evening schools
+STRATUM,34401,HKG: Government
+STRATUM,34402,HKG: Aided or Caput
+STRATUM,34403,HKG: Private
+STRATUM,34404,HKG: Direct Subsidy Scheme
+STRATUM,19101,HRV: 1 - Four year vocational prog.
+STRATUM,19102,HRV: 2 - Vocational - industrial - crafts prog.
+STRATUM,19103,HRV: 3 - Mixed type
+STRATUM,19104,HRV: 4 - Art - vocational prog.
+STRATUM,19105,HRV: 5 - Gymnasium
+STRATUM,19106,HRV: 6 - Primary schools (lower secondary education)
+STRATUM,19107,HRV: Stratum 7
+STRATUM,34801,HUN: primary school
+STRATUM,34802,HUN: grammar school
+STRATUM,34803,HUN: vocational secondary school
+STRATUM,34804,HUN: vocational school
+STRATUM,36001,IDN: Indonesia
+STRATUM,37201,"IRL: Size <,40 / comm../comprehen."
+STRATUM,37202,IRL: Size 41-80 / comm../comprehen.
+STRATUM,37203,IRL: Size > 80 / comm../comprehen.
+STRATUM,37204,"IRL: Size <,40 / secondary"
+STRATUM,37205,IRL: Size 41-80 / secondary
+STRATUM,37206,IRL: Size > 80 / secondary
+STRATUM,37207,"IRL: Size <,40 / vocational"
+STRATUM,37208,IRL: Size 41-80 / vocational
+STRATUM,37209,IRL: Size > 80 / vocational
+STRATUM,35201,ISL: 01: Reykjavik
+STRATUM,35202,ISL: 02: Nágrenni Reykjavíkur
+STRATUM,35203,ISL: 03: Suðurnes
+STRATUM,35204,"ISL: 04: Vesturland,"
+STRATUM,35205,"ISL: 05: Vestfirðir,"
+STRATUM,35206,ISL: 06: Norðurland-vestra
+STRATUM,35207,ISL: 07: Norðurland-eystra
+STRATUM,35208,ISL: 08: Austurland
+STRATUM,35209,ISL: 09: Suðurland
+STRATUM,37601,ISR: Stratum 01
+STRATUM,37602,ISR: Stratum 02
+STRATUM,37603,ISR: Stratum 03
+STRATUM,37604,ISR: Stratum 04
+STRATUM,37605,ISR: Stratum 05
+STRATUM,37606,ISR: Stratum 06
+STRATUM,37607,ISR: Stratum 07
+STRATUM,37608,ISR: Stratum 08
+STRATUM,37609,ISR: Stratum 09
+STRATUM,37610,ISR: Stratum 10
+STRATUM,37611,ISR: Stratum 11
+STRATUM,38001,ITA: [Sub 08] PIEMONTE LICEI
+STRATUM,38002,ITA: [Sub 08] PIEMONTE TECNICI
+STRATUM,38003,ITA: [Sub 08] PIEMONTE PROFESSIONALI
+STRATUM,38004,ITA: [Sub 08] PIEMONTE MEDIE
+STRATUM,38005,ITA: [Sub 08] Piemonte FORMAZIONE PROFESSIONALE
+STRATUM,38006,ITA: [Sub 07] LOMBARDIA LICEI
+STRATUM,38007,ITA: [Sub 07] LOMBARDIA TECNICI
+STRATUM,38008,ITA: [Sub 07] LOMBARDIA PROFESSIONALI
+STRATUM,38009,ITA: [Sub 07] LOMBARDIA MEDIE
+STRATUM,38010,ITA: [Sub 07] Lombardia FORMAZIONE PROFESSIONALE
+STRATUM,38011,ITA: [Sub 06] LIGURIA LICEI
+STRATUM,38012,ITA: [Sub 06] LIGURIA TECNICI
+STRATUM,38013,ITA: [Sub 06] LIGURIA PROFESSIONALI
+STRATUM,38014,ITA: [Sub 06] LIGURIA MEDIE
+STRATUM,38015,ITA: [Sub 06] Liguria FORMAZIONE PROFESSIONALE
+STRATUM,38016,ITA: [Sub 21] VALLE D'AOSTA LICEI
+STRATUM,38017,ITA: [Sub 21] VALLE D'AOSTA TECNICI
+STRATUM,38018,ITA: [Sub 21] VALLE D'AOSTA PROFESSIONALI
+STRATUM,38019,ITA: [Sub 21] VALLE D'AOSTA MEDIE
+STRATUM,38020,ITA: [Sub 21] Valle D'Aosta FORMAZIONE PROFESSIONALE
+STRATUM,38021,ITA: [Sub 13] VENETO LICEI
+STRATUM,38022,ITA: [Sub 13] VENETO TECNICI
+STRATUM,38023,ITA: [Sub 13] VENETO PROFESSIONALI
+STRATUM,38024,ITA: [Sub 13] VENETO MEDIE
+STRATUM,38025,ITA: [Sub 13] VENETO FORMAZIONE PROFESSIONALE
+STRATUM,38026,ITA: [Sub 12] TRENTO LICEI
+STRATUM,38027,ITA: [Sub 12] TRENTO TECNICI
+STRATUM,38028,ITA: [Sub 12] TRENTO PROFESSIONALI
+STRATUM,38029,ITA: [Sub 12] TRENTO MEDIE
+STRATUM,38030,ITA: [Sub 12] Trento FORMAZIONE PROFESSIONALE
+STRATUM,38031,ITA: [Sub 01] BOLZANO LICEI
+STRATUM,38032,ITA: [Sub 01] BOLZANO TECNICI
+STRATUM,38033,ITA: [Sub 01] BOLZANO PROFESSIONALI
+STRATUM,38034,ITA: [Sub 01] BOLZANO MEDIE
+STRATUM,38035,ITA: [Sub 01] Bolzano FORMAZIONE PROFESSIONALE
+STRATUM,38036,ITA: [Sub 05] FRIULI VENEZIA GIULIA LICEI
+STRATUM,38037,ITA: [Sub 05] FRIULI VENEZIA GIULIA TECNICI
+STRATUM,38038,ITA: [Sub 05] FRIULI VENEZIA GIULIA PROFESSIONALI
+STRATUM,38039,ITA: [Sub 05] FRIULI VENEZIA GIULIA MEDIE
+STRATUM,38040,ITA: [Sub 05] Friuli Venezia Giulia FORMAZIONE PROFESSIONALE
+STRATUM,38041,ITA: [Sub 04] EMILIA ROMAGNA LICEI
+STRATUM,38042,ITA: [Sub 04] EMILIA ROMAGNA TECNICI
+STRATUM,38043,ITA: [Sub 04] EMILIA ROMAGNA PROFESSIONALI
+STRATUM,38045,ITA: [Sub 04] Emilia Romagna FORMAZIONE PROFESSIONALE
+STRATUM,38046,ITA: [Sub 17] MARCHE LICEI
+STRATUM,38047,ITA: [Sub 17] MARCHE TECNICI
+STRATUM,38048,ITA: [Sub 17] MARCHE PROFESSIONALI
+STRATUM,38049,ITA: [Sub 17] MARCHE MEDIE
+STRATUM,38050,ITA: [Sub 19] TOSCANA LICEI
+STRATUM,38051,ITA: [Sub 19] TOSCANA TECNICI
+STRATUM,38052,ITA: [Sub 19] TOSCANA PROFESSIONALI
+STRATUM,38053,ITA: [Sub 19] TOSCANA MEDIE
+STRATUM,38054,ITA: [Sub 20] UMBRIA LICEI
+STRATUM,38055,ITA: [Sub 20] UMBRIA TECNICI
+STRATUM,38056,ITA: [Sub 20] UMBRIA PROFESSIONALI
+STRATUM,38057,ITA: [Sub 20] UMBRIA MEDIE
+STRATUM,38058,ITA: [Sub 20] Umbria FORMAZIONE PROFESSIONALE
+STRATUM,38059,ITA: [Sub 16] LAZIO LICEI
+STRATUM,38060,ITA: [Sub 16] LAZIO TECNICI
+STRATUM,38061,ITA: [Sub 16] LAZIO PROFESSIONALI
+STRATUM,38062,ITA: [Sub 16] LAZIO MEDIE
+STRATUM,38063,ITA: [Sub 16] Lazio FORMAZIONE PROFESSIONALE
+STRATUM,38064,ITA: [Sub 14] ABRUZZO LICEI
+STRATUM,38065,ITA: [Sub 14] ABRUZZO TECNICI
+STRATUM,38066,ITA: [Sub 14] ABRUZZO PROFESSIONALI
+STRATUM,38067,ITA: [Sub 14] ABRUZZO MEDIE
+STRATUM,38068,ITA: [Sub 14] ABRUZZO FORMAZIONE PROFESSIONALE
+STRATUM,38069,ITA: [Sub 18] MOLISE LICEI
+STRATUM,38070,ITA: [Sub 18] MOLISE TECNICI
+STRATUM,38071,ITA: [Sub 18] MOLISE PROFESSIONALI
+STRATUM,38072,ITA: [Sub 18] MOLISE MEDIE
+STRATUM,38073,ITA: [Sub 18] Molise FORMAZIONE PROFESSIONALE
+STRATUM,38074,ITA: [Sub 03] CAMPANIA LICEI
+STRATUM,38075,ITA: [Sub 03] CAMPANIA TECNICI
+STRATUM,38076,ITA: [Sub 03] CAMPANIA PROFESSIONALI
+STRATUM,38077,ITA: [Sub 03] CAMPANIA MEDIE
+STRATUM,38078,ITA: [Sub 09] PUGLIA LICEI
+STRATUM,38079,ITA: [Sub 09] PUGLIA TECNICI
+STRATUM,38080,ITA: [Sub 09] PUGLIA PROFESSIONALI
+STRATUM,38082,ITA: [Sub 02] BASILICATA LICEI
+STRATUM,38083,ITA: [Sub 02] BASILICATA TECNICI
+STRATUM,38084,ITA: [Sub 02] BASILICATA PROFESSIONALI
+STRATUM,38085,ITA: [Sub 02] BASILICATA MEDIE
+STRATUM,38086,ITA: [Sub 15] CALABRIA LICEI
+STRATUM,38087,ITA: [Sub 15] CALABRIA TECNICI
+STRATUM,38088,ITA: [Sub 15] CALABRIA PROFESSIONALI
+STRATUM,38089,ITA: [Sub 15] CALABRIA MEDIE
+STRATUM,38090,ITA: [Sub 10] SARDEGNA LICEI
+STRATUM,38091,ITA: [Sub 10] SARDEGNA TECNICI
+STRATUM,38092,ITA: [Sub 10] SARDEGNA PROFESSIONALI
+STRATUM,38093,ITA: [Sub 10] SARDEGNA MEDIE
+STRATUM,38094,ITA: [Sub 11] SICILIA LICEI
+STRATUM,38095,ITA: [Sub 11] SICILIA TECNICI
+STRATUM,38096,ITA: [Sub 11] SICILIA PROFESSIONALI
+STRATUM,38097,ITA: [Sub 11] SICILIA MEDIE
+STRATUM,38098,ITA: [Sub 11] Sicilia FORMAZIONE PROFESSIONALE
+STRATUM,38099,ITA: Stratum 99
+STRATUM,40001,JOR: Discovery
+STRATUM,40002,JOR: Public
+STRATUM,40003,JOR: UNRWA
+STRATUM,40004,JOR: Private
+STRATUM,39201,JPN: 1- Public & Academic
+STRATUM,39202,JPN: 2 – Public & Practical
+STRATUM,39203,JPN: 3 – Private & Academic
+STRATUM,39204,JPN: 4 – Private & Practical
+STRATUM,39801,KAZ: Akmola/ Kazakh only
+STRATUM,39802,KAZ: Akmola/ Russian only
+STRATUM,39803,KAZ: Akmola/ multiple
+STRATUM,39804,KAZ: Aktobe/ Kazakh only
+STRATUM,39805,KAZ: Aktobe/ Russian only
+STRATUM,39806,KAZ: Aktobe/ multiple
+STRATUM,39807,KAZ: Almaty/ Kazakh only
+STRATUM,39808,KAZ: Almaty/ Russian only
+STRATUM,39809,KAZ: Almaty/  multiple
+STRATUM,39810,KAZ: Almaty City/ Kazakh only
+STRATUM,39811,KAZ: Almaty City/ Russian only
+STRATUM,39812,KAZ: Almaty City/ multiple
+STRATUM,39813,KAZ: Astana City/ Kazakh only
+STRATUM,39814,KAZ: Astana City/ Russian only
+STRATUM,39815,KAZ: Astana City/ multiple
+STRATUM,39816,KAZ: Atyrau/ Kazakh only
+STRATUM,39817,KAZ: Atyrau/ Russian only
+STRATUM,39818,KAZ: Atyrau/ multiple
+STRATUM,39819,KAZ: East Kaz./ Kazakh only
+STRATUM,39820,KAZ: East Kaz./ Russian only
+STRATUM,39821,KAZ: East Kaz./ multiple
+STRATUM,39822,KAZ: Zhambyl/ Kazakh only
+STRATUM,39823,KAZ: Zhambyl/ Russian only
+STRATUM,39824,KAZ: Zhambyl/ multiple
+STRATUM,39825,KAZ: West Kaz./ Kazakh only
+STRATUM,39826,KAZ: West Kaz./ Russian only
+STRATUM,39827,KAZ: West Kaz./ multiple
+STRATUM,39828,KAZ: Karagandy/ Kazakh only
+STRATUM,39829,KAZ: Karagandy/ Russian only
+STRATUM,39830,KAZ: Karagandy/  multiple
+STRATUM,39831,KAZ: Kostanay/ Kazakh only
+STRATUM,39832,KAZ: Kostanay/ Russian only
+STRATUM,39833,KAZ: Kostanay/ multiple
+STRATUM,39834,KAZ: Kyzylorda/ Kazakh only
+STRATUM,39835,KAZ: Kyzylorda/ Russian only
+STRATUM,39836,KAZ: Kyzylorda/ multiple
+STRATUM,39837,KAZ: Mangystau/ Kazakh only
+STRATUM,39838,KAZ: Mangystau/ Russian only
+STRATUM,39839,KAZ: Mangystau/  multiple
+STRATUM,39840,KAZ: Pavlodar/ Kazakh only
+STRATUM,39841,KAZ: Pavlodar/ Russian only
+STRATUM,39842,KAZ: Pavlodar/  multiple
+STRATUM,39843,KAZ: North Kaz./ Kazakh only
+STRATUM,39844,KAZ: North Kaz./ Russian only
+STRATUM,39845,KAZ: North Kaz./ multiple
+STRATUM,39846,KAZ: South Kaz./ Kazakh only
+STRATUM,39847,KAZ: South Kaz./ Russian only
+STRATUM,39848,KAZ: South Kaz./ multiple
+STRATUM,41701,KGZ: Bishkek / Bishkek
+STRATUM,41702,KGZ: Batken / Rural
+STRATUM,41703,KGZ: Batken / Small Town
+STRATUM,41704,KGZ: Chui / Rural
+STRATUM,41705,KGZ: Chui / Small Town
+STRATUM,41706,KGZ: Issyk-Kul / Rural
+STRATUM,41707,KGZ: Issyk-Kul / Small Town
+STRATUM,41708,KGZ: Jalalabat / Rural
+STRATUM,41709,KGZ: Jalalabat / Small Town
+STRATUM,41710,KGZ: Naryn / Rural
+STRATUM,41711,KGZ: Naryn / Small Town
+STRATUM,41712,KGZ: Osh / Rural
+STRATUM,41713,KGZ: Osh / Small Town
+STRATUM,41714,KGZ: Osh city / Rural
+STRATUM,41715,KGZ: Osh city / Small Town
+STRATUM,41716,KGZ: Talas / Rural
+STRATUM,41717,KGZ: Talas / Small Town
+STRATUM,41097,KOR: Stratum 97
+STRATUM,43865,LIE: Stratum 65
+STRATUM,44001,"LTU: Capital, Basic"
+STRATUM,44002,"LTU: Capital, Secondary"
+STRATUM,44003,"LTU: Capital, Gymnasium"
+STRATUM,44004,"LTU: Capital, Other"
+STRATUM,44005,"LTU: City, Basic"
+STRATUM,44006,"LTU: City, Secondary"
+STRATUM,44007,"LTU: City, Gymnasium"
+STRATUM,44008,"LTU: City, Other"
+STRATUM,44009,"LTU: Town, Basic"
+STRATUM,44010,"LTU: Town, Secondary"
+STRATUM,44011,"LTU: Town, Gymnasium"
+STRATUM,44012,"LTU: Town, Other"
+STRATUM,44013,"LTU: Village, Basic"
+STRATUM,44014,"LTU: Village, Secondary"
+STRATUM,44015,"LTU: Village, Gymnasium"
+STRATUM,44016,"LTU: Village, Other"
+STRATUM,44201,LUX: ES gov public
+STRATUM,44202,LUX: EST gov public
+STRATUM,44203,LUX: ES+EST gov public
+STRATUM,44204,LUX: EST gov private
+STRATUM,44205,LUX: ES+EST gov private
+STRATUM,44206,LUX: gov independent
+STRATUM,42801,LVA: Cities
+STRATUM,42802,LVA: Riga
+STRATUM,42803,LVA: Rural
+STRATUM,42804,LVA: Towns
+STRATUM,42805,LVA: Stratum 5
+STRATUM,44601,"MAC: Public, Grammer-International, Chinese and Portuguese"
+STRATUM,44602,"MAC: Public, Technical-vocational, Chinese"
+STRATUM,44603,"MAC: Private-in-net, Grammer-International, Chinese"
+STRATUM,44604,"MAC: Private-in-net, Grammer-International, English"
+STRATUM,44605,"MAC: Private-in-net, Grammer-International, Chinese and English"
+STRATUM,44606,"MAC: Private-in-net, Technical-vocational, Chinese"
+STRATUM,44607,"MAC: Private-not- in-net, Grammer-International, Chinese"
+STRATUM,44608,"MAC: Private-not-in-net, Grammer-International, English"
+STRATUM,44609,"MAC: Private-not-in-net, Grammer-International, Portuguese"
+STRATUM,44610,"MAC: Private-not- in-net, Grammer-International, Chinese and English"
+STRATUM,48401,"MEX: AGUASCALIENTES, large schools"
+STRATUM,48402,"MEX: AGUASCALIENTES, moderately small schools"
+STRATUM,48403,"MEX: AGUASCALIENTES, very small schools"
+STRATUM,48404,"MEX: BAJA CALIFORNIA, large schools"
+STRATUM,48405,"MEX: BAJA CALIFORNIA, moderately small schools"
+STRATUM,48406,"MEX: BAJA CALIFORNIA, very small schools"
+STRATUM,48407,"MEX: BAJA CALIFORNIA SUR, large schools"
+STRATUM,48408,"MEX: BAJA CALIFORNIA SUR, moderately small schools"
+STRATUM,48409,"MEX: BAJA CALIFORNIA SUR, very small schools"
+STRATUM,48410,"MEX: CAMPECHE, large schools"
+STRATUM,48411,"MEX: CAMPECHE, moderately small schools"
+STRATUM,48412,"MEX: CAMPECHE, very small schools"
+STRATUM,48413,"MEX: COAHUILA DE ZARAGOZA, large schools"
+STRATUM,48414,"MEX: COAHUILA DE ZARAGOZA, moderately small schools"
+STRATUM,48415,"MEX: COAHUILA DE ZARAGOZA, very small schools"
+STRATUM,48416,"MEX: COLIMA, large schools"
+STRATUM,48417,"MEX: COLIMA, moderately small schools"
+STRATUM,48418,"MEX: COLIMA, very small schools"
+STRATUM,48419,"MEX: CHIAPAS, large schools"
+STRATUM,48420,"MEX: CHIAPAS, moderately small schools"
+STRATUM,48421,"MEX: CHIAPAS, very small schools"
+STRATUM,48422,"MEX: CHIHUAHUA, large schools"
+STRATUM,48423,"MEX: CHIHUAHUA, moderately small schools"
+STRATUM,48424,"MEX: CHIHUAHUA, very small schools"
+STRATUM,48425,"MEX: DISTRITO FEDERAL, large schools"
+STRATUM,48426,"MEX: DISTRITO FEDERAL, moderately small schools"
+STRATUM,48427,"MEX: DISTRITO FEDERAL, very small schools"
+STRATUM,48428,"MEX: DURANGO, large schools"
+STRATUM,48429,"MEX: DURANGO, moderately small schools"
+STRATUM,48430,"MEX: DURANGO, very small schools"
+STRATUM,48431,"MEX: GUANAJUATO, large schools"
+STRATUM,48432,"MEX: GUANAJUATO, moderately small schools"
+STRATUM,48433,"MEX: GUANAJUATO, very small schools"
+STRATUM,48434,"MEX: GUERRERO, large schools"
+STRATUM,48435,"MEX: GUERRERO, moderately small schools"
+STRATUM,48436,"MEX: GUERRERO, very small schools"
+STRATUM,48437,"MEX: HIDALGO, large schools"
+STRATUM,48438,"MEX: HIDALGO, moderately small schools"
+STRATUM,48439,"MEX: HIDALGO, very small schools"
+STRATUM,48440,"MEX: JALISCO, large schools"
+STRATUM,48441,"MEX: JALISCO, moderately small schools"
+STRATUM,48442,"MEX: JALISCO, very small schools"
+STRATUM,48443,"MEX: MEXICO, large schools"
+STRATUM,48444,"MEX: MEXICO, moderately small schools"
+STRATUM,48445,"MEX: MEXICO, very small schools"
+STRATUM,48446,"MEX: MICHOACAN DE OCAMPO, large schools"
+STRATUM,48447,"MEX: MICHOACAN DE OCAMPO, moderately small schools"
+STRATUM,48448,"MEX: MICHOACAN DE OCAMPO, very small schools"
+STRATUM,48449,"MEX: MORELOS, large schools"
+STRATUM,48450,"MEX: MORELOS, moderately small schools"
+STRATUM,48451,"MEX: MORELOS, very small schools"
+STRATUM,48452,"MEX: NAYARIT, large schools"
+STRATUM,48453,"MEX: NAYARIT, moderately small schools"
+STRATUM,48454,"MEX: NAYARIT, very small schools"
+STRATUM,48455,"MEX: NUEVO LEON, large schools"
+STRATUM,48456,"MEX: NUEVO LEON, moderately small schools"
+STRATUM,48457,"MEX: NUEVO LEON, very small schools"
+STRATUM,48458,"MEX: OAXACA, large schools"
+STRATUM,48459,"MEX: OAXACA, moderately small schools"
+STRATUM,48460,"MEX: OAXACA, very small schools"
+STRATUM,48461,"MEX: PUEBLA, large schools"
+STRATUM,48462,"MEX: PUEBLA, moderately small schools"
+STRATUM,48463,"MEX: PUEBLA, very small schools"
+STRATUM,48464,"MEX: QUERETARO DE ARTEAGA, large schools"
+STRATUM,48465,"MEX: QUERETARO DE ARTEAGA, moderately small schools"
+STRATUM,48466,"MEX: QUERETARO DE ARTEAGA, very small schools"
+STRATUM,48467,"MEX: QUINTANA ROO, large schools"
+STRATUM,48468,"MEX: QUINTANA ROO, moderately small schools"
+STRATUM,48469,"MEX: QUINTANA ROO, very small schools"
+STRATUM,48470,"MEX: SAN LUIS POTOSI, large schools"
+STRATUM,48471,"MEX: SAN LUIS POTOSI, moderately small schools"
+STRATUM,48472,"MEX: SAN LUIS POTOSI, very small schools"
+STRATUM,48473,"MEX: SINALOA, large schools"
+STRATUM,48474,"MEX: SINALOA, moderately small schools"
+STRATUM,48475,"MEX: SINALOA, very small schools"
+STRATUM,48476,"MEX: SONORA, large schools"
+STRATUM,48477,"MEX: SONORA, moderately small schools"
+STRATUM,48478,"MEX: SONORA, very small schools"
+STRATUM,48479,"MEX: TABASCO, large schools"
+STRATUM,48480,"MEX: TABASCO, moderately small schools"
+STRATUM,48481,"MEX: TABASCO, very small schools"
+STRATUM,48482,"MEX: TAMAULIPAS, large schools"
+STRATUM,48483,"MEX: TAMAULIPAS, moderately small schools"
+STRATUM,48484,"MEX: TAMAULIPAS, very small schools"
+STRATUM,48485,"MEX: TLAXCALA, large schools"
+STRATUM,48486,"MEX: TLAXCALA, moderately small schools"
+STRATUM,48487,"MEX: TLAXCALA, very small schools"
+STRATUM,48488,"MEX: VERACRUZ IGNACIO DE LA LLAVE, large schools"
+STRATUM,48489,"MEX: VERACRUZ IGNACIO DE LA LLAVE, moderately small schools"
+STRATUM,48490,"MEX: VERACRUZ IGNACIO DE LA LLAVE, very small schools"
+STRATUM,48491,"MEX: YUCATAN, large schools"
+STRATUM,48492,"MEX: YUCATAN, moderately small schools"
+STRATUM,48493,"MEX: YUCATAN, very small schools"
+STRATUM,48494,"MEX: ZACATECAS, large schools"
+STRATUM,48495,"MEX: ZACATECAS, moderately small schools"
+STRATUM,48496,"MEX: ZACATECAS, very small schools"
+STRATUM,48497,MEX: Stratum 97
+STRATUM,49901,"MNE: 1. academic,1. central"
+STRATUM,49902,"MNE: 1. academic,2. north"
+STRATUM,49903,"MNE: 1. academic,3. south"
+STRATUM,49904,"MNE: 2. vocational,1. central"
+STRATUM,49905,"MNE: 2. vocational,2. north"
+STRATUM,49906,"MNE: 2. vocational,3. south"
+STRATUM,49908,"MNE: 3. mixed,2. north"
+STRATUM,49909,"MNE: 3. mixed,3. south"
+STRATUM,49910,"MNE: 4. general,1. central"
+STRATUM,49911,"MNE: 4. general,2. north"
+STRATUM,49912,"MNE: 4. general,3. south12"
+STRATUM,52801,NLD: 01: PRO/VMBO in rest of NLD
+STRATUM,52802,NLD: 02: HAVO/VWO in rest of NLD
+STRATUM,52803,NLD: 03: PRO/VMBO in Limburg
+STRATUM,52804,NLD: 04: HAVO/VWO in Limburg
+STRATUM,57801,NOR: Upper Secondary
+STRATUM,57802,NOR: Lower secondary
+STRATUM,55401,NZL: All Schools
+STRATUM,55402,NZL: Stratum 2
+STRATUM,59101,PAN: Urban/Public
+STRATUM,59102,PAN: Urban/Private
+STRATUM,59103,PAN: Rural/Public
+STRATUM,59104,PAN: Stratum 4
+STRATUM,60401,PER: Public/Urban
+STRATUM,60402,PER: Public/Rural
+STRATUM,60403,PER: Private/Urban
+STRATUM,60404,PER: Private/Rural
+STRATUM,61601,POL: Public Gymnasia
+STRATUM,61602,POL: Private Gymnasia
+STRATUM,61603,POL: Lyceum
+STRATUM,61604,POL: Vocational
+STRATUM,62001,PRT: 01: Alentejo - Alentejo Central
+STRATUM,62002,PRT: 02: Alentejo - Alentejo Litoral
+STRATUM,62003,PRT: 03: Alentejo - Alto Alentejo
+STRATUM,62004,PRT: 04: Alentejo - Baixo Alentejo
+STRATUM,62005,PRT: 05: Alentejo - Lezíria do Tejo
+STRATUM,62006,PRT: 06: Algarve - Algarve
+STRATUM,62007,PRT: 07: Centro - Baixo Mondego
+STRATUM,62008,PRT: 08: Centro - Baixo Vouga
+STRATUM,62009,PRT: 09: Centro - Beira Interior Norte
+STRATUM,62010,PRT: 10: Centro - Beira Interior Sul
+STRATUM,62011,PRT: 11: Centro - Cova da Beira
+STRATUM,62012,PRT: 12: Centro - Dão Lafões
+STRATUM,62013,PRT: 13: Centro - Médio Tejo
+STRATUM,62014,PRT: 14: Centro - Oeste
+STRATUM,62015,PRT: 15: Centro - Pinhal Interior Norte
+STRATUM,62016,PRT: 16: Centro - Pinhal Interior Sul
+STRATUM,62017,PRT: 17: Centro - Pinhal Litoral
+STRATUM,62018,PRT: 18: Centro - Serra da Estrela
+STRATUM,62019,PRT: 19: Lisboa - Grande Lisboa
+STRATUM,62020,PRT: 20: Lisboa - Península de Setúbal
+STRATUM,62021,PRT: 21: Norte - Alto Trás-os-Montes
+STRATUM,62022,PRT: 22: Norte - Ave
+STRATUM,62023,PRT: 23: Norte - Cávado
+STRATUM,62024,PRT: 24: Norte - Douro
+STRATUM,62025,PRT: 25: Norte - Entre Douro e Vouga
+STRATUM,62026,PRT: 26: Norte - Grande Porto
+STRATUM,62027,PRT: 27: Norte - Minho Lima
+STRATUM,62028,PRT: 28: Norte - Tâmega
+STRATUM,62029,PRT: 29: Região Autónoma da Madeira  
+STRATUM,62030,PRT: 30: Região Autónoma dos Açores  
+STRATUM,62031,PRT: Stratum 31
+STRATUM,63401,QAT: 1. Public
+STRATUM,63402,QAT: 2. Public/complex
+STRATUM,63403,QAT: 3. Independent
+STRATUM,63404,QAT: 4. Independent/complex
+STRATUM,63405,QAT: 5. Community
+STRATUM,63406,QAT: 6. International
+STRATUM,63407,QAT: 7. Private
+STRATUM,63408,QAT: 8. Private/complex
+STRATUM,15601,QCN: Lower secondary
+STRATUM,15602,QCN: Mixed ISCED2 and ISCED3 secondary
+STRATUM,15603,QCN: Upper secondary/ General/ Experimental Model schools
+STRATUM,15604,QCN: Upper secondary/ General/ Ordinary schools
+STRATUM,15605,QCN: Upper secondary/ Vocational/ Key schools
+STRATUM,15606,QCN: Upper secondary/ Vocational/ Non-Key schools
+STRATUM,15607,QCN: Stratum 07
+STRATUM,64201,ROU: 01: GIM
+STRATUM,64202,ROU: 02: SAM
+STRATUM,64203,ROU: 03: LIC
+STRATUM,64301,RUS: Republic of Adygeya
+STRATUM,64303,RUS: Republic of Bashkortostan
+STRATUM,64305,RUS: Republic of Dagestan
+STRATUM,64310,RUS: Republic of Karelia
+STRATUM,64311,RUS: Republic of Komi
+STRATUM,64312,RUS: Republic of Marij El
+STRATUM,64314,RUS: Republic of Sakha (Yakutia)
+STRATUM,64316,RUS: Republic of Tatarstan
+STRATUM,64318,RUS: Udmurtian Republic
+STRATUM,64321,RUS: Chuvashi  Republic
+STRATUM,64322,RUS: Altai territory
+STRATUM,64323,RUS: Krasnodar territory
+STRATUM,64324,RUS: Krasnoyarsk territory
+STRATUM,64325,RUS: Primorie territory
+STRATUM,64326,RUS: Stavropol territory
+STRATUM,64330,RUS: Astrakhan region
+STRATUM,64333,RUS: Vladimir region
+STRATUM,64334,RUS: Volgograd region
+STRATUM,64335,RUS: Vologda region
+STRATUM,64336,RUS: Voronezh region
+STRATUM,64340,RUS: Kaluga region
+STRATUM,64342,RUS: Kemerovo region
+STRATUM,64346,RUS: Kursk region
+STRATUM,64350,RUS: Moscow region
+STRATUM,64352,RUS: Nizhnij Novgorod region
+STRATUM,64354,RUS: Novosibirsk region
+STRATUM,64355,RUS: Omsk region
+STRATUM,64356,RUS: Orenburg region
+STRATUM,64359,RUS: Perm territory
+STRATUM,64361,RUS: Rostov region
+STRATUM,64362,RUS: Ryazan region
+STRATUM,64363,RUS: Samara region
+STRATUM,64364,RUS: Saratov region
+STRATUM,64365,RUS: Sakhalin region
+STRATUM,64366,RUS: Sverdlovsk region
+STRATUM,64368,RUS: Tambov region
+STRATUM,64370,RUS: Tomsk region
+STRATUM,64371,RUS: Tula region
+STRATUM,64372,RUS: Tyumen region
+STRATUM,64373,RUS: Ulyanovsk region
+STRATUM,64374,RUS: Chelyabinsk region
+STRATUM,64375,RUS: Chita region
+STRATUM,64377,RUS: The City of Moscow
+STRATUM,64378,RUS: The City of Saint-Petersburg
+STRATUM,64386,RUS: Khanty-Mansijsk autonomous district - Yugra
+STRATUM,70201,SGP: 1 - Public Secondary
+STRATUM,70203,SGP: 3 – Private Secondary
+STRATUM,68812,"SRB: North Vojvodina,Gymnasium"
+STRATUM,68813,"SRB: North Vojvodina,Technical"
+STRATUM,68814,"SRB: North Vojvodina,Medical"
+STRATUM,68815,"SRB: North Vojvodina,Economic"
+STRATUM,68816,"SRB: North Vojvodina,Agricultural"
+STRATUM,68817,"SRB: North Vojvodina,Art"
+STRATUM,68818,"SRB: North Vojvodina,Mixed"
+STRATUM,68822,"SRB: South Vojvodina,Gymnasium"
+STRATUM,68823,"SRB: South Vojvodina,Technical"
+STRATUM,68824,"SRB: South Vojvodina,Medical"
+STRATUM,68825,"SRB: South Vojvodina,Economic"
+STRATUM,68826,"SRB: South Vojvodina,Agricultural"
+STRATUM,68827,"SRB: South Vojvodina,Art"
+STRATUM,68828,"SRB: South Vojvodina,Mixed"
+STRATUM,68832,"SRB: Belgrade,Gymnasium"
+STRATUM,68833,"SRB: Belgrade,Technical"
+STRATUM,68834,"SRB: Belgrade,Medical"
+STRATUM,68835,"SRB: Belgrade,Economic"
+STRATUM,68836,"SRB: Belgrade,Agricultural"
+STRATUM,68837,"SRB: Belgrade,Art"
+STRATUM,68838,"SRB: Belgrade,Mixed"
+STRATUM,68842,"SRB: Stig,Gymnasium"
+STRATUM,68843,"SRB: Stig,Technical"
+STRATUM,68844,"SRB: Stig,Medical"
+STRATUM,68845,"SRB: Stig,Economic"
+STRATUM,68846,"SRB: Stig,Agricultural"
+STRATUM,68847,"SRB: Stig,Art"
+STRATUM,68848,"SRB: Stig,Mixed"
+STRATUM,68852,"SRB: Western Serbia,Gymnasium"
+STRATUM,68853,"SRB: Western Serbia,Technical"
+STRATUM,68854,"SRB: Western Serbia,Medical"
+STRATUM,68855,"SRB: Western Serbia,Economic"
+STRATUM,68856,"SRB: Western Serbia,Agricultural"
+STRATUM,68857,"SRB: Western Serbia,Art"
+STRATUM,68858,"SRB: Western Serbia,Mixed"
+STRATUM,68862,"SRB: Central Serbia,Gymnasium"
+STRATUM,68863,"SRB: Central Serbia,Technical"
+STRATUM,68864,"SRB: Central Serbia,Medical"
+STRATUM,68865,"SRB: Central Serbia,Economic"
+STRATUM,68866,"SRB: Central Serbia,Agricultural"
+STRATUM,68867,"SRB: Central Serbia,Art"
+STRATUM,68868,"SRB: Central Serbia,Mixed"
+STRATUM,68872,"SRB: East Serbia,Gymnasium"
+STRATUM,68873,"SRB: East Serbia,Technical"
+STRATUM,68874,"SRB: East Serbia,Medical"
+STRATUM,68875,"SRB: East Serbia,Economic"
+STRATUM,68876,"SRB: East Serbia,Agricultural"
+STRATUM,68877,"SRB: East Serbia,Arts"
+STRATUM,68878,"SRB: East Serbia,Mixed"
+STRATUM,68882,"SRB: Southern Serbia,Gymnasium"
+STRATUM,68883,"SRB: Southern Serbia,Technical"
+STRATUM,68884,"SRB: Southern Serbia,Medical"
+STRATUM,68885,"SRB: Southern Serbia,Economic"
+STRATUM,68886,"SRB: Southern Serbia,Agricultural"
+STRATUM,68887,"SRB: Southern Serbia,Arts"
+STRATUM,68888,"SRB: Southern Serbia,Mixed"
+STRATUM,68890,SRB: Primary schools
+STRATUM,68891,SRB: Stratum 91
+STRATUM,70301,SVK: Region 1 / 1_ZS
+STRATUM,70302,SVK: Region 1 / 2_GYM
+STRATUM,70303,SVK: Region 1 / 3_others
+STRATUM,70304,SVK: Region 2 / 1_ZS
+STRATUM,70305,SVK: Region 2 / 2_GYM
+STRATUM,70306,SVK: Region 2 / 3_others
+STRATUM,70307,SVK: Region 3 / 1_ZS
+STRATUM,70308,SVK: Region 3 / 2_GYM
+STRATUM,70309,SVK: Region 3 / 3_others
+STRATUM,70310,SVK: Region 4 / 1_ZS
+STRATUM,70311,SVK: Region 4 / 2_GYM
+STRATUM,70312,SVK: Region 4 / 3_others
+STRATUM,70313,SVK: Region 5 / 1_ZS
+STRATUM,70314,SVK: Region 5 / 2_GYM
+STRATUM,70315,SVK: Region 5 / 3_others
+STRATUM,70316,SVK: Region 6 / 1_ZS
+STRATUM,70317,SVK: Region 6 / 2_GYM
+STRATUM,70318,SVK: Region 6 / 3_others
+STRATUM,70319,SVK: Region 7 / 1_ZS
+STRATUM,70320,SVK: Region 7 / 2_GYM
+STRATUM,70321,SVK: Region 7 / 3_others
+STRATUM,70322,SVK: Region 8 / 1_ZS
+STRATUM,70323,SVK: Region 8 / 2_GYM
+STRATUM,70324,SVK: Region 8 / 3_others
+STRATUM,70501,SVN: GIMg - gymnasia general
+STRATUM,70502,SVN: GIMs - gymnasia specialist
+STRATUM,70503,SVN: STSI - technical educational programmes
+STRATUM,70504,SVN: SPI - vocational of medium duration
+STRATUM,70505,SVN: NPI - vocational of short duration
+STRATUM,70506,SVN: OS - elementary school
+STRATUM,70508,SVN: Adult Education Institutes
+STRATUM,75201,SWE: PUB/ LOWER SEC/ METRO
+STRATUM,75202,SWE: PUB/ LOWER SEC/ OTHER LARGE
+STRATUM,75203,SWE: PUB/ LOWER SEC/ AT LEAST 12500
+STRATUM,75204,SWE: PUB/ LOWER SEC/ MANUFACURING
+STRATUM,75205,SWE: PUB/ LOWER SEC/ SPARSE POP
+STRATUM,75206,SWE: PUB/ UPPER SEC
+STRATUM,75207,SWE: INDEP/ LOWER SEC/ METRO
+STRATUM,75208,SWE: INDEP/ LOWER SEC/ OTHER LARGE
+STRATUM,75209,SWE: INDEP/ LOWER SEC/ AT LEAST 12500
+STRATUM,75210,SWE: INDEP/ LOWER SEC/ MANUFACURING
+STRATUM,75211,SWE: INDEP/ LOWER SEC/ SPARSE POP
+STRATUM,75212,SWE: INDEP/ UPPER SEC
+STRATUM,15801,TAP: general junior high school/public/urban
+STRATUM,15802,TAP: general junior high school/public/rural
+STRATUM,15803,TAP: general junior high school/private/urban
+STRATUM,15804,TAP: general junior high school/private/rural
+STRATUM,15805,TAP: general senior high school/public/urban
+STRATUM,15806,TAP: general senior high school/public/rural
+STRATUM,15807,TAP: general senior high school/private/urban
+STRATUM,15808,TAP: general senior high school/private/rural
+STRATUM,15809,TAP: vocational senior high school/public/urban
+STRATUM,15810,TAP: vocational senior high school/public/rural
+STRATUM,15811,TAP: vocational senior high school/private/urban
+STRATUM,15812,TAP: vocational senior high school/private/rural
+STRATUM,15813,TAP: mixed general and vocational senior high school/public/urban
+STRATUM,15814,TAP: mixed general and vocational senior high school/public/rural
+STRATUM,15815,TAP: mixed general and vocational senior high school/private/urban
+STRATUM,15816,TAP: mixed general and vocational senior high school/private/rural
+STRATUM,15817,TAP: comprehensive high school/public/urban
+STRATUM,15818,TAP: comprehensive high school/public/rural
+STRATUM,15819,TAP: comprehensive high school/private/urban
+STRATUM,15820,TAP: comprehensive high school/private/rural
+STRATUM,15821,TAP: complex high school/public/urban
+STRATUM,15822,TAP: complex high school/public/rural
+STRATUM,15823,TAP: complex high school/private/urban
+STRATUM,15824,TAP: complex high school/private/rural
+STRATUM,15825,TAP: five-year college/public/urban
+STRATUM,15826,TAP: five-year college/public/rural
+STRATUM,15827,TAP: five-year college/private/urban
+STRATUM,15828,TAP: five-year college/private/rural
+STRATUM,15829,TAP: Stratum 29
+STRATUM,76401,THA: Office of the Basic Education Commission/Lower secondary
+STRATUM,76402,THA: Office of the Basic Education Commission/Upper secondary
+STRATUM,76403,THA: Office of the Basic Education Commission/Mixed
+STRATUM,76404,THA: Office of the Private Education Commission/Lower Secondary
+STRATUM,76405,THA: Office of the Private Education Commission/ Upper Secondary
+STRATUM,76406,THA: Office of the Private Education Commission/ Mixed
+STRATUM,76407,THA: Department of Education of Bangkok Metropolitan Administration/Lower secondary
+STRATUM,76408,THA: Department of Education of Bangkok Metropolitan Administration/Mixed
+STRATUM,76409,THA: Bureau of Local Educational Development and Co-ordination/ Lower Secondary
+STRATUM,76410,THA: Bureau of Local Educational Development and Co-ordination/Upper Secondary
+STRATUM,76411,THA: Bureau of Local Educational Development and Co-ordination/Mixed
+STRATUM,76412,THA: Commission of Higher Education/Lower secondary
+STRATUM,76413,THA: Commission of Higher Education/Mixed
+STRATUM,76414,THA: Vocational Education Commission/ Upper Secondary
+STRATUM,76415,THA: Stratum 15
+STRATUM,78001,TTO: Caroni/Religious
+STRATUM,78002,TTO: Caroni/Secular
+STRATUM,78003,TTO: Caroni/Private
+STRATUM,78004,TTO: North Eastern/Religious
+STRATUM,78005,TTO: North Eastern/Secular
+STRATUM,78006,TTO: North Eastern/Private
+STRATUM,78007,TTO: Port of Spain/Religious
+STRATUM,78008,TTO: Port of Spain/Secular
+STRATUM,78009,TTO: Port of Spain/Private
+STRATUM,78010,TTO: St. George East/Religious
+STRATUM,78011,TTO: St. George East/Secular
+STRATUM,78012,TTO: St. George East/Private
+STRATUM,78013,TTO: St. Patrick/Religious
+STRATUM,78014,TTO: St. Patrick/Secular
+STRATUM,78015,TTO: South Eastern/Religious
+STRATUM,78016,TTO: South Eastern/Secular
+STRATUM,78017,TTO: South Eastern/Private
+STRATUM,78018,TTO: Victoria/Religious
+STRATUM,78019,TTO: Victoria/Secular
+STRATUM,78020,TTO: Victoria/Private
+STRATUM,78021,TTO: Tobago/Religious
+STRATUM,78022,TTO: Tobago/Secular
+STRATUM,78023,TTO: Tobago/Religious
+STRATUM,78801,TUN: East - ISCED 2 only - Private
+STRATUM,78802,TUN: East - ISCED 3 & Mixed - Private
+STRATUM,78803,TUN: North/West - ISCED 3 & Mixed - Private
+STRATUM,78804,TUN: South/West - ISCED 3 & Mixed - Private
+STRATUM,78805,TUN: North/East - ISCED 2 only - Public
+STRATUM,78806,TUN: North/East - ISCED 3 only - Public
+STRATUM,78807,TUN: North/East - Mixed - Public
+STRATUM,78808,TUN: North/West - ISCED 2 only - Public
+STRATUM,78809,TUN: North/West - ISCED 3 only - Public
+STRATUM,78810,TUN: North/West - Mixed - Public
+STRATUM,78811,TUN: South/East - ISCED 2 only - Public
+STRATUM,78812,TUN: South/East - ISCED 3 only - Public
+STRATUM,78813,TUN: South/East - Mixed - Public
+STRATUM,78814,TUN: South/West - ISCED 2 only - Public
+STRATUM,78815,TUN: South/West - ISCED 3 only - Public
+STRATUM,78816,TUN: South/West - Mixed - Public
+STRATUM,79201,TUR: TR1 PRIMARY
+STRATUM,79202,TUR: TR1 GENERAL SECONDARY
+STRATUM,79203,TUR: TR1 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79204,TUR: TR2 PRIMARY
+STRATUM,79205,TUR: TR2 GENERAL SECONDARY
+STRATUM,79206,TUR: TR2 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79207,TUR: TR3 PRIMARY
+STRATUM,79208,TUR: TR3 GENERAL SECONDARY
+STRATUM,79209,TUR: TR3 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79210,TUR: TR4 PRIMARY
+STRATUM,79211,TUR: TR4 GENERAL SECONDARY
+STRATUM,79212,TUR: TR4 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79213,TUR: TR5 PRIMARY
+STRATUM,79214,TUR: TR5 GENERAL SECONDARY
+STRATUM,79215,TUR: TR5 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79216,TUR: TR6 PRIMARY
+STRATUM,79217,TUR: TR6 GENERAL SECONDARY
+STRATUM,79218,TUR: TR6 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79219,TUR: TR7 PRIMARY
+STRATUM,79220,TUR: TR7 GENERAL SECONDARY
+STRATUM,79221,TUR: TR7 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79222,TUR: TR8 PRIMARY
+STRATUM,79223,TUR: TR8 GENERAL SECONDARY
+STRATUM,79224,TUR: TR8 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79225,TUR: TR9 PRIMARY
+STRATUM,79226,TUR: TR9 GENERAL SECONDARY
+STRATUM,79227,TUR: TR9 VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79228,TUR: TRA PRIMARY
+STRATUM,79229,TUR: TRA GENERAL SECONDARY
+STRATUM,79230,TUR: TRA VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79231,TUR: TRB PRIMARY
+STRATUM,79232,TUR: TRB GENERAL SECONDARY
+STRATUM,79233,TUR: TRB VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,79234,TUR: TRC PRIMARY
+STRATUM,79235,TUR: TRC GENERAL SECONDARY
+STRATUM,79236,TUR: TRC VOCATIONAL AND TECHNICAL SECONDARY
+STRATUM,85801,URY: Private General Secondary Education - Metropolitan Area of Montevideo - not border with Brazil
+STRATUM,85802,URY: Private General Secondary Education - Province Capitals - border with Brazil
+STRATUM,85803,URY: Private General Secondary Education - Province Capitals - not border with Brazil
+STRATUM,85804,URY: Private General Secondary Education - Rural areas  - not border with Brazil
+STRATUM,85805,URY: Private General Secondary Education - Small cities  - not border with Brazil
+STRATUM,85806,URY: Public General Secondary Education - Metropolitan Area of Montevideo - not border with Brazil
+STRATUM,85807,URY: Public General Secondary Education - Province Capitals - border with Brazil
+STRATUM,85808,URY: Public General Secondary Education - Province Capitals - not border with Brazil
+STRATUM,85809,URY: Public General Secondary Education - Rural areas  - border with Brazil
+STRATUM,85810,URY: Public General Secondary Education - Rural areas  - not border with Brazil
+STRATUM,85811,URY: Public General Secondary Education - Small cities  - border with Brazil
+STRATUM,85812,URY: Public General Secondary Education - Small cities  - not border with Brazil
+STRATUM,85813,URY: Public Technical Education - Metropolitan Area of Montevideo - not border with Brazil
+STRATUM,85814,URY: Public Technical Education - Province Capitals - border with Brazil
+STRATUM,85815,URY: Public Technical Education - Province Capitals - not border with Brazil
+STRATUM,85816,URY: Public Technical Education - Rural areas  - border with Brazil
+STRATUM,85817,URY: Public Technical Education - Rural areas  - not border with Brazil
+STRATUM,85818,URY: Public Technical Education - Small cities  - border with Brazil
+STRATUM,85819,URY: Public Technical Education - Small cities  - not border with Brazil
+STRATUM,85820,URY: Rural Schools with Lower Secondary Degree - Rural areas  - border with Brazil
+STRATUM,85821,URY: Rural Schools with Lower Secondary Degree - Rural areas  - not border with Brazil
+STRATUM,85822,URY: Stratum 22
+STRATUM,84001,USA: Public Northeast
+STRATUM,84002,USA: Public Midwest
+STRATUM,84003,USA: Public South
+STRATUM,84004,USA: Public West
+STRATUM,84005,USA: Private Northeast
+STRATUM,84006,USA: Private Midwest
+STRATUM,84007,USA: Private South
+STRATUM,84008,USA: Private West  
+STRATUM,47001,MLT: Church boys school
+STRATUM,47002,MLT: Church girls schools
+STRATUM,47003,MLT: State boys junior lyceum schools
+STRATUM,47004,MLT: State girls junior lyceum schools
+STRATUM,47005,MLT: State boys secondary schools
+STRATUM,47006,MLT: State girls secondary schools
+STRATUM,47007,MLT: State ISCED 3 schools
+STRATUM,47008,MLT: Independent schools
+STRATUM,49801,"MDA: Romanian, rural"
+STRATUM,49802,"MDA: Romanian, urban"
+STRATUM,49803,"MDA: Russian, rural"
+STRATUM,49804,"MDA: Russian, urban"
+STRATUM,49805,MDA: Both
+STRATUM,48001,MUS: Urban/General only/Mixed ISCED/Boys
+STRATUM,48002,MUS: Urban/General only/Mixed ISCED/Girls
+STRATUM,48003,MUS: Urban/General only/Mixed ISCED/Mixed gender
+STRATUM,48004,MUS: Urban/Pre-Vocational only/ISCED2 only/Boys
+STRATUM,48005,MUS: Urban/Vocational only/ ISCED3 only/Mixed gender
+STRATUM,48006,MUS: Urban/Mixed programs/Mixed ISCED/Boys
+STRATUM,48007,MUS: Urban/Mixed programs/Mixed ISCED/Girls
+STRATUM,48008,MUS: Urban/Mixed programs/Mixed ISCED/Mixed gender
+STRATUM,48009,MUS: Rural/General only/Mixed ISCED/Boys
+STRATUM,48010,MUS: Rural/General only/Mixed ISCED/Girls
+STRATUM,48011,MUS: Rural/General only/Mixed ISCED/Mixed gender
+STRATUM,48012,MUS: Rural/Pre-Vocational only/ISCED2 only/Boys
+STRATUM,48013,MUS: Rural/Vocational only/ ISCED3 only/Mixed gender
+STRATUM,48014,MUS: Rural/Mixed programs/Mixed ISCED/Boys
+STRATUM,48015,MUS: Rural/Mixed programs/Mixed ISCED/Girls
+STRATUM,48016,MUS: Rural/Mixed programs/Mixed ISCED/Mixed gender
+STRATUM,26801,GEO: Public urban schools
+STRATUM,26802,GEO: Public rural schools
+STRATUM,26803,GEO: Public highland school
+STRATUM,26804,GEO: Private schools
+STRATUM,18801,"CRI: Public, academic, urban"
+STRATUM,18802,"CRI: Public, academic, rural"
+STRATUM,18803,"CRI: Public, technical, urban"
+STRATUM,18804,"CRI: Public, technical, rural"
+STRATUM,18805,CRI: Private
+STRATUM,18806,CRI: stratum 6
+STRATUM,78401,"ARE ex Dubai: Public, Arabic, PPP, girls schools"
+STRATUM,78402,"ARE ex Dubai: Public, Arabic, PPP, boys schools"
+STRATUM,78403,"ARE ex Dubai: Public, Arabic, MAG and Model, schools"
+STRATUM,78404,"ARE ex Dubai: Public, Arabic, Ministry, girls schools"
+STRATUM,78405,"ARE ex Dubai: Public, Arabic, Ministry, boys schools"
+STRATUM,78406,"ARE ex Dubai: Private, Arabic, Ministry schools"
+STRATUM,78408,"ARE ex Dubai: Private, English, Other schools"
+STRATUM,78409,"ARE ex Dubai: Private, English, CBSE schools"
+STRATUM,78410,ARE ex Dubai: Stratum 10
+STRATUM,45801,"MYS: MOE-control, National Secondary Schools"
+STRATUM,45802,"MYS: MOE-control, Religious Schools"
+STRATUM,45803,"MYS: MOE-control, Technical Schools"
+STRATUM,45804,"MYS: MOE-control, Fully residential Schools"
+STRATUM,45805,"MYS: non-MOE-control, MARA Science Junior College"
+STRATUM,45806,"MYS: non-MOE-control, Other Schools"
+STRATUM,78481,DUBAI: National – Public - Arabic
+STRATUM,78482,DUBAI: UK - Public- English
+STRATUM,78483,DUBAI: National – Private - Arabic
+STRATUM,78484,DUBAI: US - English
+STRATUM,78485,DUBAI: UK - English
+STRATUM,78486,DUBAI: Indian - English
+STRATUM,78487,DUBAI: Pakistani - English
+STRATUM,78488,DUBAI: IB - English
+STRATUM,78489,DUBAI: Other - English 
+STRATUM,35601,QHP: Rural Government/Aided Hindi schools
+STRATUM,35602,QHP: Rural nonGovernment English schools
+STRATUM,35603,QHP: Urban Government/Aided Hindi schools
+STRATUM,35604,QHP: Urban nonGovernment English schools
+STRATUM,35605,QHP: Vocational Institutes
+STRATUM,35606,QTN: Rural Government/Aided Grades 9-10 schools
+STRATUM,35607,QTN: Rural Government/Aided Grades 9-11 schools
+STRATUM,35608,QTN: Rural nonGovernment/Aided Grades 9-10 schools
+STRATUM,35609,QTN: Rural nonGovernment/Aided Grades 9-11 schools
+STRATUM,35610,QTN: Rural nonGovernment Grades 6-8/unknown schools
+STRATUM,35611,QTN: Urban Government/Aided Grades 9-10 schools
+STRATUM,35612,QTN: Urban Government/Aided Grades 9-11 schools
+STRATUM,35613,QTN: Urban nonGovernment/Aided Grades 9-10 schools
+STRATUM,35614,QTN: Urban nonGovernment/Aided Grades 9-11 schools
+STRATUM,35615,QTN: Urban nonGovernment Grades 6-8/unknown schools
+STRATUM,35616,QTN: Government vocational institutes
+STRATUM,35617,QTN: nonGovernment vocational Institutes
+STRATUM,86201,QVE: Private subsidized schools
+STRATUM,86202,QVE: Private elite schools
+STRATUM,86203,QVE: Private non-elite lower schools
+STRATUM,86204,QVE: Private non-elite religious mixed level schools
+STRATUM,86205,QVE: Private non-elite secular mixed level schools
+STRATUM,86206,QVE: Private religious boys schools
+STRATUM,86207,QVE: Public lower schools
+STRATUM,86208,QVE: Public mixed level schools
+STRATUM,86209,QVE: stratum 9

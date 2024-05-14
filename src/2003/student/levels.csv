@@ -1,0 +1,1793 @@
+column,key,value
+NAMIS4,9997,N/A
+NAMIS4,9998,Invalid
+NAMIS4,9999,Miss
+NAMIS3,997,N/A
+NAMIS3,998,Invalid
+NAMIS3,999,Mis
+NAMIS2,97,N/A
+NAMIS2,98,Invalid
+NAMIS2,99,Mis
+ST0301,1,Female
+ST0301,2,Male
+ST0301,8,Invalid
+ST0301,9,Miss
+ST0301,7,N/A
+TICK,1,Tick
+TICK,2,No Tick
+TICK,8,Invalid
+ST0501,1,Working Full-time
+ST0501,2,Working Part-Time
+ST0501,3,Looking for work
+ST0501,4,Other
+ST0501,8,Invalid
+ST0501,9,Miss
+ST0501,7,N/A
+ST1501,1,<Country of Test>
+ST1501,2,Other
+ST1501,97,N/A
+ST1501,98,Invalid
+ST1501,99,Miss
+ST1601,1,<Test language>
+ST1601,2,<Other national language>
+ST1601,3,<Other national dialects>
+ST1601,4,<Other>
+ST1601,97,N/A
+ST1601,98,Invalid
+ST1601,99,Miss
+NONE,1,None
+NONE,2,One
+NONE,3,Two
+NONE,4,Three or more
+NONE,8,Invalid
+NONE,9,Miss
+NONE,7,N/A
+ST1901,1,0-10 books
+ST1901,2,11-25 books
+ST1901,3,26-100 books
+ST1901,4,101-200 books
+ST1901,5,201-500 books
+ST1901,6,More than 500 books
+ST1901,8,Invalid
+ST1901,9,Miss
+ST1901,7,N/A
+ST2001,1,No
+ST2001,2,"Yes, one year or less"
+ST2001,3,"Yes, more than one year"
+ST2001,8,Invalid
+ST2001,9,Miss
+ST2001,7,N/A
+ST2201,1,"No, never"
+ST2201,2,"Yes, once"
+ST2201,3,"Yes, twice or more"
+ST2201,8,Invalid
+ST2201,9,Miss
+ST2201,7,N/A
+Agree,1,Strongly agree
+Agree,2,Agree
+Agree,3,Disagree
+Agree,4,Strongly disagree
+Agree,8,Invalid
+Agree,9,Miss
+Agree,7,N/A
+ST2801,1,None
+ST2801,2,1 or 2 times
+ST2801,3,3 or 4 times
+ST2801,4,5 or more times
+ST2801,8,Invalid
+ST2801,9,Miss
+ST2801,7,N/A
+Confid,1,Very confident
+Confid,2,Confident
+Confid,3,Not very confident
+Confid,4,Not at all confident
+Confid,8,Invalid
+Confid,9,Miss
+Confid,7,N/A
+Lesson,1,Every lesson
+Lesson,2,Most lessons
+Lesson,3,Some lessons
+Lesson,4,Never or hardly ever
+Lesson,8,Invalid
+Lesson,9,Miss
+Lesson,7,N/A
+NEVER,1,"No, never"
+NEVER,2,"Yes, once"
+NEVER,3,"Yes, twice or more"
+NEVER,8,Invalid
+NEVER,9,Miss
+NEVER,7,N/A
+Change,1,"No, all <ISCED 1> same school"
+Change,2,"Yes, changed once"
+Change,3,"Yes, changed twice or more"
+Change,8,Invalid
+Change,9,Miss
+Change,7,N/A
+YESNO,1,Yes
+YESNO,2,No
+YESNO,8,Invalid
+YESNO,9,Miss
+YESNO,7,N/A
+EC0601,1,<high level>
+EC0601,2,<medium level>
+EC0601,3,<basic level>
+EC0601,8,Invalid
+EC0601,9,Miss
+EC0601,7,N/A
+EC0702,1,At or above <pass mark>
+EC0702,2,Below <pass mark>
+EC0702,8,Invalid
+EC0702,9,Miss
+EC0702,7,N/A
+IC0301,1,Less than 1 year
+IC0301,2,1 to 3 years
+IC0301,3,3 to 5 years
+IC0301,4,More than 5 years
+IC0301,8,Invalid
+IC0301,9,Miss
+IC0301,7,N/A
+Freq,1,Almost every day
+Freq,2,A few times each week
+Freq,3,Between 1 pwk & 1 pmn
+Freq,4,Less than 1 pmn
+Freq,5,Never
+Freq,8,Invalid
+Freq,9,Miss
+Freq,7,N/A
+Do,1,Can do well
+Do,2,Can do with help
+Do,3,Cannot do
+Do,4,Don’t know
+Do,8,Invalid
+Do,9,Miss
+Do,7,N/A
+IC0801,1,My school
+IC0801,2,My friends
+IC0801,3,My family
+IC0801,4,Taught myself
+IC0801,5,Others
+IC0801,8,Invalid
+IC0801,9,Miss
+IC0801,7,N/A
+IC0901,1,Don’t know how to use
+IC0901,2,My school
+IC0901,3,My friends
+IC0901,4,My family
+IC0901,5,Taught myself
+IC0901,6,Others
+IC0901,8,Invalid
+IC0901,9,Miss
+IC0901,7,N/A
+ISCEDL,1,ISCED level 1
+ISCEDL,2,ISCED level 2
+ISCEDL,3,ISCED level 3
+ISCEDD,1,A
+ISCEDD,2,B
+ISCEDD,3,C
+ISCEDD,4,M
+ISCEDO,1,General
+ISCEDO,2,Pre-Vocational
+ISCEDO,3,Vocational
+FAMSTR,1,Single parent family
+FAMSTR,2,Nuclear family
+FAMSTR,3,Mixed family
+FAMSTR,4,Other
+FAMSTR,7,N/A
+FAMSTR,8,Invalid
+FAMSTR,9,Missing
+HISEI,97,N/A
+HISEI,98,Invalid
+HISEI,99,Missing
+ST11R01,1,None
+ST11R01,2,ISCED 1
+ST11R01,3,ISCED 2
+ST11R01,4,"ISCED 3B, C"
+ST11R01,5,ISCED 3A
+ST11R01,9,Missing
+ST13R01,1,None
+ST13R01,2,ISCED 1
+ST13R01,3,ISCED 2
+ST13R01,4,"ISCED 3B, C"
+ST13R01,5,ISCED 3A
+ST13R01,9,Missing
+MISCED,0,None
+MISCED,1,ISCED 1
+MISCED,2,ISCED 2
+MISCED,3,"ISCED 3B, C"
+MISCED,4,"ISCED 3A, ISCED 4"
+MISCED,5,ISCED 5B
+MISCED,6,"ISCED 5A, 6"
+MISCED,9,Missing
+SISCED,0,None
+SISCED,1,ISCED 2
+SISCED,2,"ISCED 3B, C"
+SISCED,3,"ISCED 3A, ISCED 4"
+SISCED,4,ISCED 5B
+SISCED,5,"ISCED 5A, 6"
+SISCED,9,Missing
+IMMIG,1,Native students
+IMMIG,2,First-Generation students
+IMMIG,3,Non-native students
+IMMIG,7,N/A
+IMMIG,8,Invalid
+IMMIG,9,Missing
+GRADE,7,N/A
+GRADE,8,Invalid
+GRADE,9,Missing
+RMHMWK,997,N/A
+RMHMWK,998,Invalid
+RMHMWK,999,Missing
+WBCATEG,1,White Collar high skilled
+WBCATEG,2,White Collar low skilled
+WBCATEG,3,Blue Collar high skilled
+WBCATEG,4,Blue Collar low skilled
+WBCATEG,9,Missing
+LANG,1,Foreign language
+LANG,0,Test language or other national language
+LANG,8,Invalid
+LANG,9,Miss
+LANG,7,N/A
+oecd,1,OECD country
+oecd,0,Partner country
+uh,1,One-hour booklet
+uh,0,Two-hour booklet
+subnat,0360,Australia
+subnat,0400,Austria
+subnat,0560,Belgium
+subnat,0760,Brazil
+subnat,1240,Canada
+subnat,2030,Czech Republic
+subnat,2080,Denmark
+subnat,2460,Finland
+subnat,2500,France
+subnat,2760,Germany
+subnat,3000,Greece
+subnat,3440,Hong Kong SAR
+subnat,3480,Hungary
+subnat,3520,Iceland
+subnat,3600,Indonesia
+subnat,3720,Ireland
+subnat,3801,Italy: Veneto-Nord Est
+subnat,3802,Italy: Trento-Nord-Est
+subnat,3803,Italy: Toscana-Centro
+subnat,3804,Italy: Piemonte-Nord-Ovest
+subnat,3805,Italy: Lombardia-Nord Ovest
+subnat,3806,Italy: Bolzano
+subnat,3807,Italy: Other regions
+subnat,3920,Japan
+subnat,4100,Korea
+subnat,4280,Latvia
+subnat,4380,Liechtenstein
+subnat,4420,Luxembourg
+subnat,4460,Macao SAR
+subnat,4840,Mexico
+subnat,5280,Netherlands
+subnat,5540,New Zealand
+subnat,5780,Norway
+subnat,6160,Poland
+subnat,6200,Portugal
+subnat,6430,Russian Federation
+subnat,7030,Slovak Republic
+subnat,7241,Spain: Other regions
+subnat,7242,Spain: Castilia y Leon
+subnat,7243,Spain: Catalonia
+subnat,7244,Spain: Basque Country
+subnat,7520,Sweden
+subnat,7560,Switzerland
+subnat,7640,Thailand
+subnat,7880,Tunisia
+subnat,7920,Turkey
+subnat,8261,"United Kingdom: England, Wales & NI"
+subnat,8262,United Kingdom: Scotland
+subnat,8400,United States
+subnat,8580,Uruguay
+subnat,8910,Yugoslavia
+LANGN,036001,AUS: English
+LANGN,036002,AUS: Indigenous Australian languages
+LANGN,036003,AUS: Italian
+LANGN,036004,AUS: Greek
+LANGN,036005,AUS: Cantonese
+LANGN,036006,AUS: Mandarin
+LANGN,036007,AUS: Arabic
+LANGN,036008,AUS: Vietnamese
+LANGN,036009,AUS: German
+LANGN,036010,AUS: Spanish
+LANGN,036011,AUS: Tagalog (Philippines)
+LANGN,036012,AUS: Other languages
+LANGN,040001,AUT: German
+LANGN,040002,AUT: Turkish
+LANGN,040003,AUT: Serbo-Croat
+LANGN,040004,AUT: Romanian
+LANGN,040005,AUT: Polish
+LANGN,040006,AUT: Hungarian
+LANGN,040007,AUT: Albanian
+LANGN,040008,AUT: Czech
+LANGN,040009,AUT: Slovak
+LANGN,040010,AUT: Slovenian
+LANGN,040011,AUT: Other languages
+LANGN,056101,BEL (Fl.): Dutch
+LANGN,056102,BEL (Fl.): French
+LANGN,056103,BEL (Fl.): German
+LANGN,056104,BEL (Fl.): Flemish dialect
+LANGN,056105,BEL (Fl.): English
+LANGN,056106,BEL (Fl.): Other EU languages
+LANGN,056107,BEL (Fl.): Arabic
+LANGN,056108,BEL (Fl.): Turkish
+LANGN,056109,BEL (Fl.): Eastern European languages
+LANGN,056110,BEL (Fl.): Other languages
+LANGN,056201,BEL (Fr.): French
+LANGN,056202,BEL (Fr.): Dutch
+LANGN,056203,BEL (Fr.): German
+LANGN,056204,BEL (Fr.): English
+LANGN,056205,BEL (Fr.): Wallon
+LANGN,056206,BEL (Fr.): Other EU languages
+LANGN,056207,BEL (Fr.): Arabic
+LANGN,056208,BEL (Fr.): Turkish
+LANGN,056209,BEL (Fr.): Eastern European languages
+LANGN,056210,BEL (Fr.): Other languages
+LANGN,056301,BEL (German): German
+LANGN,056302,BEL (German): French
+LANGN,056303,BEL (German): Dutch
+LANGN,056304,BEL (German): Wallon
+LANGN,056305,BEL (German): English
+LANGN,056306,BEL (German): Other EU languages
+LANGN,056307,BEL (German): Arabic
+LANGN,056309,BEL (German): Eastern European languages
+LANGN,076001,BRA: Portuguese
+LANGN,076002,BRA: Other national language - indigenous
+LANGN,076003,BRA: Other languages
+LANGN,124101,CAN: English
+LANGN,124102,CAN: French
+LANGN,124103,CAN: Other languages
+LANGN,203001,CZE: Czech
+LANGN,203002,CZE: Slovak
+LANGN,203003,CZE: Romani
+LANGN,203004,CZE: Other languages
+LANGN,208001,DNK: Danish
+LANGN,208002,DNK: Turkish
+LANGN,208003,DNK: Serbo-Croatian
+LANGN,208004,DNK: Punjabi
+LANGN,208005,DNK: Urdu
+LANGN,208006,DNK: Arabic
+LANGN,208007,DNK: Other languages
+LANGN,246001,FIN: Finnish
+LANGN,246002,FIN: Swedish
+LANGN,246003,FIN: Sami
+LANGN,246004,FIN: Romani
+LANGN,246005,FIN: Russian
+LANGN,246006,FIN: Estonian
+LANGN,246007,FIN: Other language
+LANGN,250001,FRA: French
+LANGN,250002,FRA: Other national dialects or languages
+LANGN,250003,FRA: Other languages
+LANGN,276001,DEU: German
+LANGN,276004,DEU: Bosnian
+LANGN,276005,DEU: Greek
+LANGN,276006,DEU: Italian
+LANGN,276007,DEU: Croatian
+LANGN,276008,DEU: Polish
+LANGN,276009,DEU: Russian
+LANGN,276010,DEU: Serbian
+LANGN,276011,DEU: Turkish
+LANGN,276012,DEU: Kurdish
+LANGN,276013,DEU: Other languages
+LANGN,300001,GRC: Greek
+LANGN,300002,GRC: Albanian
+LANGN,300003,GRC: Languages of the former USSR
+LANGN,300004,GRC: Bulgarian
+LANGN,300005,GRC: Other languages
+LANGN,344001,HKG: Cantonese
+LANGN,344002,HKG: English
+LANGN,344003,HKG: Other national dialects or languages
+LANGN,344004,HKG: Other languages
+LANGN,348001,HUN: Hungarian
+LANGN,348002,HUN: Other languages
+LANGN,352001,ISL: Icelandic
+LANGN,352002,ISL: Other languages
+LANGN,360001,IDN: Bahasa Indonesian
+LANGN,360002,"IDN: Other dialects, local languages"
+LANGN,360003,IDN: Other languages
+LANGN,372001,IRL: English
+LANGN,372002,IRL: Irish
+LANGN,372003,IRL: Other languages
+LANGN,380001,ITA: Italian
+LANGN,380002,ITA: Other official languages
+LANGN,380003,ITA: National dialects
+LANGN,380004,ITA: English or another EU language
+LANGN,380005,ITA: Other languages
+LANGN,380701,ITA (German): German
+LANGN,380702,ITA (German): Other official languages
+LANGN,380703,ITA (German): National dialects
+LANGN,380704,ITA (German): English or another EU language
+LANGN,380705,ITA (German): Other languages
+LANGN,392001,JPN: Japanese
+LANGN,392002,JPN: Other languages
+LANGN,410001,KOR: Korean
+LANGN,410002,KOR: Other languages
+LANGN,428001,LVA: Latvian
+LANGN,428002,LVA: Russian
+LANGN,428003,LVA: Belarusian
+LANGN,428004,LVA: Ukrainian
+LANGN,428005,LVA: Other languages
+LANGN,438001,LIE: Swiss German
+LANGN,438002,LIE: German
+LANGN,438003,LIE: French
+LANGN,438004,LIE: Swiss Italian
+LANGN,438005,LIE: Italian
+LANGN,438006,LIE: romance
+LANGN,438007,LIE: Spanish
+LANGN,438008,LIE: Portuguese
+LANGN,438009,LIE: South Slavic languages
+LANGN,438010,LIE: Albanian
+LANGN,438011,LIE: Turkish
+LANGN,438012,LIE: English
+LANGN,438013,LIE: Other languagess
+LANGN,442001,LUX: German
+LANGN,442002,LUX: French
+LANGN,442003,LUX: Luxembourgian
+LANGN,442004,LUX: Portuguese
+LANGN,442005,LUX: Italian
+LANGN,442006,"LUX: Yugoslavian - Serbian, Croatian, etc"
+LANGN,442007,LUX: Other languages
+LANGN,446001,MAC: Cantonese
+LANGN,446002,MAC: Portugese
+LANGN,446003,MAC: Other national dialects
+LANGN,446004,MAC: English
+LANGN,446005,MAC: Other languages
+LANGN,484001,MEX: Spanish
+LANGN,484002,MEX: American-Indian
+LANGN,484003,MEX: English
+LANGN,484004,MEX: French
+LANGN,484005,MEX: German
+LANGN,484006,MEX: Other languages
+LANGN,528001,NLD: Dutch
+LANGN,528003,NLD: Dutch regional languages or dialects
+LANGN,528004,NLD: Other European languages
+LANGN,528005,NLD: Other non-European languages
+LANGN,554001,NZL: English
+LANGN,554002,NZL: Te Reo Maori
+LANGN,554003,NZL: Samoan
+LANGN,554004,NZL: Tongan
+LANGN,554005,NZL: Mandarin
+LANGN,554006,NZL: Cantonese
+LANGN,554007,NZL: Hindi
+LANGN,554008,NZL: Other languages
+LANGN,036097,AUS: N/A
+LANGN,036098,AUS: Invalid
+LANGN,036099,AUS: Missing
+LANGN,040097,AUT: N/A
+LANGN,040098,AUT: Invalid
+LANGN,040099,AUT: Missing
+LANGN,056197,BEL (Fl.):  N/A
+LANGN,056198,BEL (Fl.):  Invalid
+LANGN,056199,BEL (Fl.):  Missing
+LANGN,056297,BEL (Fr.):  N/A
+LANGN,056298,BEL (Fr.):  Invalid
+LANGN,056299,BEL (Fr.):  Missing
+LANGN,076097,BRA: N/A
+LANGN,076098,BRA: Invalid
+LANGN,076099,BRA: Missing
+LANGN,124197,CAN: N/A
+LANGN,124198,CAN: Invalid
+LANGN,124199,CAN: Missing
+LANGN,203097,CZE: N/A
+LANGN,203098,CZE: Invalid
+LANGN,203099,CZE: Missing
+LANGN,208097,DNK:  N/A
+LANGN,208098,DNK:  Invalid
+LANGN,208099,DNK:  Missing
+LANGN,246097,FIN: N/A
+LANGN,246098,FIN: Invalid
+LANGN,246099,FIN: Missing
+LANGN,724001,ESP: Castilian
+LANGN,724002,ESP: Catalonian
+LANGN,724003,ESP: Galician
+LANGN,724004,ESP: Valencian
+LANGN,724005,ESP: Basque
+LANGN,724006,ESP: Other languagess
+LANGN,752001,SWE: Swedish
+LANGN,752002,"SWE: Finnish, Yiddish, Romani, Sami or Tornedalen"
+LANGN,752003,SWE: Other languages
+LANGN,756001,CHE: Swiss German
+LANGN,756002,CHE: German
+LANGN,756003,CHE: French
+LANGN,756004,CHE: Swiss Italian
+LANGN,756005,CHE: Italian
+LANGN,756006,CHE: Romansh
+LANGN,756007,CHE: Spanish
+LANGN,756008,CHE: Portuguese
+LANGN,756009,CHE: South Slavic languages
+LANGN,756010,CHE: Albanian
+LANGN,756011,CHE: Turkish
+LANGN,756012,CHE: English
+LANGN,756013,CHE: Other languagess
+LANGN,250097,FRA:  N/A
+LANGN,250099,FRA:  Missing
+LANGN,276097,DEU: N/A
+LANGN,276098,DEU: Invalid
+LANGN,276099,DEU: Missing
+LANGN,300097,GRC: N/A
+LANGN,300098,GRC: Invalid
+LANGN,300099,GRC: Missing
+LANGN,344097,HKG:  N/A
+LANGN,344098,HKG:  Invalid
+LANGN,344099,HKG:  Missing
+LANGN,344298,HKI:  Invalid
+LANGN,348097,HUN:  N/A
+LANGN,348098,HUN:  Invalid
+LANGN,348099,HUN:  Missing
+LANGN,352097,ISL: N/A
+LANGN,352098,ISL: Invalid
+LANGN,352099,ISL: Missing
+LANGN,360097,IDN: N/A
+LANGN,360098,IDN: Invalid
+LANGN,360099,IDN: Missing
+LANGN,826101,"GBR (Eng., Wales, NI): English"
+LANGN,826102,"GBR (Eng., Wales, NI): Irish"
+LANGN,826103,"GBR (Eng., Wales, NI): Ulster Scots"
+LANGN,826104,"GBR (Eng., Wales, NI): Welsh"
+LANGN,826105,"GBR (Eng., Wales, NI): Other languages"
+LANGN,826201,GBR (Scotland): English or Scots
+LANGN,826202,GBR (Scotland): Gaelic
+LANGN,826204,GBR (Scotland): Arabic
+LANGN,826205,GBR (Scotland): Bengali
+LANGN,826206,GBR (Scotland): Cantonese or Mandarin
+LANGN,826207,GBR (Scotland): Gujarati
+LANGN,826208,GBR (Scotland): Hindi
+LANGN,826209,GBR (Scotland): Malay
+LANGN,826210,GBR (Scotland): Punjabi
+LANGN,826211,GBR (Scotland): Urdu
+LANGN,826212,GBR (Scotland): Other European languages
+LANGN,826213,GBR (Scotland): Other non-European languages
+LANGN,372097,IRL: N/A
+LANGN,372098,IRL: Invalid
+LANGN,372099,IRL: Missing
+LANGN,380097,ITA: N/A
+LANGN,380098,ITA: Invalid
+LANGN,380099,ITA: Missing
+LANGN,380797,ITA (German):  N/A
+LANGN,380798,ITA (German):  Invalid
+LANGN,392097,JPN: N/A
+LANGN,392098,JPN: Invalid
+LANGN,392099,JPN: Missing
+LANGN,410097,KOR:  N/A
+LANGN,410098,KOR:  Invalid
+LANGN,410099,KOR:  Missing
+LANGN,428097,LVA:  N/A
+LANGN,428098,LVA:  Invalid
+LANGN,428099,LVA:  Missing
+LANGN,438098,LIE:  Invalid
+LANGN,438099,LIE:  Missing
+LANGN,056398,BEL (German):  Invalid
+LANGN,056399,BEL (German):  Missing
+LANGN,442097,LUX:  N/A
+LANGN,442098,LUX:  Invalid
+LANGN,442099,LUX:  Missing
+LANGN,446098,MAC:  Invalid
+LANGN,446099,MAC:  Missing
+LANGN,484097,MEX:  N/A
+LANGN,484098,MEX:  Invalid
+LANGN,484099,MEX:  Missing
+LANGN,528097,NLD: N/A
+LANGN,528098,NLD: Invalid
+LANGN,528099,NLD: Missing
+LANGN,554097,NZL:  N/A
+LANGN,554098,NZL:  Invalid
+LANGN,554099,NZL:  Missing
+LANGN,578001,NOR: Norwegian
+LANGN,578002,NOR: Sami
+LANGN,578003,NOR: Swedish
+LANGN,578004,NOR: Danish
+LANGN,578005,NOR: Other languages
+LANGN,578097,NOR: N/A
+LANGN,578098,NOR: Invalid
+LANGN,578099,NOR: Missing
+LANGN,616099,POL: Missing
+LANGN,620097,PRT: N/A
+LANGN,620098,PRT: Invalid
+LANGN,620099,PRT: Missing
+LANGN,616001,POL: Polish
+LANGN,616002,POL: Other languages
+LANGN,620001,PRT: Portuguese
+LANGN,620002,PRT: Other languages
+LANGN,643001,RUS: Russian
+LANGN,643002,RUS: Other languages
+LANGN,703001,SVK: Slovak
+LANGN,703002,SVK: Hungarian
+LANGN,703004,SVK: Czech
+LANGN,703005,SVK: Other Slavonic languages
+LANGN,703006,SVK: Romani
+LANGN,703007,SVK: Other languages
+LANGN,764001,THA: Thai central
+LANGN,764002,THA: Other Thai dialects
+LANGN,764003,THA: Other languages
+LANGN,788001,TUN: Arabic
+LANGN,788002,"TUN: Arabic, Tunisian dialect"
+LANGN,788003,TUN: French
+LANGN,788004,TUN: Other languages
+LANGN,792001,TUR: Turkish
+LANGN,792002,TUR: Other national dialects or languages
+LANGN,792003,TUR: English
+LANGN,792004,TUR: French
+LANGN,792005,TUR: German
+LANGN,792006,TUR: Other languages
+LANGN,858001,URY: Spanish
+LANGN,858002,URY: Portuguese
+LANGN,858003,URY: English
+LANGN,858004,URY: Other languages
+LANGN,840001,USA: English
+LANGN,840002,USA: Spanish
+LANGN,840003,USA: Other languages
+LANGN,891001,YUG: Serbian
+LANGN,891002,YUG: Hungarian
+LANGN,891003,YUG: Albanian
+LANGN,891004,YUG: Romanian
+LANGN,891005,YUG: Slovak
+LANGN,891006,YUG: Other languages
+LANGN,643097,RUS: N/A
+LANGN,643098,RUS: Invalid
+LANGN,643099,RUS: Missing
+LANGN,724097,ESP: N/A
+LANGN,724098,ESP: Invalid
+LANGN,724099,ESP: Missing
+LANGN,703097,SVK: N/A
+LANGN,703098,SVK: Invalid
+LANGN,703099,SVK: Missing
+LANGN,752097,SWE: N/A
+LANGN,752098,SWE: Invalid
+LANGN,752099,SWE: Missing
+LANGN,756097,CHE:  N/A
+LANGN,756098,CHE:  Invalid
+LANGN,756099,CHE:  Missing
+LANGN,764099,THA: Missing
+LANGN,788097,TUN:  N/A
+LANGN,788098,TUN:  Invalid
+LANGN,788099,TUN:  Missing
+LANGN,792097,TUR: N/A
+LANGN,792098,TUR: Invalid
+LANGN,792099,TUR: Missing
+LANGN,826197,"GBR (Eng., Wales, NI):  N/A"
+LANGN,826198,"GBR (Eng., Wales, NI):  Invalid"
+LANGN,826199,"GBR (Eng., Wales, NI):  Missing"
+LANGN,826297,GBR (Scotland):  N/A
+LANGN,826298,GBR (Scotland):  Invalid
+LANGN,826299,GBR (Scotland):  Missing
+LANGN,840097,USA: N/A
+LANGN,840098,USA: Invalid
+LANGN,840099,USA: Missing
+LANGN,858097,URY: N/A
+LANGN,858098,URY: Invalid
+LANGN,858099,URY: Missing
+LANGN,891097,YUG: N/A
+LANGN,891098,YUG: Invalid
+LANGN,891099,YUG: Missing
+ISO,03608261,AUS: England
+ISO,03608262,AUS: Scotland
+ISO,03609996,AUS: Other
+ISO,04000391,AUT: Yugoslavia
+ISO,04009996,AUT: Other
+ISO,05610021,BFL: An African country (not Maghreb)
+ISO,05610151,BFL: A Maghreb country
+ISO,05611501,BFL: An other country of the EU
+ISO,05619996,BFL: Other
+ISO,05620021,BFR: An African country (not Maghreb)
+ISO,05620151,BFR: A Maghreb country
+ISO,05621501,BFR: Another country of the EU
+ISO,05629996,BFR: Other
+ISO,07609996,BRA: Other
+ISO,12419996,CAE: Other
+ISO,12429996,CAF: Other
+ISO,12439996,CAN: Other
+ISO,20309996,CZE: Other
+ISO,20800391,DNK: The former Yuguslavia
+ISO,20809996,DNK: Other
+ISO,24609996,FIN: Other
+ISO,25009996,FRA: Other
+ISO,27601501,"DEU: Russia, Kazakhstan or another former Soviet republic"
+ISO,27608911,DEU: Montenegro
+ISO,27608912,DEU: Serbia
+ISO,27609996,DEU: Other
+ISO,30001501,GRC: Country that belonged to the USSR
+ISO,30009996,GRC: Other
+ISO,34409996,HKG: Other
+ISO,34809996,HUN: Other
+ISO,35209996,ISL: Other
+ISO,36009996,IDN: Other
+ISO,37200701,IRL: Bosnia
+ISO,37203761,IRL: Palestine
+ISO,37208261,IRL: Northern Ireland
+ISO,37208262,IRL: Great Britain
+ISO,37209996,IRL: Other
+ISO,38001501,ITA: In an European country that is not member of the EU
+ISO,38009996,ITA: Other
+ISO,39209996,JPN: Other
+ISO,41009996,KOR: Other
+ISO,42809996,LVA: Other
+ISO,44209996,LUX: Other
+ISO,44609996,MAC: Other
+ISO,48409996,MEX: Other
+ISO,52801501,NLD: Other European country
+ISO,52809996,NLD: Other
+ISO,55409996,NZL: Other
+ISO,57809996,NOR: Other
+ISO,61609996,POL: Other
+ISO,62009996,PRT: Other
+ISO,64301501,RUS: Former USSR republics
+ISO,64309996,RUS: Other
+ISO,70301501,SVK: In other country of Europe
+ISO,70309996,SVK: Other
+ISO,72419996,ESC: Other
+ISO,72429996,ECL: Other
+ISO,72439996,ECT: Other
+ISO,72449996,EBS: Other
+ISO,75209996,SWE: Other
+ISO,75600391,CHE: Ex-Yugoslavia
+ISO,75600392,CHE: Albania or Kosovo
+ISO,75601551,CHE: Germany or Austria
+ISO,75601552,CHE: France or Belgium
+ISO,75607560,CHE: Switzerland
+ISO,75609996,CHE: Other
+ISO,76409996,THA: Other
+ISO,78809996,TUN: Other
+ISO,79209996,TUR: Other
+ISO,82619996,GRB: Other
+ISO,82620301,SCO: China (incl Hong Kong)
+ISO,82621421,SCO: Middle East
+ISO,82621501,SCO: Other European country
+ISO,82628261,"SCO: England, Wales, N Ireland"
+ISO,82628262,SCO: Scotland
+ISO,82629996,SCO: Other
+ISO,84009996,USA: Other
+ISO,85809996,URY: Other
+ISO,89101491,YUG: The former Yugoslavia
+ISO,89109996,YUG: Other
+ISO,99990020,Africa
+ISO,99990080,Albania
+ISO,99990290,Caribbean
+ISO,99990320,Argentina
+ISO,99990360,Australia
+ISO,99990400,Austria
+ISO,99990500,Bangladesh
+ISO,99990560,Belgium
+ISO,99990600,Bermuda
+ISO,99990700,Bosnia-Herzegovina
+ISO,99990760,Brazil
+ISO,99991000,Bulgaria
+ISO,99991040,Myanmar (Burma)
+ISO,99991120,Belarus
+ISO,99991240,Canada
+ISO,99991440,Sri Lanka
+ISO,99991490,Ex-Yugoslavia
+ISO,99991510,An East-European country
+ISO,99991560,China
+ISO,99991840,Cook Islands
+ISO,99991910,Croatia
+ISO,99992030,Czech Republic
+ISO,99992080,Denmark
+ISO,99992330,Estonia
+ISO,99992420,Fiji
+ISO,99992460,Finland
+ISO,99992500,France
+ISO,99992680,Georgia
+ISO,99992760,Germany
+ISO,99993000,Greece
+ISO,99993440,Hong Kong
+ISO,99993480,Hungary
+ISO,99993520,Iceland
+ISO,99993560,India
+ISO,99993600,Indonesia
+ISO,99993640,Iran
+ISO,99993680,Iraq
+ISO,99993720,Ireland
+ISO,99993800,Italy
+ISO,99993880,Jamaica
+ISO,99993920,Japan
+ISO,99994000,Jordan
+ISO,99994100,Korea
+ISO,99994220,Lebanon
+ISO,99994280,Latvia
+ISO,99994340,Libya
+ISO,99994400,Lithuania
+ISO,99994420,Luxembourg
+ISO,99994460,Macau
+ISO,99994580,Malaysia
+ISO,99994840,Mexico
+ISO,99995160,Namibia
+ISO,99995280,Netherlands
+ISO,99995540,New Zealand
+ISO,99995660,Nigeria
+ISO,99995780,Norway
+ISO,99995860,Pakistan
+ISO,99996080,Philippines
+ISO,99996160,Poland
+ISO,99996200,Portugal
+ISO,99996420,Romania
+ISO,99996430,Russia
+ISO,99996820,Saudi Arabia
+ISO,99997030,Slovakia
+ISO,99997040,Vietnam
+ISO,99997050,Slowenia
+ISO,99997100,South Africa
+ISO,99997160,Zimbabwe
+ISO,99997240,Spain
+ISO,99997520,Sweden
+ISO,99997560,Switzerland
+ISO,99997640,Thailand
+ISO,99997760,Tonga
+ISO,99997880,Tunisia
+ISO,99997920,Turkey
+ISO,99998040,Ukraine
+ISO,99998070,Macedonia
+ISO,99998180,Egypt
+ISO,99998260,United Kingdom
+ISO,99998340,Tanzania
+ISO,99998400,United States
+ISO,99998580,Uruguay
+ISO,99998820,Samoa
+ISO,99998910,Yugoslavia
+ISO,99998940,Zambia
+EC0602,0361,Australia: High level maths course
+EC0602,0362,Australia: Medium level maths course
+EC0602,0363,Australia: Low level maths course
+EC0602,2761,Germany: High level maths course
+EC0602,2762,Germany: Medium level maths course
+EC0602,2763,Germany: Low level maths course
+EC0602,3001,Greece: Advanced level maths course
+EC0602,3002,Greece: Medium level maths course
+EC0602,3003,Greece: Basic level maths course
+EC0602,3481,Hungary: Special or high level maths course
+EC0602,3482,Hungary: Normal maths course
+EC0602,3521,Iceland: Fast track maths course
+EC0602,3522,Iceland: Medium track maths course
+EC0602,3523,Iceland: Slow track maths course
+EC0602,4101,Korea: High level maths course
+EC0602,4102,Korea: Medium level maths course
+EC0602,4103,Korea: Basic level maths course
+EC0602,7031,Slovak Rep.: Extended maths teaching
+EC0602,7032,Slovak Rep.: Normal maths teaching
+EC0602,7033,Slovak Rep.: Reduced maths teaching
+EC0602,8261,Scotland: Nat. Qualifications higher
+EC0602,8262,"Scotland: Intermediate/Access, standard grade"
+EC0602,9997,N/A
+EC0602,9998,Invalid
+EC0602,9999,Missing
+cntid,036,Australia
+cntid,040,Austria
+cntid,056,Belgium
+cntid,076,Brazil
+cntid,124,Canada
+cntid,203,Czech Republic
+cntid,208,Denmark
+cntid,246,Finland
+cntid,250,France
+cntid,276,Germany
+cntid,300,Greece
+cntid,344,Hong Kong Special Administrative Region of China
+cntid,348,Hungary
+cntid,352,Iceland
+cntid,360,Indonesia
+cntid,372,Ireland
+cntid,376,Israel
+cntid,380,Italy
+cntid,392,Japan
+cntid,410,Korea
+cntid,428,Latvia
+cntid,438,Liechtenstein
+cntid,442,Luxembourg
+cntid,446,Macao Special Administrative Region of China
+cntid,484,Mexico
+cntid,528,Netherlands
+cntid,554,New Zealand
+cntid,578,Norway
+cntid,616,Poland
+cntid,620,Portugal
+cntid,643,Russian Federation
+cntid,703,Slovakia
+cntid,724,Spain
+cntid,752,Sweden
+cntid,756,Switzerland
+cntid,764,Thailand
+cntid,788,Tunisia
+cntid,792,Turkey
+cntid,826,United Kingdom
+cntid,840,United States
+cntid,858,Uruguay
+cntid,891,Yugoslavia
+s17q14,04001,Austria: DVD
+s17q14,04002,Austria: No DVD
+s17q14,05611,Belgium (Fl.): DVD
+s17q14,05612,Belgium (Fl.): No DVD
+s17q14,05621,Belgium (Fr.): DVD
+s17q14,05622,Belgium (Fr.): No DVD
+s17q14,20301,Czech Republic: Own mobile phone
+s17q14,20302,Czech Republic: No own mobile phone
+s17q14,27601,Germany: Own garden
+s17q14,27602,Germany: No own garden
+s17q14,30001,Greece: Video camera
+s17q14,30002,Greece: No Video camera
+s17q14,34401,Hong Kong: Encyclopedia
+s17q14,34402,Hong Kong: No encyclopedia
+s17q14,34801,Hungary: Video casette recorder
+s17q14,34802,Hungary: No video casette recorder
+s17q14,37201,Ireland: Games console
+s17q14,37202,Ireland: No games console
+s17q14,38001,Italy: Ancient furniture
+s17q14,38002,Italy: No ancient furniture
+s17q14,41001,Korea: DVD
+s17q14,41002,Korea: No DVD
+s17q14,44201,Luxembourg: Satellite dish
+s17q14,44202,Luxembourg: No satellite dish
+s17q14,44601,Macao: Encyclopedia
+s17q14,44602,Macao: No encyclopedia
+s17q14,55401,New Zealand: Clothes dryer
+s17q14,55402,New Zealand: No clothes dryer
+s17q14,57801,Norway: Swimming pool
+s17q14,57802,Norway: No swimming pool
+s17q14,61601,Poland: Satellite or cable TV (> 29 channels)
+s17q14,61602,Poland: No satellite or cable TV (> 29 channels)
+s17q14,72401,Spain: Video
+s17q14,72402,Spain: No video
+s17q14,75601,Switzerland: Musical instrument
+s17q14,75602,Switzerland: No musical instrument
+s17q14,78801,Tunisia: Telephone
+s17q14,78802,Tunisia: No telephone
+s17q14,79201,Turkey: Central heating system
+s17q14,79202,Turkey: No central heating system
+s17q14,82621,Scotland: Musical instruments
+s17q14,82622,Scotland: No musical instruments
+s17q14,85801,Uruguay: Freezer
+s17q14,85802,Uruguay: No freezer
+s17q14,99997,N/A
+s17q14,99998,Invalid
+s17q14,99999,Missing
+s17q15,04001,Austria: MP3 player
+s17q15,04002,Austria: No MP3 player
+s17q15,05611,Belgium (Fl.): Swimming pool
+s17q15,05612,Belgium (Fl.): No swimming pool
+s17q15,20301,Czech Republic: Your own discman or mp3 player
+s17q15,20302,Czech Republic: No own discman or mp3 player
+s17q15,30001,Greece: HiFi equipment
+s17q15,30002,Greece: No HiFi equipment
+s17q15,34401,"Hong Kong: Musical instrument (e.g., piano, violin)"
+s17q15,34402,"Hong Kong: No musical instrument (e.g., piano, violin)"
+s17q15,34801,Hungary: CD player
+s17q15,34802,Hungary: No CD player
+s17q15,37201,Ireland: VCR or DVD
+s17q15,37202,Ireland: No VCR or DVD
+s17q15,38001,Italy: DVD player
+s17q15,38002,Italy: No DVD player
+s17q15,44201,Luxembourg: Own television set
+s17q15,44202,Luxembourg: No own television set
+s17q15,44601,"Macao: Musical instrument (e.g., piano, violin)"
+s17q15,44602,"Macao: No musical instrument (e.g., piano, violin)"
+s17q15,55401,New Zealand: DVD
+s17q15,55402,New Zealand: No DVD
+s17q15,57801,Norway: Housekeeper
+s17q15,57802,Norway: No housekeeper
+s17q15,61601,Poland: VCR or DVD
+s17q15,61602,Poland: No VCR or DVD
+s17q15,72401,Spain: DVD
+s17q15,72402,Spain: No DVD
+s17q15,78801,Tunisia: Electricity
+s17q15,78802,Tunisia: No electricity
+s17q15,79201,Turkey: Washing machine
+s17q15,79202,Turkey: No washing machine
+s17q15,82621,Scotland: Cable/satellite TV
+s17q15,82622,Scotland: No Cable/satellite TV
+s17q15,85801,Uruguay: DVD
+s17q15,85802,Uruguay: No DVD
+s17q15,99997,N/A
+s17q15,99998,Invalid
+s17q15,99999,Missing
+s17q16,04001,Austria: Digital camera
+s17q16,04002,Austria: No digital camera
+s17q16,05611,Belgium (Fl.): CDs with classical music
+s17q16,05612,Belgium (Fl.): No CDs with classical music
+s17q16,30001,Greece: Air conditioning
+s17q16,30002,Greece: No air conditioning
+s17q16,34801,Hungary: DVD
+s17q16,34802,Hungary: No DVD
+s17q16,38001,Italy: Musical instrument (except flute)
+s17q16,38002,Italy: No musical instrument (except flute)
+s17q16,44201,Luxembourg: Own mobile phone
+s17q16,44202,Luxembourg: No own mobile phone
+s17q16,72401,"Spain: Video console (Playstation, X-Box, Nintendo, etc.)"
+s17q16,72402,"Spain: No video console (Playstation, X-Box, Nintendo, etc.)"
+s17q16,78801,Tunisia: Running water
+s17q16,78802,Tunisia: No running water
+s17q16,79201,Turkey: Vacuum cleaner
+s17q16,79202,Turkey: No vacuum cleaner
+s17q16,82621,"Scotland: Kitchen range (eg AGA, Rayburn)"
+s17q16,82622,"Scotland: No kitchen range (eg AGA, Rayburn)"
+s17q16,85801,Uruguay: Water heater
+s17q16,85802,Uruguay: No water heater
+s17q16,99997,N/A
+s17q16,99998,Invalid
+s17q16,99999,Missing
+PROGN,036001,AUS: <Year 10 in a general academic program
+PROGN,036002,AUS: <Year 10 in a general program (vocational)
+PROGN,036003,AUS: Year 11 or 12 in a general academic program
+PROGN,036004,AUS: Year 11 or 12 in a VET (vocational) course
+PROGN,040002,AUT: Hauptschule (Lower Secondary school)
+PROGN,040003,AUT: Polytechnische Schule (Vocational)
+PROGN,040004,AUT: Sonderschule (Special school (lower sec.))
+PROGN,040005,AUT: Sonderschul-Oberstufe (Special school (upper sec.))
+PROGN,040006,AUT: AHS-Unterstufe (Gymnasium Lower Secondary )
+PROGN,040007,AUT: AHS-Oberstufe (Gymnasium Upper Secondary )
+PROGN,040010,AUT: Berufsschule  (Apprenticeship)
+PROGN,040011,AUT: BMS  (Medium vocational school )
+PROGN,040012,AUT: Haushaltungs- und Hauswirtschaftsschulen (Medium voc.)
+PROGN,040014,AUT: BHS  (Higher vocational school)
+PROGN,040015,AUT: Anst. Der Kindergarten-/Sozialpadagogik (Voc. college)
+PROGN,056111,BEL: 1st year A of 1st stage of General Education (Fl.)
+PROGN,056112,BEL: 1st year B of 1st stage of General Education (Fl.)
+PROGN,056113,"BEL: 2nd year of 1st stage, prep. voc. sec. education (Fl.)"
+PROGN,056114,"BEL: 2nd year of 1st stage, prep. reg. sec. education (Fl.)"
+PROGN,056115,BEL: 2nd & 3rd stage regular sec. education (Fl.)
+PROGN,056116,BEL: 2nd & 3rd stage technical sec. education (Fl.)
+PROGN,056117,BEL: 2nd & 3rd stage artistic sec. education (Fl.)
+PROGN,056118,BEL: 2nd & 3rd stage vocational sec. ed. (Fl.)
+PROGN,056119,BEL: Part-time vocational sec. ed. for labour market (Fl.)
+PROGN,056120,BEL: Special sec. education (Fl.)
+PROGN,056197,BEL: Missing (Fl.)
+PROGN,056231,BEL: (1st grade of )General Education (Fr.)
+PROGN,056232,BEL: Special needs (Fr.)
+PROGN,056233,BEL: Vocational Education (Fr.)
+PROGN,056234,BEL: Complementary year or programme for 1st degree  (Fr.)
+PROGN,056235,BEL: General Education (Fr.)
+PROGN,056236,BEL: Technical or Artistical Education (transition) (Fr.)
+PROGN,056237,BEL: Technical  or Artistical  Education (qualif.) (Fr.)
+PROGN,056238,BEL: Vocational Education (Fr.)
+PROGN,056239,BEL: Vocational training for labour market (Fr.)
+PROGN,056242,BEL: Special sec. education (form 3 or 4 - voc.) (Fr.)
+PROGN,056244,BEL: Special sec. education form 3 (Germ.)
+PROGN,056245,BEL: Part-time Vocational Education (Germ.)
+PROGN,056246,BEL: Vocational Education (Germ.)
+PROGN,056297,BEL: Missing (Fr.&Germ.)
+PROGN,076001,BRA: Lower sec. education
+PROGN,076002,BRA: Upper sec. education
+PROGN,076097,BRA: Missing
+PROGN,124102,CAN: Grades 7 - 9
+PROGN,124103,CAN: Grades 10  - 12
+PROGN,124197,CAN: Missing
+PROGN,756001,"CHE: sec. education, 1st stage"
+PROGN,756002,CHE: Preparatory course for vocational education
+PROGN,756003,CHE: School prep. for the university entrance certificate
+PROGN,756004,"CHE: Vocational baccalaureat, dual system 3-4 years"
+PROGN,756005,"CHE: Vocational education, dual system 3-4 years"
+PROGN,756006,CHE: Intermediate diploma school 3-4 years
+PROGN,756007,"CHE: Basic vocational education, dual system 1-2 years"
+PROGN,756008,CHE: Intermediate Diploma School
+PROGN,756099,CHE: Missing
+PROGN,203001,CZE: Basic school
+PROGN,203002,"CZE: 6, 8-year gymnasium & 8-year conservatory (lower sec.)"
+PROGN,203003,"CZE: 6, 8-year gymnasium (upper sec.)"
+PROGN,203004,CZE: 4- year gymnasium
+PROGN,203005,CZE: Voc/tech sec. school with maturate
+PROGN,203006,CZE: Conservatory (upper sec.)
+PROGN,203007,CZE: Voc/tech sec. school without maturate
+PROGN,203008,CZE: Special schools
+PROGN,203009,"CZE: Practical schools, vocational education predominantly"
+PROGN,276001,"DEU: Lower sec. access to upper sec. (compr., special educ.)"
+PROGN,276002,DEU: Lower sec. no access to upper sec. (Hauptschule)
+PROGN,276003,DEU: Lower sec. no access to upper sec. (Realschule)
+PROGN,276004,DEU: Lower sec. access to upper sec. (Gymnasium)
+PROGN,276005,DEU: Lower sec. access to upper sec. (comprehensive)
+PROGN,276006,DEU: Lower sec. no access to upper sec. (Koop. Gesamtschule)
+PROGN,276009,DEU: Lower sec. no access to upper sec.
+PROGN,276010,DEU: Lower sec. no access to upper sec.
+PROGN,276011,DEU: Lower sec. no access to upper sec.
+PROGN,276012,DEU: Lower sec. no access to upper sec.
+PROGN,276013,DEU: Lower sec. with access to upper sec. (comprehensive)
+PROGN,276014,DEU: pre-vocational training year
+PROGN,276015,DEU: Vocational school (Berufsschule)
+PROGN,276016,DEU: Vocational school (Berufsfachschule)
+PROGN,276017,DEU: Upper sec. (Gymnasium)
+PROGN,276018,DEU: Upper sec. (comprehensive)
+PROGN,276097,DEU: Missing
+PROGN,208001,DNK: Lower sec.
+PROGN,208002,DNK: Continuation school
+PROGN,208004,DNK: Upper sec.
+PROGN,208097,DNK: Missing
+PROGN,724101,ESP: Compulsory sec. Education
+PROGN,724102,ESP: Baccalaureat
+PROGN,724201,ESP: Compulsory sec. Education
+PROGN,724301,ESP: Compulsory sec. Education
+PROGN,724401,ESP: Compulsory sec. Education
+PROGN,246001,FIN: Comprehensive sec. school
+PROGN,250001,"FRA: 5ème, 4ème, 3ème (lower sec.)"
+PROGN,250002,"FRA: SEGPA, CPA (special education)"
+PROGN,250003,FRA: 2nde ou 1ère (générale ou techn.) (upper sec. general)
+PROGN,250004,FRA: Enseignement professionnel (upper sec. vocational)
+PROGN,250005,FRA: apprentissage (upper sec. vocational)
+PROGN,826101,GBR: Studies toward Entry Level Certificates
+PROGN,826102,"GBR: Studies toward  academic GCSEs eg history, Fr."
+PROGN,826103,GBR: Studies toward applied or vocational GCSEs
+PROGN,826104,GBR: Studies at GNVQ Foundation or Intermed. Level (6-unit)
+PROGN,826105,GBR: Studies toward NVQ Level 1 or 2
+PROGN,826106,GBR: Studies toward for AS or A Levels
+PROGN,826109,GBR: < Year 10 (England&Wales) or < Year 11 (North. Ireland)
+PROGN,300001,GRC: Gymnasio ( lower sec. education)
+PROGN,300002,GRC: Eniaio Lykeio (upper sec. education)
+PROGN,300003,GRC: Technical-vocational training inst.): 1st & 2nd cycle
+PROGN,344001,HKG: Lower sec. in G & I Sch.
+PROGN,344002,HKG: Upper sec. in G & I Sch.
+PROGN,344003,HKG: Lower sec. in P & T Sch.
+PROGN,344004,HKG: Upper sec. in P & T Sch.
+PROGN,348001,HUN: Primary school
+PROGN,348002,HUN: Grammar school
+PROGN,348003,HUN: Vocational sec. school
+PROGN,348004,HUN: Vocational school
+PROGN,360002,IDN: Junior sec. School
+PROGN,360003,IDN: Islamic Junior sec. School
+PROGN,360004,IDN: High School
+PROGN,360005,IDN: Islamic High School
+PROGN,360006,IDN: Vocational & Technical School
+PROGN,372001,IRL: Junior Cert
+PROGN,372002,IRL: Transition Year Programme
+PROGN,372003,IRL: Leaving Cert. Applied
+PROGN,372004,IRL: Leaving Cert. General
+PROGN,372005,IRL: Leaving Cert.  Vocational
+PROGN,352001,ISL: Lower sec. school
+PROGN,380001,ITA: Lower sec. education
+PROGN,380002,ITA: Technical Institute
+PROGN,380003,"ITA: Professional or Art Institute, Art High School"
+PROGN,380004,"ITA: Scientif., Classical or linguistic High School"
+PROGN,380005,ITA: Professional School (only in Bolzano)
+PROGN,392001,JPN: Upper sec. school (General)
+PROGN,392002,JPN: Technical college (1st 3 years)
+PROGN,392003,JPN: Upper sec. school (Vocational)
+PROGN,410001,KOR: Lower sec. Education (Jung-hakgyo)
+PROGN,410002,KOR: Upper sec. Education (Ilban Kodeung-hakgyo)
+PROGN,410003,KOR: Upper sec. Education (Silup Kodeung-hakgyo)
+PROGN,438001,"LIE: sec. education, 1st stage"
+PROGN,438002,LIE: Preparatory course for vocational education
+PROGN,438003,LIE: School prep. for the university entrance certificate
+PROGN,442001,LUX: Year 7 or 8 or 9
+PROGN,442002,LUX: Year 7 or 8 or 9
+PROGN,442003,"LUX: Year 10 or 11, with mostly VET (vocational) subjects"
+PROGN,442004,"LUX: Year 10-12, in a program leading to an apprenticeship"
+PROGN,442005,LUX: Year 10-12 in a program leading to higher education
+PROGN,442006,LUX: Year 10-12 in a program leading to university
+PROGN,428001,LVA: Basic education
+PROGN,428004,LVA: General sec. education
+PROGN,428097,LVA: Missing
+PROGN,446001,MAC: Lower sec. in G & I Sch.
+PROGN,446002,MAC: Upper sec. in G & I Sch.
+PROGN,446003,MAC: Lower sec. in P & T Sch.
+PROGN,446004,MAC: Upper sec. in P & T Sch.
+PROGN,484001,MEX: General Lower sec.
+PROGN,484002,MEX: Technical Lower sec.
+PROGN,484003,MEX: Lower sec. for workers
+PROGN,484004,MEX: General Lower sec. by Television
+PROGN,484005,MEX: Job Training
+PROGN,484006,MEX: General Baccalaureate or Upper sec.(Years prog.)
+PROGN,484007,MEX: General Baccalaureate or Upper sec.(semester prog.)
+PROGN,484008,MEX: General Baccalaureate or Upper sec.(two years prog.)
+PROGN,484009,MEX: Technical Baccalaureate or Upper sec. (semester prog.)
+PROGN,484010,MEX: Professional Technician (semester prog.)
+PROGN,528001,NLD: PRO
+PROGN,528002,NLD: VMBO
+PROGN,528003,NLD: VMBO BB
+PROGN,528004,NLD: VMBO KB
+PROGN,528005,NLD: VMBO GL
+PROGN,528006,NLD: VMBO TL
+PROGN,528007,NLD: HAVO 2/3
+PROGN,528008,NLD: HAVO 4/5
+PROGN,528009,NLD: VWO 2/3
+PROGN,528010,NLD: VWO 4/5
+PROGN,528097,NLD: Missing
+PROGN,578001,NOR: Lower sec.
+PROGN,578002,NOR: Upper sec.
+PROGN,554001,NZL: Years 7 to 10
+PROGN,554002,NZL: Years 11 to 13
+PROGN,554097,NZL: Missing
+PROGN,616001,POL: Gymnasium
+PROGN,616002,POL: Lyceum - General education
+PROGN,620001,PRT: Lower sec.
+PROGN,620003,PRT: Upper sec.
+PROGN,620004,PRT: Vocational sec. (technological)
+PROGN,620005,PRT: Vocational sec. (professional)
+PROGN,643001,RUS: Basic general education (Lower sec.)
+PROGN,643002,RUS: Sec. general education (Upper sec.)
+PROGN,643003,"RUS: Initial professional education (prof. schools, etc.)"
+PROGN,643004,"RUS: Sec. professional education (technikum, college, etc.)"
+PROGN,643099,RUS: Missing
+PROGN,826201,SCO: All students in S4
+PROGN,826202,"SCO: S5 and studies at Higher level, A-level, or equivalent"
+PROGN,826203,"SCO: S5 and studies at Intermed., Access level or equivalent"
+PROGN,703002,SVK: Basic school (lower sec.)
+PROGN,703004,SVK: Vocational Basic school (lower sec.)
+PROGN,703005,SVK: sec. school (lower sec.)
+PROGN,703006,SVK: sec. school (upper sec.)
+PROGN,703007,SVK: High School (Gymnasium)
+PROGN,703008,SVK: sec. College
+PROGN,703009,SVK: Technical College
+PROGN,703010,SVK: Vocational College
+PROGN,752001,SWE: Compulsory basic school
+PROGN,752002,"SWE: Upper sec. school, general orientation"
+PROGN,752003,"SWE: Upper sec. school, vocational orientation"
+PROGN,752004,"SWE: Upper sec. school, the individual programme"
+PROGN,752097,SWE: Missing
+PROGN,764001,THA: Lower sec. level
+PROGN,764002,THA: Upper sec. level
+PROGN,764003,THA: Vocational stream
+PROGN,788001,TUN: Enseignement de base (lower sec.)
+PROGN,788002,TUN: 2ndaire (upper sec.)
+PROGN,792001,TUR: Primary education (lower sec.)
+PROGN,792002,TUR: General high school (upper sec.)
+PROGN,792003,TUR: Anatolian high school (upper sec.)
+PROGN,792004,TUR: High school with foreign language (upper sec.)
+PROGN,792005,TUR: Science high schools (upper sec.)
+PROGN,792006,TUR: Vocational high schools
+PROGN,792007,TUR: Anatolian vocational high schools
+PROGN,792008,TUR: Technical high schools
+PROGN,792009,TUR: Anatolian technical high schools
+PROGN,858001,URY: Lower sec. (Plan 86)
+PROGN,858002,URY: Lower sec. (Plan 96)
+PROGN,858003,URY: Lower sec. (Plan 96 technological)
+PROGN,858004,URY: Vocational lower sec. (basic courses)
+PROGN,858005,URY: Vocational lower sec. (basic professional)
+PROGN,858006,URY: Rural lower sec.
+PROGN,858007,URY: General upper sec.
+PROGN,858008,URY: Technical upper sec.
+PROGN,858009,URY: Vocational upper sec.
+PROGN,858010,URY: Military School
+PROGN,840001,USA: Grades 7 - 9
+PROGN,840002,USA: Grades 10 - 12
+PROGN,840097,USA: Missing
+PROGN,891001,YUG: Gymnasium
+PROGN,891002,YUG: Technical
+PROGN,891003,YUG: Technical Vocational
+PROGN,891004,YUG: Medical
+PROGN,891005,YUG: Medical Vocational
+PROGN,891006,YUG: Economic
+PROGN,891007,YUG: Economic Vocational
+PROGN,891008,YUG: Agricultural
+PROGN,891009,YUG: Agricultaral Vocational
+PROGN,891010,YUG: Artistic
+PROGN,891097,YUG: Missing
+STR,03601,Australia: ACT
+STR,03602,Australia: NSW
+STR,03603,Australia: VIC
+STR,03604,Australia: QLD
+STR,03605,Australia: SA
+STR,03606,Australia: WA
+STR,03607,Australia: TAS
+STR,03608,Australia: NT
+STR,04002,Austria: Hauptschule
+STR,04003,Austria: Polytechn. Schule
+STR,04005,Austria: Gymnasium
+STR,04006,Austria: Realgymnasium
+STR,04007,Austria: Oberstufenrealgymnasium
+STR,04009,Austria: Berufsschule (techn.-gewerbl.)
+STR,04010,Austria: Berufsschule (kaufmänn./Handel/Verkehr)
+STR,04012,Austria: BMS (gewerblich-technisch-kunstgewerbl.)
+STR,04013,Austria: BMS (kaufmännisch/Handelschulen)
+STR,04014,Austria: BMS (wirtschafts-/sozialberufl.)
+STR,04015,Austria: BMS (land-/forstwirtschaftl.)
+STR,04016,Austria: BHS (techn.-gewerblich)
+STR,04017,Austria: BHS (kaufmännisch)
+STR,04018,Austria: BHS (wirtschafts-/sozialberufl)
+STR,04019,Austria: BHS (land-/forstwirtschaftl.)
+STR,04020,Austria: Anstalt der Kindergarten-/Sozialpädagogik
+STR,04021,Austria:Moderately small schools
+STR,04022,Austria:Very small schools
+STR,05601,"Belgium (Flemish): Only general education, private"
+STR,05602,"Belgium (Flemish): Only general education, public"
+STR,05603,"Belgium (Flemish): Gen.-techn.-vocat.-arts, private"
+STR,05604,"Belgium (Flemish): Gen.-techn.-vocat.-arts, public"
+STR,05605,"Belgium (Flemish): Techn.,arts, not general, private"
+STR,05606,"Belgium (Flemish): Techn.-vocat.-arts, not gen., public"
+STR,05607,Belgium (Flemish): Special education - private
+STR,05608,Belgium (Flemish): Special education - public
+STR,05609,Belgium (Flemish): Part time vocational
+STR,05610,Belgium (Flemish): Moderately small schools
+STR,05611,Belgium (Flemish): Very small schools
+STR,05612,Belgium (French): Organised by community
+STR,05613,"Belgium (French): Organised by community, spec. ed."
+STR,05614,Belgium (French): Official schools subsidised by comm.
+STR,05615,Belgium (French): Subsidised special education
+STR,05616,Belgium (French): Subsidised confessional
+STR,05617,Belgium (French): Subsidised confessional - spec. ed.
+STR,05618,Belgium (French): Subsidised non-confessional
+STR,05619,Belgium (French): Subsidised non-confessional - spec. ed.
+STR,05620,Belgium (German)
+STR,07601,Brazil: Central (private)
+STR,07602,Brazil: Central (public)
+STR,07603,Brazil: North (private)
+STR,07604,Brazil: North (public)
+STR,07605,Brazil: Northeast (private)
+STR,07606,Brazil: Northeast (public)
+STR,07607,Brazil: South (private)
+STR,07608,Brazil: South (public)
+STR,07609,Brazil: Southeast (private)
+STR,07610,Brazil: Southeast (public)
+STR,07611,Brazil: Small schools
+STR,07612,Brazil: Very small schools
+STR,12400,Canada
+STR,20301,Czech Republic: Stratum 1
+STR,20302,Czech Republic: Stratum 2
+STR,20303,Czech Republic: Stratum 3
+STR,20304,Czech Republic: Stratum 4
+STR,20305,Czech Republic: Stratum 5
+STR,20306,Czech Republic: Stratum 6
+STR,20307,Czech Republic: Stratum 7
+STR,20308,Czech Republic: Stratum 8
+STR,20309,Czech Republic: Stratum 9
+STR,20310,Czech Republic: Stratum 10
+STR,20311,Czech Republic: Stratum 11
+STR,20312,Czech Republic: Stratum 12
+STR,20313,Czech Republic: Stratum 13
+STR,20314,Czech Republic: Stratum 14
+STR,20315,Czech Republic: Stratum 15
+STR,20316,Czech Republic: Stratum 16
+STR,20317,Czech Republic: Stratum 17
+STR,20318,Czech Republic: Stratum 18
+STR,20319,Czech Republic: Stratum 19
+STR,20320,Czech Republic: Stratum 20
+STR,20321,Czech Republic: Stratum 21
+STR,20322,Czech Republic: Stratum 22
+STR,20323,Czech Republic: Stratum 23
+STR,20324,Czech Republic: Stratum 24
+STR,20325,Czech Republic: Stratum 25
+STR,20326,Czech Republic: Stratum 26
+STR,20327,Czech Republic: Stratum 27
+STR,20328,Czech Republic: Stratum 28
+STR,20329,Czech Republic: Stratum 29
+STR,20330,Czech Republic: Stratum 30
+STR,20331,Czech Republic: Stratum 31
+STR,20332,Czech Republic: Stratum 32
+STR,20333,Czech Republic: Stratum 33
+STR,20334,Czech Republic: Stratum 34
+STR,20801,Denmark: Large schools
+STR,20802,Denmark: Moderately small schools
+STR,20803,Denmark: Very Small schools
+STR,24601,Finland: Stratum 1
+STR,24602,Finland: Stratum 2
+STR,24603,Finland: Stratum 3
+STR,24604,Finland: Stratum 4
+STR,24605,Finland: Stratum 5
+STR,24606,Finland: Stratum 6
+STR,24607,Finland: Stratum 7
+STR,24608,Finland: Stratum 8
+STR,24609,Finland: Stratum 9
+STR,24610,Finland: Stratum 10
+STR,24611,Finland: Stratum 11
+STR,24612,Finland: Stratum 12
+STR,25001,France: Lycées généraux et technologiques
+STR,25002,France: Collèges
+STR,25003,France: Lycées professionnels
+STR,25004,France: Lycées agricoles
+STR,25005,France: Moderately small  schools
+STR,25006,France: Very small schools
+STR,27601,Germany: Stratum 1
+STR,27602,Germany: Stratum 2
+STR,27603,Germany: Stratum 3
+STR,27604,Germany: Stratum 4
+STR,27605,Germany: Stratum 5
+STR,27606,Germany: Stratum 6
+STR,27607,Germany: Stratum 7
+STR,27608,Germany: Stratum 8
+STR,27609,Germany: Stratum 9
+STR,27610,Germany: Stratum 10
+STR,27611,Germany: Stratum 11
+STR,27612,Germany: Stratum 12
+STR,27613,Germany: Stratum 13
+STR,27614,Germany: Stratum 14
+STR,27615,Germany: Stratum 15
+STR,27616,Germany: Stratum 16
+STR,27617,Germany: Stratum 17
+STR,27618,Germany: Stratum 18
+STR,30001,Greece: Stratum 1
+STR,30002,Greece: Stratum 2
+STR,30003,Greece: Stratum 3
+STR,30004,Greece: Stratum 4
+STR,30005,Greece: Stratum 5
+STR,30006,Greece: Stratum 6
+STR,30007,Greece: Stratum 7
+STR,30008,Greece: Stratum 8
+STR,30009,Greece: Stratum 9
+STR,30010,Greece: Stratum 10
+STR,30011,Greece: Stratum 11
+STR,30012,Greece: Stratum 12
+STR,34401,Hong Kong SAR: Stratum 1
+STR,34402,Hong Kong SAR: Stratum 2
+STR,34403,Hong Kong SAR: Stratum 3
+STR,34801,Hungary: Stratum 1
+STR,34802,Hungary: Stratum 2
+STR,34803,Hungary: Stratum 3
+STR,34804,Hungary: Stratum 4
+STR,34805,Hungary: Stratum 5
+STR,35201,Iceland: Stratum 1
+STR,35202,Iceland: Stratum 2
+STR,35203,Iceland: Stratum 3
+STR,35204,Iceland: Stratum 4
+STR,35205,Iceland: Stratum 5
+STR,35206,Iceland: Stratum 6
+STR,35207,Iceland: Stratum 7
+STR,35208,Iceland: Stratum 8
+STR,35209,Iceland: Stratum 9
+STR,36001,Indonesia: Stratum 1
+STR,36002,Indonesia: Stratum 2
+STR,36003,Indonesia: Stratum 3
+STR,36004,Indonesia: Stratum 4
+STR,36005,Indonesia: Stratum 5
+STR,36006,Indonesia: Stratum 6
+STR,36007,Indonesia: Stratum 7
+STR,36008,Indonesia: Stratum 8
+STR,36009,Indonesia: Stratum 9
+STR,36010,Indonesia: Stratum 10
+STR,36011,Indonesia: Stratum 11
+STR,36012,Indonesia: Stratum 12
+STR,36013,Indonesia: Stratum 13
+STR,36014,Indonesia: Stratum 14
+STR,36015,Indonesia: Stratum 15
+STR,36016,Indonesia: Stratum 16
+STR,36017,Indonesia: Stratum 17
+STR,36018,Indonesia: Stratum 18
+STR,36019,Indonesia: Stratum 19
+STR,36020,Indonesia: Stratum 20
+STR,36021,Indonesia: Stratum 21
+STR,36022,Indonesia: Stratum 22
+STR,36023,Indonesia: Stratum 23
+STR,36024,Indonesia: Stratum 24
+STR,36025,Indonesia: Stratum 25
+STR,36026,Indonesia: Stratum 26
+STR,36027,Indonesia: Stratum 27
+STR,36028,Indonesia: Stratum 28
+STR,37201,Ireland: Stratum 1
+STR,37202,Ireland: Stratum 2
+STR,37203,Ireland: Stratum 3
+STR,38014,"Italy, Veneto-Nord Est: Stratum 14"
+STR,38015,"Italy, Veneto-Nord Est: Stratum 15"
+STR,38016,"Italy, Veneto-Nord Est: Stratum 16"
+STR,38017,"Italy, Veneto-Nord Est: Stratum 17"
+STR,38018,"Italy, Veneto-Nord Est: Stratum 18"
+STR,38019,"Italy, Trento-Nord-Est: Stratum 19"
+STR,38020,"Italy, Trento-Nord-Est: Stratum 20"
+STR,38028,"Italy, Toscana-Centro: Stratum 28"
+STR,38029,"Italy, Toscana-Centro: Stratum 29"
+STR,38030,"Italy, Toscana-Centro: Stratum 30"
+STR,38031,"Italy, Toscana-Centro: Stratum 31"
+STR,38001,"Italy, Piemonte-Nord-Ovest: Stratum 1"
+STR,38002,"Italy, Piemonte-Nord-Ovest: Stratum 2"
+STR,38003,"Italy, Piemonte-Nord-Ovest: Stratum 3"
+STR,38004,"Italy, Piemonte-Nord-Ovest: Stratum 4"
+STR,38005,"Italy, Lombardia-Nord Ovest: Stratum 5"
+STR,38006,"Italy, Lombardia-Nord Ovest: Stratum 6"
+STR,38007,"Italy, Lombardia-Nord Ovest: Stratum 7"
+STR,38008,"Italy, Lombardia-Nord Ovest: Stratum 8"
+STR,38021,"Italy, Bolzano: Stratum 21"
+STR,38022,"Italy, Bolzano: Stratum 22"
+STR,38009,"Italy, Other regions: Stratum 9"
+STR,38010,"Italy, Other regions: Stratum 10"
+STR,38011,"Italy, Other regions: Stratum 11"
+STR,38012,"Italy, Other regions: Stratum 12"
+STR,38013,"Italy, Other regions: Stratum 13"
+STR,38023,"Italy, Other regions: Stratum 23"
+STR,38024,"Italy, Other regions: Stratum 24"
+STR,38025,"Italy, Other regions: Stratum 25"
+STR,38026,"Italy, Other regions: Stratum 26"
+STR,38032,"Italy, Other regions: Stratum 32"
+STR,38033,"Italy, Other regions: Stratum 33"
+STR,38034,"Italy, Other regions: Stratum 34"
+STR,38035,"Italy, Other regions: Stratum 35"
+STR,38036,"Italy, Other regions: Stratum 36"
+STR,38037,"Italy, Other regions: Stratum 37"
+STR,38038,"Italy, Other regions: Stratum 38"
+STR,38039,"Italy, Other regions: Stratum 39"
+STR,38040,"Italy, Other regions: Stratum 40"
+STR,38041,"Italy, Other regions: Stratum 41"
+STR,38042,"Italy, Other regions: Stratum 42"
+STR,38043,"Italy, Other regions: Stratum 43"
+STR,38044,"Italy, Other regions: Stratum 44"
+STR,39201,Japan: Public & Academic Course
+STR,39202,Japan: Public & Practical Course
+STR,39203,Japan: Private & Academic Course
+STR,39204,Japan: Private & Practical Course
+STR,41001,Korea: Metropolitan General
+STR,41002,Korea: Metropolitan Vocational
+STR,41003,Korea: Urban General
+STR,41004,Korea: Urban Vocational
+STR,41005,Korea: Urban General & Vocational
+STR,41006,Korea: Rural General
+STR,41007,Korea: Rural Vocational
+STR,41008,Korea: Rural General & Vocational
+STR,41009,Korea: Moderately small schools
+STR,42801,Latvia: Large schools
+STR,42802,Latvia: Moderately small schools
+STR,42803,Latvia: Very small schools
+STR,43840,Liechtenstein
+STR,44201,Luxembourg: Stratum 1
+STR,44202,Luxembourg: Stratum 2
+STR,44203,Luxembourg: Stratum 3
+STR,44601,Macao SAR: Stratum 1
+STR,44602,Macao SAR: Stratum 2
+STR,44603,Macao SAR: Stratum 3
+STR,48401,Mexico: Aguascalientes
+STR,48402,Mexico: Baja California
+STR,48403,Mexico: Baja California Sur
+STR,48404,Mexico: Campeche Coahuila
+STR,48405,Mexico: Coahuila
+STR,48406,Mexico: Colima
+STR,48407,Mexico: Chiapas
+STR,48408,Mexico: Chihuahua
+STR,48409,Mexico: Distrito Federal
+STR,48410,Mexico: Durango
+STR,48411,Mexico: Guanajuato
+STR,48412,Mexico: Guerrero
+STR,48413,Mexico: Hidalgo
+STR,48414,Mexico: Jalisco
+STR,48415,Mexico: Mexico
+STR,48417,Mexico: Morelos
+STR,48418,Mexico: Nayarit
+STR,48419,Mexico: Nuevo Leon
+STR,48420,Mexico: Oaxaca
+STR,48421,Mexico: Puebla
+STR,48422,Mexico: Queretaro
+STR,48423,Mexico: Quintana Roo
+STR,48424,Mexico: San Luis Potosi
+STR,48425,Mexico: Sinaloa
+STR,48426,Mexico: Sonora
+STR,48427,Mexico: Tabasco
+STR,48428,Mexico: Tamaulipas
+STR,48429,Mexico: Tlaxcala
+STR,48430,Mexico: Veracruz
+STR,48431,Mexico: Yucatan
+STR,48432,Mexico: Zacatecas
+STR,48433,Mexico: Small schools
+STR,48434,Mexico: Very small schools
+STR,52801,Netherlands: Lower secondary schools
+STR,52802,Netherlands: Upper secondary schools
+STR,55401,New Zealand
+STR,57801,Norway: Stratum 1
+STR,57802,Norway: Stratum 2
+STR,57803,Norway: Stratum 3
+STR,57804,Norway: Stratum 4
+STR,61601,Poland: Gimnazja
+STR,61602,Poland: Licea (vss)
+STR,62001,Portugal: Açores
+STR,62002,Portugal: DREA
+STR,62003,Portugal: DREALG
+STR,62004,Portugal: DREC
+STR,62005,Portugal: DREL
+STR,62006,Portugal: DREN
+STR,62007,Portugal: Madeira
+STR,62008,Portugal: Small schools
+STR,62009,Portugal: Very small schools
+STR,64303,Russian Federation: Stratum 3
+STR,64304,Russian Federation: Stratum 4
+STR,64307,Russian Federation: Stratum 7
+STR,64308,Russian Federation: Stratum 8
+STR,64314,Russian Federation: Stratum 14
+STR,64316,Russian Federation: Stratum 16
+STR,64318,Russian Federation: Stratum 18
+STR,64321,Russian Federation: Stratum 21
+STR,64322,Russian Federation: Stratum 22
+STR,64323,Russian Federation: Stratum 23
+STR,64324,Russian Federation: Stratum 24
+STR,64325,Russian Federation: Stratum 25
+STR,64326,Russian Federation: Stratum 26
+STR,64327,Russian Federation: Stratum 27
+STR,64331,Russian Federation: Stratum 31
+STR,64332,Russian Federation: Stratum 32
+STR,64334,Russian Federation: Stratum 34
+STR,64335,Russian Federation: Stratum 35
+STR,64336,Russian Federation: Stratum 36
+STR,64337,Russian Federation: Stratum 37
+STR,64338,Russian Federation: Stratum 38
+STR,64342,Russian Federation: Stratum 42
+STR,64343,Russian Federation: Stratum 43
+STR,64347,Russian Federation: Stratum 47
+STR,64348,Russian Federation: Stratum 48
+STR,64350,Russian Federation: Stratum 50
+STR,64351,Russian Federation: Stratum 51
+STR,64352,Russian Federation: Stratum 52
+STR,64353,Russian Federation: Stratum 53
+STR,64354,Russian Federation: Stratum 54
+STR,64355,Russian Federation: Stratum 55
+STR,64356,Russian Federation: Stratum 56
+STR,64358,Russian Federation: Stratum 58
+STR,64359,Russian Federation: Stratum 59
+STR,64361,Russian Federation: Stratum 61
+STR,64363,Russian Federation: Stratum 63
+STR,64364,Russian Federation: Stratum 64
+STR,64366,Russian Federation: Stratum 66
+STR,64370,Russian Federation: Stratum 70
+STR,64371,Russian Federation: Stratum 71
+STR,64374,Russian Federation: Stratum 74
+STR,64376,Russian Federation: Stratum 76
+STR,64377,Russian Federation: Stratum 77
+STR,64378,Russian Federation: Stratum 78
+STR,64386,Russian Federation: Stratum 86
+STR,70301,Slovak Republic: Stratum 1
+STR,70302,Slovak Republic: Stratum 2
+STR,70303,Slovak Republic: Stratum 3
+STR,70304,Slovak Republic: Stratum 4
+STR,70305,Slovak Republic: Stratum 5
+STR,70306,Slovak Republic: Stratum 6
+STR,70307,Slovak Republic: Stratum 7
+STR,70308,Slovak Republic: Stratum 8
+STR,70309,Slovak Republic: Stratum 9
+STR,70310,Slovak Republic: Stratum 10
+STR,70311,Slovak Republic: Stratum 11
+STR,70312,Slovak Republic: Stratum 12
+STR,70313,Slovak Republic: Stratum 13
+STR,70314,Slovak Republic: Stratum 14
+STR,70315,Slovak Republic: Stratum 15
+STR,70316,Slovak Republic: Stratum 16
+STR,70317,Slovak Republic: Stratum 17
+STR,70318,Slovak Republic: Stratum 18
+STR,70319,Slovak Republic: Stratum 19
+STR,70320,Slovak Republic: Stratum 20
+STR,72401,Spain: Stratum 1
+STR,72402,Spain: Stratum 2
+STR,72403,Spain: Stratum 3
+STR,72419,Spain: Stratum 19
+STR,72420,Spain: Stratum 20
+STR,72421,Spain: Stratum 21
+STR,72422,Spain: Stratum 22
+STR,72423,Spain: Stratum 23
+STR,72424,Spain: Stratum 24
+STR,72425,Spain: Stratum 25
+STR,72426,Spain: Stratum 26
+STR,72427,Spain: Stratum 27
+STR,72428,Spain: Stratum 28
+STR,72429,Spain: Stratum 29
+STR,72430,Spain: Stratum 30
+STR,72431,Spain: Stratum 31
+STR,72432,Spain: Stratum 32
+STR,72433,Spain: Stratum 33
+STR,72434,Spain: Stratum 34
+STR,72435,Spain: Stratum 35
+STR,72436,Spain: Stratum 36
+STR,72437,Spain: Stratum 37
+STR,72438,Spain: Stratum 38
+STR,72439,Spain: Stratum 39
+STR,72440,Spain: Stratum 40
+STR,72441,Spain: Stratum 41
+STR,72442,Spain: Stratum 42
+STR,72443,Spain: Stratum 43
+STR,72444,Spain: Stratum 44
+STR,72445,Spain: Stratum 45
+STR,72404,"Spain, Castilia y Leon: Stratum 4"
+STR,72405,"Spain, Castilia y Leon: Stratum 5"
+STR,72406,"Spain, Castilia y Leon: Stratum 6"
+STR,72407,"Spain, Castilia y Leon: Stratum 7"
+STR,72408,"Spain, Catalonia: Stratum 8"
+STR,72409,"Spain, Catalonia: Stratum 9"
+STR,72410,"Spain, Catalonia: Stratum 10"
+STR,72411,"Spain, Basque Country: Stratum 11"
+STR,72412,"Spain, Basque Country: Stratum 12"
+STR,72413,"Spain, Basque Country: Stratum 13"
+STR,72414,"Spain, Basque Country: Stratum 14"
+STR,72415,"Spain, Basque Country: Stratum 15"
+STR,72416,"Spain, Basque Country: Stratum 16"
+STR,72417,"Spain, Basque Country: Stratum 17"
+STR,72418,"Spain, Basque Country: Stratum 18"
+STR,75201,Sweden: Stratum 1
+STR,75202,Sweden: Stratum 2
+STR,75203,Sweden: Stratum 3
+STR,75204,Sweden: Stratum 4
+STR,75205,Sweden: Stratum 5
+STR,75206,Sweden: Stratum 6
+STR,75207,Sweden: Stratum 7
+STR,75208,Sweden: Stratum 8
+STR,75209,Sweden: Stratum 9
+STR,75601,Switzerland (German): Stratum 1
+STR,75602,Switzerland (German): Stratum 2
+STR,75603,Switzerland (German): Stratum 3
+STR,75604,Switzerland (German): Stratum 4
+STR,75605,Switzerland (German): Stratum 5
+STR,75606,Switzerland (German): Stratum 6
+STR,75607,Switzerland (German): Stratum 7
+STR,75608,Switzerland (German): Stratum 8
+STR,75609,Switzerland (German): Stratum 9
+STR,75610,Switzerland (German): Stratum 10
+STR,75611,Switzerland (German): Stratum 11
+STR,75612,Switzerland (German): Stratum 12
+STR,75613,Switzerland (German): Stratum 13
+STR,75614,Switzerland (German): Stratum 14
+STR,75615,Switzerland (French): Stratum 15
+STR,75616,Switzerland (French): Stratum 16
+STR,75617,Switzerland (French): Stratum 17
+STR,75618,Switzerland (French): Stratum 18
+STR,75619,Switzerland (French): Stratum 19
+STR,75620,Switzerland (French): Stratum 20
+STR,75621,Switzerland (French): Stratum 21
+STR,75623,Switzerland (French): Stratum 23
+STR,75624,Switzerland (French): Stratum 24
+STR,75625,Switzerland (French): Stratum 25
+STR,75626,Switzerland (French): Stratum 26
+STR,75628,Switzerland (French): Stratum 28
+STR,75629,Switzerland (Italian): Stratum 29
+STR,75631,Switzerland (Italian): Stratum 31
+STR,75632,Switzerland (Italian): Stratum 32
+STR,75634,Switzerland (Italian): Stratum 34
+STR,76401,Thailand: Stratum 1
+STR,76402,Thailand: Stratum 2
+STR,76403,Thailand: Stratum 3
+STR,76404,Thailand: Stratum 4
+STR,76405,Thailand: Stratum 5
+STR,76406,Thailand: Stratum 6
+STR,76407,Thailand: Stratum 7
+STR,76408,Thailand: Stratum 8
+STR,76409,Thailand: Stratum 9
+STR,76410,Thailand: Stratum 10
+STR,76411,Thailand: Stratum 11
+STR,76412,Thailand: Stratum 12
+STR,76413,Thailand: Stratum 13
+STR,76414,Thailand: Stratum 14
+STR,76415,Thailand: Stratum 15
+STR,78801,Tunisia: East
+STR,78802,Tunisia: West
+STR,79201,Turkey: Stratum 1
+STR,79202,Turkey: Stratum 2
+STR,79203,Turkey: Stratum 3
+STR,79204,Turkey: Stratum 4
+STR,79205,Turkey: Stratum 5
+STR,79206,Turkey: Stratum 6
+STR,79207,Turkey: Stratum 7
+STR,79208,Turkey: Stratum 8
+STR,79209,Turkey: Stratum 9
+STR,79210,Turkey: Stratum 10
+STR,79211,Turkey: Stratum 11
+STR,79212,Turkey: Stratum 12
+STR,79213,Turkey: Stratum 13
+STR,79214,Turkey: Stratum 14
+STR,79215,Turkey: Stratum 15
+STR,79216,Turkey: Stratum 16
+STR,79217,Turkey: Stratum 17
+STR,79218,Turkey: Stratum 18
+STR,79219,Turkey: Stratum 19
+STR,79220,Turkey: Stratum 20
+STR,79221,Turkey: Stratum 21
+STR,79222,Turkey: Stratum 22
+STR,79223,Turkey: Stratum 23
+STR,79224,Turkey: Stratum 24
+STR,79225,Turkey: Stratum 25
+STR,79226,Turkey: Stratum 26
+STR,79227,Turkey: Stratum 27
+STR,79228,Turkey: Stratum 28
+STR,79229,Turkey: Stratum 29
+STR,79230,Turkey: Stratum 30
+STR,79231,Turkey: Stratum 31
+STR,79232,Turkey: Stratum 32
+STR,79233,Turkey: Stratum 33
+STR,79234,Turkey: Stratum 34
+STR,79235,Turkey: Stratum 35
+STR,79236,Turkey: Stratum 36
+STR,79237,Turkey: Stratum 37
+STR,79238,Turkey: Stratum 38
+STR,79239,Turkey: Stratum 39
+STR,79240,Turkey: Stratum 40
+STR,79241,Turkey: Stratum 41
+STR,79242,Turkey: Stratum 42
+STR,79243,Turkey: Stratum 43
+STR,82611,England
+STR,82613,N.Ireland
+STR,82614,N.Ireland: Very large schools
+STR,82615,Wales
+STR,82601,Scotland: Stratum 1
+STR,82602,Scotland: Stratum 2
+STR,82603,Scotland: Stratum 3
+STR,82604,Scotland: Stratum 4
+STR,82605,Scotland: Stratum 5
+STR,84000,United States
+STR,85801,Uruguay: Liceos Publicos (Mdeo/AM)
+STR,85802,Uruguay: Liceos Publicos (cap. dptos interior)
+STR,85803,Uruguay: Liceos Publicos (rural)
+STR,85804,Uruguay: Escuelas tecnicas (Mdeo/AM)
+STR,85805,Uruguay: Escuelas tecnicas (interior)
+STR,85806,Uruguay: Colegios privados
+STR,85808,Uruguay: Small schools
+STR,85809,Uruguay: Very small schools
+STR,89101,Yugoslavia: Stratum 1
+STR,89102,Yugoslavia: Stratum 2
+STR,89103,Yugoslavia: Stratum 3
+STR,89104,Yugoslavia: Stratum 4
+STR,89105,Yugoslavia: Stratum 5
+STR,89106,Yugoslavia: Stratum 6
+STR,89107,Yugoslavia: Stratum 7
+STR,89108,Yugoslavia: Stratum 8

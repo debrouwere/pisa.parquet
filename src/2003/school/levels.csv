@@ -1,0 +1,641 @@
+column,key,value
+SC0101F   ,1,Village (less 3 000)
+SC0101F   ,2,Small town (3 000 to 15 000)
+SC0101F   ,3,Town (15 000 to 100 000)
+SC0101F   ,4,City (100 000 to 1 000 000)
+SC0101F   ,5,Large city (more 1 000 000)
+SC0101F   ,8,Invalid
+SC0101F   ,9,Miss
+SC0101F   ,7,N/A
+SC0301F   ,1,Public
+SC0301F   ,2,Private
+SC0301F   ,8,Invalid
+SC0301F   ,9,Miss
+SC0301F   ,7,N/A
+yesnoF    ,1,Yes
+yesnoF    ,2,No
+yesnoF    ,8,Invalid
+yesnoF    ,9,Miss
+yesnoF    ,7,N/A
+agreeF   ,1,Not at all
+agreeF   ,2,Very little
+agreeF   ,3,To some extent
+agreeF   ,4,A lot
+agreeF   ,8,Invalid
+agreeF   ,9,Miss
+agreeF   ,7,N/A
+priorF    ,1,Prerequisite
+priorF    ,2,High priority
+priorF    ,3,Considered
+priorF    ,4,Not considered
+priorF    ,8,Invalid
+priorF    ,9,Miss
+priorF    ,7,N/A
+disagrF   ,1,Strongly Agree
+disagrF   ,2,Agree
+disagrF   ,3,Disagree
+disagrF   ,4,Strongly disagree
+disagrF   ,8,Invalid
+disagrF   ,9,Miss
+disagrF   ,7,N/A
+freqF     ,1,Never
+freqF     ,2,1 to 2 times a year
+freqF     ,3,3 to 5 times a year
+freqF     ,4,Monthly
+freqF     ,5,More once a month
+freqF     ,8,Invalid
+freqF     ,9,Miss
+freqF     ,7,N/A
+SC1401F   ,1,40% or more
+SC1401F   ,2,more 20%  less 40%
+SC1401F   ,3,more 10%  less 20%
+SC1401F   ,4,Less than 10%
+SC1401F   ,8,Invalid
+SC1401F   ,9,Miss
+SC1401F   ,7,N/A
+noyesF    ,1,No
+noyesF    ,2,Yes for one
+noyesF    ,3,Yes for 2 or more
+noyesF    ,4,Not Applicable
+noyesF    ,8,Invalid
+noyesF    ,9,Miss
+noyesF    ,7,N/A
+classF    ,1,For all classes
+classF    ,2,For some classes
+classF    ,3,Not for any classes
+classF    ,8,Invalid
+classF    ,9,Miss
+classF    ,7,N/A
+tickF     ,1,Tick
+tickF     ,2,No Tick
+tickF     ,8,Invalid
+tickF     ,9,Miss
+tickF     ,7,N/A
+SCHLTF    ,1,Private Independent
+SCHLTF    ,2,Private government-dependent
+SCHLTF    ,3,Public
+SCHLTF    ,8,Invalid
+SCHLTF    ,9,Miss
+SCHLTF    ,7,N/A
+ASSESSF   ,1,<20
+ASSESSF   ,2,20-39
+ASSESSF   ,3,>40
+ASSESSF   ,8,Invalid
+ASSESSF   ,9,Miss
+ASSESSF   ,7,N/A
+SELECTF    ,0,Not considered
+SELECTF    ,1,At least one considered
+SELECTF    ,2,At least one high priority
+SELECTF    ,3,At least one pre-requiste
+SELECTF    ,8,Invalid
+SELECTF    ,9,Miss
+SELECTF    ,7,N/A
+abF        ,1,Not for any classes
+abF        ,2,For some classes
+abF        ,3,For all classes
+abF        ,8,Invalid
+abF        ,9,Miss
+abF        ,7,N/A
+03601,03602,Australia: NSW
+03601,03603,Australia: VIC
+03601,03604,Australia: QLD
+03601,03605,Australia: SA
+03601,03606,Australia: WA
+03601,03607,Australia: TAS
+03601,03608,Australia: NT
+03601,04002,Austria: Hauptschule
+03601,04003,Austria: Polytechn. Schule
+03601,04005,Austria: Gymnasium
+03601,04006,Austria: Realgymnasium
+03601,04007,Austria: Oberstufenrealgymnasium
+03601,04009,Austria: Berufsschule (techn.-gewerbl.)
+03601,04010,Austria: Berufsschule (kaufmänn./Handel/Verkehr)
+03601,04012,Austria: BMS (gewerblich-technisch-kunstgewerbl.)
+03601,04013,Austria: BMS (kaufmännisch/Handelschulen)
+03601,04014,Austria: BMS (wirtschafts-/sozialberufl.)
+03601,04015,Austria: BMS (land-/forstwirtschaftl.)
+03601,04016,Austria: BHS (techn.-gewerblich)
+03601,04017,Austria: BHS (kaufmännisch)
+03601,04018,Austria: BHS (wirtschafts-/sozialberufl)
+03601,04019,Austria: BHS (land-/forstwirtschaftl.)
+03601,04020,Austria: Anstalt der Kindergarten-/Sozialpädagogik
+03601,04021,Austria:Moderately small schools
+03601,04022,Austria:Very small schools
+03601,05601,"Belgium (Flemish): Only general education, private"
+03601,05602,"Belgium (Flemish): Only general education, public"
+03601,05603,"Belgium (Flemish): Gen.-techn.-vocat.-arts, private"
+03601,05604,"Belgium (Flemish): Gen.-techn.-vocat.-arts, public"
+03601,05605,"Belgium (Flemish): Techn.,arts, not general, private"
+03601,05606,"Belgium (Flemish): Techn.-vocat.-arts, not gen., public"
+03601,05607,Belgium (Flemish): Special education - private
+03601,05608,Belgium (Flemish): Special education - public
+03601,05609,Belgium (Flemish): Part time vocational
+03601,05610,Belgium (Flemish): Moderately small schools
+03601,05611,Belgium (Flemish): Very small schools
+03601,05612,Belgium (French): Organised by community
+03601,05613,"Belgium (French): Organised by community, spec. ed."
+03601,05614,Belgium (French): Official schools subsidised by comm.
+03601,05615,Belgium (French): Subsidised special education
+03601,05616,Belgium (French): Subsidised confessional
+03601,05617,Belgium (French): Subsidised confessional - spec. ed.
+03601,05618,Belgium (French): Subsidised non-confessional
+03601,05619,Belgium (French): Subsidised non-confessional - spec. ed.
+03601,05620,Belgium (German)
+03601,07601,Brazil: Central (private)
+03601,07602,Brazil: Central (public)
+03601,07603,Brazil: North (private)
+03601,07604,Brazil: North (public)
+03601,07605,Brazil: Northeast (private)
+03601,07606,Brazil: Northeast (public)
+03601,07607,Brazil: South (private)
+03601,07608,Brazil: South (public)
+03601,07609,Brazil: Southeast (private)
+03601,07610,Brazil: Southeast (public)
+03601,07611,Brazil: Small schools
+03601,07612,Brazil: Very small schools
+03601,12400,Canada
+03601,20301,Czech Republic: Stratum 1
+03601,20302,Czech Republic: Stratum 2
+03601,20303,Czech Republic: Stratum 3
+03601,20304,Czech Republic: Stratum 4
+03601,20305,Czech Republic: Stratum 5
+03601,20306,Czech Republic: Stratum 6
+03601,20307,Czech Republic: Stratum 7
+03601,20308,Czech Republic: Stratum 8
+03601,20309,Czech Republic: Stratum 9
+03601,20310,Czech Republic: Stratum 10
+03601,20311,Czech Republic: Stratum 11
+03601,20312,Czech Republic: Stratum 12
+03601,20313,Czech Republic: Stratum 13
+03601,20314,Czech Republic: Stratum 14
+03601,20315,Czech Republic: Stratum 15
+03601,20316,Czech Republic: Stratum 16
+03601,20317,Czech Republic: Stratum 17
+03601,20318,Czech Republic: Stratum 18
+03601,20319,Czech Republic: Stratum 19
+03601,20320,Czech Republic: Stratum 20
+03601,20321,Czech Republic: Stratum 21
+03601,20322,Czech Republic: Stratum 22
+03601,20323,Czech Republic: Stratum 23
+03601,20324,Czech Republic: Stratum 24
+03601,20325,Czech Republic: Stratum 25
+03601,20326,Czech Republic: Stratum 26
+03601,20327,Czech Republic: Stratum 27
+03601,20328,Czech Republic: Stratum 28
+03601,20329,Czech Republic: Stratum 29
+03601,20330,Czech Republic: Stratum 30
+03601,20331,Czech Republic: Stratum 31
+03601,20332,Czech Republic: Stratum 32
+03601,20333,Czech Republic: Stratum 33
+03601,20334,Czech Republic: Stratum 34
+03601,20801,Denmark: Large schools
+03601,20802,Denmark: Moderately small schools
+03601,20803,Denmark: Very Small schools
+03601,24601,Finland: Stratum 1
+03601,24602,Finland: Stratum 2
+03601,24603,Finland: Stratum 3
+03601,24604,Finland: Stratum 4
+03601,24605,Finland: Stratum 5
+03601,24606,Finland: Stratum 6
+03601,24607,Finland: Stratum 7
+03601,24608,Finland: Stratum 8
+03601,24609,Finland: Stratum 9
+03601,24610,Finland: Stratum 10
+03601,24611,Finland: Stratum 11
+03601,24612,Finland: Stratum 12
+03601,25001,France: Lycées généraux et technologiques
+03601,25002,France: Collèges
+03601,25003,France: Lycées professionnels
+03601,25004,France: Lycées agricoles
+03601,25005,France: Moderately small  schools
+03601,25006,France: Very small schools
+03601,27601,Germany: Stratum 1
+03601,27602,Germany: Stratum 2
+03601,27603,Germany: Stratum 3
+03601,27604,Germany: Stratum 4
+03601,27605,Germany: Stratum 5
+03601,27606,Germany: Stratum 6
+03601,27607,Germany: Stratum 7
+03601,27608,Germany: Stratum 8
+03601,27609,Germany: Stratum 9
+03601,27610,Germany: Stratum 10
+03601,27611,Germany: Stratum 11
+03601,27612,Germany: Stratum 12
+03601,27613,Germany: Stratum 13
+03601,27614,Germany: Stratum 14
+03601,27615,Germany: Stratum 15
+03601,27616,Germany: Stratum 16
+03601,27617,Germany: Stratum 17
+03601,27618,Germany: Stratum 18
+03601,30001,Greece: Stratum 1
+03601,30002,Greece: Stratum 2
+03601,30003,Greece: Stratum 3
+03601,30004,Greece: Stratum 4
+03601,30005,Greece: Stratum 5
+03601,30006,Greece: Stratum 6
+03601,30007,Greece: Stratum 7
+03601,30008,Greece: Stratum 8
+03601,30009,Greece: Stratum 9
+03601,30010,Greece: Stratum 10
+03601,30011,Greece: Stratum 11
+03601,30012,Greece: Stratum 12
+03601,34401,Hong Kong SAR: Stratum 1
+03601,34402,Hong Kong SAR: Stratum 2
+03601,34403,Hong Kong SAR: Stratum 3
+03601,34801,Hungary: Stratum 1
+03601,34802,Hungary: Stratum 2
+03601,34803,Hungary: Stratum 3
+03601,34804,Hungary: Stratum 4
+03601,34805,Hungary: Stratum 5
+03601,35201,Iceland: Stratum 1
+03601,35202,Iceland: Stratum 2
+03601,35203,Iceland: Stratum 3
+03601,35204,Iceland: Stratum 4
+03601,35205,Iceland: Stratum 5
+03601,35206,Iceland: Stratum 6
+03601,35207,Iceland: Stratum 7
+03601,35208,Iceland: Stratum 8
+03601,35209,Iceland: Stratum 9
+03601,36001,Indonesia: Stratum 1
+03601,36002,Indonesia: Stratum 2
+03601,36003,Indonesia: Stratum 3
+03601,36004,Indonesia: Stratum 4
+03601,36005,Indonesia: Stratum 5
+03601,36006,Indonesia: Stratum 6
+03601,36007,Indonesia: Stratum 7
+03601,36008,Indonesia: Stratum 8
+03601,36009,Indonesia: Stratum 9
+03601,36010,Indonesia: Stratum 10
+03601,36011,Indonesia: Stratum 11
+03601,36012,Indonesia: Stratum 12
+03601,36013,Indonesia: Stratum 13
+03601,36014,Indonesia: Stratum 14
+03601,36015,Indonesia: Stratum 15
+03601,36016,Indonesia: Stratum 16
+03601,36017,Indonesia: Stratum 17
+03601,36018,Indonesia: Stratum 18
+03601,36019,Indonesia: Stratum 19
+03601,36020,Indonesia: Stratum 20
+03601,36021,Indonesia: Stratum 21
+03601,36022,Indonesia: Stratum 22
+03601,36023,Indonesia: Stratum 23
+03601,36024,Indonesia: Stratum 24
+03601,36025,Indonesia: Stratum 25
+03601,36026,Indonesia: Stratum 26
+03601,36027,Indonesia: Stratum 27
+03601,36028,Indonesia: Stratum 28
+03601,37201,Ireland: Stratum 1
+03601,37202,Ireland: Stratum 2
+03601,37203,Ireland: Stratum 3
+03601,38014,"Italy, Veneto-Nord Est: Stratum 14"
+03601,38015,"Italy, Veneto-Nord Est: Stratum 15"
+03601,38016,"Italy, Veneto-Nord Est: Stratum 16"
+03601,38017,"Italy, Veneto-Nord Est: Stratum 17"
+03601,38018,"Italy, Veneto-Nord Est: Stratum 18"
+03601,38019,"Italy, Trento-Nord-Est: Stratum 19"
+03601,38020,"Italy, Trento-Nord-Est: Stratum 20"
+03601,38028,"Italy, Toscana-Centro: Stratum 28"
+03601,38029,"Italy, Toscana-Centro: Stratum 29"
+03601,38030,"Italy, Toscana-Centro: Stratum 30"
+03601,38031,"Italy, Toscana-Centro: Stratum 31"
+03601,38001,"Italy, Piemonte-Nord-Ovest: Stratum 1"
+03601,38002,"Italy, Piemonte-Nord-Ovest: Stratum 2"
+03601,38003,"Italy, Piemonte-Nord-Ovest: Stratum 3"
+03601,38004,"Italy, Piemonte-Nord-Ovest: Stratum 4"
+03601,38005,"Italy, Lombardia-Nord Ovest: Stratum 5"
+03601,38006,"Italy, Lombardia-Nord Ovest: Stratum 6"
+03601,38007,"Italy, Lombardia-Nord Ovest: Stratum 7"
+03601,38008,"Italy, Lombardia-Nord Ovest: Stratum 8"
+03601,38021,"Italy, Bolzano: Stratum 21"
+03601,38022,"Italy, Bolzano: Stratum 22"
+03601,38009,"Italy, Other regions: Stratum 9"
+03601,38010,"Italy, Other regions: Stratum 10"
+03601,38011,"Italy, Other regions: Stratum 11"
+03601,38012,"Italy, Other regions: Stratum 12"
+03601,38013,"Italy, Other regions: Stratum 13"
+03601,38023,"Italy, Other regions: Stratum 23"
+03601,38024,"Italy, Other regions: Stratum 24"
+03601,38025,"Italy, Other regions: Stratum 25"
+03601,38026,"Italy, Other regions: Stratum 26"
+03601,38032,"Italy, Other regions: Stratum 32"
+03601,38033,"Italy, Other regions: Stratum 33"
+03601,38034,"Italy, Other regions: Stratum 34"
+03601,38035,"Italy, Other regions: Stratum 35"
+03601,38036,"Italy, Other regions: Stratum 36"
+03601,38037,"Italy, Other regions: Stratum 37"
+03601,38038,"Italy, Other regions: Stratum 38"
+03601,38039,"Italy, Other regions: Stratum 39"
+03601,38040,"Italy, Other regions: Stratum 40"
+03601,38041,"Italy, Other regions: Stratum 41"
+03601,38042,"Italy, Other regions: Stratum 42"
+03601,38043,"Italy, Other regions: Stratum 43"
+03601,38044,"Italy, Other regions: Stratum 44"
+03601,39201,Japan: Public & Academic Course
+03601,39202,Japan: Public & Practical Course
+03601,39203,Japan: Private & Academic Course
+03601,39204,Japan: Private & Practical Course
+03601,41001,Korea: Metropolitan General
+03601,41002,"Korea: Metropolitan Vocational,"
+03601,41003,Korea: Urban General
+03601,41004,Korea: Urban Vocational
+03601,41005,Korea: Urban General & Vocational
+03601,41006,Korea: Rural General
+03601,41007,Korea: Rural Vocational
+03601,41008,Korea: Rural General & Vocational
+03601,41009,Korea: Moderately small schools
+03601,42801,Latvia: Large schools
+03601,42802,Latvia: Moderately small schools
+03601,42803,Latvia: Very small schools
+03601,43840,Liechtenstein
+03601,44201,Luxembourg: Stratum 1
+03601,44202,Luxembourg: Stratum 2
+03601,44203,Luxembourg: Stratum 3
+03601,44601,Macao SAR: Stratum 1
+03601,44602,Macao SAR: Stratum 2
+03601,44603,Macao SAR: Stratum 3
+03601,48401,Mexico: Aguascalientes
+03601,48402,Mexico: Baja California
+03601,48403,Mexico: Baja California Sur
+03601,48404,Mexico: Campeche Coahuila
+03601,48405,Mexico: Coahuila
+03601,48406,Mexico: Colima
+03601,48407,Mexico: Chiapas
+03601,48408,Mexico: Chihuahua
+03601,48409,Mexico: Distrito Federal
+03601,48410,Mexico: Durango
+03601,48411,Mexico: Guanajuato
+03601,48412,Mexico: Guerrero
+03601,48413,Mexico: Hidalgo
+03601,48414,Mexico: Jalisco
+03601,48415,Mexico: Mexico
+03601,48417,Mexico: Morelos
+03601,48418,Mexico: Nayarit
+03601,48419,Mexico: Nuevo Leon
+03601,48420,Mexico: Oaxaca
+03601,48421,Mexico: Puebla
+03601,48422,Mexico: Queretaro
+03601,48423,Mexico: Quintana Roo
+03601,48424,Mexico: San Luis Potosi
+03601,48425,Mexico: Sinaloa
+03601,48426,Mexico: Sonora
+03601,48427,Mexico: Tabasco
+03601,48428,Mexico: Tamaulipas
+03601,48429,Mexico: Tlaxcala
+03601,48430,Mexico: Veracruz
+03601,48431,Mexico: Yucatan
+03601,48432,Mexico: Zacatecas
+03601,48433,Mexico: Small schools
+03601,48434,Mexico: Very small schools
+03601,52801,Netherlands: Lower secondary schools
+03601,52802,Netherlands: Upper secondary schools
+03601,55401,New Zealand
+03601,57801,Norway: Stratum 1
+03601,57802,Norway: Stratum 2
+03601,57803,Norway: Stratum 3
+03601,57804,Norway: Stratum 4
+03601,61601,Poland: Gimnazja
+03601,61602,Poland: Licea (vss)
+03601,62001,Portugal: Açores
+03601,62002,Portugal: DREA
+03601,62003,Portugal: DREALG
+03601,62004,Portugal: DREC
+03601,62005,Portugal: DREL
+03601,62006,Portugal: DREN
+03601,62007,Portugal: Madeira
+03601,62008,Portugal: Small schools
+03601,62009,Portugal: Very small schools
+03601,64303,Russian Federation: Stratum 3
+03601,64304,Russian Federation: Stratum 4
+03601,64307,Russian Federation: Stratum 7
+03601,64308,Russian Federation: Stratum 8
+03601,64314,Russian Federation: Stratum 14
+03601,64316,Russian Federation: Stratum 16
+03601,64318,Russian Federation: Stratum 18
+03601,64321,Russian Federation: Stratum 21
+03601,64322,Russian Federation: Stratum 22
+03601,64323,Russian Federation: Stratum 23
+03601,64324,Russian Federation: Stratum 24
+03601,64325,Russian Federation: Stratum 25
+03601,64326,Russian Federation: Stratum 26
+03601,64327,Russian Federation: Stratum 27
+03601,64331,Russian Federation: Stratum 31
+03601,64332,Russian Federation: Stratum 32
+03601,64334,Russian Federation: Stratum 34
+03601,64335,Russian Federation: Stratum 35
+03601,64336,Russian Federation: Stratum 36
+03601,64337,Russian Federation: Stratum 37
+03601,64338,Russian Federation: Stratum 38
+03601,64342,Russian Federation: Stratum 42
+03601,64343,Russian Federation: Stratum 43
+03601,64347,Russian Federation: Stratum 47
+03601,64348,Russian Federation: Stratum 48
+03601,64350,Russian Federation: Stratum 50
+03601,64351,Russian Federation: Stratum 51
+03601,64352,Russian Federation: Stratum 52
+03601,64353,Russian Federation: Stratum 53
+03601,64354,Russian Federation: Stratum 54
+03601,64355,Russian Federation: Stratum 55
+03601,64356,Russian Federation: Stratum 56
+03601,64358,Russian Federation: Stratum 58
+03601,64359,Russian Federation: Stratum 59
+03601,64361,Russian Federation: Stratum 61
+03601,64363,Russian Federation: Stratum 63
+03601,64364,Russian Federation: Stratum 64
+03601,64366,Russian Federation: Stratum 66
+03601,64370,Russian Federation: Stratum 70
+03601,64371,Russian Federation: Stratum 71
+03601,64374,Russian Federation: Stratum 74
+03601,64376,Russian Federation: Stratum 76
+03601,64377,Russian Federation: Stratum 77
+03601,64378,Russian Federation: Stratum 78
+03601,64386,Russian Federation: Stratum 86
+03601,70301,Slovak Republic: Stratum 1
+03601,70302,Slovak Republic: Stratum 2
+03601,70303,Slovak Republic: Stratum 3
+03601,70304,Slovak Republic: Stratum 4
+03601,70305,Slovak Republic: Stratum 5
+03601,70306,Slovak Republic: Stratum 6
+03601,70307,Slovak Republic: Stratum 7
+03601,70308,Slovak Republic: Stratum 8
+03601,70309,Slovak Republic: Stratum 9
+03601,70310,Slovak Republic: Stratum 10
+03601,70311,Slovak Republic: Stratum 11
+03601,70312,Slovak Republic: Stratum 12
+03601,70313,Slovak Republic: Stratum 13
+03601,70314,Slovak Republic: Stratum 14
+03601,70315,Slovak Republic: Stratum 15
+03601,70316,Slovak Republic: Stratum 16
+03601,70317,Slovak Republic: Stratum 17
+03601,70318,Slovak Republic: Stratum 18
+03601,70319,Slovak Republic: Stratum 19
+03601,70320,Slovak Republic: Stratum 20
+03601,72401,Spain: Stratum 1
+03601,72402,Spain: Stratum 2
+03601,72403,Spain: Stratum 3
+03601,72419,Spain: Stratum 19
+03601,72420,Spain: Stratum 20
+03601,72421,Spain: Stratum 21
+03601,72422,Spain: Stratum 22
+03601,72423,Spain: Stratum 23
+03601,72424,Spain: Stratum 24
+03601,72425,Spain: Stratum 25
+03601,72426,Spain: Stratum 26
+03601,72427,Spain: Stratum 27
+03601,72428,Spain: Stratum 28
+03601,72429,Spain: Stratum 29
+03601,72430,Spain: Stratum 30
+03601,72431,Spain: Stratum 31
+03601,72432,Spain: Stratum 32
+03601,72433,Spain: Stratum 33
+03601,72434,Spain: Stratum 34
+03601,72435,Spain: Stratum 35
+03601,72436,Spain: Stratum 36
+03601,72437,Spain: Stratum 37
+03601,72438,Spain: Stratum 38
+03601,72439,Spain: Stratum 39
+03601,72440,Spain: Stratum 40
+03601,72441,Spain: Stratum 41
+03601,72442,Spain: Stratum 42
+03601,72443,Spain: Stratum 43
+03601,72444,Spain: Stratum 44
+03601,72445,Spain: Stratum 45
+03601,72404,"Spain, Castilia y Leon: Stratum 4"
+03601,72405,"Spain, Castilia y Leon: Stratum 5"
+03601,72406,"Spain, Castilia y Leon: Stratum 6"
+03601,72407,"Spain, Castilia y Leon: Stratum 7"
+03601,72408,"Spain, Catalonia: Stratum 8"
+03601,72409,"Spain, Catalonia: Stratum 9"
+03601,72410,"Spain, Catalonia: Stratum 10"
+03601,72411,"Spain, Basque Country: Stratum 11"
+03601,72412,"Spain, Basque Country: Stratum 12"
+03601,72413,"Spain, Basque Country: Stratum 13"
+03601,72414,"Spain, Basque Country: Stratum 14"
+03601,72415,"Spain, Basque Country: Stratum 15"
+03601,72416,"Spain, Basque Country: Stratum 16"
+03601,72417,"Spain, Basque Country: Stratum 17"
+03601,72418,"Spain, Basque Country: Stratum 18"
+03601,75201,Sweden: Stratum 1
+03601,75202,Sweden: Stratum 2
+03601,75203,Sweden: Stratum 3
+03601,75204,Sweden: Stratum 4
+03601,75205,Sweden: Stratum 5
+03601,75206,Sweden: Stratum 6
+03601,75207,Sweden: Stratum 7
+03601,75208,Sweden: Stratum 8
+03601,75209,Sweden: Stratum 9
+03601,75601,Switzerland (German): Stratum 1
+03601,75602,Switzerland (German): Stratum 2
+03601,75603,Switzerland (German): Stratum 3
+03601,75604,Switzerland (German): Stratum 4
+03601,75605,Switzerland (German): Stratum 5
+03601,75606,Switzerland (German): Stratum 6
+03601,75607,Switzerland (German): Stratum 7
+03601,75608,Switzerland (German): Stratum 8
+03601,75609,Switzerland (German): Stratum 9
+03601,75610,Switzerland (German): Stratum 10
+03601,75611,Switzerland (German): Stratum 11
+03601,75612,Switzerland (German): Stratum 12
+03601,75613,Switzerland (German): Stratum 13
+03601,75614,Switzerland (German): Stratum 14
+03601,75615,Switzerland (French): Stratum 15
+03601,75616,Switzerland (French): Stratum 16
+03601,75617,Switzerland (French): Stratum 17
+03601,75618,Switzerland (French): Stratum 18
+03601,75619,Switzerland (French): Stratum 19
+03601,75620,Switzerland (French): Stratum 20
+03601,75621,Switzerland (French): Stratum 21
+03601,75623,Switzerland (French): Stratum 23
+03601,75624,Switzerland (French): Stratum 24
+03601,75625,Switzerland (French): Stratum 25
+03601,75626,Switzerland (French): Stratum 26
+03601,75628,Switzerland (French): Stratum 28
+03601,75629,Switzerland (Italian): Stratum 29
+03601,75631,Switzerland (Italian): Stratum 31
+03601,75632,Switzerland (Italian): Stratum 32
+03601,75634,Switzerland (Italian): Stratum 34
+03601,76401,Thailand: Stratum 1
+03601,76402,Thailand: Stratum 2
+03601,76403,Thailand: Stratum 3
+03601,76404,Thailand: Stratum 4
+03601,76405,Thailand: Stratum 5
+03601,76406,Thailand: Stratum 6
+03601,76407,Thailand: Stratum 7
+03601,76408,Thailand: Stratum 8
+03601,76409,Thailand: Stratum 9
+03601,76410,Thailand: Stratum 10
+03601,76411,Thailand: Stratum 11
+03601,76412,Thailand: Stratum 12
+03601,76413,Thailand: Stratum 13
+03601,76414,Thailand: Stratum 14
+03601,76415,Thailand: Stratum 15
+03601,78801,Tunisia: East
+03601,78802,Tunisia: West
+03601,79201,Turkey: Stratum 1
+03601,79202,Turkey: Stratum 2
+03601,79203,Turkey: Stratum 3
+03601,79204,Turkey: Stratum 4
+03601,79205,Turkey: Stratum 5
+03601,79206,Turkey: Stratum 6
+03601,79207,Turkey: Stratum 7
+03601,79208,Turkey: Stratum 8
+03601,79209,Turkey: Stratum 9
+03601,79210,Turkey: Stratum 10
+03601,79211,Turkey: Stratum 11
+03601,79212,Turkey: Stratum 12
+03601,79213,Turkey: Stratum 13
+03601,79214,Turkey: Stratum 14
+03601,79215,Turkey: Stratum 15
+03601,79216,Turkey: Stratum 16
+03601,79217,Turkey: Stratum 17
+03601,79218,Turkey: Stratum 18
+03601,79219,Turkey: Stratum 19
+03601,79220,Turkey: Stratum 20
+03601,79221,Turkey: Stratum 21
+03601,79222,Turkey: Stratum 22
+03601,79223,Turkey: Stratum 23
+03601,79224,Turkey: Stratum 24
+03601,79225,Turkey: Stratum 25
+03601,79226,Turkey: Stratum 26
+03601,79227,Turkey: Stratum 27
+03601,79228,Turkey: Stratum 28
+03601,79229,Turkey: Stratum 29
+03601,79230,Turkey: Stratum 30
+03601,79231,Turkey: Stratum 31
+03601,79232,Turkey: Stratum 32
+03601,79233,Turkey: Stratum 33
+03601,79234,Turkey: Stratum 34
+03601,79235,Turkey: Stratum 35
+03601,79236,Turkey: Stratum 36
+03601,79237,Turkey: Stratum 37
+03601,79238,Turkey: Stratum 38
+03601,79239,Turkey: Stratum 39
+03601,79240,Turkey: Stratum 40
+03601,79241,Turkey: Stratum 41
+03601,79242,Turkey: Stratum 42
+03601,79243,Turkey: Stratum 43
+03601,82611,England
+03601,82613,N.Ireland
+03601,82614,N.Ireland: Very large schools
+03601,82615,Wales
+03601,82601,Scotland: Stratum 1
+03601,82602,Scotland: Stratum 2
+03601,82603,Scotland: Stratum 3
+03601,82604,Scotland: Stratum 4
+03601,82605,Scotland: Stratum 5
+03601,84000,United States
+03601,85801,Uruguay: Liceos Publicos (Mdeo/AM)
+03601,85802,Uruguay: Liceos Publicos (cap. dptos interior)
+03601,85803,Uruguay: Liceos Publicos (rural)
+03601,85804,Uruguay: Escuelas tecnicas (Mdeo/AM)
+03601,85805,Uruguay: Escuelas tecnicas (interior)
+03601,85806,Uruguay: Colegios privados
+03601,85808,Uruguay: Small schools
+03601,85809,Uruguay: Very small schools
+03601,89101,Yugoslavia: Stratum 1
+03601,89102,Yugoslavia: Stratum 2
+03601,89103,Yugoslavia: Stratum 3
+03601,89104,Yugoslavia: Stratum 4
+03601,89105,Yugoslavia: Stratum 5
+03601,89106,Yugoslavia: Stratum 6
+03601,89107,Yugoslavia: Stratum 7
+03601,89108,Yugoslavia: Stratum 8
