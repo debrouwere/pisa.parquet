@@ -52,7 +52,7 @@ as_formatted_string <- function(x, frac_places) {
 # run early in the conversion, before any additional columns have been added;
 # perhaps we should iterate over the colspec instead to avoid this issue?
 extract_flags <- function(data, metadata, colspecs, suffixes = 5:9, exclude_cols_pattern = "^(w_|.+waf|country_.+)", discard_cols_pattern = "^pv") {
-  name <- ""
+  name <- "..."
   cli_progress_step("Extract flags: {name}")
 
   # excluded columns are not processed at all, whereas discarded columns are
@@ -122,7 +122,7 @@ extract_flags <- function(data, metadata, colspecs, suffixes = 5:9, exclude_cols
 # below that to represent the order-of-magnitude difference
 # between real values and missingness codes
 sniff_sentinels <- function(df, q1 = 0.25, q2 = 0.75, treshold = 10) {
-  name <- ""
+  name <- "..."
   progress <- cli_progress_step("Verify whether sentinels were successfully extracted: {name}")
 
   widths <- map(names(df), function(name) {
@@ -210,7 +210,7 @@ annotate_pseudofactors <- function(factors, levels) {
 
 
 chars_to_factors <- function(df, factors, levels) {
-  description <- ""
+  description <- "..."
   cli_progress_step("Converting{description} to factor")
 
   for (i in 1:nrow(factors)) {
@@ -243,7 +243,7 @@ chars_to_factors <- function(df, factors, levels) {
 # only levels are sentinels)
 
 labelled_to_factors <- function(spss_df) {
-  name <- ''
+  name <- "..."
   cli_progress_step("Converting to factor: {name}")
 
   for (name in colnames(spss_df)) {
@@ -272,7 +272,8 @@ labelled_to_factors <- function(spss_df) {
 # convert spss labeled columns into simple vectors
 # (for non-spss data types and for factors, this should be a noop)
 unlabel_numbers <- function(spss_df) {
-  name <- cli_progress_step("Removing labels from numeric column: {name}")
+  name <- "..."
+  cli_progress_step("Removing labels from numeric column: {name}")
   for (name in colnames(spss_df)) {
     if (is.labelled(spss_df[[name]]) & (length(levels(spss_df[[name]])) == 0)) {
       cli_progress_update()
