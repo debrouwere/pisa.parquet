@@ -1,36 +1,41 @@
 include .Renviron
 
-.PHONY: upload download snapshot update data
+.PHONY: upload download snapshot update build
 
-# no sense in uploading the data, when we actually want to data remotely and then download
+# no sense in uploading the build or the data, when we actually want to build remotely and then download
 upload:
-	rsync --recursive --verbose --partial --progress --exclude '.*' --exclude 'data/*' --exclude 'renv/*' . ${PISA_BUILD_SERVER}:${PISA_REMOTE_PATH}
+	rsync --recursive --verbose --partial --progress --exclude '.*' --exclude 'data/*' --exclude 'docs/*' --exclude 'build/*' --exclude 'renv/*' . ${PISA_BUILD_SERVER}:${PISA_REMOTE_PATH}
 
 # when on wifi, consider that sneakernet is considerably faster
 download:
-	rsync --recursive --verbose --partial --progress ${PISA_BUILD_SERVER}:${PISA_REMOTE_PATH}/data .
+	rsync --recursive --verbose --partial --progress ${PISA_BUILD_SERVER}:${PISA_REMOTE_PATH}/build .
 
 snapshot:
 	Rscript -e 'renv::snapshot()'
 
 update: snapshot upload
-	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript -e 'renv::restore()'"
+	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript4.4 -e 'renv::restore()'"
 
 build:
-	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript src/2000/convert.R; Rscript src/2003/convert.R; Rscript src/2006/convert.R; Rscript src/2009/convert.R; Rscript src/2012/convert.R; Rscript src/2015/convert.R; Rscript src/2018/convert.R; Rscript src/2022/convert.R"
+	# mkdir build/{2000,2003,2006,2009,2012,2015,2018,2022}/flags
+	# mkdir build/{2000,2003,2006,2009,2012,2015,2018,2022}/problems/flags
+	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript4.4 src/2000/convert.R; Rscript4.4 src/2003/convert.R; Rscript4.4 src/2006/convert.R; Rscript4.4 src/2009/convert.R; Rscript4.4 src/2012/convert.R; Rscript4.4 src/2015/convert.R; Rscript4.4 src/2018/convert.R; Rscript4.4 src/2022/convert.R"
+
+timing:
+	ssh ${PISA_BUILD_SERVER} "cd ${PISA_REMOTE_PATH}; Rscript4.4 sandbox/timing.R"
 
 data:
-  # 2000
-  wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intcogn_v4.zip
-  wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intscho.zip
-  wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intstud_math.zip
-  wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intstud_read.zip
-  wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intstud_scie.zip
+	# 2000
+	wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intcogn_v4.zip
+	wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intscho.zip
+	wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intstud_math.zip
+	wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intstud_read.zip
+	wget -P data/2000 https://www.oecd.org/pisa/pisaproducts/intstud_scie.zip
 
-  # 2003
-  wget -P data/2003 https://www.oecd.org/pisa/pisaproducts/INT_cogn_2003.zip
-  wget -P data/2003 https://www.oecd.org/pisa/pisaproducts/INT_stui_2003_v2.zip
-  wget -P data/2003 https://www.oecd.org/pisa/pisaproducts/INT_schi_2003.zip
+	# 2003
+	wget -P data/2003 https://www.oecd.org/pisa/pisaproducts/INT_cogn_2003.zip
+	wget -P data/2003 https://www.oecd.org/pisa/pisaproducts/INT_stui_2003_v2.zip
+	wget -P data/2003 https://www.oecd.org/pisa/pisaproducts/INT_schi_2003.zip
 
 	# 2006
 	wget -P data/2006 https://www.oecd.org/pisa/pisaproducts/INT_Stu06_Dec07.zip
@@ -46,14 +51,14 @@ data:
 	wget -P data/2009 https://www.oecd.org/pisa/pisaproducts/INT_COG09_TD_DEC11.zip
 	wget -P data/2009 https://www.oecd.org/pisa/pisaproducts/INT_COG09_S_DEC11.zip
 
-  # 2012
-  wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_STU12_DEC03.zip
-  wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_SCQ12_DEC03.zip
-  wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_PAQ12_DEC03.zip
-  wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_COG12_DEC03.zip
-  wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_COG12_S_DEC03.zip
+	# 2012
+	wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_STU12_DEC03.zip
+	wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_SCQ12_DEC03.zip
+	wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_PAQ12_DEC03.zip
+	wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_COG12_DEC03.zip
+	wget -P data/2012 https://www.oecd.org/pisa/pisaproducts/INT_COG12_S_DEC03.zip
 
-  # 2015
+	# 2015
 	wget -P data/2015 https://webfs.oecd.org/pisa/PUF_SPSS_COMBINED_CMB_STU_QQQ.zip
 	wget -P data/2015 https://webfs.oecd.org/pisa/PUF_SPSS_COMBINED_CMB_SCH_QQQ.zip
 	wget -P data/2015 https://webfs.oecd.org/pisa/PUF_SPSS_COMBINED_CMB_TCH_QQQ.zip
@@ -85,4 +90,4 @@ data:
 	# ESCS
 	wget -P data/escs_trend https://webfs.oecd.org/pisa/trend_escs_SAS.zip
 	wget -P data/escs_trend https://webfs.oecd.org/pisa/trend_escs_SPSS.zip
-  wget -P data/escs_trend https://webfs.oecd.org/pisa2022/escs_trend.zip
+	wget -P data/escs_trend https://webfs.oecd.org/pisa2022/escs_trend.zip
